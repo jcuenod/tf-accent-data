@@ -3,7 +3,7 @@ from tf.fabric import Fabric
 from datetime import datetime
 import unicodedata
 
-TF = Fabric(locations='/home/jcuenod/Programming/text-fabric-data', modules='hebrew/etcbc4c')
+TF = Fabric(locations='../../text-fabric-data', modules='hebrew/etcbc4c')
 api = TF.load('g_word_utf8 trailer_utf8')
 api.makeAvailableIn(globals())
 
