@@ -1,116 +1,46 @@
 import re
 from tf.fabric import Fabric
 from datetime import datetime
+import unicodedata
 
 TF = Fabric(locations='/home/jcuenod/Programming/text-fabric-data', modules='hebrew/etcbc4c')
-api = TF.load('g_word_utf8')
+api = TF.load('g_word_utf8 trailer_utf8')
 api.makeAvailableIn(globals())
 
-accent_dictionary = {
-	"Etnahta": '\u0591',
-	"Segol": '\u0592',
-	"Shalshelet": '\u0593',
-	"Zaqef Qatan": '\u0594',
-	"Zaqef Gadol": '\u0595',
-	"Tipeha": '\u0596',
-	"Revia": '\u0597',
-	"Zarqa": '\u0598',
-	"Pashta": '\u0599',
-	"Yetiv": '\u059A',
-	"Tevir": '\u059B',
-	"Geresh": '\u059C',
-	"Geresh Muqdam": '\u059D',
-	"Gershayim": '\u059E',
-	"Qarney Para": '\u059F',
-	"Telisha Gedola": '\u05A0',
-	"Pazer": '\u05A1',
-	"Munah": '\u05A3',
-	"Mahapakh": '\u05A4',
-	"Merkha": '\u05A5',
-	"Merkha Kefula": '\u05A6',
-	"Darga": '\u05A7',
-	"Qadma": '\u05A8',
-	"Telisha Qetana": '\u05A9',
-	"Yerah Ben Yomo": '\u05AA',
-	"Ole": '\u05AB',
-	"Iluy": '\u05AC',
-	"Dehi": '\u05AD',
-	"Zinor": '\u05AE',
-	# "HEBREW ACCENT ETNAHTA": '\u0591',
-	# "HEBREW ACCENT SEGOL": '\u0592',
-	# "HEBREW ACCENT SHALSHELET": '\u0593',
-	# "HEBREW ACCENT ZAQEF QATAN": '\u0594',
-	# "HEBREW ACCENT ZAQEF GADOL": '\u0595',
-	# "HEBREW ACCENT TIPEHA": '\u0596',
-	# "HEBREW ACCENT REVIA": '\u0597',
-	# "HEBREW ACCENT ZARQA": '\u0598',
-	# "HEBREW ACCENT PASHTA": '\u0599',
-	# "HEBREW ACCENT YETIV": '\u059A',
-	# "HEBREW ACCENT TEVIR": '\u059B',
-	# "HEBREW ACCENT GERESH": '\u059C',
-	# "HEBREW ACCENT GERESH MUQDAM": '\u059D',
-	# "HEBREW ACCENT GERSHAYIM": '\u059E',
-	# "HEBREW ACCENT QARNEY PARA": '\u059F',
-	# "HEBREW ACCENT TELISHA GEDOLA": '\u05A0',
-	# "HEBREW ACCENT PAZER": '\u05A1',
-	# "HEBREW ACCENT MUNAH": '\u05A3',
-	# "HEBREW ACCENT MAHAPAKH": '\u05A4',
-	# "HEBREW ACCENT MERKHA": '\u05A5',
-	# "HEBREW ACCENT MERKHA KEFULA": '\u05A6',
-	# "HEBREW ACCENT DARGA": '\u05A7',
-	# "HEBREW ACCENT QADMA": '\u05A8',
-	# "HEBREW ACCENT TELISHA QETANA": '\u05A9',
-	# "HEBREW ACCENT YERAH BEN YOMO": '\u05AA',
-	# "HEBREW ACCENT OLE": '\u05AB',
-	# "HEBREW ACCENT ILUY": '\u05AC',
-	# "HEBREW ACCENT DEHI": '\u05AD',
-	# "HEBREW ACCENT ZINOR": '\u05AE',
+# 0591-05AE	= normal accents
+# 05C0		= paseq
+unicode_accent_range = '[\u0591-\u05AE\u05C0]'
 
-	# Some of these may actually still be useful:
-	# Maqaf, sof pasuq
-
-	# "HEBREW MARK MASORA CIRCLE": '\u05AF',
-	# "HEBREW POINT SHEVA": '\u05B0',
-	# "HEBREW POINT HATAF SEGOL": '\u05B1',
-	# "HEBREW POINT HATAF PATAH": '\u05B2',
-	# "HEBREW POINT HATAF QAMATS": '\u05B3',
-	# "HEBREW POINT HIRIQ": '\u05B4',
-	# "HEBREW POINT TSERE": '\u05B5',
-	# "HEBREW POINT SEGOL": '\u05B6',
-	# "HEBREW POINT PATAH": '\u05B7',
-	# "HEBREW POINT QAMATS": '\u05B8',
-	# "HEBREW POINT HOLAM": '\u05B9',
-	# "HEBREW POINT QUBUTS": '\u05BB',
-	# "HEBREW POINT DAGESH OR MAPIQ (or shuruq)": '\u05BC',
-	# "HEBREW POINT METEG": '\u05BD',
-	# "HEBREW PUNCTUATION MAQAF": '\u05BE',
-	# "HEBREW POINT RAFE": '\u05BF',
-	# "HEBREW PUNCTUATION PASEQ": '\u05C0',
-	# "HEBREW POINT SHIN DOT": '\u05C1',
-	# "HEBREW POINT SIN DOT": '\u05C2',
-	# "HEBREW PUNCTUATION SOF PASUQ": '\u05C3',
-	# "HEBREW MARK UPPER DOT": '\u05C4',
-	# "HEBREW PUNCTUATION GERESH": '\u05F3',
-	# "HEBREW PUNCTUATION GERSHAYIM": '\u05F4'
+composite_accents = {
+	"Shene Pashtim": ["Qadma", "Pashta"],
+	"Legarmeh": ['Mahapakh', 'Paseq']
 }
+composite_accent_values = list(composite_accents.values())
 
-def which_match(word):
-	ret = []
-	for k, v in accent_dictionary.items():
-		if re.search(v, word):
-			ret.append(k)
+def normalisedUnicodeNameFromCharacter(character):
+	return re.sub(r'HEBREW (ACCENT|PUNCTUATION) ', "", unicodedata.name(character)).title()
+
+composite_list = []
+def whichMatch(word):
+	accent_matches = re.findall(unicode_accent_range, word)
+	ret = list(map(lambda x: normalisedUnicodeNameFromCharacter(x), accent_matches))
+	if len(ret) > 1:
+		composite_list.append(ret)
+	if ret in composite_accent_values:
+		newret = list(composite_accents.keys())[composite_accent_values.index(ret)]
+		ret = [newret]
 	return ret
 
-print("Beginning nodes accent loop:")
+print("\nBeginning nodes accent loop:")
 counter = 0
 node_data = []
 for n in F.otype.s('word'):
-	word = F.g_word_utf8.v(n)
-	if re.search('[' + "".join(list(accent_dictionary.values())) + ']', word):
+	word = F.g_word_utf8.v(n) + F.trailer_utf8.v(n)
+	if re.search(unicode_accent_range, word):
 		node_data.append({
 			'node': n,
 			'word': word,
-			'accent': which_match(word),
+			'accent': whichMatch(word),
 			'ref': T.sectionFromNode(n)
 		})
 	else:
@@ -124,9 +54,11 @@ for n in F.otype.s('word'):
 	if counter % 50000 == 0:
 		print(" |", counter)
 print(" -", counter)
-print("Complete\n")
+print("Complete\n\n")
 
+print("List of composites found:\n--\n\t","\n\t".join(list(set(map(lambda x: ", ".join(x), composite_list)))))
 
+print("")
 tf_accent_filename = "accents.tf"
 tf_accent_fileheader = '''@node
 @valueType=str

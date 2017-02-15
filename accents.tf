@@ -1,7 +1,7 @@
 @node
 @valueType=str
 @writtenBy=James Cuénod & ETCBC4c
-@dateWritten=2017-02-15T02:23:21Z
+@dateWritten=2017-02-15T22:54:54Z
 
 
 Tipeha
@@ -18,7 +18,7 @@ Merkha
 
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -62,7 +62,7 @@ Merkha
 
 
 Qadma
-Mahapakh
+Legarmeh
 
 
 Pashta
@@ -107,7 +107,7 @@ Segol
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 Munah
@@ -151,7 +151,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -164,7 +164,7 @@ Etnahta
 
 
 Qadma
-Mahapakh
+Legarmeh
 
 
 Pashta
@@ -186,7 +186,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Yetiv
 Munah
@@ -213,7 +213,7 @@ Geresh
 Telisha Gedola
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -262,7 +262,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -395,7 +395,7 @@ Munah
 
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 Telisha Qetana
@@ -429,7 +429,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -538,7 +538,7 @@ Merkha
 
 
 Qadma
-Mahapakh
+Legarmeh
 
 
 Pashta
@@ -600,7 +600,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -638,7 +638,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -748,7 +748,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -984,7 +984,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -999,7 +999,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -1083,7 +1083,7 @@ Tipeha
 
 Telisha Qetana
 Qadma
-Darga
+Darga, Paseq
 Tevir
 
 
@@ -1102,7 +1102,7 @@ Tipeha
 
 Telisha Qetana
 Qadma
-Darga
+Darga, Paseq
 
 
 Tevir
@@ -1185,7 +1185,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -1301,11 +1301,11 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -1419,7 +1419,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -1430,7 +1430,7 @@ Tipeha
 
 Telisha Qetana
 Qadma
-Merkha
+Merkha, Paseq
 
 
 Zinor
@@ -1459,7 +1459,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Revia
 Pashta
 
@@ -1495,7 +1495,7 @@ Etnahta
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -1510,12 +1510,12 @@ Zinor
 Munah
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -1546,7 +1546,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
@@ -1591,7 +1591,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -1607,7 +1607,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -1659,7 +1659,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -1677,7 +1677,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -1698,7 +1698,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -1751,7 +1751,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -1783,8 +1783,8 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -1819,7 +1819,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -1923,7 +1923,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -1947,7 +1947,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -1984,7 +1984,7 @@ Etnahta
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -2035,7 +2035,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 
 Merkha
@@ -2062,7 +2062,7 @@ Tipeha
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -2540,7 +2540,7 @@ Etnahta
 Gershayim, Telisha Gedola
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -2711,7 +2711,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -2742,7 +2742,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -2891,7 +2891,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -2922,7 +2922,7 @@ Qadma
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -3065,7 +3065,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -3240,7 +3240,7 @@ Pashta
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -3346,7 +3346,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -3453,7 +3453,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -3503,8 +3503,8 @@ Geresh
 
 
 
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 
 Munah
 
@@ -3514,7 +3514,7 @@ Mahapakh
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -3569,7 +3569,7 @@ Etnahta
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -3824,7 +3824,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -3840,7 +3840,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -3929,7 +3929,7 @@ Tipeha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -3940,7 +3940,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -3954,7 +3954,7 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -4089,7 +4089,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -4255,7 +4255,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 
@@ -4304,7 +4304,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 
@@ -4318,7 +4318,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -4448,13 +4448,13 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 Tipeha
@@ -4462,7 +4462,7 @@ Munah
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -4542,7 +4542,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -4684,12 +4684,12 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -5022,7 +5022,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -5366,7 +5366,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -5375,7 +5375,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -5462,7 +5462,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -5513,7 +5513,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -5522,7 +5522,7 @@ Tipeha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -5585,7 +5585,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -5619,7 +5619,7 @@ Zaqef Qatan
 
 Zaqef Gadol
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -5659,7 +5659,7 @@ Zaqef Qatan
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -5684,7 +5684,7 @@ Etnahta
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -5704,7 +5704,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -5737,7 +5737,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -5804,7 +5804,7 @@ Tipeha
 
 
 Qadma
-Darga
+Darga, Paseq
 
 Tevir
 Merkha
@@ -5836,7 +5836,7 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -5900,7 +5900,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -6023,7 +6023,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -6057,7 +6057,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -6088,7 +6088,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -6130,7 +6130,7 @@ Munah
 Zaqef Qatan
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -6169,7 +6169,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -6224,7 +6224,7 @@ Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -6234,7 +6234,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -6242,11 +6242,11 @@ Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -6255,7 +6255,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -6293,7 +6293,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -6315,7 +6315,7 @@ Tipeha
 Munah
 Etnahta
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -6325,7 +6325,7 @@ Telisha Gedola
 
 Geresh
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 Munah
 Zaqef Qatan
 
@@ -6494,7 +6494,7 @@ Tipeha
 
 
 Qadma
-Darga
+Darga, Paseq
 Tevir
 Merkha
 
@@ -6559,7 +6559,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -6659,7 +6659,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -6672,7 +6672,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -6753,7 +6753,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -6761,7 +6761,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -6787,7 +6787,7 @@ Etnahta
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -6866,7 +6866,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -6888,11 +6888,11 @@ Revia
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -6946,7 +6946,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -6979,7 +6979,7 @@ Munah
 Etnahta
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -7108,7 +7108,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -7129,7 +7129,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -7289,7 +7289,7 @@ Munah
 
 Zaqef Qatan
 Merkha
-Etnahta, Tipeha
+Tipeha, Etnahta
 Merkha
 
 Tipeha
@@ -7447,7 +7447,7 @@ Telisha Gedola
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -7484,7 +7484,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -7520,7 +7520,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -7530,7 +7530,7 @@ Merkha
 
 Tipeha
 
-Darga
+Darga, Paseq
 Tevir
 Merkha
 Tipeha
@@ -7546,7 +7546,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Revia
 Mahapakh
 
@@ -7590,7 +7590,7 @@ Tevir
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -7664,7 +7664,7 @@ Merkha
 
 Zinor
 Segol
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -7744,7 +7744,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -7755,7 +7755,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 
@@ -7773,12 +7773,12 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -7887,7 +7887,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -7974,7 +7974,7 @@ Merkha
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -8065,15 +8065,15 @@ Merkha
 
 
 Qadma
-Darga
+Darga, Paseq
 
 Tevir
 Merkha
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
-Merkha
+Merkha, Paseq
 Tipeha
 Merkha
 
@@ -8089,7 +8089,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -8106,7 +8106,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Darga
 Tevir
 
@@ -8160,7 +8160,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -8174,7 +8174,7 @@ Tevir
 
 Merkha
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 
@@ -8190,7 +8190,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -8234,7 +8234,7 @@ Merkha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -8291,7 +8291,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -8316,7 +8316,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -8338,7 +8338,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -8359,7 +8359,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -8370,7 +8370,7 @@ Tipeha
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -8380,7 +8380,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -8404,7 +8404,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -8431,7 +8431,7 @@ Telisha Gedola
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -8463,7 +8463,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -8598,7 +8598,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Revia
 
@@ -8719,13 +8719,13 @@ Tipeha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 
@@ -8766,7 +8766,7 @@ Geresh
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -8776,7 +8776,7 @@ Merkha
 
 
 
-Shalshelet
+Shalshelet, Paseq
 
 Qadma
 
@@ -8813,7 +8813,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -8850,7 +8850,7 @@ Segol
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -9083,7 +9083,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -9105,7 +9105,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -9174,7 +9174,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -9277,7 +9277,7 @@ Munah
 Etnahta
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -9352,7 +9352,7 @@ Geresh
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 
 
@@ -9437,7 +9437,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -9471,7 +9471,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 Revia
@@ -9574,7 +9574,7 @@ Revia
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Mahapakh
@@ -9752,7 +9752,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -9794,7 +9794,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -9829,7 +9829,7 @@ Tipeha
 
 
 Munah
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -9915,7 +9915,7 @@ Segol
 
 Telisha Qetana
 Qadma
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -9928,7 +9928,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Darga
 Tevir
@@ -9970,7 +9970,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -9986,7 +9986,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -10064,7 +10064,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -10252,7 +10252,7 @@ Pashta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -10359,7 +10359,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -10406,7 +10406,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Gershayim
 
@@ -10482,7 +10482,7 @@ Pashta
 Zaqef Qatan
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 Tipeha
@@ -10500,7 +10500,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -10554,7 +10554,7 @@ Tevir
 Merkha
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 Pashta
 Munah
@@ -10583,7 +10583,7 @@ Etnahta
 Revia
 Yetiv
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -10710,7 +10710,7 @@ Munah
 
 Etnahta
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -10756,7 +10756,7 @@ Merkha
 Munah
 Revia
 
-Tevir, Merkha
+Merkha, Tevir
 Merkha
 Tipeha
 
@@ -10773,7 +10773,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -10794,7 +10794,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -10811,7 +10811,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Revia
 Qadma
 Mahapakh
@@ -10941,7 +10941,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -10956,7 +10956,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -11027,7 +11027,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -11144,7 +11144,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -11224,7 +11224,7 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -11248,7 +11248,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -11290,7 +11290,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -11327,7 +11327,7 @@ Revia
 
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Merkha
 
@@ -11353,7 +11353,7 @@ Merkha
 
 
 
-Shalshelet
+Shalshelet, Paseq
 Revia
 Pashta
 Munah
@@ -11392,7 +11392,7 @@ Munah
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
@@ -11406,7 +11406,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -11499,7 +11499,7 @@ Etnahta
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -11567,7 +11567,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -11634,14 +11634,14 @@ Etnahta
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -11673,7 +11673,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -11753,7 +11753,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -11770,7 +11770,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -11899,7 +11899,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -12048,7 +12048,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -12070,7 +12070,7 @@ Pashta
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -12112,7 +12112,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -12172,7 +12172,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -12203,7 +12203,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Qadma
@@ -12297,7 +12297,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -12320,7 +12320,7 @@ Munah
 
 Zaqef Qatan
 Merkha
-Etnahta, Tipeha
+Tipeha, Etnahta
 
 Merkha
 Tipeha
@@ -12408,7 +12408,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -12478,7 +12478,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -12568,7 +12568,7 @@ Etnahta
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -12833,7 +12833,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -13135,7 +13135,7 @@ Pashta
 Zaqef Qatan
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -13156,7 +13156,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Mahapakh
 Pashta
@@ -13309,7 +13309,7 @@ Merkha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -13438,7 +13438,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -13500,7 +13500,7 @@ Munah
 Zinor
 
 Munah
-Munah
+Munah, Paseq
 Segol
 
 Revia
@@ -13566,14 +13566,14 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -13623,7 +13623,7 @@ Tipeha
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -13650,7 +13650,7 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -13734,7 +13734,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -13823,7 +13823,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -13854,7 +13854,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -14263,7 +14263,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -14343,7 +14343,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -14493,7 +14493,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -14510,7 +14510,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -14659,7 +14659,7 @@ Etnahta
 
 Pazer
 
-Munah
+Munah, Paseq
 
 Qadma
 
@@ -14785,13 +14785,13 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -14858,7 +14858,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -14900,7 +14900,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Mahapakh
@@ -14938,7 +14938,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Munah
@@ -15003,7 +15003,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -15034,7 +15034,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -15113,7 +15113,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Revia
 
 
@@ -15149,7 +15149,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -15180,7 +15180,7 @@ Geresh
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -15199,7 +15199,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -15559,7 +15559,7 @@ Segol
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 Zaqef Qatan
@@ -15580,9 +15580,9 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -15708,7 +15708,7 @@ Tipeha
 Munah
 Revia
 Qadma
-Darga
+Darga, Paseq
 Tevir
 
 Tipeha
@@ -15848,7 +15848,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -15906,12 +15906,12 @@ Tipeha
 Munah
 Revia
 Qadma
-Merkha
+Merkha, Paseq
 Zinor
 Munah
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -15940,7 +15940,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -15982,9 +15982,9 @@ Mahapakh
 Pashta
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -16104,7 +16104,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -16860,7 +16860,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -16906,7 +16906,7 @@ Etnahta
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Darga
 Munah
 
@@ -16980,7 +16980,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 
 Munah
@@ -17034,7 +17034,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -17085,7 +17085,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -17225,7 +17225,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -17342,7 +17342,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -17369,7 +17369,7 @@ Etnahta
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -17413,7 +17413,7 @@ Merkha
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -17540,7 +17540,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -17549,7 +17549,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -17650,7 +17650,7 @@ Etnahta
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -17785,7 +17785,7 @@ Pashta
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -17827,7 +17827,7 @@ Yetiv
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -17888,7 +17888,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -17949,7 +17949,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -17964,7 +17964,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -18001,7 +18001,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -18120,7 +18120,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -18136,7 +18136,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -18300,7 +18300,7 @@ Tipeha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -18363,7 +18363,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -18392,7 +18392,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -18617,7 +18617,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -18651,7 +18651,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -18723,7 +18723,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -18767,7 +18767,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -18811,7 +18811,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -18851,7 +18851,7 @@ Munah
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -18887,7 +18887,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -19012,7 +19012,7 @@ Zinor
 Munah
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -19154,14 +19154,14 @@ Merkha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 
 Pashta
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -19328,7 +19328,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -19350,7 +19350,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -19377,9 +19377,9 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -19514,7 +19514,7 @@ Pashta
 Munah
 Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 Munah
 Zaqef Qatan
 
@@ -19536,7 +19536,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -19595,7 +19595,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -19721,7 +19721,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -19740,7 +19740,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -19749,7 +19749,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Munah
 Zaqef Qatan
 Merkha
 Tipeha
@@ -19816,7 +19816,7 @@ Pashta
 
 Zaqef Qatan
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -19903,7 +19903,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -20002,7 +20002,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -20096,12 +20096,12 @@ Etnahta
 
 Munah
 Zaqef Qatan
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
 Zinor
-Munah
+Munah, Munah
 
 Segol
 
@@ -20153,7 +20153,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -20175,7 +20175,7 @@ Etnahta
 
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Gershayim
@@ -20289,8 +20289,8 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -20406,7 +20406,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -20426,7 +20426,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -20436,7 +20436,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -20480,7 +20480,7 @@ Munah
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Etnahta
@@ -20500,7 +20500,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -20521,12 +20521,12 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -20555,7 +20555,7 @@ Tipeha
 
 
 Qadma
-Munah
+Munah, Paseq
 Zinor
 
 
@@ -20606,7 +20606,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -20670,7 +20670,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -20765,7 +20765,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -20783,7 +20783,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -21077,7 +21077,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -21114,7 +21114,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -21126,7 +21126,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -21230,14 +21230,14 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -21265,7 +21265,7 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -21275,7 +21275,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -21307,7 +21307,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -21318,7 +21318,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -21337,7 +21337,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -21386,7 +21386,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -21479,7 +21479,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -21577,9 +21577,9 @@ Tipeha
 Merkha
 
 
-Shalshelet
+Shalshelet, Paseq
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -21611,7 +21611,7 @@ Segol
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -21639,7 +21639,7 @@ Zaqef Gadol
 Merkha
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 
@@ -21831,7 +21831,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -21872,7 +21872,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -21894,7 +21894,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -21902,7 +21902,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -22091,7 +22091,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -22127,14 +22127,14 @@ Pashta
 Zaqef Qatan
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -22173,7 +22173,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -22211,7 +22211,7 @@ Munah
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -22255,14 +22255,14 @@ Pashta
 Zaqef Qatan
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -22285,7 +22285,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -22304,7 +22304,7 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -22440,7 +22440,7 @@ Zaqef Gadol
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Tevir
@@ -22461,7 +22461,7 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -22485,7 +22485,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -22633,7 +22633,7 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -22712,7 +22712,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -22754,7 +22754,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Tevir
@@ -22775,7 +22775,7 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -22981,7 +22981,7 @@ Merkha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -23012,7 +23012,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -23172,14 +23172,14 @@ Qadma
 Munah
 
 Zinor
-Segol, Munah
+Munah, Segol
 
 
 Munah
 
 Revia
 
-Tevir, Merkha
+Merkha, Tevir
 Merkha
 Tipeha
 
@@ -23230,7 +23230,7 @@ Etnahta
 Gershayim
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -23288,7 +23288,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 Merkha
 
 
@@ -23379,7 +23379,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -23417,7 +23417,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -23457,7 +23457,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -23494,7 +23494,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -23527,7 +23527,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -23556,7 +23556,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -23631,7 +23631,7 @@ Revia
 Munah
 Telisha Qetana
 Qadma
-Darga
+Darga, Paseq
 Tevir
 Merkha
 
@@ -23644,7 +23644,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -23689,7 +23689,7 @@ Munah
 Segol
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Zaqef Qatan
@@ -23767,7 +23767,7 @@ Munah
 
 Revia
 Zinor
-Munah
+Munah, Paseq
 Zinor
 
 Segol
@@ -23798,7 +23798,7 @@ Revia
 
 Telisha Qetana
 Qadma
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -24076,7 +24076,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -24129,7 +24129,7 @@ Mahapakh
 Pashta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -24210,7 +24210,7 @@ Etnahta
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -24218,7 +24218,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -24302,7 +24302,7 @@ Etnahta
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -24327,7 +24327,7 @@ Geresh
 Munah
 Revia
 
-Munah
+Munah, Paseq
 Zinor
 Munah
 Segol
@@ -24335,7 +24335,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -24430,7 +24430,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -24446,7 +24446,7 @@ Zinor
 
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -24459,7 +24459,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -24500,11 +24500,11 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -24512,7 +24512,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -24601,7 +24601,7 @@ Qadma
 Geresh
 
 Revia
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -24609,7 +24609,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -24629,7 +24629,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -24639,7 +24639,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -24755,7 +24755,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -24801,7 +24801,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -24958,7 +24958,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -24971,7 +24971,7 @@ Merkha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -25195,11 +25195,11 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -25220,7 +25220,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -25230,7 +25230,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -25248,7 +25248,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -25295,7 +25295,7 @@ Telisha Qetana
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -25408,7 +25408,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -25536,14 +25536,14 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
-Revia, Munah
+Munah, Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -25777,7 +25777,7 @@ Munah
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -25829,7 +25829,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -25925,7 +25925,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -25981,7 +25981,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tevir
 
@@ -26014,7 +26014,7 @@ Merkha
 
 
 Qadma
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -26023,7 +26023,7 @@ Munah
 Zaqef Qatan
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 Tipeha
@@ -26217,7 +26217,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -26284,7 +26284,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -26309,7 +26309,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 Etnahta
 
@@ -26322,7 +26322,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -26386,7 +26386,7 @@ Telisha Gedola
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -26535,7 +26535,7 @@ Revia
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -26663,7 +26663,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -26822,7 +26822,7 @@ Etnahta
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -26836,12 +26836,12 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -26934,7 +26934,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -26990,7 +26990,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -27005,7 +27005,7 @@ Etnahta
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -27028,12 +27028,12 @@ Geresh
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -27236,7 +27236,7 @@ Zinor
 
 Segol
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -27271,7 +27271,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -27372,7 +27372,7 @@ Tipeha
 Munah
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Darga
@@ -27399,7 +27399,7 @@ Tevir
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -27422,17 +27422,17 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
-Telisha Qetana
+Telisha Qetana, Telisha Qetana
 Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -27562,7 +27562,7 @@ Geresh
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -27687,7 +27687,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 Zaqef Qatan
@@ -27714,7 +27714,7 @@ Merkha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Munah
@@ -27768,7 +27768,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -27822,7 +27822,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -27905,7 +27905,7 @@ Merkha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -27924,7 +27924,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -27935,7 +27935,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -28089,9 +28089,9 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -28112,7 +28112,7 @@ Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -28279,7 +28279,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -28324,7 +28324,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -28459,11 +28459,11 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -28473,7 +28473,7 @@ Etnahta
 Gershayim
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -28521,7 +28521,7 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -28546,7 +28546,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -28578,7 +28578,7 @@ Tipeha
 Munah
 
 Revia
-Pazer, Munah
+Munah, Pazer
 Munah
 Telisha Gedola
 Munah
@@ -28612,7 +28612,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -28876,7 +28876,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -28937,7 +28937,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -28950,14 +28950,14 @@ Tipeha
 Etnahta
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -29023,7 +29023,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -29107,7 +29107,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -29267,7 +29267,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -29308,7 +29308,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -29329,7 +29329,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -29389,7 +29389,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -29408,7 +29408,7 @@ Pashta
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -29467,7 +29467,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -29485,7 +29485,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -29578,7 +29578,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -29724,7 +29724,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -29775,7 +29775,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -29786,7 +29786,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -29838,7 +29838,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -29882,7 +29882,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -30010,7 +30010,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -30164,7 +30164,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -30202,7 +30202,7 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -30271,7 +30271,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -30352,7 +30352,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 
@@ -30447,11 +30447,11 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Zaqef Gadol
@@ -30486,7 +30486,7 @@ Etnahta
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -30535,7 +30535,7 @@ Tipeha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -30545,7 +30545,7 @@ Pashta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -30575,7 +30575,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -30761,7 +30761,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -30846,7 +30846,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -30856,7 +30856,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -31000,12 +31000,12 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -31219,7 +31219,7 @@ Tipeha
 Etnahta
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -31320,7 +31320,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -31346,7 +31346,7 @@ Segol
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -31380,7 +31380,7 @@ Revia
 Munah
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -31395,7 +31395,7 @@ Pashta
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -31526,7 +31526,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -31545,7 +31545,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 
 Tipeha
@@ -31808,7 +31808,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -31862,7 +31862,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -31992,7 +31992,7 @@ Tevir
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -32066,7 +32066,7 @@ Mahapakh
 
 Pashta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -32094,7 +32094,7 @@ Munah
 Etnahta
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 
 Munah
@@ -32150,7 +32150,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -32186,7 +32186,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -32198,7 +32198,7 @@ Pashta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -32228,7 +32228,7 @@ Qadma
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -32368,7 +32368,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -32430,7 +32430,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -32462,7 +32462,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -32491,12 +32491,12 @@ Zinor
 Munah
 Segol
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -32518,9 +32518,9 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -32535,7 +32535,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -32575,7 +32575,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -32650,7 +32650,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -32733,7 +32733,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -32775,9 +32775,9 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -32906,7 +32906,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -32992,7 +32992,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -33308,7 +33308,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -33394,7 +33394,7 @@ Etnahta
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -33551,7 +33551,7 @@ Zaqef Qatan
 Telisha Gedola
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -33632,7 +33632,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -33819,7 +33819,7 @@ Geresh
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -33889,7 +33889,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -33926,7 +33926,7 @@ Segol
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -33957,7 +33957,7 @@ Revia
 Pashta
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -34015,7 +34015,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -34070,7 +34070,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -34121,7 +34121,7 @@ Etnahta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -34352,7 +34352,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 Munah
 
@@ -34430,7 +34430,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Revia
@@ -34470,7 +34470,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Zaqef Gadol
 Tevir
 Merkha
@@ -34485,7 +34485,7 @@ Munah
 Etnahta
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -34509,7 +34509,7 @@ Tipeha
 
 Munah
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -34577,7 +34577,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -34586,12 +34586,12 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -34599,7 +34599,7 @@ Tipeha
 
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Pashta
 Munah
@@ -34823,7 +34823,7 @@ Tipeha
 Etnahta
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -34847,7 +34847,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -34948,7 +34948,7 @@ Munah
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -34959,7 +34959,7 @@ Etnahta
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -34983,7 +34983,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -35001,7 +35001,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -35062,7 +35062,7 @@ Zinor
 Segol
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -35093,7 +35093,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -35118,7 +35118,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -35145,7 +35145,7 @@ Munah
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -35340,7 +35340,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -35406,7 +35406,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 
@@ -35440,7 +35440,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -35590,7 +35590,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -35776,7 +35776,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -35804,7 +35804,7 @@ Pashta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -35853,7 +35853,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -35993,7 +35993,7 @@ Tipeha
 Etnahta
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -36076,7 +36076,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -36089,7 +36089,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -36121,7 +36121,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -36136,7 +36136,7 @@ Merkha
 
 
 Qadma
-Darga
+Darga, Paseq
 
 
 Tevir
@@ -36249,7 +36249,7 @@ Revia
 Pashta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -36258,7 +36258,7 @@ Munah
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -36346,7 +36346,7 @@ Merkha
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -36396,7 +36396,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Pashta
+Pashta, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -36411,7 +36411,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -36457,7 +36457,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -36468,7 +36468,7 @@ Munah
 Etnahta
 Munah
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -36500,7 +36500,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -36621,7 +36621,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -36659,7 +36659,7 @@ Zinor
 Segol
 
 Munah
-Munah
+Munah, Paseq
 
 Telisha Gedola
 
@@ -36705,7 +36705,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -36753,7 +36753,7 @@ Etnahta
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -36777,7 +36777,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -36799,9 +36799,9 @@ Qadma
 Geresh
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -36824,11 +36824,11 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -36908,7 +36908,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -37006,7 +37006,7 @@ Tipeha
 Munah
 Etnahta
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -37014,7 +37014,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -37066,8 +37066,8 @@ Merkha
 Tipeha
 Merkha
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -37103,7 +37103,7 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -37124,7 +37124,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -37137,7 +37137,7 @@ Zaqef Gadol
 Tipeha
 Merkha
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 Merkha
@@ -37246,7 +37246,7 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -37299,7 +37299,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -37322,7 +37322,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -37410,7 +37410,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -37422,7 +37422,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -37487,7 +37487,7 @@ Zaqef Qatan
 Merkha
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 
 Mahapakh
@@ -37544,14 +37544,14 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -37625,7 +37625,7 @@ Geresh
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -37691,7 +37691,7 @@ Munah
 
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -37732,7 +37732,7 @@ Munah
 
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 
 Merkha
@@ -37789,7 +37789,7 @@ Revia
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -37821,14 +37821,14 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
 
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -37837,7 +37837,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -37952,7 +37952,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -37978,7 +37978,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -38030,13 +38030,13 @@ Munah
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 
@@ -38156,7 +38156,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -38257,7 +38257,7 @@ Munah
 Telisha Qetana
 
 Qadma
-Merkha
+Merkha, Paseq
 
 
 Zinor
@@ -38293,7 +38293,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -38323,7 +38323,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -38463,7 +38463,7 @@ Etnahta
 
 Merkha
 Tipeha
-Merkha
+Merkha, Paseq
 
 
 Revia
@@ -38569,7 +38569,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -38578,7 +38578,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -38590,7 +38590,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -38609,7 +38609,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Telisha Qetana
 
 Qadma
@@ -38706,7 +38706,7 @@ Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -38803,7 +38803,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -38855,7 +38855,7 @@ Gershayim
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -38892,7 +38892,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -39000,7 +39000,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -39056,7 +39056,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -39079,7 +39079,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -39205,7 +39205,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 
 Merkha
@@ -39282,7 +39282,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 
 
 Munah
@@ -39367,7 +39367,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -39551,7 +39551,7 @@ Etnahta
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -39609,7 +39609,7 @@ Tipeha
 
 Tipeha, Pashta
 Munah
-Etnahta, Zaqef Qatan
+Zaqef Qatan, Etnahta
 Darga
 Tevir
 
@@ -39621,42 +39621,42 @@ Etnahta
 Munah
 
 Tevir, Telisha Qetana
-Merkha, Qadma
+Qadma, Merkha
 Tipeha, Geresh
 
 Revia
 Munah
 Qadma
-Munah, Merkha
-Pashta, Munah, Qadma
+Merkha, Munah
+Munah, Qadma, Pashta, Paseq
 
 
-Zaqef Qatan, Pazer
-Munah, Mahapakh
+Pazer, Zaqef Qatan
+Mahapakh, Munah
 
 
-Pashta, Munah, Qadma
+Munah, Qadma, Pashta, Paseq
 
-Zaqef Qatan, Pazer
+Pazer, Zaqef Qatan
 
 Merkha, Telisha Qetana
 
 
-Tipeha, Qadma
+Qadma, Tipeha
 
 Etnahta, Geresh
 
-Munah, Merkha
+Merkha, Munah
 
 
-Tipeha, Munah
+Tipeha, Munah, Paseq
 
-Munah, Merkha
+Merkha, Munah
 
 
 Revia
 
-Munah, Merkha
+Merkha, Munah
 Tipeha, Zinor
 
 Munah
@@ -39664,7 +39664,7 @@ Etnahta, Segol
 Munah
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Telisha Gedola
@@ -39680,10 +39680,10 @@ Tipeha
 
 Etnahta
 
-Mahapakh, Merkha
-Tipeha, Pashta, Qadma
+Merkha, Mahapakh
+Tipeha, Qadma, Pashta
 
-Etnahta, Zaqef Qatan
+Zaqef Qatan, Etnahta
 
 Tipeha
 
@@ -39713,43 +39713,43 @@ Tipeha
 
 Tevir, Telisha Qetana
 
-Merkha, Qadma
+Qadma, Merkha
 
-Tipeha, Geresh
+Geresh, Tipeha
 
 Revia
-Munah, Mahapakh
-Pashta, Munah
+Mahapakh, Munah
+Munah, Pashta
 Zaqef Qatan, Zinor
 
 Tipeha, Munah
 
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan, Geresh
-Tipeha, Munah
+Tipeha, Munah, Paseq
 
 Munah
-Etnahta, Revia
+Revia, Etnahta
 Munah
-Munah, Qadma
+Qadma, Munah
 
-Geresh, Pazer
-Munah
+Pazer, Geresh
+Munah, Paseq
 
 Munah
 Telisha Gedola
 Revia
 Mahapakh, Qadma
 
-Pashta, Geresh
+Geresh, Pashta
 
 Zaqef Qatan, Revia
 
 Tipeha, Pashta
-Munah, Merkha
+Merkha, Munah
 
 Zaqef Qatan
 Munah
@@ -39795,7 +39795,7 @@ Tipeha
 
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -39806,11 +39806,11 @@ Merkha
 Tipeha
 Merkha
 
-Tipeha, Merkha
+Merkha, Tipeha
 Tipeha
-Tipeha, Munah
+Munah, Tipeha
 Etnahta
-Tipeha, Munah
+Munah, Tipeha
 Zaqef Qatan
 
 Merkha
@@ -39952,7 +39952,7 @@ Merkha
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -39967,7 +39967,7 @@ Segol
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -40017,7 +40017,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -40084,7 +40084,7 @@ Mahapakh
 Pashta
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -40327,7 +40327,7 @@ Tipeha
 Munah
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 
@@ -40498,7 +40498,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -40551,7 +40551,7 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Mahapakh
@@ -40959,7 +40959,7 @@ Zaqef Qatan
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -41150,7 +41150,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -41313,11 +41313,11 @@ Tipeha
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
-Merkha
+Merkha, Paseq
 
 
 Merkha
@@ -41334,7 +41334,7 @@ Tipeha
 
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 Tipeha
 Munah
@@ -41358,7 +41358,7 @@ Tipeha
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -41397,7 +41397,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -41442,7 +41442,7 @@ Tipeha
 Etnahta
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -41528,7 +41528,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -41566,7 +41566,7 @@ Tipeha
 
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -41596,7 +41596,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -41666,7 +41666,7 @@ Geresh
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tevir
@@ -41748,7 +41748,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 
 Merkha
@@ -42099,7 +42099,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -42130,7 +42130,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -42203,7 +42203,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -42466,7 +42466,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -42546,7 +42546,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -42572,7 +42572,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -42600,7 +42600,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -42628,7 +42628,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -42640,7 +42640,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -42658,7 +42658,7 @@ Tipeha
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -42693,7 +42693,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -42723,7 +42723,7 @@ Munah
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -42749,7 +42749,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -42762,7 +42762,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -42772,7 +42772,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -42852,7 +42852,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -42862,7 +42862,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -42957,7 +42957,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Zaqef Qatan
@@ -43195,7 +43195,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -43243,7 +43243,7 @@ Munah
 Segol
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -43256,7 +43256,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 
@@ -43600,7 +43600,7 @@ Tipeha
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -43639,7 +43639,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -43671,7 +43671,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -43716,7 +43716,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -43880,7 +43880,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -44097,7 +44097,7 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -44187,7 +44187,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -44416,7 +44416,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -44513,7 +44513,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -44522,7 +44522,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -44783,7 +44783,7 @@ Segol
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -44832,7 +44832,7 @@ Merkha
 Tipeha
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Darga
 
 Tevir
@@ -44881,7 +44881,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -44895,7 +44895,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -45008,7 +45008,7 @@ Geresh
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -45020,14 +45020,14 @@ Mahapakh
 
 Pashta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -45091,7 +45091,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -45125,7 +45125,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -45185,7 +45185,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -45352,7 +45352,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -45445,7 +45445,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -45490,7 +45490,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -45505,7 +45505,7 @@ Revia
 Munah
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Qadma
 Darga
 Tevir
@@ -45565,7 +45565,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -45694,7 +45694,7 @@ Pashta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -45716,7 +45716,7 @@ Zinor
 
 Segol
 
-Geresh, Qadma
+Qadma, Geresh
 Munah
 Darga
 Tevir
@@ -45733,7 +45733,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Revia
 
 
@@ -45882,7 +45882,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -46059,7 +46059,7 @@ Munah
 Zaqef Qatan
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -46090,9 +46090,9 @@ Geresh
 
 Munah
 Revia
-Mahapakh
+Legarmeh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -46137,11 +46137,11 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -46254,7 +46254,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -46323,7 +46323,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -46378,7 +46378,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 Tevir
@@ -46394,7 +46394,7 @@ Tevir
 Merkha
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Revia
@@ -46526,7 +46526,7 @@ Revia
 
 Mahapakh
 Pashta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -46535,58 +46535,58 @@ Pashta
 
 Zaqef Qatan
 
-Munah
-Munah
-
-Revia
-Mahapakh
-Pashta, Qadma
-
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-
-Merkha
-
-
-Mahapakh
-Pashta
-Zaqef Qatan
-Pashta
-Munah
-
-Zaqef Qatan
-Pashta
-
-Munah
-Zaqef Qatan
-Tipeha
-
-Etnahta
-
-Tipeha
-
-
-Pashta
-
-
-Zaqef Qatan
-
-Merkha
-
-Tipeha
-Munah
-
-Etnahta
-
-Tipeha
-
-
-
+Munah, Paseq
 Munah
 
 Revia
+Mahapakh
+Shene Pashtim
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+
+Merkha
+
+
+Mahapakh
+Pashta
+Zaqef Qatan
+Pashta
+Munah
+
+Zaqef Qatan
+Pashta
+
+Munah
+Zaqef Qatan
+Tipeha
+
+Etnahta
+
+Tipeha
+
+
+Pashta
+
+
+Zaqef Qatan
+
+Merkha
+
+Tipeha
+Munah
+
+Etnahta
+
+Tipeha
+
+
+
+Munah
+
+Revia
 
 Mahapakh
 Pashta
@@ -46598,9 +46598,9 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -46625,7 +46625,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -46665,7 +46665,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Munah
@@ -46679,9 +46679,9 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -46693,7 +46693,7 @@ Merkha
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -46737,7 +46737,7 @@ Pashta
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -46884,7 +46884,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -46957,7 +46957,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -47011,12 +47011,12 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -47100,7 +47100,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -47191,7 +47191,7 @@ Tevir
 Tipeha
 
 Etnahta
-Revia, Munah
+Munah, Revia
 Gershayim
 
 Mahapakh
@@ -47232,14 +47232,14 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -47341,7 +47341,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -47415,7 +47415,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -47453,17 +47453,17 @@ Pashta
 
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -47533,7 +47533,7 @@ Pashta
 
 Zaqef Qatan
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -47569,7 +47569,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -47592,7 +47592,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -47618,7 +47618,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -47626,14 +47626,14 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -47643,7 +47643,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -47805,7 +47805,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -47858,9 +47858,9 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -47893,12 +47893,12 @@ Tipeha
 
 
 Qadma
-Merkha
+Merkha, Paseq
 
 Zinor
 
 Segol
-Munah
+Munah, Paseq
 Zaqef Qatan
 Merkha
 Tipeha
@@ -47912,7 +47912,7 @@ Merkha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -47926,7 +47926,7 @@ Etnahta
 Pashta
 Munah
 Zaqef Qatan
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -47955,7 +47955,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -47965,7 +47965,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tevir
@@ -48100,13 +48100,13 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -48124,7 +48124,7 @@ Etnahta
 Munah
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -48186,7 +48186,7 @@ Tipeha
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -48233,11 +48233,11 @@ Tipeha
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 
-Merkha
+Merkha, Paseq
 Tipeha
 Merkha
 
@@ -48287,7 +48287,7 @@ Merkha
 
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 Tipeha
 Munah
@@ -48312,7 +48312,7 @@ Munah
 Etnahta
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -48723,7 +48723,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -48746,7 +48746,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -48754,7 +48754,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -48808,7 +48808,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -48853,7 +48853,7 @@ Pashta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -48866,7 +48866,7 @@ Tipeha
 
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Gedola
@@ -48916,7 +48916,7 @@ Tipeha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Zaqef Gadol
@@ -48949,7 +48949,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -49008,7 +49008,7 @@ Etnahta
 Zaqef Gadol
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -49134,7 +49134,7 @@ Revia
 Zinor
 
 Munah
-Munah
+Munah, Paseq
 
 Segol
 
@@ -49168,7 +49168,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -49262,7 +49262,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -49386,7 +49386,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -49439,7 +49439,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -49469,7 +49469,7 @@ Munah
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -49495,7 +49495,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -49631,7 +49631,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Zaqef Qatan
@@ -49827,7 +49827,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -49860,7 +49860,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -49919,7 +49919,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Darga
 Tevir
@@ -49945,7 +49945,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -50023,7 +50023,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -50188,7 +50188,7 @@ Tipeha
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -50237,7 +50237,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -50289,7 +50289,7 @@ Tipeha
 Tipeha
 Munah
 Etnahta
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -50315,7 +50315,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -50366,7 +50366,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Merkha
@@ -50396,7 +50396,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -50507,7 +50507,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Munah
@@ -50579,7 +50579,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Tipeha
@@ -50591,7 +50591,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -50753,7 +50753,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -50843,7 +50843,7 @@ Etnahta
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -50871,7 +50871,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -50937,7 +50937,7 @@ Zaqef Qatan
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -51083,7 +51083,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -51122,7 +51122,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -51410,7 +51410,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -51750,7 +51750,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -51758,7 +51758,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -51816,7 +51816,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -51942,7 +51942,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -51976,7 +51976,7 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -52087,7 +52087,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -52146,7 +52146,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -52161,7 +52161,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -52357,7 +52357,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -52611,7 +52611,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -52648,7 +52648,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 
 Zaqef Qatan
@@ -52843,7 +52843,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -52890,7 +52890,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -52932,7 +52932,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -53029,7 +53029,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -53041,7 +53041,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -53059,7 +53059,7 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -53134,7 +53134,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -53214,7 +53214,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -53237,7 +53237,7 @@ Zaqef Qatan
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -53247,7 +53247,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -53351,7 +53351,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -53374,7 +53374,7 @@ Zaqef Qatan
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -53384,7 +53384,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -53436,14 +53436,14 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -53466,7 +53466,7 @@ Zaqef Qatan
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -53476,7 +53476,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -53502,7 +53502,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -53657,7 +53657,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -53683,7 +53683,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -53706,7 +53706,7 @@ Zaqef Qatan
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -53716,7 +53716,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -53896,7 +53896,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 
@@ -54373,7 +54373,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -54406,7 +54406,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -54565,7 +54565,7 @@ Revia
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -54578,7 +54578,7 @@ Segol
 
 Munah
 
-Munah
+Munah, Paseq
 Telisha Gedola
 Qadma
 Geresh
@@ -54689,7 +54689,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -54816,7 +54816,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -54925,7 +54925,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -54979,7 +54979,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -55013,7 +55013,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -55121,7 +55121,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -55285,7 +55285,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -55378,7 +55378,7 @@ Zaqef Qatan
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -55388,7 +55388,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -55512,7 +55512,7 @@ Munah
 Zinor
 Segol
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -55585,7 +55585,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -55706,7 +55706,7 @@ Revia
 
 Mahapakh
 Pashta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -55926,11 +55926,11 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -56063,7 +56063,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -56159,7 +56159,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -56480,7 +56480,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Merkha
 Pashta
 
@@ -56513,7 +56513,7 @@ Merkha
 
 
 
-Shalshelet
+Shalshelet, Paseq
 
 Mahapakh
 Pashta
@@ -56618,7 +56618,7 @@ Merkha
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -56635,7 +56635,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -56786,7 +56786,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -56849,7 +56849,7 @@ Geresh
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -56945,7 +56945,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -57004,14 +57004,14 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Gershayim
 
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -57341,7 +57341,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -57363,7 +57363,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -57436,7 +57436,7 @@ Revia
 Telisha Qetana
 
 Qadma
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -57467,7 +57467,7 @@ Etnahta
 
 Munah
 Revia
-Gershayim, Telisha Gedola
+Telisha Gedola, Gershayim
 Mahapakh
 
 Pashta
@@ -57508,15 +57508,15 @@ Pazer
 Telisha Qetana
 
 
-Qadma
+Qadma, Paseq
 Geresh
 Merkha
 
-Munah
+Munah, Paseq
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -57568,8 +57568,8 @@ Munah
 
 Gershayim
 
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 
 Munah
 Revia
@@ -57630,7 +57630,7 @@ Munah
 Telisha Gedola
 
 
-Merkha, Qadma
+Qadma, Merkha, Paseq
 Zinor
 
 Segol
@@ -57639,7 +57639,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -57663,7 +57663,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -57677,7 +57677,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -57695,7 +57695,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -57735,7 +57735,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -57773,7 +57773,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -57875,12 +57875,12 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -57957,7 +57957,7 @@ Geresh
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -58066,7 +58066,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -58077,7 +58077,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -58186,7 +58186,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -58271,7 +58271,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -58287,7 +58287,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -58387,7 +58387,7 @@ Munah
 
 
 Telisha Qetana
-Qadma
+Qadma, Paseq
 
 Geresh
 Revia
@@ -58460,7 +58460,7 @@ Telisha Gedola
 
 Qadma
 
-Merkha
+Merkha, Paseq
 Zinor
 Segol
 Darga
@@ -58502,7 +58502,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -58574,7 +58574,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -58599,7 +58599,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -58629,7 +58629,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -58639,7 +58639,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -58790,7 +58790,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -58889,7 +58889,7 @@ Mahapakh
 Pashta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -58929,12 +58929,12 @@ Qadma
 
 
 Geresh
-Munah
+Munah, Paseq
 Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 Munah
@@ -58990,7 +58990,7 @@ Segol
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -59048,7 +59048,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -59137,7 +59137,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -59169,7 +59169,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -59227,7 +59227,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -59279,7 +59279,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -59300,7 +59300,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -59344,7 +59344,7 @@ Merkha
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -59387,7 +59387,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -59407,7 +59407,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -59416,7 +59416,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -59506,7 +59506,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -59542,7 +59542,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -59596,7 +59596,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 
 
@@ -59630,7 +59630,7 @@ Telisha Gedola
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -59663,7 +59663,7 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -59763,7 +59763,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -59772,7 +59772,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -59788,7 +59788,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -59832,7 +59832,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 
@@ -59892,7 +59892,7 @@ Merkha
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -59909,7 +59909,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -59950,7 +59950,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Telisha Gedola
 
 
@@ -59961,7 +59961,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -59988,14 +59988,14 @@ Geresh
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -60013,7 +60013,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -60051,7 +60051,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -60066,7 +60066,7 @@ Tipeha
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 
@@ -60115,7 +60115,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -60142,7 +60142,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -60191,7 +60191,7 @@ Qadma
 Geresh
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -60316,7 +60316,7 @@ Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -60343,7 +60343,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 
@@ -60370,7 +60370,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -60646,7 +60646,7 @@ Merkha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 Munah
@@ -60871,7 +60871,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -60904,7 +60904,7 @@ Merkha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 Munah
@@ -60987,7 +60987,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -61071,7 +61071,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -61196,7 +61196,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -61310,7 +61310,7 @@ Telisha Gedola
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -61371,7 +61371,7 @@ Telisha Gedola
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -61775,12 +61775,12 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -62131,7 +62131,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -62424,7 +62424,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -62454,7 +62454,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -62569,7 +62569,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -62752,7 +62752,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -62816,7 +62816,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -62916,7 +62916,7 @@ Munah
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -63121,7 +63121,7 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Darga
 Tevir
 
@@ -63233,7 +63233,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -63274,7 +63274,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -63428,7 +63428,7 @@ Munah
 Telisha Qetana
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -63502,7 +63502,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -63529,7 +63529,7 @@ Tipeha
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -63632,7 +63632,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -63698,7 +63698,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -63769,7 +63769,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -64027,7 +64027,7 @@ Merkha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -64063,7 +64063,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -64099,7 +64099,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -64328,7 +64328,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -64415,7 +64415,7 @@ Geresh
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -64511,7 +64511,7 @@ Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -64555,7 +64555,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -64737,7 +64737,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Munah
@@ -64793,7 +64793,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -64856,7 +64856,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -65050,7 +65050,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -65110,7 +65110,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -65127,7 +65127,7 @@ Geresh
 
 Merkha
 
-Munah
+Munah, Paseq
 Mahapakh
 
 Pashta
@@ -65289,7 +65289,7 @@ Gershayim
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -65391,9 +65391,9 @@ Merkha
 Munah
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -65429,7 +65429,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -65442,7 +65442,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -65554,7 +65554,7 @@ Merkha
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -65598,7 +65598,7 @@ Segol
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -65739,7 +65739,7 @@ Pashta
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -65922,7 +65922,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Munah
@@ -66169,20 +66169,20 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -66195,7 +66195,7 @@ Munah
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -66221,8 +66221,8 @@ Tipeha
 
 
 
-Geresh, Qadma
-Munah
+Qadma, Geresh
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -66284,7 +66284,7 @@ Merkha
 
 Munah
 
-Munah
+Munah, Paseq
 Pazer
 Telisha Qetana
 Qadma
@@ -66307,13 +66307,13 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -66325,7 +66325,7 @@ Merkha
 Tevir
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -66420,7 +66420,7 @@ Darga
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -66457,7 +66457,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -66502,7 +66502,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -66518,7 +66518,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -66642,7 +66642,7 @@ Pashta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -66724,7 +66724,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -66754,7 +66754,7 @@ Munah
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -66881,7 +66881,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -67181,7 +67181,7 @@ Pashta
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -67268,7 +67268,7 @@ Etnahta
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -67438,7 +67438,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -67493,7 +67493,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -67554,14 +67554,14 @@ Tipeha
 
 Munah
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -67845,7 +67845,7 @@ Merkha
 
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -67939,7 +67939,7 @@ Munah
 
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -67985,7 +67985,7 @@ Munah
 Etnahta
 
 
-Mahapakh, Qadma
+Qadma, Mahapakh
 
 Pashta
 Munah
@@ -68200,7 +68200,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -68211,7 +68211,7 @@ Merkha
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -68320,7 +68320,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -68518,7 +68518,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -68557,7 +68557,7 @@ Tipeha
 Qadma
 Geresh
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -68566,9 +68566,9 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -68639,7 +68639,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -68674,7 +68674,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -68738,7 +68738,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -68793,7 +68793,7 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -69080,7 +69080,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -69218,7 +69218,7 @@ Revia
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -69255,7 +69255,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -69306,7 +69306,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -69537,7 +69537,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -69694,7 +69694,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -69717,7 +69717,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -69740,7 +69740,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -69760,7 +69760,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -70865,7 +70865,7 @@ Pashta
 Zaqef Qatan
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -70934,7 +70934,7 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 Etnahta
 
 Zaqef Gadol
@@ -70981,7 +70981,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -71014,7 +71014,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -71058,7 +71058,7 @@ Tipeha
 Etnahta
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -71225,8 +71225,8 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
-Pashta, Qadma
+Munah, Zaqef Qatan
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -71248,7 +71248,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -71326,7 +71326,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -71419,7 +71419,7 @@ Merkha
 
 
 Zaqef Gadol
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -71503,9 +71503,9 @@ Munah
 
 Telisha Qetana
 
-Qadma
+Qadma, Paseq
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -71697,7 +71697,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -71726,7 +71726,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -71869,7 +71869,7 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -71919,7 +71919,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -71930,7 +71930,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -71963,7 +71963,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -72103,7 +72103,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 
@@ -72158,7 +72158,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -72252,7 +72252,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 
@@ -72284,8 +72284,8 @@ Qadma
 Geresh
 
 
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 Munah
 
 Revia
@@ -72296,7 +72296,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -72350,7 +72350,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Pashta
 Zaqef Qatan
@@ -72420,7 +72420,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Zaqef Qatan
@@ -72561,7 +72561,7 @@ Merkha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -72767,7 +72767,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -73189,7 +73189,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -73203,7 +73203,7 @@ Etnahta
 Merkha
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 Telisha Gedola
 
@@ -73277,7 +73277,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -73510,7 +73510,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -73785,7 +73785,7 @@ Merkha
 Telisha Qetana
 Qadma
 
-Merkha
+Merkha, Paseq
 Zinor
 
 Munah
@@ -73864,13 +73864,13 @@ Tipeha
 
 
 Qadma
-Darga
+Darga, Paseq
 Tevir
 Tipeha
 
 
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 Zaqef Qatan
 
@@ -73922,7 +73922,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -74012,24 +74012,7 @@ Tipeha
 
 
 
-Munah
-Munah
-
-Revia
-
-Pashta
-Munah
-
-Zaqef Qatan
-Tipeha
-
-Munah
-Etnahta
-
-Tipeha
-
-
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -74043,8 +74026,25 @@ Tipeha
 Munah
 Etnahta
 
+Tipeha
+
+
+Munah, Paseq
+Munah
+
+Revia
+
 Pashta
-Zaqef Qatan, Munah
+Munah
+
+Zaqef Qatan
+Tipeha
+
+Munah
+Etnahta
+
+Pashta
+Munah, Zaqef Qatan
 
 Pashta
 Zaqef Qatan
@@ -74061,7 +74061,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -74104,7 +74104,7 @@ Pashta
 
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -74146,7 +74146,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74228,7 +74228,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74309,7 +74309,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74390,7 +74390,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74471,7 +74471,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74552,7 +74552,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74633,7 +74633,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74714,7 +74714,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74795,7 +74795,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74876,7 +74876,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -74957,7 +74957,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -75038,7 +75038,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -75090,7 +75090,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -75107,7 +75107,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -75189,7 +75189,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -75232,7 +75232,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 Munah
@@ -75346,7 +75346,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -75385,7 +75385,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 
 Tipeha
@@ -75510,7 +75510,7 @@ Tipeha
 Telisha Qetana
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -75569,7 +75569,7 @@ Qadma
 
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -75893,7 +75893,7 @@ Telisha Gedola
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -75909,7 +75909,7 @@ Geresh
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -75942,7 +75942,7 @@ Munah
 Munah
 
 
-Munah
+Munah, Paseq
 
 Pazer
 Telisha Qetana
@@ -75952,7 +75952,7 @@ Geresh
 Revia
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -75979,7 +75979,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -76019,13 +76019,13 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -76039,7 +76039,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -76300,7 +76300,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -76315,7 +76315,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -76360,7 +76360,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -76414,7 +76414,7 @@ Munah
 
 Revia
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -76664,7 +76664,7 @@ Munah
 Zinor
 Munah
 Segol
-Munah
+Munah, Paseq
 Revia
 
 
@@ -76676,7 +76676,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -76705,11 +76705,11 @@ Zaqef Gadol
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -76724,7 +76724,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -76777,10 +76777,10 @@ Tipeha
 
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -76801,7 +76801,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -76867,11 +76867,11 @@ Yetiv
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -76997,7 +76997,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -77090,7 +77090,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -77186,7 +77186,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -77208,7 +77208,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -77219,7 +77219,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -77256,7 +77256,7 @@ Zinor
 Segol
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -77337,7 +77337,7 @@ Merkha
 
 
 Qadma
-Merkha
+Merkha, Paseq
 
 
 Zinor
@@ -77348,7 +77348,7 @@ Segol
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -77373,13 +77373,13 @@ Merkha
 
 Munah
 
-Munah
+Munah, Paseq
 
 
 Pazer
 Munah
 
-Munah
+Munah, Paseq
 Pazer
 
 Telisha Qetana
@@ -77392,7 +77392,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -77470,7 +77470,7 @@ Merkha
 
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -77518,7 +77518,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -77541,7 +77541,7 @@ Tipeha
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -77570,7 +77570,7 @@ Tevir
 Merkha
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Pashta
 Zaqef Qatan
@@ -77580,7 +77580,7 @@ Tipeha
 
 
 
-Tevir, Darga
+Darga, Tevir
 Merkha
 
 Tipeha
@@ -77686,7 +77686,7 @@ Munah
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Revia
 
 
@@ -77723,7 +77723,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -77772,7 +77772,7 @@ Zaqef Qatan
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -77813,7 +77813,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 
@@ -77875,7 +77875,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -78100,7 +78100,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -78250,7 +78250,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 
 
@@ -78362,7 +78362,7 @@ Tipeha
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -78381,7 +78381,7 @@ Munah
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -78407,7 +78407,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -78434,7 +78434,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -78450,7 +78450,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -78530,7 +78530,7 @@ Etnahta
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -78553,11 +78553,11 @@ Merkha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -78634,7 +78634,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -78702,7 +78702,7 @@ Etnahta
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -78778,7 +78778,7 @@ Tipeha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -78814,7 +78814,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -78853,7 +78853,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -78893,7 +78893,7 @@ Revia
 Munah
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -78902,7 +78902,7 @@ Etnahta
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -78964,7 +78964,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -79006,7 +79006,7 @@ Munah
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -79023,7 +79023,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -79089,7 +79089,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 
@@ -79100,7 +79100,7 @@ Munah
 Zinor
 Segol
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -79150,7 +79150,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -79249,7 +79249,7 @@ Tipeha
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -79337,8 +79337,8 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -79353,7 +79353,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -79363,7 +79363,7 @@ Etnahta
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -79393,7 +79393,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -79413,7 +79413,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -79545,7 +79545,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 Merkha
@@ -79572,7 +79572,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 
 
@@ -79632,7 +79632,7 @@ Tipeha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -79644,7 +79644,7 @@ Merkha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -79710,7 +79710,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -79840,7 +79840,7 @@ Tipeha
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -79872,7 +79872,7 @@ Zaqef Qatan
 
 Tipeha
 Etnahta
-Darga
+Darga, Paseq
 Tevir
 
 Merkha
@@ -80085,7 +80085,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -80180,7 +80180,7 @@ Tipeha
 
 
 Munah
-Munah
+Munah, Paseq
 Pazer
 
 Telisha Qetana
@@ -80261,7 +80261,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -80292,7 +80292,7 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 Mahapakh
@@ -80317,7 +80317,7 @@ Qadma
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Qadma
 Zaqef Qatan
@@ -80340,7 +80340,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -80366,7 +80366,7 @@ Zaqef Qatan
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -80378,7 +80378,7 @@ Tevir
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -80426,7 +80426,7 @@ Merkha
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -80453,7 +80453,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -80470,7 +80470,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 Merkha
 
@@ -80628,7 +80628,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
@@ -80672,7 +80672,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -80695,7 +80695,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Munah
 
 
@@ -80740,7 +80740,7 @@ Munah
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -80852,7 +80852,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -80957,7 +80957,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -80985,11 +80985,11 @@ Merkha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -81066,7 +81066,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -81152,7 +81152,7 @@ Munah
 Revia
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 Telisha Qetana
@@ -81209,7 +81209,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -81290,7 +81290,7 @@ Merkha
 
 Munah
 
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -81312,7 +81312,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -81335,7 +81335,7 @@ Telisha Qetana
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -81369,7 +81369,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -81385,7 +81385,7 @@ Zaqef Qatan
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -81420,7 +81420,7 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -81631,7 +81631,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -81653,7 +81653,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tevir
 Merkha
 Tipeha
@@ -81682,7 +81682,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -81708,7 +81708,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -81761,7 +81761,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -81817,7 +81817,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -81886,7 +81886,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -81918,7 +81918,7 @@ Munah
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -81927,7 +81927,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -81937,7 +81937,7 @@ Tipeha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 Tipeha
 
@@ -82026,7 +82026,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -82167,7 +82167,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -82322,7 +82322,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -82353,7 +82353,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -82398,7 +82398,7 @@ Segol
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -82417,7 +82417,7 @@ Etnahta
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -82512,7 +82512,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -82573,7 +82573,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -82617,7 +82617,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -82630,13 +82630,13 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -82654,7 +82654,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -82699,7 +82699,7 @@ Etnahta
 
 Pashta
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -82788,14 +82788,14 @@ Yetiv
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Munah
 Etnahta
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -82842,7 +82842,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -82964,7 +82964,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Revia
 Pashta
 
@@ -83142,11 +83142,11 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 
@@ -83226,7 +83226,7 @@ Zinor
 
 Segol
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -83236,7 +83236,7 @@ Qadma
 Etnahta
 Munah
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -83365,7 +83365,7 @@ Etnahta
 
 Gershayim
 
-Revia, Munah
+Munah, Revia
 
 
 Pashta
@@ -83430,7 +83430,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -83478,7 +83478,7 @@ Tipeha
 Gershayim
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -83544,7 +83544,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -83708,7 +83708,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -83865,7 +83865,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 
@@ -83910,7 +83910,7 @@ Telisha Gedola
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 
@@ -83957,7 +83957,7 @@ Merkha
 Tipeha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 
@@ -83968,7 +83968,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -84072,7 +84072,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -84088,7 +84088,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -84096,7 +84096,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -84154,7 +84154,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -84191,7 +84191,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -84199,7 +84199,7 @@ Merkha
 
 
 Qadma
-Merkha
+Merkha, Paseq
 
 Zinor
 Segol
@@ -84415,7 +84415,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -84484,9 +84484,9 @@ Munah
 Zaqef Qatan
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -84502,7 +84502,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -84607,7 +84607,7 @@ Revia
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -84626,7 +84626,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Zaqef Gadol
 
@@ -84679,7 +84679,7 @@ Pashta
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Merkha
 
@@ -84929,7 +84929,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -84937,7 +84937,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -84949,7 +84949,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -84985,7 +84985,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -85041,7 +85041,7 @@ Merkha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -85067,7 +85067,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -85128,7 +85128,7 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -85144,7 +85144,7 @@ Pashta
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -85304,9 +85304,9 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -85383,7 +85383,7 @@ Tipeha
 Munah
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -85443,7 +85443,7 @@ Tipeha
 
 Etnahta
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Qadma
 Geresh
 
@@ -85473,7 +85473,7 @@ Merkha
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -85487,7 +85487,7 @@ Tipeha
 
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -85501,7 +85501,7 @@ Geresh
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -85656,7 +85656,7 @@ Tipeha
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 
 Merkha
@@ -85742,7 +85742,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -85957,7 +85957,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -86108,7 +86108,7 @@ Revia
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -86125,9 +86125,9 @@ Zinor
 Segol
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 Tipeha
@@ -86164,7 +86164,7 @@ Zinor
 Segol
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -86193,7 +86193,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -86229,9 +86229,9 @@ Zinor
 Segol
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 Tipeha
@@ -86309,7 +86309,7 @@ Zinor
 Segol
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -86318,7 +86318,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -86370,7 +86370,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -86415,7 +86415,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Darga
 
 Tevir
@@ -86430,9 +86430,9 @@ Zinor
 Segol
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 Tipeha
@@ -86455,9 +86455,9 @@ Tipeha
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Darga
 
 Tevir
@@ -86476,7 +86476,7 @@ Zinor
 Segol
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -86506,7 +86506,7 @@ Tipeha
 Munah
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -86520,7 +86520,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Darga
 
 Tevir
@@ -86562,7 +86562,7 @@ Zinor
 Segol
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -86584,7 +86584,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -86611,7 +86611,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -86636,7 +86636,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Darga
 
 Tevir
@@ -86722,9 +86722,9 @@ Zinor
 Segol
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 Tipeha
@@ -86735,7 +86735,7 @@ Zaqef Gadol
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -86759,10 +86759,10 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Qadma
@@ -86825,7 +86825,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -86861,7 +86861,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -86921,7 +86921,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Munah
@@ -86989,7 +86989,7 @@ Merkha
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -87102,7 +87102,7 @@ Tipeha
 Munah
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -87318,7 +87318,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -87519,7 +87519,7 @@ Etnahta
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -87602,7 +87602,7 @@ Tipeha
 Etnahta
 Munah
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -87689,7 +87689,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Munah
 
@@ -87782,15 +87782,15 @@ Munah
 
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 
 Zaqef Qatan
 
-Etnahta, Tipeha
+Tipeha, Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -87803,7 +87803,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -87880,7 +87880,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -87897,7 +87897,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -87984,7 +87984,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -88074,7 +88074,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -88094,7 +88094,7 @@ Qadma
 Geresh
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -88185,105 +88185,6 @@ Tevir
 Merkha
 Tipeha
 
-
-Munah
-
-Pazer
-Telisha Gedola
-
-
-
-
-Darga
-
-
-
-Tevir
-
-Tipeha
-
-
-
-
-
-Merkha
-Tipeha
-Etnahta
-
-
-Pashta
-Munah
-
-Zaqef Qatan
-
-Tipeha
-
-
-
-
-
-Darga
-
-Tevir
-Merkha
-
-Tipeha
-Munah
-Etnahta
-Darga
-
-Tevir
-Merkha
-Tipeha
-
-
-Munah
-
-Pazer
-Telisha Gedola
-
-
-
-
-Darga
-
-
-
-Tevir
-
-Tipeha
-
-
-
-
-Merkha
-Tipeha
-Etnahta
-
-
-Pashta
-Munah
-
-Zaqef Qatan
-
-Tipeha
-
-
-
-
-
-Darga
-
-Tevir
-Merkha
-Tipeha
-Munah
-Etnahta
-Darga
-
-Tevir
-Merkha
-Tipeha
 
 Munah
 
@@ -88314,6 +88215,7 @@ Pashta
 Munah
 
 Zaqef Qatan
+
 Tipeha
 
 
@@ -88324,6 +88226,7 @@ Darga
 
 Tevir
 Merkha
+
 Tipeha
 Munah
 Etnahta
@@ -88382,6 +88285,103 @@ Tevir
 Merkha
 Tipeha
 
+Munah
+
+Pazer
+Telisha Gedola
+
+
+
+
+Darga
+
+
+
+Tevir
+
+Tipeha
+
+
+
+
+
+Merkha
+Tipeha
+Etnahta
+
+
+Pashta
+Munah
+
+Zaqef Qatan
+Tipeha
+
+
+
+
+
+Darga
+
+Tevir
+Merkha
+Tipeha
+Munah
+Etnahta
+Darga
+
+Tevir
+Merkha
+Tipeha
+
+
+Munah
+
+Pazer
+Telisha Gedola
+
+
+
+
+Darga
+
+
+
+Tevir
+
+Tipeha
+
+
+
+
+Merkha
+Tipeha
+Etnahta
+
+
+Pashta
+Munah
+
+Zaqef Qatan
+
+Tipeha
+
+
+
+
+
+Darga
+
+Tevir
+Merkha
+Tipeha
+Munah
+Etnahta
+Darga
+
+Tevir
+Merkha
+Tipeha
+
 
 Munah
 
@@ -88479,7 +88479,7 @@ Qadma
 Geresh
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -88539,7 +88539,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -88632,7 +88632,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -88764,7 +88764,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -88779,7 +88779,7 @@ Tipeha
 
 Telisha Qetana
 Qadma
-Merkha
+Merkha, Paseq
 Zinor
 
 Munah
@@ -88963,7 +88963,7 @@ Etnahta
 Telisha Gedola
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 
@@ -89006,7 +89006,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Mahapakh
@@ -89056,7 +89056,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -89119,7 +89119,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Qadma
 
 Darga
@@ -89235,7 +89235,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -89304,7 +89304,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -89371,7 +89371,7 @@ Merkha
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -89392,7 +89392,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -89462,8 +89462,8 @@ Merkha
 Qadma
 
 Geresh
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 Munah
 
 
@@ -89574,7 +89574,7 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -89644,7 +89644,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -89680,7 +89680,7 @@ Tipeha
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -89708,35 +89708,35 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-
-Qadma
-Geresh
-
-Munah
-
-Revia
-
-
-Pashta
-Munah
-
-
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-Etnahta
 
 Qadma
 Geresh
 
+Munah
+
+Revia
+
+
+Pashta
+Munah
+
+
+Zaqef Qatan
+
+
+Tipeha
+
+
+
+Etnahta
+
+Qadma
+Geresh
+
 
 Revia
 Pashta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -89822,13 +89822,13 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Qadma
@@ -89888,7 +89888,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Revia
 Gershayim
 
@@ -90005,7 +90005,7 @@ Munah
 Etnahta
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -90036,7 +90036,7 @@ Etnahta
 Merkha
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Merkha
 
@@ -90154,7 +90154,7 @@ Merkha
 Munah
 Revia
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -90218,7 +90218,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -90251,7 +90251,7 @@ Tipeha
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -90431,7 +90431,7 @@ Munah
 Munah
 
 
-Munah
+Munah, Paseq
 Telisha Gedola
 
 
@@ -90498,7 +90498,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -90508,7 +90508,7 @@ Tipeha
 
 
 Munah
-Munah
+Munah, Paseq
 Pazer
 
 
@@ -90519,13 +90519,13 @@ Qadma
 Geresh
 
 
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 Munah
 
@@ -90540,7 +90540,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -90561,7 +90561,7 @@ Tipeha
 
 
 
-Tevir, Merkha
+Merkha, Tevir
 
 
 Tipeha
@@ -90569,10 +90569,10 @@ Tipeha
 
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
-Etnahta, Munah
+Munah, Etnahta
 Merkha
 Tipeha
 
@@ -90595,7 +90595,7 @@ Tipeha
 Gershayim
 
 
-Tevir, Darga
+Darga, Tevir
 Merkha
 Tipeha
 
@@ -90612,7 +90612,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Qadma
 Darga
 
@@ -90745,7 +90745,7 @@ Tipeha
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -90777,13 +90777,13 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -90803,7 +90803,7 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Munah
 Mahapakh
 Pashta
@@ -90909,7 +90909,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -90933,7 +90933,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -91031,7 +91031,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -91039,7 +91039,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -91063,7 +91063,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Merkha
 
@@ -91188,7 +91188,7 @@ Etnahta
 
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Merkha
 
@@ -91213,7 +91213,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Tevir
 
@@ -91243,9 +91243,9 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -91279,16 +91279,16 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -91373,7 +91373,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -91462,7 +91462,7 @@ Qadma
 
 Geresh
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 Munah
 Zaqef Qatan
@@ -91472,7 +91472,7 @@ Zaqef Qatan
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Merkha
 Tipeha
@@ -91547,7 +91547,7 @@ Zaqef Qatan
 
 Merkha
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Merkha
 Tipeha
@@ -91560,7 +91560,7 @@ Tipeha
 Munah
 Etnahta
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Qadma
@@ -91846,7 +91846,7 @@ Revia
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -91913,7 +91913,7 @@ Geresh
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -92046,7 +92046,7 @@ Munah
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -92085,7 +92085,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -92140,7 +92140,7 @@ Tipeha
 
 
 Qadma
-Darga
+Darga, Paseq
 Tevir
 
 Tipeha
@@ -92423,7 +92423,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -92731,7 +92731,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 Tipeha
 Merkha
@@ -92924,7 +92924,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -92986,7 +92986,7 @@ Munah
 Munah
 Telisha Gedola
 
-Geresh, Qadma
+Qadma, Geresh
 
 Qadma
 
@@ -93073,7 +93073,7 @@ Tipeha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -93113,7 +93113,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -93149,7 +93149,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -93245,7 +93245,7 @@ Telisha Qetana
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -93270,11 +93270,11 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -93332,7 +93332,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 
 Zaqef Qatan
@@ -93357,7 +93357,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
@@ -93375,7 +93375,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Qetana
@@ -93448,7 +93448,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -93484,13 +93484,13 @@ Tipeha
 Etnahta
 
 
-Munah
+Munah, Paseq
 Revia
 
 Pashta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -93627,7 +93627,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -93666,7 +93666,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -93734,7 +93734,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -93755,7 +93755,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -93870,11 +93870,11 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -93891,16 +93891,16 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 
 
-Etnahta, Munah
+Munah, Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -93911,7 +93911,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -93958,7 +93958,7 @@ Tipeha
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -93986,7 +93986,7 @@ Darga
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -94009,12 +94009,12 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
-Revia, Munah
+Munah, Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -94223,7 +94223,7 @@ Pashta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -94274,7 +94274,7 @@ Munah
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -94302,7 +94302,7 @@ Pashta
 Zaqef Qatan
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -94353,7 +94353,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -94446,7 +94446,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -94678,7 +94678,7 @@ Zaqef Qatan
 
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -94927,14 +94927,14 @@ Tipeha
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
 Telisha Gedola
 
 Qadma
-Merkha
+Merkha, Paseq
 
 Zinor
 Segol
@@ -95022,7 +95022,7 @@ Tipeha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -95078,7 +95078,7 @@ Tipeha
 Qadma
 Merkha
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -95099,7 +95099,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -95221,7 +95221,7 @@ Tevir
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 Munah
 
 
@@ -95246,7 +95246,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -95278,7 +95278,7 @@ Munah
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -95360,9 +95360,9 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -95601,7 +95601,7 @@ Etnahta
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -95696,14 +95696,14 @@ Pashta
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -95733,7 +95733,7 @@ Etnahta
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -95899,7 +95899,7 @@ Revia
 Pashta
 Telisha Qetana
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 
 
@@ -95944,7 +95944,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -96149,7 +96149,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -96240,7 +96240,7 @@ Geresh
 
 Revia
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Revia
 Pashta
@@ -96267,7 +96267,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -96371,7 +96371,7 @@ Tevir
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 
 Revia
 Qadma
@@ -96429,41 +96429,41 @@ Etnahta
 Munah
 Merkha
 Tevir, Telisha Qetana
-Merkha, Qadma
-Tipeha, Geresh
+Qadma, Merkha
+Geresh, Tipeha
 
 Revia
 Munah
 Merkha
-Munah, Merkha
-Pashta, Munah, Qadma
+Merkha, Munah
+Qadma, Munah, Pashta, Paseq
 
 Zaqef Qatan, Pazer
-Munah, Mahapakh
+Mahapakh, Munah
 
 
-Pashta, Munah, Qadma
+Qadma, Munah, Pashta, Paseq
 
 Zaqef Qatan, Pazer
 
 Merkha, Telisha Qetana
 
 
-Tipeha, Qadma
+Qadma, Tipeha
 
-Etnahta, Geresh
+Geresh, Etnahta
 
 Merkha
 
 
-Tipeha, Munah
+Tipeha, Munah, Paseq
 
-Munah, Merkha
+Merkha, Munah
 
 
 Revia
 
-Munah, Merkha
+Merkha, Munah
 Tipeha, Zinor
 
 Munah
@@ -96471,7 +96471,7 @@ Etnahta, Segol
 Munah
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Telisha Gedola
@@ -96489,9 +96489,9 @@ Tipeha
 Etnahta
 
 Mahapakh, Merkha
-Tipeha, Pashta, Qadma
+Qadma, Tipeha, Pashta
 
-Etnahta, Zaqef Qatan
+Zaqef Qatan, Etnahta
 
 Tipeha
 
@@ -96519,33 +96519,33 @@ Tipeha
 
 
 
-Tevir, Munah
+Munah, Tevir
 
 Merkha, Telisha Qetana
 
-Tipeha, Qadma
+Qadma, Tipeha
 
-Etnahta, Geresh
+Geresh, Etnahta
 
 Merkha
-Tipeha, Munah
-Munah, Merkha
+Tipeha, Munah, Paseq
+Merkha, Munah
 Revia
-Munah, Mahapakh
-Pashta, Munah
+Mahapakh, Munah
+Munah, Pashta
 Zaqef Qatan, Zinor
 
 Tipeha, Munah
 
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Geresh
-Tipeha, Munah
+Geresh, Zaqef Qatan
+Tipeha, Munah, Paseq
 
 Tipeha, Munah
-Etnahta, Revia
+Revia, Etnahta
 Munah
 Munah
 
@@ -96578,17 +96578,17 @@ Merkha
 Tipeha
 Etnahta
 
-Revia, Gershayim
+Gershayim, Revia
 Munah
 Mahapakh, Merkha
-Pashta, Munah, Qadma
+Qadma, Munah, Pashta, Paseq
 
 Munah
 Zaqef Qatan, Revia
 
-Geresh, Qadma, Telisha Qetana
-Mahapakh, Qadma
-Pashta, Mahapakh, Qadma
+Qadma, Geresh, Telisha Qetana
+Qadma, Mahapakh
+Qadma, Mahapakh, Pashta
 
 Zaqef Qatan, Pashta
 
@@ -96597,7 +96597,7 @@ Tipeha, Pashta
 
 
 Munah
-Etnahta, Zaqef Qatan
+Zaqef Qatan, Etnahta
 
 Revia
 Pashta
@@ -96611,7 +96611,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -96620,11 +96620,11 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -96635,7 +96635,7 @@ Merkha
 Tipeha
 Merkha
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Tipeha, Munah
@@ -96740,7 +96740,7 @@ Revia
 Munah
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -96780,7 +96780,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Revia
 Telisha Gedola
 
@@ -96819,8 +96819,8 @@ Tipeha
 Munah
 Etnahta
 
+Munah, Paseq
 Munah
-Munah
 Revia
 Telisha Qetana
 
@@ -97038,7 +97038,7 @@ Telisha Qetana
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tevir
 Merkha
@@ -97049,10 +97049,10 @@ Tipeha
 Etnahta
 Merkha
 Tipeha
-Merkha
+Merkha, Paseq
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -97090,7 +97090,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -97126,8 +97126,8 @@ Tipeha
 
 Gershayim
 Merkha
+Munah, Paseq
 Munah
-Munah
 Revia
 
 
@@ -97154,7 +97154,7 @@ Merkha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Munah
 
 Zinor
@@ -97224,10 +97224,10 @@ Etnahta
 Telisha Gedola
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -97266,7 +97266,7 @@ Tipeha
 
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -97340,7 +97340,7 @@ Telisha Gedola
 
 Qadma
 
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -97356,12 +97356,12 @@ Tipeha
 Munah
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -97387,7 +97387,7 @@ Munah
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -97435,7 +97435,7 @@ Etnahta
 
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -97542,8 +97542,8 @@ Zaqef Qatan
 Tipeha
 Etnahta
 Gershayim
+Munah, Paseq
 Munah
-Munah
 Revia
 
 Merkha
@@ -97595,7 +97595,7 @@ Pashta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Darga
 Tevir
 Tipeha
@@ -97613,7 +97613,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -97650,7 +97650,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -97676,8 +97676,8 @@ Tipeha
 
 
 
+Munah, Paseq
 Munah
-Munah
 Revia
 Mahapakh
 
@@ -97706,7 +97706,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -97718,13 +97718,13 @@ Munah
 
 
 Telisha Gedola
-Geresh, Qadma
+Qadma, Geresh
 
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -97783,7 +97783,7 @@ Munah
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -97794,7 +97794,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -97802,7 +97802,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 
 Merkha
@@ -97859,7 +97859,7 @@ Etnahta
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -97893,7 +97893,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -97989,10 +97989,10 @@ Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
-Darga
+Darga, Paseq
 Tevir
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 Merkha
@@ -98092,7 +98092,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 
@@ -98119,7 +98119,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -98269,16 +98269,16 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 
-Munah
+Munah, Paseq
 
 Munah
 
 
 Revia
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -98296,7 +98296,7 @@ Tipeha
 
 
 
-Merkha, Qadma
+Qadma, Merkha
 Pashta
 
 
@@ -98308,7 +98308,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -98431,7 +98431,7 @@ Munah
 Etnahta
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -98452,7 +98452,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Darga
@@ -98480,7 +98480,7 @@ Revia
 Munah
 Telisha Qetana
 Qadma
-Merkha
+Merkha, Paseq
 
 
 Zinor
@@ -98513,8 +98513,8 @@ Munah
 Revia
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -98523,13 +98523,13 @@ Munah
 Etnahta
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -98592,7 +98592,7 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -98727,7 +98727,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -98739,7 +98739,7 @@ Tipeha
 Munah
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -98752,7 +98752,7 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -98919,8 +98919,8 @@ Munah
 Revia
 Zinor
 
-Munah
 Munah
+Munah, Paseq
 
 
 Segol
@@ -98954,7 +98954,7 @@ Pashta
 Zaqef Qatan
 
 
-Etnahta, Tipeha
+Tipeha, Etnahta
 Merkha
 Tipeha
 
@@ -98965,7 +98965,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Mahapakh, Qadma
+Mahapakh, Qadma, Pashta
 
 Zaqef Qatan
 Pashta
@@ -98982,7 +98982,7 @@ Revia
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
@@ -99034,7 +99034,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -99106,7 +99106,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -99131,7 +99131,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -99249,7 +99249,7 @@ Munah
 Revia
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 Etnahta
 Munah
 Mahapakh
@@ -99339,7 +99339,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -99372,7 +99372,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -99484,7 +99484,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -99592,7 +99592,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -99612,8 +99612,8 @@ Tipeha
 Zinor
 
 Segol
+Munah, Paseq
 Munah
-Munah
 
 Revia
 Mahapakh
@@ -99715,7 +99715,7 @@ Segol
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -99805,13 +99805,13 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -99835,7 +99835,7 @@ Revia
 Qadma
 Geresh
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -99857,7 +99857,7 @@ Etnahta
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -99945,7 +99945,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -100004,7 +100004,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -100135,14 +100135,14 @@ Etnahta
 Qadma
 
 Geresh
+Munah, Paseq
 Munah
-Munah
 Revia
 
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -100247,7 +100247,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -100372,7 +100372,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -100429,7 +100429,7 @@ Pashta
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -100437,7 +100437,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -100568,7 +100568,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -100622,7 +100622,7 @@ Telisha Qetana
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -100680,7 +100680,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -100707,7 +100707,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -100884,7 +100884,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -100924,7 +100924,7 @@ Geresh
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Mahapakh
@@ -100982,9 +100982,9 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -101004,14 +101004,14 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Mahapakh
 
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 
@@ -101117,7 +101117,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -101148,7 +101148,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -101185,8 +101185,8 @@ Telisha Gedola
 Qadma
 
 Geresh
+Munah, Paseq
 Munah
-Munah
 Revia
 Darga
 Tevir
@@ -101214,7 +101214,7 @@ Munah
 
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -101330,7 +101330,7 @@ Tipeha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -101551,7 +101551,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -101800,7 +101800,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -101867,9 +101867,9 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -101899,7 +101899,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -101938,14 +101938,14 @@ Merkha
 Tipeha
 
 
+Munah, Paseq
 Munah
-Munah
 Revia
 Pashta
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -102005,7 +102005,7 @@ Munah
 Segol
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -102015,7 +102015,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -102082,7 +102082,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -102111,12 +102111,12 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -102130,7 +102130,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -102170,7 +102170,7 @@ Segol
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -102179,7 +102179,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -102198,7 +102198,7 @@ Munah
 Etnahta
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -102277,7 +102277,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -102294,7 +102294,7 @@ Tipeha
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -102410,7 +102410,7 @@ Merkha
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -102428,7 +102428,7 @@ Tipeha
 Qadma
 Geresh
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -102483,7 +102483,7 @@ Gershayim
 Munah
 
 Revia
-Geresh, Qadma
+Qadma, Geresh
 Darga
 Tevir
 
@@ -102522,7 +102522,7 @@ Etnahta
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -102589,7 +102589,7 @@ Gershayim
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -102612,7 +102612,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Zaqef Gadol
@@ -102640,7 +102640,7 @@ Etnahta
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -102682,8 +102682,8 @@ Merkha
 
 Gershayim
 
+Munah, Paseq
 Munah
-Munah
 Revia
 Qadma
 
@@ -102724,7 +102724,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -102747,7 +102747,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -102761,7 +102761,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -102809,8 +102809,8 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
 Munah
+Munah, Paseq
 
 
 Pazer
@@ -102818,8 +102818,8 @@ Qadma
 
 Geresh
 
+Munah, Paseq
 Munah
-Munah
 Revia
 
 
@@ -102996,8 +102996,8 @@ Etnahta
 
 
 
+Munah, Paseq
 Munah
-Munah
 
 
 Revia
@@ -103070,7 +103070,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Tevir
@@ -103117,7 +103117,7 @@ Geresh
 
 Revia
 
-Qadma
+Qadma, Paseq
 
 Geresh
 
@@ -103126,7 +103126,7 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -103277,7 +103277,7 @@ Munah
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -103298,7 +103298,7 @@ Merkha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tevir
@@ -103309,13 +103309,13 @@ Etnahta
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -103559,7 +103559,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -103681,7 +103681,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -103708,7 +103708,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -103723,7 +103723,7 @@ Geresh
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -103735,7 +103735,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -103873,7 +103873,7 @@ Tipeha
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -103940,7 +103940,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -104043,9 +104043,9 @@ Merkha
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -104220,7 +104220,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Tevir
@@ -104258,7 +104258,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -104274,7 +104274,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -104327,7 +104327,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -104348,7 +104348,7 @@ Revia
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Yetiv
 Munah
 Zaqef Qatan
@@ -104357,7 +104357,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -104460,7 +104460,7 @@ Tipeha
 Gershayim
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -104888,9 +104888,9 @@ Munah
 Revia
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -104950,7 +104950,7 @@ Telisha Qetana
 Pashta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -105028,7 +105028,7 @@ Tipeha
 
 
 
-Telisha Qetana
+Telisha Qetana, Telisha Qetana
 
 Qadma
 Geresh
@@ -105051,7 +105051,7 @@ Etnahta
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -105267,7 +105267,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -105281,7 +105281,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 Munah
 Zaqef Qatan
@@ -105323,7 +105323,7 @@ Munah
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -105374,7 +105374,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -105393,7 +105393,7 @@ Merkha
 Munah
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -105401,7 +105401,7 @@ Pazer
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -105412,7 +105412,7 @@ Zaqef Qatan
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -105438,7 +105438,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -105473,7 +105473,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -105697,13 +105697,13 @@ Tipeha
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -105743,7 +105743,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -105796,7 +105796,7 @@ Revia
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -105833,7 +105833,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -105851,7 +105851,7 @@ Revia
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -105982,14 +105982,14 @@ Munah
 Revia
 
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -106048,7 +106048,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -106133,7 +106133,7 @@ Merkha
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -106142,7 +106142,7 @@ Pashta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -106261,7 +106261,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -106273,7 +106273,7 @@ Etnahta
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -106299,7 +106299,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -106657,7 +106657,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -106693,7 +106693,7 @@ Tipeha
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -106782,7 +106782,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -106813,7 +106813,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -106851,7 +106851,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -106983,7 +106983,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 Munah
 
@@ -107062,7 +107062,7 @@ Tipeha
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -107071,7 +107071,7 @@ Tevir
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -107129,18 +107129,18 @@ Tipeha
 
 Pazer
 
-Munah
 Munah
 Munah
+Munah, Paseq
 Telisha Gedola
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Telisha Gedola
@@ -107180,7 +107180,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -107234,7 +107234,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -107255,7 +107255,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Zaqef Gadol
 Tipeha
@@ -107266,8 +107266,8 @@ Qadma
 
 Geresh
 
+Munah, Paseq
 Munah
-Munah
 Revia
 Pashta
 Munah
@@ -107354,7 +107354,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -107368,7 +107368,7 @@ Tipeha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -107500,7 +107500,7 @@ Revia
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -107541,7 +107541,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -107570,7 +107570,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -107727,7 +107727,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -107804,7 +107804,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -107836,7 +107836,7 @@ Merkha
 Tipeha
 
 Etnahta
-Mahapakh
+Legarmeh
 
 Pashta
 Zaqef Qatan
@@ -107851,7 +107851,7 @@ Zaqef Qatan
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -108127,9 +108127,9 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -108193,7 +108193,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -108226,7 +108226,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Zaqef Gadol
@@ -108297,7 +108297,7 @@ Merkha
 
 
 Munah
-Munah
+Munah, Paseq
 Telisha Gedola
 
 Qadma
@@ -108320,7 +108320,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -108337,7 +108337,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -108349,7 +108349,7 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -108454,7 +108454,7 @@ Tipeha
 
 
 Munah
-Munah
+Munah, Paseq
 Telisha Gedola
 
 
@@ -108559,13 +108559,13 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
 
 Qadma
-Merkha
+Merkha, Paseq
 Zinor
 
 Munah
@@ -108613,7 +108613,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -108740,7 +108740,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
@@ -108770,7 +108770,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -108862,7 +108862,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -108927,7 +108927,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -108962,7 +108962,7 @@ Tipeha
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -109070,7 +109070,7 @@ Geresh
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -109102,7 +109102,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -109143,7 +109143,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -109204,13 +109204,13 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -109270,7 +109270,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -109278,7 +109278,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -109479,13 +109479,13 @@ Merkha
 
 
 Qadma
-Merkha
+Merkha, Paseq
 Zinor
 
 Segol
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -109631,7 +109631,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tevir
 Merkha
@@ -109712,14 +109712,14 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -109750,7 +109750,7 @@ Munah
 
 Telisha Qetana
 
-Qadma
+Qadma, Paseq
 Geresh
 
 Revia
@@ -109800,7 +109800,7 @@ Telisha Qetana
 Qadma
 Geresh
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -109838,7 +109838,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -109987,9 +109987,9 @@ Munah
 Revia
 Pashta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Qadma
 Zaqef Qatan
@@ -110008,7 +110008,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -110070,7 +110070,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 Munah
 Zaqef Qatan
@@ -110116,7 +110116,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -110164,7 +110164,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -110212,7 +110212,7 @@ Tipeha
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -110339,7 +110339,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -110353,7 +110353,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -110369,12 +110369,12 @@ Merkha
 Tipeha
 
 Etnahta
+Munah, Paseq
 Munah
-Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -110442,7 +110442,7 @@ Munah
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -110492,7 +110492,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -110519,7 +110519,7 @@ Segol
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -110604,7 +110604,7 @@ Segol
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -110638,7 +110638,7 @@ Tipeha
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -110707,8 +110707,8 @@ Merkha
 
 Qadma
 Geresh
+Munah, Paseq
 Munah
-Munah
 
 Revia
 
@@ -110778,7 +110778,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -110830,7 +110830,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 
@@ -110864,7 +110864,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -110881,8 +110881,8 @@ Munah
 
 Etnahta
 
+Munah, Paseq
 Munah
-Munah
 Revia
 
 Tevir
@@ -110964,7 +110964,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -111052,16 +111052,16 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
+Munah, Paseq
 Munah
-Munah
 
 
 Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -111172,7 +111172,7 @@ Merkha
 Geresh
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -111195,7 +111195,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -111288,7 +111288,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -111340,7 +111340,7 @@ Tipeha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -111536,7 +111536,7 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -111565,7 +111565,7 @@ Etnahta
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -111574,14 +111574,14 @@ Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -111601,7 +111601,7 @@ Merkha
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -111743,7 +111743,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -111861,7 +111861,7 @@ Zaqef Qatan
 
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -111925,18 +111925,18 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
 Tipeha
 
-Munah
+Munah, Paseq
 Revia
 Munah
 Mahapakh
@@ -111950,7 +111950,7 @@ Darga
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -112174,7 +112174,7 @@ Etnahta
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -112214,7 +112214,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -112253,7 +112253,7 @@ Mahapakh
 
 Pashta
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -112376,7 +112376,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -112432,7 +112432,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -112470,7 +112470,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -112620,7 +112620,7 @@ Merkha
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -112675,7 +112675,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -112751,7 +112751,7 @@ Geresh
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Telisha Gedola
 
@@ -112795,13 +112795,13 @@ Pashta
 Munah
 Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 
 Merkha
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -113104,7 +113104,7 @@ Pashta
 Munah
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -113123,7 +113123,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -113149,7 +113149,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -113166,8 +113166,8 @@ Tipeha
 Etnahta
 Gershayim
 
+Munah, Paseq
 Munah
-Munah
 Revia
 Pashta
 Pashta
@@ -113265,7 +113265,7 @@ Tipeha
 Telisha Gedola
 
 Qadma
-Merkha
+Merkha, Paseq
 
 Zinor
 Segol
@@ -113289,8 +113289,8 @@ Pashta
 
 Munah
 Zaqef Qatan
+Munah, Paseq
 Munah
-Munah
 Revia
 Pashta
 Munah
@@ -113310,7 +113310,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -113321,7 +113321,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -113330,7 +113330,7 @@ Etnahta
 Telisha Gedola
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -113380,7 +113380,7 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Telisha Gedola
 
 
@@ -113393,7 +113393,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -113426,7 +113426,7 @@ Telisha Gedola
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -113450,7 +113450,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Revia
 Mahapakh
 Pashta
@@ -113470,7 +113470,7 @@ Geresh
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -113537,7 +113537,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -113698,7 +113698,7 @@ Revia
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -113811,7 +113811,7 @@ Munah
 Telisha Qetana
 
 Qadma
-Darga
+Darga, Paseq
 
 Tevir
 Merkha
@@ -113849,7 +113849,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -113953,7 +113953,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -113994,7 +113994,7 @@ Munah
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -114006,12 +114006,12 @@ Etnahta
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
+Munah, Paseq
 Munah
-Munah
 Revia
 Pashta
 
@@ -114030,7 +114030,7 @@ Mahapakh
 Pashta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -114059,7 +114059,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -114118,7 +114118,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 
@@ -114236,7 +114236,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -114244,7 +114244,7 @@ Zaqef Qatan
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -114263,7 +114263,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -114375,10 +114375,10 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -114642,7 +114642,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -114754,7 +114754,7 @@ Tipeha
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -114922,7 +114922,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -115014,7 +115014,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -115038,8 +115038,8 @@ Telisha Qetana
 Qadma
 
 Geresh
+Munah, Paseq
 Munah
-Munah
 
 Revia
 Mahapakh
@@ -115079,7 +115079,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -115217,7 +115217,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Merkha
 
@@ -115303,7 +115303,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Revia
 Tevir
 Merkha
@@ -115317,7 +115317,7 @@ Telisha Qetana
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -115429,7 +115429,7 @@ Munah
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -115437,7 +115437,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -115455,7 +115455,7 @@ Tipeha
 Munah
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -115473,7 +115473,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -115551,7 +115551,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Etnahta
@@ -115577,7 +115577,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -115607,7 +115607,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -115688,14 +115688,14 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -115808,13 +115808,13 @@ Zaqef Qatan
 Tipeha
 
 
+Munah, Paseq
 Munah
-Munah
 
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -115859,7 +115859,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -115868,7 +115868,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -115904,7 +115904,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -115947,7 +115947,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -115959,7 +115959,7 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -115976,7 +115976,7 @@ Tipeha
 
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -115985,7 +115985,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -116010,7 +116010,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -116020,7 +116020,7 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -116118,7 +116118,7 @@ Revia
 Gershayim
 Qadma
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 
 Munah
 
@@ -116171,7 +116171,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -116212,7 +116212,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -116258,8 +116258,8 @@ Tipeha
 
 Qadma
 Geresh
+Munah, Paseq
 Munah
-Munah
 Revia
 Telisha Gedola
 Qadma
@@ -116462,7 +116462,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -116500,7 +116500,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -116591,7 +116591,7 @@ Tipeha
 Etnahta
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -116643,7 +116643,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -116732,7 +116732,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -116796,7 +116796,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -116814,7 +116814,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -116927,7 +116927,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -116962,7 +116962,7 @@ Tipeha
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -117033,7 +117033,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -117226,7 +117226,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -117281,7 +117281,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -117454,7 +117454,7 @@ Tipeha
 Telisha Qetana
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Mahapakh
@@ -117473,7 +117473,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -117556,7 +117556,7 @@ Revia
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -117573,7 +117573,7 @@ Merkha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -117595,7 +117595,7 @@ Revia
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Pashta
@@ -117637,15 +117637,15 @@ Pazer
 
 Pazer
 
-Munah
+Munah, Paseq
 
 Pazer
 Munah
 
-Munah
+Munah, Paseq
 
 
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -117654,8 +117654,8 @@ Telisha Qetana
 Qadma
 
 Geresh
+Munah, Paseq
 Munah
-Munah
 
 Revia
 
@@ -117816,7 +117816,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -117828,10 +117828,10 @@ Gershayim
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -117937,7 +117937,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -117995,13 +117995,13 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Revia
 Gershayim
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -118019,7 +118019,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -118028,7 +118028,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Zaqef Gadol
@@ -118052,7 +118052,7 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -118143,7 +118143,7 @@ Pashta
 
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -118166,7 +118166,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -118186,7 +118186,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -118248,12 +118248,12 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Telisha Qetana
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -118278,7 +118278,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -118461,8 +118461,8 @@ Merkha
 Qadma
 
 Geresh
+Munah, Paseq
 Munah
-Munah
 
 Revia
 Munah
@@ -118509,7 +118509,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Yetiv
@@ -118544,7 +118544,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -118597,7 +118597,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -118620,7 +118620,7 @@ Tipeha
 Etnahta
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -118650,7 +118650,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -118685,7 +118685,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -118723,7 +118723,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -118794,7 +118794,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Darga
 Tevir
 Merkha
@@ -118884,8 +118884,8 @@ Tipeha
 
 
 Etnahta
+Munah, Paseq
 Munah
-Munah
 Revia
 
 Mahapakh
@@ -118963,7 +118963,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -118992,12 +118992,12 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -119005,7 +119005,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 
 Tipeha
@@ -119050,14 +119050,14 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -119101,7 +119101,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -119178,7 +119178,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -119306,14 +119306,14 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -119330,7 +119330,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -119384,7 +119384,7 @@ Merkha
 Darga
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Etnahta
@@ -119402,7 +119402,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -119419,7 +119419,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -119533,7 +119533,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -119617,7 +119617,7 @@ Munah
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -119689,7 +119689,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -119753,7 +119753,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -119818,7 +119818,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -119849,7 +119849,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 Munah
 
@@ -119881,7 +119881,7 @@ Tipeha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -119900,7 +119900,7 @@ Merkha
 Munah
 
 Munah
-Munah
+Munah, Paseq
 Pazer
 
 Munah
@@ -120012,7 +120012,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -120061,7 +120061,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -120088,10 +120088,10 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Qadma
 Zaqef Qatan
@@ -120187,7 +120187,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 Munah
 
@@ -120259,7 +120259,7 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -120301,7 +120301,7 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -120321,7 +120321,7 @@ Merkha
 Tipeha
 
 Munah
-Pashta, Mahapakh
+Mahapakh, Pashta
 Zaqef Qatan
 Merkha
 Tipeha
@@ -120333,7 +120333,7 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -120372,7 +120372,7 @@ Qadma
 Geresh
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -120401,7 +120401,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -120414,8 +120414,8 @@ Zaqef Qatan
 
 Tipeha
 Etnahta
+Munah, Paseq
 Munah
-Munah
 Revia
 
 Mahapakh
@@ -120463,7 +120463,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -120479,9 +120479,9 @@ Telisha Gedola
 
 Gershayim
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 Zaqef Qatan
 
@@ -120624,7 +120624,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -120709,28 +120709,28 @@ Munah
 
 Etnahta
 Pashta
-
-Zaqef Qatan, Munah
-
-Tipeha, Merkha
-
-Merkha
 
-Tipeha
-
-
-
-Munah
-
-Zaqef Qatan
+Munah, Zaqef Qatan
 
 Tipeha, Merkha
 
 Merkha
 
+Tipeha
 
 
-Tevir, Merkha
+
+Munah
+
+Zaqef Qatan
+
+Merkha, Tipeha
+
+Merkha
+
+
+
+Merkha, Tevir
 
 Merkha
 
@@ -120756,7 +120756,7 @@ Etnahta
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 
 Munah
@@ -120765,7 +120765,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Mahapakh
@@ -120868,7 +120868,7 @@ Merkha
 Pazer
 Munah, Telisha Qetana
 
-Geresh, Qadma
+Qadma, Geresh
 
 Munah
 
@@ -120925,7 +120925,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -120980,7 +120980,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -121091,7 +121091,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -121117,7 +121117,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -121160,7 +121160,7 @@ Qadma
 Merkha
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Munah
 
@@ -121203,7 +121203,7 @@ Segol
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Qadma
 Mahapakh
 Pashta
@@ -121226,7 +121226,7 @@ Merkha
 Revia
 Telisha Qetana
 Qadma
-Munah
+Munah, Paseq
 Zinor
 
 Munah
@@ -121327,7 +121327,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -121374,7 +121374,7 @@ Qadma
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Darga
 
@@ -121430,7 +121430,7 @@ Telisha Gedola
 
 Geresh
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 Munah
 Zaqef Qatan
@@ -121439,7 +121439,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Mahapakh
 Pashta
@@ -121470,7 +121470,7 @@ Merkha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -121482,7 +121482,7 @@ Etnahta
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -121495,13 +121495,13 @@ Tipeha
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Munah
 
@@ -121513,7 +121513,7 @@ Tipeha
 
 Qadma
 
-Merkha
+Merkha, Paseq
 Zinor
 
 Munah
@@ -121525,9 +121525,9 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -121540,7 +121540,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -121611,7 +121611,7 @@ Telisha Qetana
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -121680,7 +121680,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -121691,7 +121691,7 @@ Tipeha
 
 Etnahta
 
-Tevir, Merkha
+Merkha, Tevir
 Merkha
 
 Tipeha
@@ -121768,12 +121768,12 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -121795,7 +121795,7 @@ Revia
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -121858,7 +121858,7 @@ Tipeha
 
 
 
-Pashta, Mahapakh
+Mahapakh, Paseq, Pashta
 
 Zaqef Qatan
 Tipeha
@@ -121870,22 +121870,16 @@ Tipeha
 
 
 
-Tevir, Merkha
+Merkha, Tevir
 
 Tipeha
 
 Merkha
 
-Tevir, Merkha
+Merkha, Tevir
 
 Merkha
 Tipeha
-
-
-Merkha
-
-Tipeha
-
 
 
 Merkha
@@ -121904,7 +121898,13 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+
+
+Merkha
+
+Tipeha
+
+Munah, Etnahta
 
 Tevir
 Merkha
@@ -121921,9 +121921,9 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -121935,7 +121935,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -122084,7 +122084,7 @@ Tipeha
 
 Revia
 
-Tevir, Merkha
+Merkha, Tevir
 Merkha
 Tipeha
 
@@ -122093,7 +122093,7 @@ Merkha
 Tipeha
 
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 Merkha
@@ -122130,7 +122130,7 @@ Tipeha
 
 Revia
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Etnahta
@@ -122141,7 +122141,7 @@ Tipeha
 
 
 Etnahta
-Zaqef Qatan, Yetiv
+Yetiv, Zaqef Qatan
 Tipeha
 
 
@@ -122151,7 +122151,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 Merkha
 Tipeha
 
@@ -122176,7 +122176,7 @@ Geresh
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -122254,9 +122254,9 @@ Gershayim
 Mahapakh
 Pashta
 Zaqef Qatan
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Qadma
@@ -122273,7 +122273,7 @@ Darga
 
 Tevir
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Munah
 Zaqef Qatan
@@ -122300,7 +122300,7 @@ Geresh
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -122349,7 +122349,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -122451,7 +122451,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Munah
@@ -122470,7 +122470,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -122532,7 +122532,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -122588,7 +122588,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -122612,7 +122612,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -122684,7 +122684,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -122802,7 +122802,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -122833,7 +122833,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -122851,7 +122851,7 @@ Merkha
 Tipeha
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 
@@ -122888,7 +122888,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -122954,7 +122954,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -123154,7 +123154,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Etnahta
@@ -123162,7 +123162,7 @@ Etnahta
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Zaqef Gadol
@@ -123194,9 +123194,9 @@ Segol
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -123208,7 +123208,7 @@ Tipeha
 Zaqef Gadol
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Mahapakh
 
@@ -123256,14 +123256,14 @@ Munah
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Zaqef Gadol
 Merkha
@@ -123299,7 +123299,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -123343,7 +123343,7 @@ Tipeha
 Merkha
 
 
-Tevir, Darga
+Darga, Tevir
 
 Tipeha
 
@@ -123399,7 +123399,7 @@ Geresh
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -123447,7 +123447,7 @@ Tipeha
 
 
 
-Tevir, Merkha
+Merkha, Tevir
 
 Tipeha
 
@@ -123465,7 +123465,7 @@ Tipeha
 
 Merkha
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 Merkha
@@ -123473,7 +123473,7 @@ Merkha
 Tipeha
 
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 Munah
@@ -123494,7 +123494,7 @@ Munah
 
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 Etnahta
 Revia
@@ -123505,7 +123505,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -123526,7 +123526,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -123544,7 +123544,7 @@ Tipeha
 
 
 Qadma
-Darga
+Darga, Paseq
 
 
 Tevir
@@ -123573,7 +123573,7 @@ Munah
 Zaqef Qatan
 
 Merkha
-Etnahta, Tipeha
+Tipeha, Etnahta
 
 Merkha
 
@@ -123621,7 +123621,7 @@ Zaqef Qatan
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 Merkha
 
 Tipeha
@@ -123640,7 +123640,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 Munah
@@ -123678,7 +123678,7 @@ Darga
 
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Merkha
 
@@ -123690,7 +123690,7 @@ Mahapakh
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 Merkha
@@ -123755,7 +123755,7 @@ Qadma
 Munah
 
 Zinor
-Segol, Munah
+Munah, Segol
 
 Munah
 Telisha Gedola
@@ -123765,7 +123765,7 @@ Telisha Gedola
 Qadma
 Merkha
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 
@@ -123857,7 +123857,7 @@ Geresh
 
 Revia
 
-Tevir, Merkha
+Merkha, Tevir
 
 Tipeha
 
@@ -123871,8 +123871,8 @@ Tipeha
 Qadma
 
 Merkha
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -123930,7 +123930,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 Merkha
 
 Tipeha
@@ -124019,7 +124019,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Darga
 Munah
@@ -124035,7 +124035,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -124104,7 +124104,7 @@ Munah
 Munah
 Munah
 
-Munah
+Munah, Paseq
 
 Yerah Ben Yomo
 
@@ -124116,9 +124116,9 @@ Munah
 
 Telisha Qetana
 
-Qadma
+Qadma, Paseq
 
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -124161,7 +124161,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -124182,7 +124182,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -124209,7 +124209,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -124236,7 +124236,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -124249,7 +124249,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -124277,7 +124277,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -124313,7 +124313,7 @@ Munah
 Etnahta
 
 
-Tevir, Merkha
+Merkha, Tevir
 Merkha
 Tipeha
 
@@ -124362,7 +124362,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -124426,7 +124426,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -124641,7 +124641,7 @@ Tipeha
 Qadma
 Geresh
 
-Qadma, Telisha Qetana
+Telisha Qetana, Qadma
 Darga
 
 Tevir
@@ -124671,7 +124671,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -124729,7 +124729,7 @@ Pashta
 
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Etnahta
@@ -124823,13 +124823,13 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Etnahta
@@ -124943,7 +124943,7 @@ Pashta
 
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Etnahta
@@ -124981,7 +124981,7 @@ Tipeha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -124992,10 +124992,10 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Pashta, Merkha
+Merkha, Pashta
 
 
 Zaqef Qatan
@@ -125152,7 +125152,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -125209,10 +125209,10 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -125311,9 +125311,9 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -125323,7 +125323,7 @@ Zaqef Qatan
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -125381,7 +125381,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -125394,7 +125394,7 @@ Segol
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -125458,7 +125458,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -125491,7 +125491,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -125501,33 +125501,6 @@ Tipeha
 Munah
 Etnahta
 
-Munah
-
-Munah
-
-
-Pazer
-
-Munah
-Telisha Qetana
-
-Qadma
-Mahapakh
-Pashta, Qadma
-
-
-Zaqef Qatan
-Merkha
-Tipeha
-
-
-
-Merkha
-
-Tipeha
-
-Etnahta
-Munah
 Munah
 
 Munah
@@ -125535,6 +125508,33 @@ Munah
 
 Pazer
 
+Munah
+Telisha Qetana
+
+Qadma
+Mahapakh
+Shene Pashtim
+
+
+Zaqef Qatan
+Merkha
+Tipeha
+
+
+
+Merkha
+
+Tipeha
+
+Etnahta
+Munah
+Munah
+
+Munah
+
+
+Pazer
+
 Telisha Qetana
 Qadma
 
@@ -125559,7 +125559,7 @@ Tipeha
 Munah
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 
@@ -125646,7 +125646,7 @@ Tipeha
 
 Munah
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -125678,13 +125678,13 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -125748,7 +125748,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -125761,12 +125761,12 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -125803,48 +125803,48 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Telisha Qetana
+Telisha Qetana, Paseq
+Qadma, Paseq
+Geresh
+Munah, Paseq
+Legarmeh
+Pashta
+Munah
+Zaqef Qatan
+
+Tipeha
+Munah
+Etnahta
+
+
+Mahapakh
+
+
+
+Shene Pashtim
+
+Zaqef Qatan
+
+Tipeha
+
+Merkha
+
+
+
+Merkha
+Shene Pashtim
+Zaqef Qatan
+
+Tipeha
+
+Munah
+Etnahta
+
+
+
 Qadma
 Geresh
 Munah
-Mahapakh
-Pashta
-Munah
-Zaqef Qatan
-
-Tipeha
-Munah
-Etnahta
-
-
-Mahapakh
-
-
-
-Pashta, Qadma
-
-Zaqef Qatan
-
-Tipeha
-
-Merkha
-
-
-
-Merkha
-Pashta, Qadma
-Zaqef Qatan
-
-Tipeha
-
-Munah
-Etnahta
-
-
-
-Qadma
-Geresh
-Munah
 
 Revia
 
@@ -125873,7 +125873,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -126087,8 +126087,8 @@ Geresh
 Munah
 Revia
 
-Mahapakh
-Pashta, Qadma
+Legarmeh
+Shene Pashtim
 
 
 Munah
@@ -126116,7 +126116,7 @@ Munah
 
 Munah
 
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -126221,7 +126221,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -126364,7 +126364,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -126415,7 +126415,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -126436,14 +126436,14 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -126462,7 +126462,7 @@ Tipeha
 
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Telisha Qetana
 Qadma
@@ -126538,7 +126538,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -126655,7 +126655,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -126792,7 +126792,7 @@ Revia
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -126806,7 +126806,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -126951,7 +126951,7 @@ Merkha
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Darga
 
 Munah
@@ -127097,7 +127097,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -127127,7 +127127,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -127238,7 +127238,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -127266,7 +127266,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -127327,7 +127327,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -127379,7 +127379,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -127406,7 +127406,7 @@ Telisha Gedola
 
 Qadma
 
-Merkha
+Merkha, Paseq
 
 Zinor
 Munah
@@ -127540,7 +127540,7 @@ Tipeha
 Telisha Gedola
 
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 
 Zaqef Qatan
 
@@ -127556,8 +127556,8 @@ Tipeha
 
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -127574,7 +127574,7 @@ Tipeha
 
 Munah
 Revia
-Munah
+Munah, Paseq
 Pazer
 Telisha Qetana
 Qadma
@@ -127603,7 +127603,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -127654,7 +127654,7 @@ Zaqef Qatan
 Merkha
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Tevir
 
@@ -127718,12 +127718,12 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -127747,7 +127747,7 @@ Revia
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -127893,7 +127893,7 @@ Geresh
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -127925,7 +127925,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -128025,7 +128025,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -128052,7 +128052,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -128116,9 +128116,9 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -128134,7 +128134,7 @@ Revia
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -128150,9 +128150,9 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -128201,7 +128201,7 @@ Pashta
 
 Zaqef Qatan
 
-Etnahta, Tipeha
+Tipeha, Etnahta
 
 
 Tipeha
@@ -128230,9 +128230,9 @@ Pashta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -128276,7 +128276,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -128345,7 +128345,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -128441,7 +128441,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -128452,7 +128452,7 @@ Munah
 Segol
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -128460,7 +128460,7 @@ Mahapakh
 
 Pashta
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -128512,7 +128512,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -128540,7 +128540,7 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -128576,7 +128576,7 @@ Merkha
 
 
 Qadma
-Merkha
+Merkha, Paseq
 Zinor
 Segol
 
@@ -128605,12 +128605,12 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -128627,9 +128627,9 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -128738,7 +128738,7 @@ Tipeha
 Merkha
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Yetiv
 Munah
 
@@ -128752,7 +128752,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -128761,7 +128761,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -128771,7 +128771,7 @@ Munah
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -128870,15 +128870,15 @@ Zaqef Qatan
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Darga
 
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 Merkha
 
 
@@ -128925,7 +128925,7 @@ Pashta
 
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 Etnahta
 
@@ -128945,7 +128945,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -129120,7 +129120,7 @@ Zaqef Qatan
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -129177,7 +129177,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -129220,7 +129220,7 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Merkha
 Tevir
@@ -129245,12 +129245,12 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -129388,7 +129388,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -129498,7 +129498,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -129544,7 +129544,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -129570,7 +129570,7 @@ Geresh
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -129661,7 +129661,7 @@ Tipeha
 Munah
 Etnahta
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Merkha
 
@@ -129736,13 +129736,13 @@ Revia
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Gershayim
 
@@ -129796,7 +129796,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -130050,7 +130050,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -130153,7 +130153,7 @@ Etnahta
 Munah
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Qadma
 Zaqef Qatan
@@ -130283,7 +130283,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -130342,7 +130342,7 @@ Merkha
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -130385,14 +130385,14 @@ Geresh
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -130404,10 +130404,10 @@ Merkha
 Telisha Gedola
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -130447,7 +130447,7 @@ Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -130485,7 +130485,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -130504,190 +130504,6 @@ Merkha
 
 Tipeha
 
-
-Pazer
-Telisha Qetana
-
-Qadma
-Geresh
-
-Revia
-
-
-
-
-Pashta
-
-Zaqef Qatan
-
-Merkha
-
-
-Tipeha
-Munah
-Etnahta
-
-Merkha
-
-
-Tipeha
-
-
-
-Darga
-Tevir
-Tipeha
-
-Munah
-Etnahta
-
-Merkha
-
-Tipeha
-
-
-
-Zaqef Gadol
-
-Merkha
-
-Tipeha
-
-Etnahta
-Tipeha
-Merkha
-
-
-Darga
-Tevir
-Merkha
-Tipeha
-
-Munah
-Etnahta
-
-Qadma
-Geresh
-
-Merkha
-Munah
-Munah
-Revia
-Gershayim
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-Merkha
-
-
-Mahapakh
-Pashta
-
-Munah
-Zaqef Qatan
-
-
-Tipeha
-
-Etnahta
-
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-
-Munah
-Revia
-Pashta
-Munah
-Zaqef Qatan
-Mahapakh
-Pashta
-
-Munah
-
-Zaqef Qatan
-Merkha
-Tipeha
-Munah
-
-Etnahta
-
-Merkha
-Tipeha
-
-
-
-Gershayim
-Munah
-Revia
-
-Pashta, Qadma
-Mahapakh
-
-Pashta
-Munah
-
-Zaqef Qatan
-Merkha
-
-Tipeha
-Munah
-
-Etnahta
-
-Munah
-Revia
-Mahapakh
-Pashta
-
-
-Zaqef Qatan
-
-Tipeha
-
-Merkha
-
-
-Merkha
-Tipeha
-Munah
-Etnahta
-
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-Merkha
-
-
-
-Qadma
-Mahapakh
-Pashta
-Munah
-Zaqef Qatan
-
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-Etnahta
-
-Munah
 
 Pazer
 Telisha Qetana
@@ -130697,9 +130513,193 @@ Geresh
 
 Revia
 
+
+
+
+Pashta
+
+Zaqef Qatan
+
+Merkha
+
+
+Tipeha
+Munah
+Etnahta
+
+Merkha
+
+
+Tipeha
+
+
+
+Darga
+Tevir
+Tipeha
+
+Munah
+Etnahta
+
+Merkha
+
+Tipeha
+
+
+
+Zaqef Gadol
+
+Merkha
+
+Tipeha
+
+Etnahta
+Tipeha
+Merkha
+
+
+Darga
+Tevir
+Merkha
+Tipeha
+
+Munah
+Etnahta
+
+Qadma
+Geresh
+
+Merkha
+Munah, Paseq
+Munah
+Revia
+Gershayim
+Mahapakh
+Pashta
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+Merkha
+
+
+Mahapakh
+Pashta
+
+Munah
+Zaqef Qatan
+
+
+Tipeha
+
+Etnahta
+
+Mahapakh
+Pashta
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+
+Munah
+Revia
+Pashta
+Munah
+Zaqef Qatan
+Mahapakh
+Pashta
+
+Munah
+
+Zaqef Qatan
+Merkha
+Tipeha
+Munah
+
+Etnahta
+
+Merkha
+Tipeha
+
+
+
+Gershayim
+Munah
+Revia
+
+Shene Pashtim
 Mahapakh
 
-Pashta, Qadma
+Pashta
+Munah
+
+Zaqef Qatan
+Merkha
+
+Tipeha
+Munah
+
+Etnahta
+
+Munah
+Revia
+Mahapakh
+Pashta
+
+
+Zaqef Qatan
+
+Tipeha
+
+Merkha
+
+
+Merkha
+Tipeha
+Munah
+Etnahta
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+Merkha
+
+
+
+Qadma
+Mahapakh
+Pashta
+Munah
+Zaqef Qatan
+
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+Etnahta
+
+Munah
+
+Pazer
+Telisha Qetana
+
+Qadma
+Geresh
+
+Revia
+
+Mahapakh
+
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -130876,7 +130876,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -130927,7 +130927,7 @@ Zaqef Qatan
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -130947,7 +130947,7 @@ Tipeha
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -130996,7 +130996,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -131119,7 +131119,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 
 Zaqef Qatan
@@ -131129,7 +131129,7 @@ Merkha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -131162,7 +131162,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -131302,7 +131302,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Revia
@@ -131356,7 +131356,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -131413,7 +131413,7 @@ Zaqef Qatan
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Mahapakh
 Pashta
@@ -131481,7 +131481,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -131510,7 +131510,7 @@ Pazer
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -131722,7 +131722,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -131792,7 +131792,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Revia
@@ -131830,7 +131830,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -131947,7 +131947,7 @@ Etnahta
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -132032,11 +132032,11 @@ Qadma
 
 Geresh
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 Zaqef Qatan
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -132077,7 +132077,7 @@ Pashta
 
 Zaqef Qatan
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -132086,14 +132086,14 @@ Etnahta
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 
 Zaqef Qatan
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -132131,7 +132131,7 @@ Etnahta
 Munah
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -132227,7 +132227,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -132254,7 +132254,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Telisha Gedola
@@ -132350,7 +132350,7 @@ Pashta
 Zaqef Qatan
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -132358,7 +132358,7 @@ Munah
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Qadma
 
 Merkha
@@ -132402,11 +132402,11 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -132513,7 +132513,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -132549,7 +132549,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -132596,7 +132596,7 @@ Zaqef Qatan
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -132608,7 +132608,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -132809,7 +132809,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -132824,7 +132824,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -132835,7 +132835,7 @@ Etnahta
 
 Darga
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -132875,7 +132875,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -132954,7 +132954,7 @@ Munah
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Qadma
 Geresh
@@ -132962,7 +132962,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -132992,7 +132992,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -133001,7 +133001,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -133019,7 +133019,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -133063,7 +133063,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -133073,7 +133073,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -133096,7 +133096,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -133105,7 +133105,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -133128,16 +133128,16 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -133169,7 +133169,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Munah
@@ -133413,7 +133413,7 @@ Tipeha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -133439,7 +133439,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -133451,7 +133451,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -133494,7 +133494,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -133558,7 +133558,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -133684,7 +133684,7 @@ Geresh
 Revia
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -133802,7 +133802,7 @@ Munah
 Zaqef Qatan
 Zaqef Gadol
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -133898,7 +133898,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -133925,9 +133925,9 @@ Geresh
 Munah
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -133998,7 +133998,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -134034,7 +134034,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -134043,7 +134043,7 @@ Pashta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -134163,7 +134163,7 @@ Merkha
 Tipeha
 Etnahta
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -134184,7 +134184,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -134212,7 +134212,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -134315,7 +134315,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -134332,7 +134332,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -134629,7 +134629,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -134670,7 +134670,7 @@ Tipeha
 Etnahta
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -134809,10 +134809,10 @@ Tipeha
 
 Munah
 Munah
-Munah
+Munah, Paseq
 
 Telisha Qetana
-Qadma
+Qadma, Paseq
 
 Geresh
 
@@ -134856,7 +134856,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -134867,7 +134867,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -134949,7 +134949,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -134971,7 +134971,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -135192,7 +135192,7 @@ Munah
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -135242,7 +135242,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 Munah
@@ -135269,7 +135269,7 @@ Revia
 Pashta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -135291,7 +135291,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -135330,7 +135330,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -135341,11 +135341,11 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -135366,9 +135366,9 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -135394,17 +135394,17 @@ Etnahta
 Qadma
 
 Geresh
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 
 Munah
 
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -135488,7 +135488,7 @@ Revia
 Mahapakh
 Pashta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Zaqef Gadol
 
@@ -135511,7 +135511,7 @@ Telisha Gedola
 Munah
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Qadma
@@ -135522,7 +135522,7 @@ Tevir
 Merkha
 Tipeha
 
-Merkha
+Merkha, Paseq
 
 
 Munah
@@ -135693,7 +135693,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -135824,7 +135824,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -135846,7 +135846,7 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -136046,7 +136046,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -136128,7 +136128,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -136187,11 +136187,11 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -136227,7 +136227,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -136350,7 +136350,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -136367,7 +136367,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -136434,7 +136434,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -136560,7 +136560,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -136576,7 +136576,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -136603,15 +136603,15 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -136645,7 +136645,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -136675,7 +136675,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -136708,13 +136708,13 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -136735,7 +136735,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -136772,7 +136772,7 @@ Tipeha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -136967,10 +136967,10 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -137028,7 +137028,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -137169,7 +137169,7 @@ Revia
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -137178,7 +137178,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -137216,7 +137216,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Revia
 Mahapakh
@@ -137238,7 +137238,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -137255,7 +137255,7 @@ Munah
 
 Segol
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -137330,7 +137330,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Zaqef Gadol
@@ -137358,7 +137358,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Revia
@@ -137415,7 +137415,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -137447,7 +137447,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -137476,7 +137476,7 @@ Revia
 Mahapakh
 Pashta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -137611,7 +137611,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Munah
@@ -137653,7 +137653,7 @@ Merkha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -137663,7 +137663,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -137678,7 +137678,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -137696,12 +137696,12 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -137725,7 +137725,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -137760,9 +137760,9 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -137782,9 +137782,9 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -137800,7 +137800,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -137913,13 +137913,13 @@ Tipeha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -137946,7 +137946,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -137982,7 +137982,7 @@ Zinor
 Munah
 Segol
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -138095,7 +138095,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -138147,7 +138147,7 @@ Tipeha
 
 Revia
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 Zaqef Qatan
 
 Tipeha
@@ -138167,7 +138167,7 @@ Geresh
 
 Revia
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 Zaqef Qatan
 
 Tipeha
@@ -138197,7 +138197,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 Zaqef Qatan
 
 Munah
@@ -138226,7 +138226,7 @@ Qadma
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -138251,7 +138251,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -138333,7 +138333,7 @@ Tipeha
 
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 Munah
@@ -138352,7 +138352,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -138367,7 +138367,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -138432,7 +138432,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -138476,7 +138476,7 @@ Telisha Gedola
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Revia
 
@@ -138485,14 +138485,14 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -138500,7 +138500,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -138519,7 +138519,7 @@ Yetiv
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -138531,7 +138531,7 @@ Etnahta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -138543,13 +138543,13 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -138592,7 +138592,7 @@ Revia
 
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 
@@ -138648,7 +138648,7 @@ Munah
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -138711,7 +138711,7 @@ Zaqef Qatan
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -138775,7 +138775,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -138788,7 +138788,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -138942,7 +138942,7 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -139097,7 +139097,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -139111,7 +139111,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Mahapakh
@@ -139125,7 +139125,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 Etnahta
 
 
@@ -139152,11 +139152,11 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -139264,13 +139264,13 @@ Zinor
 
 Segol
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -139445,7 +139445,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -139460,7 +139460,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -139534,7 +139534,7 @@ Zaqef Qatan
 
 Zaqef Gadol
 
-Tipeha, Merkha
+Merkha, Tipeha
 Etnahta
 
 
@@ -139623,7 +139623,7 @@ Geresh
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -139730,7 +139730,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -139744,7 +139744,7 @@ Telisha Gedola
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -139796,7 +139796,7 @@ Darga
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -139815,7 +139815,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -139835,13 +139835,13 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -139971,7 +139971,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -140035,7 +140035,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -140076,14 +140076,14 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -140214,13 +140214,13 @@ Telisha Gedola
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -140353,7 +140353,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -140389,7 +140389,7 @@ Zaqef Qatan
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -140416,9 +140416,9 @@ Merkha
 
 
 Telisha Qetana
-Qadma
+Qadma, Paseq
 
-Merkha
+Merkha, Paseq
 
 
 Zinor
@@ -140503,7 +140503,7 @@ Telisha Gedola
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Revia
 
@@ -140586,7 +140586,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Revia
 
@@ -140598,7 +140598,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -140623,7 +140623,7 @@ Etnahta
 Darga
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -140633,7 +140633,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -140642,7 +140642,7 @@ Zaqef Qatan
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Darga
 Tevir
@@ -140681,7 +140681,7 @@ Tipeha
 
 
 Qadma
-Merkha
+Merkha, Paseq
 
 Zinor
 
@@ -140897,13 +140897,13 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -140924,7 +140924,7 @@ Merkha
 Telisha Qetana
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Revia
 Telisha Qetana
@@ -140949,7 +140949,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -141036,7 +141036,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Revia
 Pashta
 Munah
@@ -141113,7 +141113,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tevir
@@ -141130,7 +141130,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -141143,7 +141143,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Revia
 Pashta
 
@@ -141235,7 +141235,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -141333,7 +141333,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -141373,7 +141373,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Revia
 Gershayim
 
@@ -141413,7 +141413,7 @@ Revia
 Telisha Gedola
 
 
-Merkha, Qadma
+Qadma, Merkha
 
 Zinor
 
@@ -141488,9 +141488,9 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -141592,7 +141592,7 @@ Mahapakh
 
 Pashta
 
-Munah
+Munah, Paseq
 Zaqef Qatan
 
 Darga
@@ -141611,7 +141611,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -141690,7 +141690,7 @@ Pashta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -141747,12 +141747,12 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -141811,7 +141811,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -141825,12 +141825,12 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -141848,7 +141848,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -141875,7 +141875,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -141979,7 +141979,7 @@ Revia
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Revia
 
@@ -142034,7 +142034,7 @@ Pashta
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -142060,7 +142060,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -142089,7 +142089,7 @@ Qadma
 Merkha
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -142097,7 +142097,7 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -142130,7 +142130,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -142174,7 +142174,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -142331,7 +142331,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -142363,7 +142363,7 @@ Munah
 
 Segol
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -142410,7 +142410,7 @@ Merkha
 Tipeha
 Etnahta
 
-Merkha
+Merkha, Paseq
 
 Yetiv
 Munah
@@ -142458,7 +142458,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Munah
+Munah, Paseq
 Etnahta
 
 Pashta
@@ -142483,7 +142483,7 @@ Pashta
 Telisha Qetana
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -142543,7 +142543,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -142559,7 +142559,7 @@ Munah
 Etnahta
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -142640,7 +142640,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -142696,7 +142696,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Revia
@@ -142741,7 +142741,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -142845,7 +142845,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 
 Munah
@@ -143001,7 +143001,7 @@ Zinor
 
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -143058,7 +143058,7 @@ Merkha
 
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 Mahapakh
@@ -143080,7 +143080,7 @@ Tipeha
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -143196,7 +143196,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -143241,7 +143241,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -143293,7 +143293,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -143421,7 +143421,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Telisha Gedola
 Munah
 
@@ -143435,7 +143435,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 Munah
 Zaqef Qatan
@@ -143519,7 +143519,7 @@ Revia
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -143554,7 +143554,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -143580,7 +143580,7 @@ Qadma
 
 Geresh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Mahapakh
@@ -143697,7 +143697,7 @@ Geresh
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -143706,7 +143706,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -143717,8 +143717,8 @@ Munah
 
 Telisha Gedola
 
-Geresh, Qadma
-Munah
+Qadma, Geresh
+Munah, Paseq
 Munah
 
 Revia
@@ -143775,7 +143775,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -143834,7 +143834,7 @@ Etnahta
 
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Mahapakh
@@ -143900,7 +143900,7 @@ Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -143993,7 +143993,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Tipeha
@@ -144007,13 +144007,13 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Qadma
 
-Mahapakh
+Legarmeh
 
 
 Pashta
@@ -144096,7 +144096,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -144310,7 +144310,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -144335,7 +144335,7 @@ Revia
 Qadma
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 Munah
 Zaqef Qatan
@@ -144350,7 +144350,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Mahapakh
 Pashta
@@ -144411,8 +144411,8 @@ Geresh
 
 Revia
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Munah
 Revia
@@ -144435,7 +144435,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -144489,7 +144489,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -144539,7 +144539,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -144585,13 +144585,13 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Yetiv
 Munah
 Zaqef Qatan
@@ -144680,8 +144680,8 @@ Tipeha
 
 
 Geresh
-Munah
-Revia, Munah
+Munah, Paseq
+Munah, Revia
 
 Pashta
 
@@ -144714,7 +144714,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -144773,7 +144773,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -144811,12 +144811,12 @@ Telisha Gedola
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -144918,7 +144918,7 @@ Tipeha
 Etnahta
 
 Munah
-Munah
+Munah, Paseq
 
 
 Telisha Gedola
@@ -144937,7 +144937,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 
@@ -144972,7 +144972,7 @@ Zaqef Qatan
 Merkha
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Zaqef Gadol
 
@@ -145011,7 +145011,7 @@ Munah
 Telisha Qetana
 
 Qadma
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -145073,7 +145073,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -145222,7 +145222,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -145230,7 +145230,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -145369,7 +145369,7 @@ Tipeha
 Telisha Qetana
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Darga
@@ -145442,7 +145442,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -145535,7 +145535,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -145663,7 +145663,7 @@ Munah
 Segol
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -145681,7 +145681,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -145707,7 +145707,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Revia
 
@@ -145743,7 +145743,7 @@ Darga
 Tevir
 Merkha
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 Pashta
@@ -145762,7 +145762,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -145787,7 +145787,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Mahapakh
 
@@ -145883,7 +145883,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Pazer
 Telisha Qetana
 Qadma
@@ -145906,7 +145906,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -145941,7 +145941,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -145956,7 +145956,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -146024,7 +146024,7 @@ Revia
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -146039,7 +146039,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -146101,12 +146101,12 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 
 Pashta
@@ -146123,7 +146123,7 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 Etnahta
 
 Darga
@@ -146156,7 +146156,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 Mahapakh
@@ -146267,7 +146267,7 @@ Zaqef Qatan
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -146288,7 +146288,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -146303,13 +146303,13 @@ Merkha
 Tipeha
 Etnahta
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Pashta
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -146371,7 +146371,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -146436,7 +146436,7 @@ Revia
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -146610,7 +146610,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -146727,7 +146727,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -146830,7 +146830,7 @@ Darga
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -146854,7 +146854,7 @@ Tipeha
 Munah
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -146893,7 +146893,7 @@ Geresh
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -146992,7 +146992,7 @@ Zinor
 
 Munah
 
-Munah
+Munah, Paseq
 
 Segol
 Telisha Qetana
@@ -147236,7 +147236,7 @@ Tipeha
 Gershayim
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -147270,7 +147270,7 @@ Geresh
 Munah
 Revia
 
-Telisha Qetana
+Telisha Qetana, Paseq
 Qadma
 Geresh
 
@@ -147280,7 +147280,7 @@ Revia
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -147298,7 +147298,7 @@ Etnahta
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -147439,7 +147439,7 @@ Pashta
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -147544,7 +147544,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -147665,7 +147665,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -147689,7 +147689,7 @@ Tipeha
 Etnahta
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -147703,7 +147703,7 @@ Tipeha
 
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -147759,7 +147759,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -147820,7 +147820,7 @@ Zaqef Qatan
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -147853,7 +147853,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -147887,14 +147887,14 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
@@ -148048,7 +148048,7 @@ Revia
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -148087,7 +148087,7 @@ Revia
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Munah
@@ -148193,7 +148193,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 
 Qadma
@@ -148321,7 +148321,7 @@ Mahapakh
 Pashta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Revia
@@ -148367,12 +148367,12 @@ Munah
 
 Pazer
 Pazer
-Munah
+Munah, Paseq
 
 Qadma
 
 Geresh
-Darga
+Darga, Paseq
 Tevir
 
 Tipeha
@@ -148403,7 +148403,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -148446,7 +148446,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -148491,8 +148491,8 @@ Tipeha
 
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tevir
 Merkha
 Tipeha
@@ -148522,7 +148522,7 @@ Tipeha
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -148559,7 +148559,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -148814,7 +148814,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -148872,7 +148872,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -148982,7 +148982,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -149156,11 +149156,11 @@ Munah
 Pazer
 Munah
 Telisha Qetana
-Qadma
+Qadma, Paseq
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 
@@ -149171,7 +149171,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -149179,7 +149179,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -149235,7 +149235,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -149318,7 +149318,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
@@ -149362,7 +149362,7 @@ Geresh
 
 Revia
 
-Mahapakh
+Legarmeh
 Pashta
 Munah
 Telisha Gedola
@@ -149420,12 +149420,12 @@ Tipeha
 Etnahta
 
 Munah
-Munah
+Munah, Paseq
 
 
 Pazer
 
-Munah
+Munah, Paseq
 
 
 
@@ -149662,7 +149662,7 @@ Zaqef Qatan
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -149772,7 +149772,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -149800,7 +149800,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 Merkha
@@ -149947,7 +149947,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -149964,7 +149964,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -150024,7 +150024,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -150035,7 +150035,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -150043,7 +150043,7 @@ Merkha
 Tipeha
 Etnahta
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -150066,7 +150066,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -150096,7 +150096,7 @@ Merkha
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -150322,7 +150322,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -150357,7 +150357,7 @@ Munah
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Gershayim
 Mahapakh
@@ -150370,7 +150370,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Revia
 
 Mahapakh
@@ -150426,7 +150426,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Revia
 Mahapakh
 Pashta
@@ -150449,7 +150449,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -150531,7 +150531,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -150609,7 +150609,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -150704,7 +150704,7 @@ Merkha
 Qadma
 Geresh
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -150795,7 +150795,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -150851,7 +150851,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -150866,7 +150866,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -150964,14 +150964,14 @@ Pashta
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Revia
@@ -151014,7 +151014,7 @@ Geresh
 
 Revia
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 Zaqef Qatan
 
 Munah
@@ -151034,7 +151034,7 @@ Merkha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -151047,7 +151047,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -151059,8 +151059,8 @@ Munah
 
 Revia
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -151111,7 +151111,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 
 Pashta
@@ -151143,7 +151143,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -151154,7 +151154,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -151198,7 +151198,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -151239,7 +151239,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -151277,14 +151277,14 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -151309,7 +151309,7 @@ Qadma
 Geresh
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -151404,7 +151404,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -151416,7 +151416,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -151509,7 +151509,7 @@ Revia
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -151567,7 +151567,7 @@ Etnahta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -151693,7 +151693,7 @@ Revia
 Munah
 Munah
 
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -151720,7 +151720,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -151789,7 +151789,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -151846,7 +151846,7 @@ Pashta
 
 Zaqef Qatan
 
-Geresh, Qadma
+Qadma, Geresh
 Munah
 Mahapakh
 Pashta
@@ -151935,7 +151935,7 @@ Revia
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -151948,7 +151948,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -151999,7 +151999,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -152048,7 +152048,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -152169,8 +152169,8 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -152361,8 +152361,8 @@ Revia
 
 Munah
 Telisha Qetana
-Qadma
-Mahapakh
+Qadma, Paseq
+Legarmeh
 
 Pashta
 
@@ -152377,7 +152377,7 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 
 Etnahta
 
@@ -152679,7 +152679,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Revia
@@ -152734,7 +152734,7 @@ Tipeha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -152749,7 +152749,7 @@ Segol
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 
@@ -152806,7 +152806,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -152978,7 +152978,7 @@ Zaqef Qatan
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 
@@ -153025,7 +153025,7 @@ Tipeha
 
 Telisha Qetana
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -153103,7 +153103,7 @@ Pashta
 
 Zaqef Qatan
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -153133,7 +153133,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -153182,7 +153182,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -153203,7 +153203,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -153421,12 +153421,12 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
@@ -153476,7 +153476,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Qadma
 Geresh
 Revia
@@ -153525,7 +153525,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tevir
@@ -153537,7 +153537,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -153592,7 +153592,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Yetiv
@@ -153621,7 +153621,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -153644,7 +153644,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -153682,7 +153682,7 @@ Munah
 Revia
 
 
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -153717,7 +153717,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -153828,7 +153828,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -153865,11 +153865,11 @@ Qadma
 Geresh
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -153936,9 +153936,9 @@ Munah
 Telisha Gedola
 
 
-Geresh, Qadma
+Qadma, Geresh
 
-Munah
+Munah, Paseq
 
 Revia
 
@@ -153946,8 +153946,8 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -153983,7 +153983,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -154063,7 +154063,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -154081,7 +154081,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 
 Tipeha
@@ -154115,8 +154115,8 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -154137,8 +154137,8 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Merkha
 Tevir
@@ -154219,7 +154219,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -154232,7 +154232,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -154314,7 +154314,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -154344,7 +154344,7 @@ Pashta
 
 Zaqef Qatan
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -154457,7 +154457,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -154479,7 +154479,7 @@ Munah
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -154598,7 +154598,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -154650,7 +154650,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 Zaqef Qatan
@@ -154702,7 +154702,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -154804,7 +154804,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -154972,7 +154972,7 @@ Merkha
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -155082,7 +155082,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -155154,7 +155154,7 @@ Qadma
 Geresh
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -155178,7 +155178,7 @@ Tipeha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -155191,7 +155191,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -155211,9 +155211,9 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -155260,7 +155260,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -155374,7 +155374,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 Zaqef Qatan
@@ -155510,7 +155510,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -155662,7 +155662,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -155910,7 +155910,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -156025,7 +156025,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -156214,9 +156214,9 @@ Revia
 Munah
 
 Telisha Qetana
-Qadma
+Qadma, Paseq
 
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -156268,7 +156268,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -156335,7 +156335,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -156345,7 +156345,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -156355,7 +156355,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -156373,7 +156373,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -156413,7 +156413,7 @@ Merkha
 Merkha
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -156439,9 +156439,9 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -156550,7 +156550,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -156587,7 +156587,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -156674,7 +156674,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -156711,7 +156711,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -156748,7 +156748,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -156765,7 +156765,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -156781,7 +156781,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -156796,7 +156796,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Darga
@@ -156810,7 +156810,7 @@ Etnahta
 Munah
 Telisha Qetana
 Qadma
-Darga
+Darga, Paseq
 
 
 Tevir
@@ -156829,7 +156829,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -156914,7 +156914,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -156929,13 +156929,13 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -157004,7 +157004,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -157050,7 +157050,7 @@ Merkha
 
 Munah
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -157073,7 +157073,7 @@ Tipeha
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tevir
 
@@ -157172,7 +157172,7 @@ Etnahta
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -157183,7 +157183,7 @@ Zaqef Qatan
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -157214,7 +157214,7 @@ Tipeha
 
 Munah
 Munah
-Munah
+Munah, Paseq
 Pazer
 
 Telisha Qetana
@@ -157291,7 +157291,7 @@ Zaqef Qatan
 
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -157336,7 +157336,7 @@ Tipeha
 
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -157379,7 +157379,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -157468,7 +157468,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -157578,7 +157578,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -157679,7 +157679,7 @@ Merkha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -157711,7 +157711,7 @@ Merkha
 Telisha Qetana
 Qadma
 
-Merkha
+Merkha, Paseq
 
 
 Zinor
@@ -157761,7 +157761,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -157842,7 +157842,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -157921,11 +157921,11 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -157955,7 +157955,7 @@ Segol
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Darga
 
@@ -157966,7 +157966,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Revia
 
 Merkha
@@ -158032,7 +158032,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -158141,7 +158141,7 @@ Tipeha
 Etnahta
 Telisha Qetana
 Pashta
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -158221,7 +158221,7 @@ Qadma
 Geresh
 Munah
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -158275,7 +158275,7 @@ Pashta
 
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -158308,7 +158308,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Revia
@@ -158386,7 +158386,7 @@ Munah
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -158707,7 +158707,7 @@ Geresh
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Munah
@@ -158751,7 +158751,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -158853,7 +158853,7 @@ Telisha Gedola
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -158921,7 +158921,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -158985,7 +158985,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -159060,7 +159060,7 @@ Tipeha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -159076,7 +159076,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -159170,17 +159170,17 @@ Tipeha
 Munah
 
 Etnahta
-
-Qadma
-Geresh
-
-Munah
-Revia
-
 
 Qadma
 Geresh
+
 Munah
+Revia
+
+
+Qadma
+Geresh
+Munah, Paseq
 Munah
 
 Revia
@@ -159229,7 +159229,7 @@ Zaqef Qatan
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -159345,7 +159345,7 @@ Geresh
 Revia
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -159457,14 +159457,14 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -159537,7 +159537,7 @@ Merkha
 
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -159558,7 +159558,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -159677,7 +159677,7 @@ Etnahta
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -159700,7 +159700,7 @@ Etnahta
 Telisha Gedola
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -159781,7 +159781,7 @@ Geresh
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -159793,7 +159793,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -159806,7 +159806,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -159913,7 +159913,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -159925,9 +159925,9 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -160011,7 +160011,7 @@ Telisha Gedola
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -160036,7 +160036,7 @@ Tipeha
 Etnahta
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -160079,7 +160079,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Darga
 
@@ -160247,7 +160247,7 @@ Telisha Qetana
 Qadma
 Geresh
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -160258,7 +160258,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -160323,13 +160323,13 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -160399,7 +160399,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -160444,7 +160444,7 @@ Munah
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Munah
 Zaqef Qatan
@@ -160455,7 +160455,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -160488,7 +160488,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -160593,12 +160593,12 @@ Merkha
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -160646,7 +160646,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -160660,7 +160660,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Tevir
@@ -160671,7 +160671,7 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -160732,7 +160732,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -160755,7 +160755,7 @@ Yetiv
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -160843,7 +160843,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -160880,10 +160880,10 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -160937,7 +160937,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -160945,7 +160945,7 @@ Tipeha
 Munah
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -160970,7 +160970,7 @@ Revia
 Telisha Qetana
 Qadma
 
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -161000,7 +161000,7 @@ Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -161024,7 +161024,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -161102,7 +161102,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -161134,14 +161134,14 @@ Munah
 Etnahta
 Revia
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 
 Zaqef Qatan
 
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -161154,7 +161154,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -161229,7 +161229,7 @@ Merkha
 Tipeha
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 
@@ -161272,7 +161272,7 @@ Munah
 Revia
 
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 
 Zaqef Qatan
 
@@ -161283,7 +161283,7 @@ Merkha
 
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -161302,7 +161302,7 @@ Pashta
 Munah
 
 Zaqef Qatan
-Tipeha, Merkha
+Merkha, Tipeha
 Merkha
 
 
@@ -161429,7 +161429,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -161516,7 +161516,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -161527,10 +161527,10 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -161568,7 +161568,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -161638,7 +161638,7 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 Merkha
 Tevir
@@ -161668,12 +161668,12 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Munah
 
@@ -161800,7 +161800,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -161817,7 +161817,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 Merkha
@@ -161830,14 +161830,14 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -161911,7 +161911,7 @@ Tipeha
 
 Telisha Qetana
 Qadma
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -161955,7 +161955,7 @@ Pashta
 Munah
 
 Zaqef Qatan
-Munah
+Munah, Paseq
 
 
 Munah
@@ -161994,7 +161994,7 @@ Merkha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -162054,7 +162054,7 @@ Pashta
 
 Zaqef Qatan
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Geresh
@@ -162126,7 +162126,7 @@ Munah
 Munah
 
 Pazer
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -162143,7 +162143,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -162234,7 +162234,7 @@ Tipeha
 
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -162331,7 +162331,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -162451,7 +162451,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -162699,7 +162699,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 
@@ -162708,14 +162708,14 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Munah
 Zaqef Qatan
@@ -162729,7 +162729,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -162756,7 +162756,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -162819,7 +162819,7 @@ Tipeha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -162920,7 +162920,7 @@ Etnahta
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -162953,7 +162953,7 @@ Revia
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Revia
 
@@ -162988,7 +162988,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Munah
@@ -163048,7 +163048,7 @@ Qadma
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -163205,7 +163205,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -163255,7 +163255,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -163372,7 +163372,7 @@ Munah
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -163432,7 +163432,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -163443,7 +163443,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Etnahta, Tipeha
+Tipeha, Etnahta
 
 Munah
 
@@ -163485,7 +163485,7 @@ Munah
 
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -163512,7 +163512,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -163598,7 +163598,7 @@ Gershayim
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -163646,7 +163646,7 @@ Telisha Qetana
 Qadma
 Geresh
 Munah
-Tevir, Merkha
+Merkha, Tevir
 
 Tipeha
 Munah
@@ -163655,7 +163655,7 @@ Etnahta
 Darga
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -163672,7 +163672,7 @@ Munah
 Revia
 
 Qadma
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 
 
@@ -163694,7 +163694,7 @@ Qadma
 Geresh
 
 Qadma
-Tevir, Merkha
+Merkha, Tevir
 Merkha
 Tipeha
 
@@ -163754,7 +163754,7 @@ Etnahta
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -163840,7 +163840,7 @@ Segol
 
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Munah
@@ -163974,7 +163974,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -164044,7 +164044,7 @@ Tipeha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Telisha Gedola
@@ -164114,7 +164114,7 @@ Pashta
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -164210,7 +164210,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -164255,7 +164255,7 @@ Munah
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -164273,7 +164273,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -164342,7 +164342,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -164461,7 +164461,7 @@ Munah
 Telisha Gedola
 
 Pashta
-Darga
+Darga, Paseq
 Tevir
 
 Tipeha
@@ -164545,7 +164545,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -164586,7 +164586,7 @@ Pashta
 Zaqef Qatan
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -164621,7 +164621,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -164798,7 +164798,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -164946,9 +164946,9 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -164983,7 +164983,7 @@ Tipeha
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -165099,7 +165099,7 @@ Munah
 Telisha Qetana
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -165176,11 +165176,11 @@ Qadma
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -165209,7 +165209,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -165246,7 +165246,7 @@ Tipeha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 
 Merkha
@@ -165278,7 +165278,7 @@ Tipeha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -165300,7 +165300,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -165318,7 +165318,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -165383,7 +165383,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -165414,7 +165414,7 @@ Geresh
 Munah
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -165572,7 +165572,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -165710,7 +165710,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -165728,7 +165728,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -165742,7 +165742,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -165871,7 +165871,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Revia, Munah
+Munah, Revia
 Merkha
 
 Tipeha
@@ -165926,7 +165926,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -165975,7 +165975,7 @@ Tipeha
 Munah
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -166094,7 +166094,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -166105,7 +166105,7 @@ Merkha
 Tipeha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -166212,7 +166212,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Revia
 Tevir
 Merkha
@@ -166242,7 +166242,7 @@ Pashta
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -166262,7 +166262,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -166293,7 +166293,7 @@ Pashta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -166478,7 +166478,7 @@ Tevir
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -166526,7 +166526,7 @@ Revia
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -166544,7 +166544,7 @@ Revia
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -166567,7 +166567,7 @@ Merkha
 
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -166614,7 +166614,7 @@ Zaqef Qatan
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -166623,7 +166623,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Qetana
@@ -166635,7 +166635,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -166695,7 +166695,7 @@ Merkha
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -166786,7 +166786,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 
@@ -166912,7 +166912,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -166923,7 +166923,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Revia
 Mahapakh
 Pashta
@@ -166976,7 +166976,7 @@ Zaqef Qatan
 Merkha
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -167000,7 +167000,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -167173,7 +167173,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -167186,7 +167186,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -167211,7 +167211,7 @@ Merkha
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -167239,7 +167239,7 @@ Pashta
 
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -167262,7 +167262,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Gershayim
 Munah
@@ -167447,7 +167447,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -167503,7 +167503,7 @@ Merkha
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -167520,7 +167520,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Telisha Qetana
@@ -167546,7 +167546,7 @@ Tipeha
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -167579,7 +167579,7 @@ Segol
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -167595,7 +167595,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -167649,7 +167649,7 @@ Pashta
 
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 
 Etnahta
@@ -167709,7 +167709,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -167756,7 +167756,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -167791,7 +167791,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -167848,7 +167848,7 @@ Merkha
 
 
 Pazer
-Munah
+Munah, Paseq
 
 Qadma
 
@@ -167864,7 +167864,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -167948,7 +167948,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -167957,7 +167957,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -167967,7 +167967,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -168052,7 +168052,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -168157,12 +168157,12 @@ Geresh
 Revia
 
 Pashta
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
@@ -168237,7 +168237,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -168270,7 +168270,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -168280,7 +168280,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -168295,7 +168295,7 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -168330,7 +168330,7 @@ Zaqef Qatan
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -168407,8 +168407,8 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tevir
 
@@ -168417,7 +168417,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -168425,9 +168425,9 @@ Revia
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -168443,21 +168443,21 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -168488,7 +168488,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -168553,7 +168553,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -168596,7 +168596,7 @@ Geresh
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -168621,7 +168621,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -168672,7 +168672,7 @@ Telisha Gedola
 
 
 Pashta
-Mahapakh
+Legarmeh
 
 
 Pashta
@@ -168809,7 +168809,7 @@ Munah
 Pazer
 Munah
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 Munah
@@ -168823,7 +168823,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -168959,7 +168959,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -169049,7 +169049,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -169064,7 +169064,7 @@ Etnahta
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -169111,7 +169111,7 @@ Gershayim
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -169143,7 +169143,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -169176,7 +169176,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -169194,10 +169194,10 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -169296,7 +169296,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -169311,7 +169311,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -169321,13 +169321,13 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Revia
 
 
 Gershayim
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -169367,13 +169367,13 @@ Telisha Gedola
 Gershayim
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -169449,7 +169449,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -169470,7 +169470,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -169512,7 +169512,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -169570,7 +169570,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Revia
 
@@ -169634,7 +169634,7 @@ Pashta
 Munah
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -169664,7 +169664,7 @@ Pashta
 Pashta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 Mahapakh
@@ -169800,7 +169800,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -169847,7 +169847,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -169938,12 +169938,12 @@ Merkha
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Mahapakh
@@ -169958,7 +169958,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 Merkha
 Tipeha
@@ -170155,233 +170155,6 @@ Tipeha
 
 Etnahta
 Merkha
-
-Tipeha
-
-
-
-Munah
-Zinor
-
-Segol
-Zaqef Gadol
-Telisha Qetana
-Qadma
-Darga
-Tevir
-
-
-Merkha
-
-Tipeha
-
-
-Munah
-Etnahta
-
-Tipeha
-
-Merkha
-
-
-
-Revia
-
-Pashta
-Munah
-Zaqef Qatan
-
-Tipeha
-
-Munah
-Etnahta
-
-Mahapakh
-Pashta, Qadma
-
-Munah
-Zaqef Qatan
-Tipeha
-Merkha
-
-
-
-Merkha
-Tipeha
-
-Etnahta
-Merkha
-Tevir
-Tipeha
-
-
-
-Mahapakh
-Pashta, Qadma
-
-Zaqef Qatan
-Yetiv
-
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-
-Munah
-
-Etnahta
-
-Mahapakh
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Zaqef Qatan, Munah
-Tipeha
-
-Merkha
-
-
-Darga
-
-Tevir
-
-Tipeha
-
-
-Etnahta
-
-Mahapakh
-Pashta
-
-Munah
-Zaqef Qatan
-
-Tipeha
-
-
-
-Munah
-Revia
-Mahapakh
-Pashta
-
-
-Munah
-
-Zaqef Qatan
-
-Merkha
-
-
-
-Munah
-
-Etnahta
-Yetiv
-
-Munah
-Zaqef Qatan
-
-
-Tipeha
-Merkha
-
-
-
-Merkha
-Tipeha
-
-Etnahta
-Munah
-Revia
-
-Merkha
-Pashta, Qadma
-Zaqef Qatan
-
-Tevir
-
-Merkha
-
-Tipeha
-
-
-
-Munah
-Revia
-
-Mahapakh
-Pashta, Qadma
-
-Munah
-Zaqef Qatan
-
-Munah
-Zaqef Qatan
-
-Tipeha
-
-
-Munah
-
-Etnahta
-
-Merkha
-
-
-Tipeha
-
-
-
-Merkha
-
-
-Tipeha
-Etnahta
-
-Munah
-
-Zaqef Qatan
-
-Pashta
-Munah
-Munah
-Zaqef Qatan
-
-
-Tipeha
-Merkha
-
-
-Merkha
-
-Tipeha
-
-Munah
-Etnahta
-
-
-Tipeha
-
-Merkha
-
-
-Pashta, Qadma
-Zaqef Qatan
-Munah
-Zaqef Qatan
-Tipeha
-
-Munah
-
-Etnahta
-
-Merkha
-
 
 Tipeha
 
@@ -170391,6 +170164,233 @@ Munah
 Zinor
 
 Segol
+Zaqef Gadol
+Telisha Qetana
+Qadma
+Darga
+Tevir
+
+
+Merkha
+
+Tipeha
+
+
+Munah
+Etnahta
+
+Tipeha
+
+Merkha
+
+
+
+Revia
+
+Pashta
+Munah
+Zaqef Qatan
+
+Tipeha
+
+Munah
+Etnahta
+
+Mahapakh
+Shene Pashtim
+
+Munah
+Zaqef Qatan
+Tipeha
+Merkha
+
+
+
+Merkha
+Tipeha
+
+Etnahta
+Merkha
+Tevir
+Tipeha
+
+
+
+Mahapakh
+Shene Pashtim
+
+Zaqef Qatan
+Yetiv
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+
+Munah
+
+Etnahta
+
+Mahapakh
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Munah, Zaqef Qatan
+Tipeha
+
+Merkha
+
+
+Darga
+
+Tevir
+
+Tipeha
+
+
+Etnahta
+
+Mahapakh
+Pashta
+
+Munah
+Zaqef Qatan
+
+Tipeha
+
+
+
+Munah
+Revia
+Mahapakh
+Pashta
+
+
+Munah
+
+Zaqef Qatan
+
+Merkha
+
+
+
+Munah
+
+Etnahta
+Yetiv
+
+Munah
+Zaqef Qatan
+
+
+Tipeha
+Merkha
+
+
+
+Merkha
+Tipeha
+
+Etnahta
+Munah
+Revia
+
+Merkha
+Shene Pashtim
+Zaqef Qatan
+
+Tevir
+
+Merkha
+
+Tipeha
+
+
+
+Munah
+Revia
+
+Mahapakh
+Shene Pashtim
+
+Munah
+Zaqef Qatan
+
+Munah
+Zaqef Qatan
+
+Tipeha
+
+
+Munah
+
+Etnahta
+
+Merkha
+
+
+Tipeha
+
+
+
+Merkha
+
+
+Tipeha
+Etnahta
+
+Munah
+
+Zaqef Qatan
+
+Pashta
+Munah
+Munah
+Zaqef Qatan
+
+
+Tipeha
+Merkha
+
+
+Merkha
+
+Tipeha
+
+Munah
+Etnahta
+
+
+Tipeha
+
+Merkha
+
+
+Shene Pashtim
+Zaqef Qatan
+Munah
+Zaqef Qatan
+Tipeha
+
+Munah
+
+Etnahta
+
+Merkha
+
+
+Tipeha
+
+
+
+Munah
+Zinor
+
+Segol
 
 Telisha Qetana
 Qadma
@@ -170444,7 +170444,7 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -170453,7 +170453,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -170486,7 +170486,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -170634,7 +170634,7 @@ Revia
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -170656,14 +170656,14 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -170691,7 +170691,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -170757,7 +170757,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -170805,9 +170805,9 @@ Revia
 
 Pashta
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
@@ -170826,7 +170826,7 @@ Zaqef Qatan
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -170835,7 +170835,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -170991,7 +170991,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -171098,7 +171098,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -171124,10 +171124,10 @@ Revia
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -171157,7 +171157,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -171262,7 +171262,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -171311,7 +171311,7 @@ Revia
 Pashta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -171455,7 +171455,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -171496,7 +171496,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -171525,7 +171525,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -171544,7 +171544,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -171669,7 +171669,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -171692,7 +171692,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -171761,7 +171761,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Mahapakh
@@ -171778,7 +171778,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -171794,7 +171794,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Darga
@@ -171892,7 +171892,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -171910,7 +171910,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 Munah
 
@@ -171935,7 +171935,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -172022,7 +172022,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -172063,7 +172063,7 @@ Zaqef Qatan
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -172075,13 +172075,13 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -172091,7 +172091,7 @@ Pashta
 Munah
 
 Zaqef Qatan
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -172165,7 +172165,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -172199,13 +172199,13 @@ Tipeha
 Etnahta
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -172356,7 +172356,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -172381,7 +172381,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -172569,7 +172569,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -172639,7 +172639,7 @@ Telisha Qetana
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -172659,7 +172659,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -172679,13 +172679,13 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -172723,7 +172723,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -172753,7 +172753,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -172773,7 +172773,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -172822,7 +172822,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -172867,7 +172867,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -172888,7 +172888,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -172946,7 +172946,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -172954,7 +172954,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -173020,7 +173020,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Mahapakh
@@ -173034,7 +173034,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -173064,7 +173064,7 @@ Zinor
 Munah
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -173077,7 +173077,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -173112,7 +173112,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -173156,7 +173156,7 @@ Munah
 Pazer
 Munah
 
-Munah
+Munah, Paseq
 Pazer
 Munah
 Telisha Qetana
@@ -173167,7 +173167,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -173185,7 +173185,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -173230,7 +173230,7 @@ Telisha Gedola
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -173260,7 +173260,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 Tipeha
@@ -173283,13 +173283,13 @@ Munah
 Etnahta
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 
 Pashta
@@ -173326,7 +173326,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -173462,7 +173462,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -173572,7 +173572,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -173674,7 +173674,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -173705,7 +173705,7 @@ Tipeha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -173955,7 +173955,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -174062,7 +174062,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -174081,7 +174081,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -174125,7 +174125,7 @@ Merkha
 
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -174170,7 +174170,7 @@ Revia
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -174197,7 +174197,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 Tipeha
@@ -174240,7 +174240,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -174268,8 +174268,8 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -174484,7 +174484,7 @@ Zaqef Gadol
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -174692,7 +174692,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -174723,7 +174723,7 @@ Zaqef Qatan
 
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -174774,7 +174774,7 @@ Etnahta
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -174818,10 +174818,10 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -174933,7 +174933,7 @@ Qadma
 
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -174982,7 +174982,7 @@ Qadma
 
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -175113,10 +175113,10 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -175165,7 +175165,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -175322,7 +175322,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -175346,8 +175346,8 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -175360,7 +175360,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -175402,7 +175402,7 @@ Tipeha
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -175422,7 +175422,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -175448,7 +175448,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -175472,7 +175472,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -175490,7 +175490,7 @@ Qadma
 
 
 Geresh
-Mahapakh
+Legarmeh
 
 Pashta
 Munah
@@ -175516,7 +175516,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -175530,7 +175530,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -175565,15 +175565,15 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 
 Merkha
-Etnahta, Tipeha
+Tipeha, Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -175633,7 +175633,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -175726,8 +175726,8 @@ Pazer
 Munah
 Munah
 
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 
 Pazer
 
@@ -175745,7 +175745,7 @@ Revia
 Telisha Gedola
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -175781,7 +175781,7 @@ Tipeha
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -175809,7 +175809,7 @@ Tipeha
 Telisha Qetana
 Qadma
 
-Merkha
+Merkha, Paseq
 Zinor
 
 Segol
@@ -175849,20 +175849,20 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 
-Munah
+Munah, Paseq
 
 Munah
 
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -175920,7 +175920,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -175958,7 +175958,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -175971,7 +175971,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -176011,7 +176011,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -176045,7 +176045,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -176058,7 +176058,7 @@ Merkha
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -176089,7 +176089,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -176105,7 +176105,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -176141,7 +176141,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -176159,9 +176159,9 @@ Qadma
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -176181,7 +176181,7 @@ Munah
 Revia
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -176203,7 +176203,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -176266,7 +176266,7 @@ Munah
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Revia
 
@@ -176339,7 +176339,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -176392,7 +176392,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -176403,7 +176403,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -176430,7 +176430,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -176455,132 +176455,6 @@ Merkha
 Tipeha
 Merkha
 
-Telisha Gedola
-
-Merkha
-
-
-
-Zinor
-
-Segol
-
-Pashta
-
-
-Munah
-
-Zaqef Qatan
-
-
-Pashta
-
-Zaqef Qatan
-
-
-Tipeha
-Munah
-
-Etnahta
-
-
-Merkha
-Tipeha
-Merkha
-
-
-Pashta
-Munah
-
-Zaqef Qatan
-Merkha
-
-Tipeha
-Etnahta
-
-Munah
-Zaqef Qatan
-Revia
-Tevir
-
-Merkha
-
-
-Tipeha
-
-
-Zaqef Gadol
-
-Merkha
-
-
-Tipeha
-
-Etnahta
-
-Revia
-Tevir
-
-Merkha
-Tipeha
-
-
-Tevir
-Merkha
-Tipeha
-
-
-Etnahta
-
-Merkha
-
-Tipeha
-
-
-Mahapakh
-
-
-Pashta, Qadma
-
-Zaqef Qatan
-Tipeha
-Munah
-
-Etnahta
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Darga
-
-
-Tevir
-
-Tipeha
-
-
-Zinor
-Segol
-Munah
-
-Zaqef Qatan
-Munah
-Zaqef Qatan
-Tipeha
-Munah
-Etnahta
-
-Tipeha
-Merkha
-
-
-Munah
-Munah
-
-Revia
 Telisha Gedola
 
 Merkha
@@ -176591,6 +176465,132 @@ Zinor
 
 Segol
 
+Pashta
+
+
+Munah
+
+Zaqef Qatan
+
+
+Pashta
+
+Zaqef Qatan
+
+
+Tipeha
+Munah
+
+Etnahta
+
+
+Merkha
+Tipeha
+Merkha
+
+
+Pashta
+Munah
+
+Zaqef Qatan
+Merkha
+
+Tipeha
+Etnahta
+
+Munah
+Zaqef Qatan
+Revia
+Tevir
+
+Merkha
+
+
+Tipeha
+
+
+Zaqef Gadol
+
+Merkha
+
+
+Tipeha
+
+Etnahta
+
+Revia
+Tevir
+
+Merkha
+Tipeha
+
+
+Tevir
+Merkha
+Tipeha
+
+
+Etnahta
+
+Merkha
+
+Tipeha
+
+
+Mahapakh
+
+
+Shene Pashtim
+
+Zaqef Qatan
+Tipeha
+Munah
+
+Etnahta
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Darga
+
+
+Tevir
+
+Tipeha
+
+
+Zinor
+Segol
+Munah
+
+Zaqef Qatan
+Munah
+Zaqef Qatan
+Tipeha
+Munah
+Etnahta
+
+Tipeha
+Merkha
+
+
+Munah, Paseq
+Munah
+
+Revia
+Telisha Gedola
+
+Merkha
+
+
+
+Zinor
+
+Segol
+
 Telisha Qetana
 
 
@@ -176615,7 +176615,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -176653,7 +176653,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Revia
@@ -176734,7 +176734,7 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -176751,7 +176751,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -176843,7 +176843,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -176861,7 +176861,7 @@ Tevir
 
 Tipeha
 
-Munah
+Munah, Paseq
 Etnahta
 Yetiv
 Munah
@@ -176912,7 +176912,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -176933,7 +176933,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -177017,7 +177017,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 Merkha
@@ -177027,7 +177027,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -177056,9 +177056,9 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -177179,7 +177179,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -177201,7 +177201,7 @@ Pashta
 
 Zaqef Qatan
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -177213,7 +177213,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -177257,7 +177257,7 @@ Gershayim
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -177306,7 +177306,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -177403,9 +177403,9 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -177474,7 +177474,7 @@ Zinor
 Segol
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -177571,7 +177571,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -177593,7 +177593,7 @@ Tipeha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -177670,7 +177670,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -177690,7 +177690,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -177721,7 +177721,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -177759,7 +177759,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -177804,7 +177804,7 @@ Munah
 
 Zaqef Qatan
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -177983,10 +177983,10 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
-Merkha
+Merkha, Paseq
 Tipeha
 Munah
 Munah
@@ -177996,7 +177996,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -178021,7 +178021,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -178049,7 +178049,7 @@ Telisha Gedola
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -178108,9 +178108,9 @@ Merkha
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -178148,7 +178148,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -178158,9 +178158,9 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -178173,7 +178173,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -178196,7 +178196,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -178253,7 +178253,7 @@ Pashta
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -178343,14 +178343,14 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
 Revia
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -178383,9 +178383,9 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -178413,7 +178413,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -178442,7 +178442,7 @@ Etnahta
 Telisha Gedola
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -178474,7 +178474,7 @@ Tipeha
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -178579,7 +178579,7 @@ Merkha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -178600,7 +178600,7 @@ Qadma
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -178676,7 +178676,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -178684,7 +178684,7 @@ Munah
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -178698,7 +178698,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -178716,7 +178716,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -178744,9 +178744,9 @@ Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -178819,7 +178819,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -178909,7 +178909,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -178941,7 +178941,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -179008,7 +179008,7 @@ Zinor
 
 Segol
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -179191,7 +179191,7 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 Merkha
@@ -179226,7 +179226,7 @@ Tipeha
 Etnahta
 
 
-Pazer, Munah
+Munah, Pazer
 Telisha Qetana
 Qadma
 Geresh
@@ -179235,9 +179235,9 @@ Munah
 
 Revia
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -179311,7 +179311,7 @@ Tipeha
 Munah
 Etnahta
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -179408,7 +179408,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 
 Munah
@@ -179541,7 +179541,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -179598,7 +179598,7 @@ Zinor
 Segol
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -179630,7 +179630,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -179737,7 +179737,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -179748,7 +179748,7 @@ Zaqef Qatan
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -179774,14 +179774,14 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -179966,7 +179966,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Yetiv
 Munah
@@ -180165,7 +180165,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -180220,9 +180220,9 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -180246,7 +180246,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -180259,7 +180259,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -180278,7 +180278,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -180347,7 +180347,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -180373,14 +180373,14 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -180406,7 +180406,7 @@ Geresh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -180444,7 +180444,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 Zaqef Qatan
@@ -180579,7 +180579,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -180617,7 +180617,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -180670,7 +180670,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Revia
 Pashta
 Pashta
@@ -180780,7 +180780,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -180792,7 +180792,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -180861,7 +180861,7 @@ Tipeha
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -180893,7 +180893,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Pashta
@@ -181206,7 +181206,7 @@ Munah
 Zaqef Qatan
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -181279,7 +181279,7 @@ Pashta
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -181293,7 +181293,7 @@ Munah
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -181302,7 +181302,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -181323,7 +181323,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -181360,7 +181360,7 @@ Telisha Gedola
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Revia
 
 Mahapakh
@@ -181382,7 +181382,7 @@ Telisha Qetana
 
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 Munah
 Zaqef Qatan
@@ -181408,14 +181408,14 @@ Darga
 Munah
 Revia
 Munah
-Munah
+Munah, Paseq
 Pazer
 
 Telisha Qetana
-Qadma
+Qadma, Paseq
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -181491,11 +181491,11 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -181508,7 +181508,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -181555,12 +181555,12 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -181572,7 +181572,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -181585,7 +181585,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -181610,7 +181610,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -181649,7 +181649,7 @@ Darga
 
 Tevir
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 Qadma
@@ -181701,7 +181701,7 @@ Tipeha
 Etnahta
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -181734,7 +181734,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -182044,7 +182044,7 @@ Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -182097,7 +182097,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Mahapakh
@@ -182240,7 +182240,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -182342,7 +182342,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -182434,7 +182434,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -182590,7 +182590,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Gedola
@@ -182657,7 +182657,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Zaqef Gadol
@@ -182715,7 +182715,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -182728,7 +182728,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -182779,12 +182779,12 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -182818,7 +182818,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -182839,7 +182839,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -182881,15 +182881,15 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -182973,7 +182973,7 @@ Qadma
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -182992,7 +182992,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -183001,7 +183001,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Qadma
@@ -183062,7 +183062,7 @@ Merkha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -183108,7 +183108,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -183171,7 +183171,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -183181,7 +183181,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -183233,7 +183233,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -183273,7 +183273,7 @@ Merkha
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -183315,7 +183315,7 @@ Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -183327,7 +183327,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -183400,7 +183400,7 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -183438,7 +183438,7 @@ Qadma
 Geresh
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -183450,7 +183450,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -183520,7 +183520,7 @@ Segol
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -183574,7 +183574,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Munah
@@ -183601,7 +183601,7 @@ Munah
 
 
 
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -183614,7 +183614,7 @@ Geresh
 
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -183749,7 +183749,7 @@ Revia
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -183767,7 +183767,7 @@ Merkha
 Tipeha
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Darga
 Tevir
@@ -183780,7 +183780,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -183832,7 +183832,7 @@ Zaqef Qatan
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 
@@ -183900,7 +183900,7 @@ Zinor
 Munah
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -184031,7 +184031,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -184067,7 +184067,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -184097,7 +184097,7 @@ Pashta
 Zaqef Qatan
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -184132,7 +184132,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -184140,7 +184140,7 @@ Pashta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -184222,7 +184222,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -184276,7 +184276,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 
@@ -184411,7 +184411,7 @@ Merkha Kefula
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -184437,7 +184437,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
@@ -184449,7 +184449,7 @@ Tevir
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -184474,7 +184474,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -184502,7 +184502,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -184510,7 +184510,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Pashta
 Munah
@@ -184543,7 +184543,7 @@ Qadma
 Geresh
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -184833,7 +184833,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -184844,7 +184844,7 @@ Telisha Qetana
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -184880,7 +184880,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -184992,7 +184992,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Munah
@@ -185031,7 +185031,7 @@ Tipeha
 Etnahta
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -185215,7 +185215,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -185235,7 +185235,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -185257,7 +185257,7 @@ Tipeha
 Munah
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -185340,7 +185340,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -185354,7 +185354,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -185364,7 +185364,7 @@ Zaqef Qatan
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -185458,7 +185458,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Zaqef Qatan
 Merkha
 Tipeha
@@ -185494,7 +185494,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -185517,7 +185517,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -185639,12 +185639,12 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -185679,12 +185679,12 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -185694,7 +185694,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -185740,7 +185740,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -185785,11 +185785,11 @@ Munah
 Telisha Gedola
 
 
-Mahapakh
+Legarmeh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -185803,7 +185803,7 @@ Tipeha
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -185884,7 +185884,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -185921,7 +185921,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -185933,7 +185933,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Munah
@@ -185958,7 +185958,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -186166,7 +186166,7 @@ Qadma
 Geresh
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -186226,7 +186226,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -186330,7 +186330,7 @@ Munah
 
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -186345,7 +186345,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Zaqef Gadol
 Merkha
@@ -186518,7 +186518,7 @@ Pazer
 Telisha Qetana
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Munah
 
@@ -186579,7 +186579,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -186591,7 +186591,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Telisha Gedola
 
 Munah
@@ -186600,7 +186600,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -186631,7 +186631,7 @@ Pashta
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -186690,7 +186690,7 @@ Merkha
 
 
 Munah
-Munah
+Munah, Paseq
 Pazer
 
 
@@ -186700,18 +186700,18 @@ Munah
 
 
 Telisha Qetana
-Qadma
+Qadma, Paseq
 
 
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -186729,7 +186729,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -186740,7 +186740,7 @@ Merkha
 Geresh
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -186775,7 +186775,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Darga
@@ -186798,12 +186798,12 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -186850,7 +186850,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -186873,7 +186873,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -186886,7 +186886,7 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 Etnahta
 
 Mahapakh
@@ -186927,7 +186927,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -186937,7 +186937,7 @@ Gershayim
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -186957,7 +186957,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -186968,7 +186968,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -187003,7 +187003,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -187014,7 +187014,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -187074,7 +187074,7 @@ Munah
 Telisha Qetana
 
 
-Qadma
+Qadma, Paseq
 
 Geresh
 
@@ -187105,7 +187105,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 Munah
@@ -187116,7 +187116,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -187138,7 +187138,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Munah
 
@@ -187289,12 +187289,12 @@ Munah
 Etnahta
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -187306,7 +187306,7 @@ Merkha
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -187398,7 +187398,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -187421,7 +187421,7 @@ Munah
 
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Munah
@@ -187438,7 +187438,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -187712,7 +187712,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -187721,7 +187721,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -187771,7 +187771,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -187786,7 +187786,7 @@ Revia
 Yetiv
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -187974,7 +187974,7 @@ Merkha
 Telisha Qetana
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -188017,7 +188017,7 @@ Pashta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -188029,7 +188029,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -188049,7 +188049,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -188087,7 +188087,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -188142,7 +188142,7 @@ Geresh
 
 Qadma
 Merkha
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -188286,7 +188286,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -188556,7 +188556,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -188565,12 +188565,12 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -188662,7 +188662,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -188709,7 +188709,7 @@ Etnahta
 Telisha Qetana
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -188752,7 +188752,7 @@ Munah
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Pashta
 
@@ -188819,7 +188819,7 @@ Munah
 Telisha Gedola
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Munah
@@ -188893,7 +188893,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -189049,7 +189049,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -189074,7 +189074,7 @@ Tipeha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -189085,7 +189085,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -189108,7 +189108,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -189191,9 +189191,9 @@ Geresh
 Merkha
 
 
-Munah
+Munah, Paseq
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -189327,7 +189327,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -189470,7 +189470,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -189484,7 +189484,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -189582,7 +189582,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -189620,7 +189620,7 @@ Merkha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -189700,7 +189700,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -189736,11 +189736,11 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -189896,7 +189896,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -189953,7 +189953,7 @@ Merkha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -189968,7 +189968,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -189987,7 +189987,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -190006,7 +190006,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -190020,7 +190020,7 @@ Tipeha
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -190029,7 +190029,7 @@ Munah
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -190045,9 +190045,9 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -190059,9 +190059,9 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -190096,7 +190096,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -190131,7 +190131,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -190174,9 +190174,9 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -190207,7 +190207,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Revia
@@ -190245,7 +190245,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -190298,8 +190298,8 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -190308,7 +190308,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 Munah
 Zaqef Qatan
@@ -190331,7 +190331,7 @@ Zaqef Qatan
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -190351,7 +190351,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -190408,11 +190408,11 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -190423,7 +190423,7 @@ Tipeha
 
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -190463,7 +190463,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -190473,7 +190473,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -190509,7 +190509,7 @@ Tevir
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -190551,13 +190551,13 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 Yetiv
 Munah
@@ -190626,7 +190626,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Yetiv
 Munah
@@ -190674,7 +190674,7 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -190747,7 +190747,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Gershayim
 Munah
@@ -190777,7 +190777,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -190812,7 +190812,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -190822,7 +190822,7 @@ Munah
 Etnahta
 
 Gershayim
-Munah
+Munah, Paseq
 
 
 Munah
@@ -190950,7 +190950,7 @@ Darga
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 
 
@@ -191134,7 +191134,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -191233,7 +191233,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 Munah
 
@@ -191246,7 +191246,7 @@ Merkha
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -191259,7 +191259,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -191268,7 +191268,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -191289,7 +191289,7 @@ Munah
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Qadma
 
 Mahapakh
@@ -191313,7 +191313,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -191356,7 +191356,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -191364,7 +191364,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 Munah
 
@@ -191384,12 +191384,12 @@ Merkha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -191420,7 +191420,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -191447,7 +191447,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -191486,7 +191486,7 @@ Pashta
 
 Zaqef Qatan
 
-Munah
+Munah, Paseq
 Revia
 Mahapakh
 Pashta
@@ -191537,7 +191537,7 @@ Tipeha
 
 Telisha Qetana
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 
 
@@ -191560,7 +191560,7 @@ Etnahta
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -191601,7 +191601,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -191676,7 +191676,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -191691,7 +191691,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -191722,7 +191722,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -191787,7 +191787,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -191858,7 +191858,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -191870,7 +191870,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -191950,9 +191950,9 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -192002,11 +192002,11 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -192014,7 +192014,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -192026,7 +192026,7 @@ Darga
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 
 
 
@@ -192039,7 +192039,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -192064,7 +192064,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -192115,7 +192115,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Telisha Qetana
 
 Qadma
@@ -192182,7 +192182,7 @@ Tipeha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -192209,7 +192209,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Zinor
@@ -192249,7 +192249,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -192351,7 +192351,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -192439,7 +192439,7 @@ Munah
 Revia
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -192475,7 +192475,7 @@ Tipeha
 
 Munah
 
-Munah
+Munah, Paseq
 Pazer
 
 
@@ -192488,7 +192488,7 @@ Geresh
 Munah
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -192607,7 +192607,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -192632,7 +192632,7 @@ Merkha
 
 Qadma
 
-Merkha
+Merkha, Paseq
 Zinor
 
 
@@ -192703,12 +192703,12 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Darga
 Tevir
 Tipeha
@@ -192766,13 +192766,13 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -192812,7 +192812,7 @@ Revia
 Yetiv
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -192825,7 +192825,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -192850,7 +192850,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -192871,7 +192871,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -192881,7 +192881,7 @@ Munah
 Etnahta
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 
@@ -192896,7 +192896,7 @@ Darga
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 
@@ -192937,7 +192937,7 @@ Merkha
 
 Zaqef Gadol
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -193013,9 +193013,9 @@ Tipeha
 Munah
 Munah
 
-Munah
+Munah, Paseq
 
-Telisha Qetana
+Telisha Qetana, Paseq
 
 Qadma
 
@@ -193161,7 +193161,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -193304,7 +193304,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -193345,7 +193345,7 @@ Revia
 Munah
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -193452,7 +193452,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -193470,7 +193470,7 @@ Merkha
 
 Qadma
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -193505,7 +193505,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -193597,7 +193597,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -193702,9 +193702,9 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tevir
@@ -193778,8 +193778,8 @@ Merkha
 
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Qadma
 Merkha
@@ -193794,7 +193794,7 @@ Tipeha
 
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 Munah
@@ -193821,8 +193821,8 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -193875,7 +193875,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -193910,7 +193910,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -193962,7 +193962,7 @@ Qadma
 
 Geresh
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Gershayim
 
@@ -194069,7 +194069,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -194124,7 +194124,7 @@ Tipeha
 Revia
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -194200,7 +194200,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -194234,7 +194234,7 @@ Etnahta
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -194306,11 +194306,11 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -194368,7 +194368,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -194468,7 +194468,7 @@ Qadma
 
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -194625,7 +194625,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -194669,7 +194669,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Darga
 Tevir
 
@@ -194705,7 +194705,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -194737,7 +194737,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -194870,7 +194870,7 @@ Merkha
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -195031,7 +195031,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -195100,7 +195100,7 @@ Geresh
 
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -195152,7 +195152,7 @@ Gershayim
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -195211,7 +195211,7 @@ Merkha
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -195257,7 +195257,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -195331,7 +195331,7 @@ Tipeha
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -195454,7 +195454,7 @@ Munah
 
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -195516,8 +195516,8 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -195529,12 +195529,12 @@ Revia
 
 Mahapakh
 Pashta
-Munah
+Munah, Paseq
 Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -195549,7 +195549,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -195586,7 +195586,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -195611,14 +195611,14 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 Merkha
 Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -195648,7 +195648,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -195699,7 +195699,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -195751,7 +195751,7 @@ Geresh
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -195785,7 +195785,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -195852,7 +195852,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -195881,7 +195881,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -196036,7 +196036,7 @@ Zaqef Gadol
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -196082,8 +196082,8 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -196126,7 +196126,7 @@ Revia
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -196187,15 +196187,15 @@ Tevir
 Merkha
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -196259,7 +196259,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -196385,7 +196385,7 @@ Revia
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -196396,7 +196396,7 @@ Darga
 Tevir
 
 
-Etnahta, Tipeha
+Tipeha, Etnahta
 
 Merkha
 
@@ -196545,7 +196545,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -196563,7 +196563,7 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -196581,7 +196581,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -196661,7 +196661,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -196714,7 +196714,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -196738,7 +196738,7 @@ Revia
 Munah
 Zinor
 Munah
-Munah
+Munah, Paseq
 Zinor
 
 
@@ -196863,10 +196863,10 @@ Tipeha
 Merkha
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -196889,7 +196889,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -196986,7 +196986,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -197101,7 +197101,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -197126,7 +197126,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -197158,7 +197158,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -197211,7 +197211,7 @@ Munah
 
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -197223,7 +197223,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -197238,7 +197238,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 
@@ -197273,7 +197273,7 @@ Tipeha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -197365,7 +197365,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -197394,7 +197394,7 @@ Tipeha
 Qadma
 Geresh
 
-Revia, Munah
+Munah, Revia
 
 Telisha Qetana
 
@@ -197419,8 +197419,8 @@ Tipeha
 
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Yetiv
 Munah
 Zaqef Qatan
@@ -197501,7 +197501,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -197587,7 +197587,7 @@ Pashta
 Zaqef Qatan
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -197608,10 +197608,10 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -197639,7 +197639,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -197715,7 +197715,7 @@ Etnahta
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -197829,7 +197829,7 @@ Segol
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Mahapakh
 Pashta
@@ -197886,7 +197886,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -197912,16 +197912,16 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -197953,7 +197953,7 @@ Munah
 
 
 Segol
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -198003,7 +198003,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Revia
 Zinor
 Munah
@@ -198125,7 +198125,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -198204,7 +198204,7 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -198221,7 +198221,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -198260,7 +198260,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -198374,7 +198374,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -198583,7 +198583,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -198605,7 +198605,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -198681,7 +198681,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -198720,7 +198720,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -198780,7 +198780,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -198858,7 +198858,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -198876,14 +198876,14 @@ Pashta
 Munah
 
 Zaqef Qatan
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
@@ -198896,7 +198896,7 @@ Tevir
 Merkha
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -198925,12 +198925,12 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
 
-Mahapakh
+Legarmeh
 Pashta
 
 Munah
@@ -199063,12 +199063,12 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -199111,7 +199111,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -199156,7 +199156,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -199174,7 +199174,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -199261,7 +199261,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -199377,7 +199377,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -199462,7 +199462,7 @@ Geresh
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -199561,7 +199561,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -199613,7 +199613,7 @@ Tipeha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 
@@ -199794,7 +199794,7 @@ Mahapakh
 
 Pashta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -199890,7 +199890,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -199971,7 +199971,7 @@ Tipeha
 
 Qadma
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -200065,7 +200065,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -200160,7 +200160,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -200218,7 +200218,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -200282,7 +200282,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -200298,7 +200298,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -200338,7 +200338,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -200360,7 +200360,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -200388,14 +200388,14 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
 Etnahta
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -200576,7 +200576,7 @@ Munah
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -200660,11 +200660,11 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -200786,7 +200786,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -200876,7 +200876,7 @@ Telisha Qetana
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -200907,7 +200907,7 @@ Zaqef Qatan
 
 Zaqef Gadol
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Qadma
 Geresh
@@ -200972,7 +200972,7 @@ Qadma
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -201076,7 +201076,7 @@ Zinor
 Munah
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -201194,7 +201194,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 Munah
 
@@ -201225,7 +201225,7 @@ Telisha Qetana
 
 Qadma
 
-Mahapakh
+Legarmeh
 
 Pashta
 Munah
@@ -201247,7 +201247,7 @@ Tipeha
 
 Munah
 Telisha Qetana
-Qadma
+Qadma, Paseq
 Geresh
 
 Revia
@@ -201256,7 +201256,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -201276,7 +201276,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -201290,7 +201290,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -201343,13 +201343,13 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -201419,14 +201419,14 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 Etnahta
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -201445,7 +201445,7 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tevir
@@ -201459,7 +201459,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -201472,7 +201472,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -201525,7 +201525,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -201636,7 +201636,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -201649,7 +201649,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -201749,7 +201749,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -201780,7 +201780,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -201854,7 +201854,7 @@ Geresh
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
@@ -202011,7 +202011,7 @@ Munah
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -202039,7 +202039,7 @@ Pashta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Merkha
@@ -202082,7 +202082,7 @@ Telisha Gedola
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -202133,7 +202133,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -202264,7 +202264,7 @@ Merkha
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -202278,7 +202278,7 @@ Pashta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -202303,7 +202303,7 @@ Mahapakh
 Pashta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -202363,7 +202363,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -202444,7 +202444,7 @@ Pashta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -202515,7 +202515,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -202524,7 +202524,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -202652,7 +202652,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -202702,7 +202702,7 @@ Pashta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -202717,7 +202717,7 @@ Etnahta
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -202734,7 +202734,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -202803,14 +202803,14 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -202888,10 +202888,10 @@ Geresh
 Munah
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -202927,7 +202927,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -203063,7 +203063,7 @@ Telisha Gedola
 
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 Munah
 
@@ -203100,7 +203100,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -203134,7 +203134,7 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -203174,7 +203174,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -203276,7 +203276,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -203289,7 +203289,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -203323,7 +203323,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Tipeha
@@ -203356,7 +203356,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -203380,7 +203380,7 @@ Mahapakh
 Pashta
 
 Zaqef Qatan
-Munah
+Munah, Paseq
 Zaqef Qatan
 Merkha
 Tipeha
@@ -203401,7 +203401,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -203481,7 +203481,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 Mahapakh
@@ -203517,7 +203517,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -203656,7 +203656,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -203848,7 +203848,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -203865,7 +203865,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -203888,7 +203888,7 @@ Munah
 
 Etnahta
 
-Tipeha, Merkha
+Merkha, Tipeha
 Merkha
 
 
@@ -203917,10 +203917,10 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Telisha Qetana
 
@@ -203928,7 +203928,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -203975,7 +203975,7 @@ Geresh
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -204003,7 +204003,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -204127,7 +204127,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -204215,7 +204215,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -204274,7 +204274,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -204296,7 +204296,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -204356,7 +204356,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -204501,7 +204501,7 @@ Zaqef Qatan
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -204537,7 +204537,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -204566,7 +204566,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -204577,13 +204577,13 @@ Etnahta
 Tevir
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -204670,7 +204670,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -204801,7 +204801,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -204850,7 +204850,7 @@ Munah
 Pazer
 
 
-Pazer, Munah
+Munah, Pazer
 
 
 Telisha Gedola
@@ -204881,11 +204881,11 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -205014,7 +205014,7 @@ Zaqef Qatan
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -205141,7 +205141,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -205246,7 +205246,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -205263,7 +205263,7 @@ Munah
 Pazer
 Telisha Gedola
 
-Mahapakh, Qadma
+Qadma, Mahapakh
 
 Pashta
 Zaqef Qatan
@@ -205326,7 +205326,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -205442,7 +205442,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -205527,7 +205527,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -205614,7 +205614,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -205646,7 +205646,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -205662,7 +205662,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -205679,7 +205679,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -205758,7 +205758,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -205893,10 +205893,10 @@ Merkha
 Tipeha
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -205994,7 +205994,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -206105,7 +206105,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -206115,7 +206115,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -206151,9 +206151,9 @@ Segol
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -206190,7 +206190,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 
 
@@ -206220,7 +206220,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -206240,7 +206240,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -206248,11 +206248,11 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 Merkha
 Tipeha
@@ -206262,7 +206262,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Zaqef Qatan
@@ -206494,7 +206494,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -206508,7 +206508,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -206551,7 +206551,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -206575,7 +206575,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -206603,7 +206603,7 @@ Munah
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 
 Pashta
@@ -206726,7 +206726,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -206750,7 +206750,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -206803,11 +206803,11 @@ Munah
 Munah
 
 
-Telisha Qetana
-Qadma
+Telisha Qetana, Paseq
+Qadma, Paseq
 
-Mahapakh
-Pashta, Qadma
+Legarmeh
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -206863,7 +206863,7 @@ Pashta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Tipeha
@@ -206883,7 +206883,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 
 Qadma
@@ -206967,7 +206967,7 @@ Tevir
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -207030,7 +207030,7 @@ Etnahta
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -207042,7 +207042,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -207132,7 +207132,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -207140,7 +207140,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Munah
@@ -207158,7 +207158,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -207230,7 +207230,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -207414,7 +207414,7 @@ Tipeha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -207488,21 +207488,21 @@ Pazer
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
 Telisha Qetana
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 
 Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -207534,7 +207534,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -207570,7 +207570,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -207600,7 +207600,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -207627,12 +207627,12 @@ Tipeha
 Etnahta
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Qetana
@@ -207699,7 +207699,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -207743,7 +207743,7 @@ Tipeha
 
 
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -207851,14 +207851,14 @@ Revia
 Pashta
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -207876,7 +207876,7 @@ Merkha
 
 Munah
 Zinor
-Munah
+Munah, Paseq
 Segol
 
 Revia
@@ -207896,7 +207896,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Tipeha
@@ -207988,7 +207988,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -208027,7 +208027,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Darga
 
 Tevir
@@ -208043,7 +208043,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -208123,7 +208123,7 @@ Munah
 
 Segol
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -208163,7 +208163,7 @@ Tipeha
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -208225,7 +208225,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -208284,7 +208284,7 @@ Pashta
 Pashta
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -208313,7 +208313,7 @@ Zaqef Qatan
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -208349,7 +208349,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -208395,7 +208395,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 
@@ -208442,7 +208442,7 @@ Munah
 
 Pazer
 Pazer
-Telisha Gedola, Munah
+Munah, Telisha Gedola
 
 Darga
 
@@ -208479,7 +208479,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -208520,18 +208520,18 @@ Etnahta
 Qadma
 Geresh
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Darga
@@ -208574,7 +208574,7 @@ Zinor
 Munah
 Segol
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -208612,7 +208612,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -208634,10 +208634,10 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Revia
@@ -208717,7 +208717,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -208741,7 +208741,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -208832,7 +208832,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -208856,7 +208856,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -208973,7 +208973,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -209262,7 +209262,7 @@ Etnahta
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -209298,7 +209298,7 @@ Tipeha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -209350,7 +209350,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -209431,10 +209431,10 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -209508,7 +209508,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -209584,7 +209584,7 @@ Revia
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -209643,7 +209643,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -209651,7 +209651,7 @@ Pashta
 
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -209693,9 +209693,9 @@ Merkha
 
 Telisha Gedola
 
-Geresh, Qadma
+Qadma, Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -209834,7 +209834,7 @@ Geresh
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -209931,7 +209931,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -209973,7 +209973,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -209995,7 +209995,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -210053,9 +210053,9 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -210070,7 +210070,7 @@ Revia
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -210137,7 +210137,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -210171,7 +210171,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -210204,7 +210204,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -210221,7 +210221,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -210371,7 +210371,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -210379,7 +210379,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -210404,7 +210404,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -210451,7 +210451,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -210483,7 +210483,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -210544,7 +210544,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 Telisha Gedola
@@ -210596,7 +210596,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -210640,9 +210640,9 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -210689,11 +210689,11 @@ Etnahta
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -210706,8 +210706,8 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -210720,7 +210720,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tevir
@@ -210778,7 +210778,7 @@ Zaqef Qatan
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -210902,7 +210902,7 @@ Etnahta
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -210912,7 +210912,7 @@ Tipeha
 
 
 Munah
-Munah
+Munah, Paseq
 Pazer
 
 Munah
@@ -210922,7 +210922,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -210946,7 +210946,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -211030,7 +211030,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -211174,7 +211174,7 @@ Telisha Gedola
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -211298,13 +211298,13 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -211400,11 +211400,11 @@ Revia
 
 Qadma
 
-Mahapakh
+Legarmeh
 
-Pashta, Qadma
+Shene Pashtim
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -211469,10 +211469,10 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -211660,7 +211660,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Revia
 
 Mahapakh
@@ -211688,14 +211688,14 @@ Merkha
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
 Qadma
-Merkha
+Merkha, Paseq
 Zinor
 
 Munah
@@ -211754,7 +211754,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 
@@ -211766,7 +211766,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 
@@ -211887,17 +211887,17 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -211923,7 +211923,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -211934,7 +211934,7 @@ Munah
 
 Telisha Gedola
 
-Geresh, Qadma
+Qadma, Geresh
 
 Munah
 
@@ -212090,7 +212090,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -212118,7 +212118,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -212167,7 +212167,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -212450,11 +212450,11 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -212495,7 +212495,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 
 Tipeha
@@ -212543,7 +212543,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -212573,7 +212573,7 @@ Munah
 Revia
 
 Pashta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -212584,7 +212584,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -212828,7 +212828,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -212924,7 +212924,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -212983,7 +212983,7 @@ Munah
 Etnahta
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -213017,7 +213017,7 @@ Telisha Qetana
 
 Qadma
 
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -213037,7 +213037,7 @@ Merkha
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -213149,7 +213149,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -213223,7 +213223,7 @@ Merkha
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -213327,7 +213327,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -213337,7 +213337,7 @@ Zaqef Qatan
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -213346,7 +213346,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -213358,7 +213358,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -213390,7 +213390,7 @@ Geresh
 
 
 Revia
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -213444,7 +213444,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Mahapakh
@@ -213565,7 +213565,7 @@ Merkha
 
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -213601,7 +213601,7 @@ Tipeha
 Merkha
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -213732,7 +213732,7 @@ Tipeha
 
 
 Revia
-Darga
+Darga, Paseq
 Tevir
 Tipeha
 Munah
@@ -213964,7 +213964,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -213997,9 +213997,9 @@ Merkha
 
 
 Qadma
-Mahapakh
+Legarmeh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Darga
 Tevir
@@ -214008,7 +214008,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -214027,7 +214027,7 @@ Mahapakh
 Pashta
 
 Zaqef Qatan
-Darga
+Darga, Paseq
 Tevir
 Tipeha
 Munah
@@ -214038,7 +214038,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -214060,7 +214060,7 @@ Revia
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -214090,7 +214090,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -214141,7 +214141,7 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -214221,7 +214221,7 @@ Merkha
 
 Merkha
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -214237,7 +214237,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -214264,7 +214264,7 @@ Qadma
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -214376,7 +214376,7 @@ Tipeha
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -214412,7 +214412,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -214555,7 +214555,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -214597,7 +214597,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -214718,7 +214718,7 @@ Mahapakh
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -214750,7 +214750,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha, Merkha
 
 Munah
 Zaqef Qatan
@@ -214781,10 +214781,10 @@ Pashta
 Zaqef Qatan
 Munah
 Zaqef Qatan
-Tipeha, Merkha
+Merkha, Tipeha, Merkha
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -214792,7 +214792,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -215007,7 +215007,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -215184,7 +215184,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -215196,7 +215196,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -215417,7 +215417,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Revia
 
 
@@ -215506,7 +215506,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -215675,7 +215675,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -215715,7 +215715,7 @@ Etnahta
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -215736,7 +215736,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -215750,7 +215750,7 @@ Tipeha
 Qadma
 
 
-Mahapakh
+Legarmeh
 Pashta
 
 Munah
@@ -215792,7 +215792,7 @@ Pashta
 Zaqef Qatan
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -215864,7 +215864,7 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -215975,7 +215975,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -215985,7 +215985,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -216137,7 +216137,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -216148,7 +216148,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -216263,14 +216263,14 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
 
 Revia
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 Zaqef Qatan
 
@@ -216325,14 +216325,14 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
 Merkha
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -216379,7 +216379,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -216584,7 +216584,7 @@ Merkha
 Tipeha
 
 
-Shalshelet
+Shalshelet, Paseq
 Mahapakh
 
 Pashta
@@ -216595,7 +216595,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -216613,7 +216613,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -216623,15 +216623,15 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -216721,7 +216721,7 @@ Merkha
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -216732,7 +216732,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -216746,7 +216746,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -216994,7 +216994,7 @@ Tevir
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -217051,7 +217051,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -217130,7 +217130,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -217167,7 +217167,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -217183,7 +217183,7 @@ Etnahta
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -217207,7 +217207,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -217258,7 +217258,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -217293,7 +217293,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -217400,8 +217400,8 @@ Zaqef Qatan
 Zaqef Gadol
 
 Tipeha
-Etnahta, Munah
-Munah
+Munah, Etnahta
+Munah, Paseq
 Munah
 
 Revia
@@ -217447,10 +217447,10 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Munah
 Mahapakh
@@ -217488,7 +217488,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -217536,7 +217536,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -217594,7 +217594,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -217606,7 +217606,7 @@ Mahapakh
 Pashta
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -217718,7 +217718,7 @@ Merkha
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -217805,7 +217805,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -217852,13 +217852,13 @@ Tipeha
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -217872,7 +217872,7 @@ Etnahta
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -217952,7 +217952,7 @@ Merkha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -217990,7 +217990,7 @@ Zinor
 
 
 Segol
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -218120,7 +218120,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -218150,7 +218150,7 @@ Zaqef Qatan
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -218161,7 +218161,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -218182,7 +218182,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -218265,7 +218265,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -218323,7 +218323,7 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 Merkha
@@ -218350,7 +218350,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -218384,7 +218384,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 Revia
 
@@ -218402,7 +218402,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Telisha Qetana
@@ -218451,7 +218451,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -218528,7 +218528,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -218544,7 +218544,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -218567,7 +218567,7 @@ Munah
 Revia
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -218721,7 +218721,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Munah
@@ -218737,7 +218737,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -218751,11 +218751,11 @@ Tipeha
 
 Etnahta
 
-Mahapakh
+Legarmeh
 Pashta
 
 
-Munah
+Munah, Paseq
 Zaqef Qatan
 Mahapakh
 Pashta
@@ -218834,7 +218834,7 @@ Tipeha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 Revia
 Gershayim
 Mahapakh
@@ -218842,7 +218842,7 @@ Pashta
 Zaqef Qatan
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -218940,7 +218940,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -218994,13 +218994,13 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Revia
 Yetiv
 Zaqef Qatan
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -219016,7 +219016,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -219080,7 +219080,7 @@ Munah
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -219126,17 +219126,17 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
 
 
-Munah
+Munah, Paseq
 Revia
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -219177,11 +219177,11 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
-Mahapakh
+Legarmeh
 Pashta
 
 Munah
@@ -219276,7 +219276,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -219361,7 +219361,7 @@ Merkha
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -219415,13 +219415,13 @@ Tipeha
 
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -219507,7 +219507,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -219569,7 +219569,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -219636,7 +219636,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -219711,7 +219711,7 @@ Pashta
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -219739,12 +219739,12 @@ Zaqef Gadol
 Tipeha
 Merkha
 
-Darga
+Darga, Paseq
 Tevir
 
 Tipeha
 
-Munah
+Munah, Paseq
 Etnahta
 Munah
 Zaqef Qatan
@@ -219905,7 +219905,7 @@ Qadma
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -219940,7 +219940,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -219977,7 +219977,7 @@ Tipeha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -219988,7 +219988,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -220052,7 +220052,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -220115,7 +220115,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -220157,7 +220157,7 @@ Tipeha
 Munah
 Etnahta
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -220169,7 +220169,7 @@ Munah
 Zaqef Qatan
 
 
-Merkha
+Merkha, Paseq
 
 Tipeha
 
@@ -220187,7 +220187,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -220314,7 +220314,7 @@ Merkha
 Munah
 Zaqef Qatan
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 Merkha
 Tipeha
@@ -220371,7 +220371,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -220383,7 +220383,7 @@ Etnahta
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -220412,7 +220412,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -220446,7 +220446,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -220554,7 +220554,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -220626,7 +220626,7 @@ Etnahta
 
 Geresh
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -220693,7 +220693,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -220773,7 +220773,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -220853,7 +220853,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 Munah
@@ -220914,7 +220914,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -220999,7 +220999,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -221198,13 +221198,13 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -221362,7 +221362,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -221383,7 +221383,7 @@ Telisha Gedola
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -221444,9 +221444,9 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -221638,13 +221638,13 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
 Merkha
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 
 Merkha
@@ -221655,7 +221655,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -221776,7 +221776,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -221870,7 +221870,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -222065,8 +222065,8 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -222078,7 +222078,7 @@ Etnahta
 Tipeha
 
 
-Merkha, Qadma
+Qadma, Merkha
 
 Tevir
 
@@ -222111,7 +222111,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -222181,7 +222181,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -222190,7 +222190,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -222225,7 +222225,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -222265,7 +222265,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -222462,7 +222462,7 @@ Tipeha
 Munah
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -222542,7 +222542,7 @@ Merkha
 Munah
 Munah
 
-Munah
+Munah, Paseq
 Pazer
 
 Munah
@@ -222855,7 +222855,7 @@ Tipeha
 Merkha
 
 
-Merkha, Qadma
+Qadma, Merkha
 Tevir
 Tipeha
 
@@ -222981,7 +222981,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -223096,7 +223096,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -223268,7 +223268,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -223306,7 +223306,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -223407,7 +223407,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -223441,7 +223441,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -223472,7 +223472,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -223531,7 +223531,7 @@ Pashta
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -223685,7 +223685,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -223763,7 +223763,7 @@ Tipeha
 
 Munah
 
-Munah
+Munah, Paseq
 
 Qadma
 
@@ -223831,7 +223831,7 @@ Tevir
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -223892,7 +223892,7 @@ Etnahta
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -223904,7 +223904,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 
@@ -223991,7 +223991,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -223999,7 +223999,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Munah
@@ -224016,7 +224016,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -224085,7 +224085,7 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -224151,7 +224151,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -224252,7 +224252,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -224278,7 +224278,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -224327,20 +224327,20 @@ Pazer
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Qetana
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 
 Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -224372,7 +224372,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -224408,7 +224408,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -224464,12 +224464,12 @@ Tipeha
 Etnahta
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -224535,7 +224535,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -224579,7 +224579,7 @@ Tipeha
 
 
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -224686,14 +224686,14 @@ Revia
 Pashta
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -224711,7 +224711,7 @@ Merkha
 
 Munah
 Zinor
-Munah
+Munah, Paseq
 Segol
 
 Revia
@@ -224821,7 +224821,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -224860,7 +224860,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Darga
 
 Tevir
@@ -224876,7 +224876,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -224949,7 +224949,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -224990,7 +224990,7 @@ Tipeha
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -225102,7 +225102,7 @@ Pashta
 Pashta
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -225120,7 +225120,7 @@ Tipeha
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -225172,7 +225172,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -225203,7 +225203,7 @@ Etnahta
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -225242,7 +225242,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -225384,7 +225384,7 @@ Munah
 
 Pazer
 Pazer
-Telisha Gedola, Munah
+Munah, Telisha Gedola
 
 Darga
 
@@ -225421,7 +225421,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -225464,18 +225464,18 @@ Etnahta
 Qadma
 Geresh
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Darga
@@ -225520,7 +225520,7 @@ Zinor
 Munah
 Segol
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -225558,7 +225558,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -225583,7 +225583,7 @@ Tipeha
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -225701,11 +225701,11 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -225751,7 +225751,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -225768,7 +225768,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -225850,7 +225850,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -225893,7 +225893,7 @@ Tipeha
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -226013,7 +226013,7 @@ Geresh
 Munah
 Revia
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 Pashta
 Munah
@@ -226058,7 +226058,7 @@ Tipeha
 
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -226163,7 +226163,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -226183,7 +226183,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -226211,7 +226211,7 @@ Tipeha
 
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -226220,9 +226220,9 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -226316,7 +226316,7 @@ Qadma
 
 Geresh
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -226378,7 +226378,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -226393,12 +226393,12 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -226406,13 +226406,13 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -226420,13 +226420,13 @@ Merkha
 
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -226505,7 +226505,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -226588,13 +226588,13 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -226698,7 +226698,7 @@ Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -226725,13 +226725,13 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -226765,7 +226765,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -226960,7 +226960,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -227105,7 +227105,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -227129,7 +227129,7 @@ Tipeha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -227237,7 +227237,7 @@ Zaqef Qatan
 
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -227283,7 +227283,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -227296,7 +227296,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -227304,7 +227304,7 @@ Tipeha
 Munah
 Etnahta
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -227343,7 +227343,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -227377,7 +227377,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -227450,7 +227450,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -227480,7 +227480,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -227544,7 +227544,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -227566,7 +227566,7 @@ Munah
 
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -227576,7 +227576,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -227653,7 +227653,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -227662,7 +227662,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -227773,7 +227773,7 @@ Geresh
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
@@ -227805,7 +227805,7 @@ Pashta
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -227857,7 +227857,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -227867,7 +227867,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -227934,7 +227934,7 @@ Merkha
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -227965,10 +227965,10 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -227993,7 +227993,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -228007,7 +228007,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -228015,7 +228015,7 @@ Tipeha
 Revia
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -228099,7 +228099,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -228112,7 +228112,7 @@ Zinor
 Munah
 Segol
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -228383,7 +228383,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -228492,7 +228492,7 @@ Tipeha
 Munah
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -228522,7 +228522,7 @@ Zaqef Qatan
 
 Tipeha
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -228540,7 +228540,7 @@ Tipeha
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -228587,7 +228587,7 @@ Tipeha
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -228595,7 +228595,7 @@ Tipeha
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -228611,7 +228611,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -228619,7 +228619,7 @@ Etnahta
 Munah
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -228701,7 +228701,7 @@ Pashta
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -228716,7 +228716,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -228745,7 +228745,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 
 
@@ -228804,7 +228804,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -228824,7 +228824,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -228926,7 +228926,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -229052,7 +229052,7 @@ Munah
 Etnahta
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -229106,7 +229106,7 @@ Segol
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -229170,7 +229170,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -229188,7 +229188,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -229207,12 +229207,12 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -229251,7 +229251,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -229292,7 +229292,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -229338,7 +229338,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -229373,7 +229373,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -229385,7 +229385,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -229393,21 +229393,6 @@ Zaqef Qatan
 
 Tipeha
 Etnahta
-
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Tipeha
-
-
-Merkha
-Tipeha
-Munah
-Etnahta
-
-Tipeha
-
 
 Mahapakh
 Pashta
@@ -229415,6 +229400,21 @@ Zaqef Qatan
 
 Tipeha
 
+
+Merkha
+Tipeha
+Munah
+Etnahta
+
+Tipeha
+
+
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Tipeha
+
 Etnahta
 
 Munah
@@ -229439,7 +229439,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -229462,9 +229462,9 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -229504,11 +229504,11 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
@@ -229535,7 +229535,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -229549,7 +229549,7 @@ Geresh
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Revia
 Yetiv
 Munah
@@ -229559,7 +229559,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -229578,7 +229578,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -229602,7 +229602,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -229623,7 +229623,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -229710,7 +229710,7 @@ Merkha
 
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 
 
 Munah
@@ -229809,12 +229809,12 @@ Tipeha
 
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Pashta
 
@@ -229830,7 +229830,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -229852,7 +229852,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -229861,7 +229861,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -229952,10 +229952,10 @@ Geresh
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -229994,7 +229994,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -230045,7 +230045,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -230160,7 +230160,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -230175,7 +230175,7 @@ Tipeha
 Munah
 Revia
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tevir
 
@@ -230208,7 +230208,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Munah
@@ -230258,7 +230258,7 @@ Gershayim
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -230270,7 +230270,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -230279,7 +230279,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -230294,7 +230294,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -230308,10 +230308,10 @@ Tevir
 Merkha
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -230378,7 +230378,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -230431,7 +230431,7 @@ Etnahta
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -230467,7 +230467,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -230512,7 +230512,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -230563,7 +230563,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -230599,7 +230599,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -230622,14 +230622,14 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -230763,7 +230763,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -230798,7 +230798,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -230807,7 +230807,7 @@ Tevir
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -230838,7 +230838,7 @@ Munah
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -230847,7 +230847,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -230891,7 +230891,7 @@ Munah
 Revia
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -230903,7 +230903,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Munah
@@ -230992,7 +230992,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -231018,7 +231018,7 @@ Merkha
 Pashta
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -231036,7 +231036,7 @@ Tipeha
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -231089,7 +231089,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -231148,7 +231148,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -231188,7 +231188,7 @@ Merkha
 Munah
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -231222,7 +231222,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -231237,7 +231237,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -231378,7 +231378,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -231430,7 +231430,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -231640,7 +231640,7 @@ Etnahta
 
 Gershayim
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -231649,7 +231649,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -231663,7 +231663,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -231689,7 +231689,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -231698,7 +231698,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -231829,7 +231829,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -231869,7 +231869,7 @@ Tipeha
 Tipeha
 
 Etnahta
-Qadma
+Qadma, Paseq
 Geresh
 
 
@@ -231945,14 +231945,14 @@ Mahapakh
 Pashta
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -232013,7 +232013,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -232030,7 +232030,7 @@ Munah
 Zinor
 Munah
 Segol
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -232070,7 +232070,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -232079,7 +232079,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -232117,7 +232117,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -232137,7 +232137,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -232274,7 +232274,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -232390,7 +232390,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -232423,7 +232423,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -232639,14 +232639,14 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -232665,14 +232665,14 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
 Munah
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -232692,7 +232692,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -232747,7 +232747,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -232755,10 +232755,10 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -232802,7 +232802,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -232844,7 +232844,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -232948,7 +232948,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -233031,7 +233031,7 @@ Geresh
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -233062,7 +233062,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -233198,7 +233198,7 @@ Pashta
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -233218,7 +233218,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -233226,7 +233226,7 @@ Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -233250,7 +233250,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -233332,7 +233332,7 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -233382,7 +233382,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Mahapakh
@@ -233428,7 +233428,7 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -233463,7 +233463,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -233496,7 +233496,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -233566,7 +233566,7 @@ Merkha
 Tipeha
 
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 Munah
 Zaqef Qatan
@@ -233591,7 +233591,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -233605,7 +233605,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Revia
 
@@ -233648,7 +233648,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -233671,7 +233671,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -233711,7 +233711,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -233722,7 +233722,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tevir
 
@@ -233782,7 +233782,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -233825,7 +233825,7 @@ Munah
 
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -233841,7 +233841,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -233883,7 +233883,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -233897,7 +233897,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -233935,7 +233935,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -233957,7 +233957,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -233965,7 +233965,7 @@ Tipeha
 
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -234080,7 +234080,7 @@ Tevir
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -234176,7 +234176,7 @@ Pashta
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -234198,12 +234198,12 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
-Mahapakh
-Pashta, Qadma
+Legarmeh
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -234278,7 +234278,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -234294,9 +234294,9 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -234306,7 +234306,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -234473,7 +234473,7 @@ Munah
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -234485,7 +234485,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -234545,7 +234545,7 @@ Pashta
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -234622,7 +234622,7 @@ Pashta
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -234684,7 +234684,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -234715,7 +234715,7 @@ Tipeha
 Etnahta
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -234810,7 +234810,7 @@ Tipeha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 
 Merkha
@@ -234833,7 +234833,7 @@ Geresh
 Revia
 
 Munah
-Munah
+Munah, Paseq
 Telisha Gedola
 
 
@@ -234876,8 +234876,8 @@ Munah
 
 
 
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 
 Pazer
 
@@ -234959,7 +234959,7 @@ Tipeha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -235039,7 +235039,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -235073,7 +235073,7 @@ Qadma
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -235149,7 +235149,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 
@@ -235211,7 +235211,7 @@ Tipeha
 
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 Munah
 
@@ -235222,7 +235222,7 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -235244,7 +235244,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -235260,13 +235260,13 @@ Pazer
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -235418,7 +235418,7 @@ Etnahta
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -235460,7 +235460,7 @@ Mahapakh
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -235488,7 +235488,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -235588,7 +235588,7 @@ Munah
 Etnahta
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -235603,7 +235603,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -235674,7 +235674,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Mahapakh
@@ -235701,7 +235701,7 @@ Munah
 Gershayim
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -235713,7 +235713,7 @@ Munah
 Gershayim
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -235773,7 +235773,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -235785,7 +235785,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -235834,7 +235834,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -235854,7 +235854,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -235901,12 +235901,12 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
 Merkha
-Etnahta, Tipeha
+Tipeha, Etnahta
 Geresh
 Mahapakh
 Pashta
@@ -235943,7 +235943,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tevir
 Merkha
@@ -235982,7 +235982,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -236025,7 +236025,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tevir
@@ -236309,7 +236309,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -236341,7 +236341,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -236373,7 +236373,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -236531,7 +236531,7 @@ Telisha Qetana
 Qadma
 Geresh
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -236551,7 +236551,7 @@ Merkha
 
 
 Qadma
-Darga
+Darga, Paseq
 
 Tevir
 Tipeha
@@ -236566,7 +236566,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -236584,7 +236584,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -236592,7 +236592,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -236605,7 +236605,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -236633,7 +236633,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -236721,16 +236721,16 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Qetana
@@ -236768,7 +236768,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Mahapakh
 Pashta
@@ -236797,7 +236797,7 @@ Tevir
 Merkha
 Tipeha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -236818,7 +236818,7 @@ Qadma
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 
@@ -236873,7 +236873,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -236885,8 +236885,8 @@ Merkha
 Tipeha
 
 
-Munah
-Qadma
+Munah, Paseq
+Qadma, Paseq
 
 Merkha
 Tevir
@@ -236904,7 +236904,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -236923,7 +236923,7 @@ Etnahta
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -236937,7 +236937,7 @@ Merkha
 Tipeha
 Etnahta
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -236945,7 +236945,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -236961,7 +236961,7 @@ Tipeha
 
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -237028,7 +237028,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -237043,7 +237043,7 @@ Geresh
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -237219,7 +237219,7 @@ Zaqef Qatan
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -237280,15 +237280,15 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 
 Etnahta
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tevir
 Merkha
 
@@ -237315,7 +237315,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -237375,7 +237375,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -237575,7 +237575,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -237642,7 +237642,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -237668,20 +237668,20 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 Etnahta
 Merkha
@@ -237714,7 +237714,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -237723,7 +237723,7 @@ Munah
 
 Etnahta
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -237780,7 +237780,7 @@ Merkha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -237812,7 +237812,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -237836,8 +237836,8 @@ Merkha
 
 Telisha Qetana
 Qadma
-Mahapakh
-Pashta, Qadma
+Legarmeh
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
@@ -237907,7 +237907,7 @@ Pashta
 Zaqef Qatan
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 Tipeha
@@ -237944,7 +237944,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -238208,7 +238208,7 @@ Tipeha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -238347,8 +238347,8 @@ Etnahta
 Tipeha
 
 
-Mahapakh
-Pashta, Qadma
+Legarmeh
+Shene Pashtim
 
 Revia
 
@@ -238472,7 +238472,7 @@ Merkha
 Geresh
 
 
-Munah
+Munah, Paseq
 Darga
 
 Munah
@@ -238504,7 +238504,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -238515,7 +238515,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -238594,14 +238594,14 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
 Mahapakh
 
 Pashta
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -238692,7 +238692,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -238710,7 +238710,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -238886,7 +238886,7 @@ Zaqef Qatan
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -238903,7 +238903,7 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Qadma
 
 Mahapakh
@@ -238924,14 +238924,14 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 Pashta
 
@@ -238970,7 +238970,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -238992,7 +238992,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -239026,7 +239026,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -239079,7 +239079,7 @@ Tevir
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -239096,7 +239096,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -239174,7 +239174,7 @@ Geresh
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 
 Pashta
@@ -239202,7 +239202,7 @@ Pashta
 Zaqef Qatan
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 Tipeha
@@ -239270,7 +239270,7 @@ Etnahta
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -239330,7 +239330,7 @@ Merkha
 Tipeha
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 Etnahta
 Tipeha
@@ -239342,7 +239342,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -239386,7 +239386,7 @@ Tipeha
 Munah
 Etnahta
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -239426,7 +239426,7 @@ Tipeha
 Etnahta
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -239447,7 +239447,7 @@ Telisha Qetana
 
 Qadma
 
-Darga
+Darga, Paseq
 Tevir
 
 Merkha
@@ -239457,7 +239457,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -239478,7 +239478,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -239526,7 +239526,7 @@ Etnahta
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Revia
 
 
@@ -239576,7 +239576,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -239634,7 +239634,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -239649,7 +239649,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -239726,7 +239726,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -239768,7 +239768,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -239807,7 +239807,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -239861,7 +239861,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -239913,7 +239913,7 @@ Tevir
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -239970,7 +239970,7 @@ Merkha
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -240078,7 +240078,7 @@ Tipeha
 Pashta
 Munah
 Zaqef Qatan
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -240094,7 +240094,7 @@ Merkha
 Tipeha
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -240110,7 +240110,7 @@ Merkha
 Qadma
 Geresh
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -240167,7 +240167,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Etnahta
 Merkha
@@ -240222,7 +240222,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -240314,7 +240314,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -240402,7 +240402,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -240433,7 +240433,7 @@ Etnahta
 Merkha
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 
 Mahapakh
@@ -240445,7 +240445,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -240476,7 +240476,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -240500,7 +240500,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 
 Tipeha
@@ -240529,7 +240529,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -240537,7 +240537,7 @@ Zaqef Qatan
 
 Tipeha
 
-Telisha Qetana
+Telisha Qetana, Telisha Qetana
 
 Qadma
 Geresh
@@ -240596,7 +240596,7 @@ Munah
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -240667,7 +240667,7 @@ Gershayim
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -240689,7 +240689,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Merkha
@@ -240745,7 +240745,7 @@ Etnahta
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -240753,7 +240753,7 @@ Mahapakh
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -240818,7 +240818,7 @@ Munah
 Zaqef Qatan
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -240915,8 +240915,8 @@ Tipeha
 
 Munah
 
-Merkha
-Pashta, Qadma
+Merkha, Paseq
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -240945,7 +240945,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -240960,7 +240960,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -241026,7 +241026,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -241071,14 +241071,14 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -241160,7 +241160,7 @@ Tipeha
 Munah
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Merkha
@@ -241321,7 +241321,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -241416,7 +241416,7 @@ Etnahta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -241557,7 +241557,7 @@ Munah
 Etnahta
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -241582,7 +241582,7 @@ Tipeha
 Etnahta
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -241672,7 +241672,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -241684,7 +241684,7 @@ Tipeha
 Etnahta
 Merkha
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Merkha
@@ -241714,7 +241714,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 
@@ -241753,7 +241753,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -241780,7 +241780,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Zaqef Gadol
@@ -241874,7 +241874,7 @@ Tipeha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -241888,7 +241888,7 @@ Etnahta
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -241902,7 +241902,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -241975,7 +241975,7 @@ Munah
 
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 
@@ -242012,7 +242012,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -242099,7 +242099,7 @@ Revia
 Pashta
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -242157,7 +242157,7 @@ Qadma
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Qadma
 
 Zaqef Qatan
@@ -242210,12 +242210,12 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -242281,7 +242281,7 @@ Telisha Gedola
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -242292,8 +242292,8 @@ Tipeha
 Telisha Gedola
 
 Mahapakh
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -242317,7 +242317,7 @@ Etnahta
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -242331,7 +242331,7 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -242354,7 +242354,7 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -242414,7 +242414,7 @@ Merkha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -242429,7 +242429,7 @@ Tipeha
 
 
 Qadma
-Darga
+Darga, Paseq
 Tevir
 
 Tipeha
@@ -242455,7 +242455,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -242472,12 +242472,12 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -242488,9 +242488,9 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 
@@ -242561,7 +242561,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -242577,7 +242577,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -242630,7 +242630,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -242703,7 +242703,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -242846,7 +242846,7 @@ Revia
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -242857,7 +242857,7 @@ Pashta
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -243058,7 +243058,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -243073,14 +243073,14 @@ Munah
 Etnahta
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -243172,9 +243172,9 @@ Munah
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -243189,12 +243189,12 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 
@@ -243247,7 +243247,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -243269,7 +243269,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -243353,7 +243353,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -243372,7 +243372,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -243540,7 +243540,7 @@ Pashta
 
 Zaqef Qatan
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -243574,14 +243574,14 @@ Munah
 Munah
 
 Pazer
-Munah
+Munah, Paseq
 
 Pazer
 Telisha Qetana
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 
 Munah
@@ -243591,7 +243591,7 @@ Munah
 Revia
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -243656,7 +243656,7 @@ Munah
 Zaqef Qatan
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -243732,7 +243732,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -243769,7 +243769,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -243802,7 +243802,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -243892,7 +243892,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tevir
@@ -244033,7 +244033,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -244065,11 +244065,11 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -244078,7 +244078,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Darga
 Tevir
@@ -244146,7 +244146,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -244193,7 +244193,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -244246,7 +244246,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -244286,7 +244286,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -244296,7 +244296,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -244382,7 +244382,7 @@ Tipeha
 Pashta
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -244477,7 +244477,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -244645,7 +244645,7 @@ Merkha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -244698,7 +244698,7 @@ Zaqef Qatan
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -244776,7 +244776,7 @@ Zinor
 Munah
 
 Segol
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Yetiv
@@ -244959,7 +244959,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -244971,7 +244971,7 @@ Etnahta
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -245082,7 +245082,7 @@ Munah
 Munah
 
 
-Munah
+Munah, Paseq
 
 
 
@@ -245098,7 +245098,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -245237,7 +245237,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -245326,7 +245326,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -245336,7 +245336,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -245414,7 +245414,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -245426,7 +245426,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -245489,7 +245489,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 Munah
 Zaqef Qatan
@@ -245581,7 +245581,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -245651,7 +245651,7 @@ Tipeha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -245682,7 +245682,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -245732,7 +245732,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -245748,7 +245748,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -245759,7 +245759,7 @@ Munah
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -245882,7 +245882,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 
 Tipeha
@@ -245895,7 +245895,7 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Gershayim
@@ -246020,7 +246020,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -246045,7 +246045,7 @@ Etnahta
 Merkha
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 Tevir
 
@@ -246105,7 +246105,7 @@ Revia
 Pashta
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Revia
@@ -246206,7 +246206,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -246313,7 +246313,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -246452,7 +246452,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
@@ -246533,7 +246533,7 @@ Telisha Gedola
 
 Gershayim
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -246762,7 +246762,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -246889,7 +246889,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -246912,7 +246912,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -246925,7 +246925,7 @@ Mahapakh
 
 Pashta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -246999,7 +246999,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -247019,7 +247019,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -247051,7 +247051,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -247192,7 +247192,7 @@ Munah
 Zinor
 Segol
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Mahapakh
@@ -247200,7 +247200,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 
@@ -247210,7 +247210,7 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -247252,7 +247252,7 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 Merkha
 
@@ -247325,7 +247325,7 @@ Munah
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -247403,7 +247403,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -247535,7 +247535,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -247550,7 +247550,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -247788,7 +247788,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -247868,7 +247868,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Zinor
@@ -247935,9 +247935,9 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -248006,7 +248006,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -248073,7 +248073,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -248098,7 +248098,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 
@@ -248115,7 +248115,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -248135,7 +248135,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -248173,7 +248173,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -248205,7 +248205,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -248282,7 +248282,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -248292,7 +248292,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -248309,14 +248309,14 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Gershayim
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -248369,11 +248369,11 @@ Pashta
 
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Etnahta, Tipeha
+Tipeha, Etnahta
 
 Gershayim
 
@@ -248412,7 +248412,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -248443,7 +248443,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -248524,7 +248524,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -248598,7 +248598,7 @@ Merkha
 
 Revia
 Pashta
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -248709,7 +248709,7 @@ Geresh
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -248796,7 +248796,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -248946,7 +248946,7 @@ Zaqef Qatan
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -249046,14 +249046,14 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -249061,7 +249061,7 @@ Munah
 Revia
 
 Pashta
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -249112,7 +249112,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -249171,7 +249171,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -249195,7 +249195,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -249256,7 +249256,7 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -249323,7 +249323,7 @@ Segol
 Munah
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -249395,7 +249395,7 @@ Munah
 Pazer
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -249478,7 +249478,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -249653,7 +249653,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -249789,12 +249789,12 @@ Tevir
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -249844,7 +249844,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -249868,7 +249868,7 @@ Qadma
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -249947,7 +249947,7 @@ Tevir
 
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -250186,8 +250186,8 @@ Segol
 
 Qadma
 Geresh
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 
 
 
@@ -250307,7 +250307,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -250340,7 +250340,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -250358,7 +250358,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -250415,7 +250415,7 @@ Geresh
 
 
 
-Munah
+Munah, Paseq
 Darga
 Munah
 Revia
@@ -250425,7 +250425,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -250474,7 +250474,7 @@ Pashta
 Zaqef Qatan
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -250484,7 +250484,7 @@ Tipeha
 
 Gershayim
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -250496,7 +250496,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -250524,7 +250524,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -250573,7 +250573,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -250609,12 +250609,12 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -250731,7 +250731,7 @@ Zaqef Qatan
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -250891,7 +250891,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -250909,7 +250909,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -250930,7 +250930,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -250967,9 +250967,9 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -250989,7 +250989,7 @@ Pashta
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -251225,7 +251225,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -251323,11 +251323,11 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -251370,12 +251370,12 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -251433,7 +251433,7 @@ Tipeha
 
 Munah
 
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -251466,7 +251466,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -251538,7 +251538,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -251568,7 +251568,7 @@ Tipeha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -251639,7 +251639,7 @@ Qadma
 
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -251689,7 +251689,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -251842,12 +251842,12 @@ Tipeha
 Zinor
 Munah
 Segol
-Munah
+Munah, Paseq
 Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -251867,7 +251867,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -251919,7 +251919,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -251996,7 +251996,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -252281,7 +252281,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -252326,7 +252326,7 @@ Etnahta
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -252415,7 +252415,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -252458,7 +252458,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -252493,7 +252493,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Merkha
@@ -252517,7 +252517,7 @@ Revia
 Qadma
 
 
-Merkha
+Merkha, Paseq
 
 Zinor
 
@@ -252684,7 +252684,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -252746,7 +252746,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Zinor
@@ -252832,7 +252832,7 @@ Zinor
 Munah
 Segol
 Gershayim
-Munah
+Munah, Paseq
 
 
 Munah
@@ -252950,7 +252950,7 @@ Merkha
 
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 
 Tipeha
@@ -253001,7 +253001,7 @@ Yetiv
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -253055,7 +253055,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -253153,7 +253153,7 @@ Etnahta
 
 Munah
 
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -253183,7 +253183,7 @@ Munah
 Zaqef Qatan
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -253306,7 +253306,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 
@@ -253410,7 +253410,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -253452,7 +253452,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Qadma
 Mahapakh
@@ -253528,7 +253528,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -253584,7 +253584,7 @@ Geresh
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -253613,7 +253613,7 @@ Pashta
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -253623,7 +253623,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 
@@ -253641,14 +253641,14 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -253710,7 +253710,7 @@ Geresh
 
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Mahapakh
@@ -253778,7 +253778,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -253809,7 +253809,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -253827,7 +253827,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -253853,7 +253853,7 @@ Qadma
 Geresh
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -253871,7 +253871,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -253913,7 +253913,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -254044,7 +254044,7 @@ Tipeha
 Munah
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 Munah
@@ -254061,10 +254061,10 @@ Munah
 
 Munah
 
-Munah
+Munah, Paseq
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -254079,7 +254079,7 @@ Munah
 Revia
 
 
-Geresh, Qadma
+Qadma, Geresh
 Qadma
 Mahapakh
 Pashta
@@ -254140,7 +254140,7 @@ Revia
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 
 Munah
@@ -254264,7 +254264,7 @@ Etnahta
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -254407,7 +254407,7 @@ Merkha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -254516,7 +254516,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -254719,7 +254719,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -254732,7 +254732,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -254748,12 +254748,12 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Munah
@@ -254798,7 +254798,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -254806,7 +254806,7 @@ Munah
 Zinor
 
 Segol
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -254841,12 +254841,12 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 
@@ -254859,7 +254859,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -254890,11 +254890,11 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -254913,7 +254913,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -254945,14 +254945,14 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Revia
 
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -255064,7 +255064,7 @@ Merkha
 
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -255077,7 +255077,7 @@ Zinor
 Segol
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -255109,9 +255109,9 @@ Tipeha
 
 Etnahta
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tevir
 Merkha
@@ -255197,11 +255197,11 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -255231,7 +255231,7 @@ Tevir
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -255244,7 +255244,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -255261,7 +255261,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -255322,9 +255322,9 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -255459,7 +255459,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -255480,7 +255480,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -255496,7 +255496,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -255582,13 +255582,13 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -255683,7 +255683,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -255703,7 +255703,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -255722,7 +255722,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -255746,7 +255746,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -255767,7 +255767,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -255825,7 +255825,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Mahapakh
@@ -255885,7 +255885,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Qadma
 
 
@@ -255896,7 +255896,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -255948,7 +255948,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -256000,7 +256000,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Yetiv
@@ -256012,7 +256012,7 @@ Munah
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -256150,7 +256150,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -256316,7 +256316,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -256343,7 +256343,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -256381,7 +256381,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -256416,12 +256416,12 @@ Tipeha
 Munah
 
 Etnahta
-Telisha Gedola, Munah
+Munah, Telisha Gedola
 Gershayim
 Munah
 
 Revia
-Pashta, Mahapakh, Qadma
+Mahapakh, Qadma, Pashta
 
 Zaqef Qatan
 
@@ -256439,7 +256439,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -256519,7 +256519,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -256531,7 +256531,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -256621,7 +256621,7 @@ Tipeha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -256648,7 +256648,7 @@ Pashta
 
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 
@@ -256670,7 +256670,7 @@ Revia
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -256786,11 +256786,11 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
-Munah
+Munah, Paseq
 Munah
 Revia
 Tevir
@@ -256812,7 +256812,7 @@ Pashta
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -257010,7 +257010,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -257049,15 +257049,15 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -257117,7 +257117,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -257133,7 +257133,7 @@ Munah
 Pazer
 
 
-Munah
+Munah, Paseq
 
 
 
@@ -257217,7 +257217,7 @@ Revia
 Mahapakh
 Pashta
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -257267,7 +257267,7 @@ Darga
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -257300,7 +257300,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -257346,7 +257346,7 @@ Geresh
 
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -257380,7 +257380,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -257531,7 +257531,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 Pashta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -257559,7 +257559,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Telisha Gedola
 
 
@@ -257573,7 +257573,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -257633,7 +257633,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -257674,7 +257674,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -257685,9 +257685,9 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -257750,7 +257750,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -257764,7 +257764,7 @@ Munah
 
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -257784,7 +257784,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -257825,12 +257825,12 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -257852,7 +257852,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -257897,7 +257897,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -257928,7 +257928,7 @@ Munah
 
 Zaqef Qatan
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -257937,7 +257937,7 @@ Merkha
 Tevir
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -258022,7 +258022,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -258042,7 +258042,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -258092,7 +258092,7 @@ Revia
 Yetiv
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Mahapakh
 
@@ -258157,7 +258157,7 @@ Etnahta
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -258178,7 +258178,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -258223,7 +258223,7 @@ Geresh
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Mahapakh
 Pashta
@@ -258261,7 +258261,7 @@ Zaqef Qatan
 
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -258393,7 +258393,7 @@ Zaqef Qatan
 Munah
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -258405,7 +258405,7 @@ Merkha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -258451,7 +258451,7 @@ Merkha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -258497,7 +258497,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -258518,7 +258518,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tevir
@@ -258550,7 +258550,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -258575,7 +258575,7 @@ Geresh
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Telisha Gedola
 
 
@@ -258722,9 +258722,9 @@ Mahapakh
 
 Pashta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -258846,7 +258846,7 @@ Geresh
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Qadma
 Darga
@@ -258865,7 +258865,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -258883,7 +258883,7 @@ Tipeha
 
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -258906,7 +258906,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -258915,7 +258915,7 @@ Munah
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -259070,7 +259070,7 @@ Munah
 Etnahta
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -259142,7 +259142,7 @@ Geresh
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -259162,7 +259162,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -259175,7 +259175,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -259229,7 +259229,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -259367,7 +259367,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -259404,7 +259404,7 @@ Zinor
 
 
 Munah
-Munah
+Munah, Paseq
 
 Segol
 Qadma
@@ -259412,7 +259412,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -259425,7 +259425,7 @@ Merkha
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -259456,9 +259456,9 @@ Zaqef Qatan
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -259517,7 +259517,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -259543,7 +259543,7 @@ Tipeha
 Munah
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Telisha Qetana
 Qadma
@@ -259552,7 +259552,7 @@ Tevir
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -259561,7 +259561,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -259605,7 +259605,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -259629,7 +259629,7 @@ Munah
 Etnahta
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -259639,14 +259639,14 @@ Tevir
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -259654,7 +259654,7 @@ Munah
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -259755,11 +259755,11 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
-Etnahta, Merkha
+Merkha, Etnahta
 Pashta
 
 Zaqef Qatan
@@ -259795,7 +259795,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -259814,7 +259814,7 @@ Etnahta
 Zaqef Gadol
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -259873,9 +259873,9 @@ Munah
 Zaqef Qatan
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -259945,7 +259945,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -259983,14 +259983,14 @@ Munah
 Revia
 
 Pashta
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -260001,13 +260001,13 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -260218,7 +260218,7 @@ Geresh
 
 
 
-Munah
+Munah, Paseq
 Darga
 Munah
 Revia
@@ -260228,7 +260228,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -260252,7 +260252,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -260399,7 +260399,7 @@ Segol
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -260455,10 +260455,10 @@ Telisha Gedola
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -260501,7 +260501,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -260576,11 +260576,11 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Yetiv
 Zaqef Qatan
@@ -260616,7 +260616,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Mahapakh
@@ -260708,7 +260708,7 @@ Darga
 Tevir
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Merkha
@@ -260754,7 +260754,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -260803,7 +260803,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Qadma
 
 Zaqef Qatan
 Tipeha
@@ -260836,7 +260836,7 @@ Pashta
 
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tevir
@@ -260862,7 +260862,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -260878,14 +260878,14 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
-Etnahta, Tipeha
+Munah, Zaqef Qatan
+Tipeha, Etnahta
 Yetiv
 
 Munah
@@ -260936,7 +260936,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -260963,7 +260963,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tevir
 
@@ -261040,7 +261040,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -261082,7 +261082,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -261097,7 +261097,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -261217,7 +261217,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -261304,7 +261304,7 @@ Gershayim
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -261328,7 +261328,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Gedola
@@ -261353,7 +261353,7 @@ Tipeha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -261376,7 +261376,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -261423,7 +261423,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -261486,7 +261486,7 @@ Munah
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -261507,7 +261507,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -261539,7 +261539,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -261586,7 +261586,7 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 Etnahta
 Darga
 
@@ -261612,7 +261612,7 @@ Etnahta
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -261632,7 +261632,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -261797,7 +261797,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -261824,12 +261824,12 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Qadma
-Darga
+Darga, Paseq
 Tevir
 
 Merkha
@@ -261860,7 +261860,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -261891,7 +261891,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -262113,7 +262113,7 @@ Tipeha
 
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 
 Munah
@@ -262149,7 +262149,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -262267,7 +262267,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -262331,7 +262331,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -262395,7 +262395,7 @@ Tipeha
 
 Munah
 
-Munah
+Munah, Paseq
 Telisha Gedola
 
 Qadma
@@ -262442,7 +262442,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -262489,7 +262489,7 @@ Munah
 Zaqef Qatan
 Tipeha
 
-Munah
+Munah, Paseq
 Revia
 Mahapakh
 Pashta
@@ -262498,7 +262498,7 @@ Merkha
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -262637,7 +262637,7 @@ Munah
 Gershayim
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -262696,7 +262696,7 @@ Munah
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -262717,7 +262717,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -262764,7 +262764,7 @@ Tipeha
 
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -262794,7 +262794,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -262826,7 +262826,7 @@ Zaqef Qatan
 
 Tipeha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -262895,7 +262895,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -262923,7 +262923,7 @@ Segol
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -262943,10 +262943,10 @@ Qadma
 Geresh
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -262990,7 +262990,7 @@ Merkha
 Tipeha
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -263006,7 +263006,7 @@ Merkha
 Qadma
 Geresh
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -263134,7 +263134,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Darga
@@ -263167,7 +263167,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -263204,7 +263204,7 @@ Mahapakh
 
 Pashta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Darga
 Tevir
@@ -263214,7 +263214,7 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -263390,9 +263390,9 @@ Tipeha
 
 
 Telisha Qetana
-Qadma
+Qadma, Paseq
 
-Darga
+Darga, Paseq
 
 Tevir
 Merkha
@@ -263464,7 +263464,7 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -263724,7 +263724,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -263774,7 +263774,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -263873,7 +263873,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -263946,7 +263946,7 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -263996,7 +263996,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -264065,7 +264065,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 Munah
@@ -264244,7 +264244,7 @@ Geresh
 
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -264381,7 +264381,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Revia
 
 Mahapakh
@@ -264391,7 +264391,7 @@ Pashta
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -264515,7 +264515,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 
@@ -264527,7 +264527,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 
@@ -264612,7 +264612,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 Merkha
 Tipeha
@@ -264739,7 +264739,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -264870,7 +264870,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -264879,7 +264879,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Munah
@@ -264961,7 +264961,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -265039,7 +265039,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 Merkha
@@ -265060,7 +265060,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -265076,7 +265076,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -265102,7 +265102,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -265168,7 +265168,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -265234,7 +265234,7 @@ Merkha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -265258,7 +265258,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -265281,7 +265281,7 @@ Pashta
 
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -265305,7 +265305,7 @@ Revia
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Zaqef Gadol
 Tipeha
@@ -265399,7 +265399,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -265410,7 +265410,7 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -265547,7 +265547,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -265573,7 +265573,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -265611,7 +265611,7 @@ Etnahta
 
 Tipeha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -265746,7 +265746,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -265785,7 +265785,7 @@ Qadma
 
 
 Geresh
-Telisha Gedola, Munah
+Munah, Telisha Gedola
 
 Mahapakh
 
@@ -266012,7 +266012,7 @@ Munah
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -266055,11 +266055,11 @@ Tipeha
 Munah
 Etnahta
 
-Mahapakh
+Legarmeh
 Pashta
 
 
-Munah
+Munah, Paseq
 Zaqef Qatan
 Tevir
 Merkha
@@ -266089,7 +266089,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -266186,7 +266186,7 @@ Munah
 
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 
@@ -266213,7 +266213,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -266269,7 +266269,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -266352,7 +266352,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -266392,9 +266392,9 @@ Pashta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -266417,7 +266417,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -266430,7 +266430,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -266474,8 +266474,8 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -266528,7 +266528,7 @@ Pashta
 Munah
 Zaqef Qatan
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -266565,7 +266565,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -266727,7 +266727,7 @@ Gershayim
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -266751,7 +266751,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -266822,7 +266822,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -266846,7 +266846,7 @@ Etnahta
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 Zaqef Qatan
 Tipeha
@@ -266880,8 +266880,8 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -266903,12 +266903,12 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -266925,10 +266925,10 @@ Revia
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -266985,7 +266985,7 @@ Zaqef Gadol
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -267081,7 +267081,7 @@ Munah
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 Telisha Qetana
@@ -267089,7 +267089,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -267099,7 +267099,7 @@ Qadma
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -267194,7 +267194,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -267271,7 +267271,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -267296,7 +267296,7 @@ Tipeha
 
 
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 
@@ -267366,7 +267366,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -267414,7 +267414,7 @@ Tipeha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 
@@ -267622,7 +267622,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -267693,7 +267693,7 @@ Etnahta
 
 Munah
 Munah
-Munah
+Munah, Paseq
 
 
 Munah
@@ -267784,7 +267784,7 @@ Qadma
 Geresh
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -267869,7 +267869,7 @@ Merkha
 
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 
 Munah
@@ -267944,7 +267944,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -268002,7 +268002,7 @@ Merkha
 
 Tipeha
 Etnahta
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -268043,7 +268043,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -268098,13 +268098,13 @@ Tipeha
 Munah
 Munah
 Pazer
-Munah
+Munah, Paseq
 
 
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -268127,15 +268127,15 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -268188,18 +268188,18 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -268242,7 +268242,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -268320,7 +268320,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -268354,13 +268354,13 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -268378,7 +268378,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 Munah
@@ -268397,7 +268397,7 @@ Tipeha
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -268470,7 +268470,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -268596,13 +268596,13 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -268652,14 +268652,14 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
 
 
 
-Etnahta, Tipeha
+Tipeha, Etnahta
 Tevir
 Merkha
 
@@ -268707,7 +268707,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -268837,7 +268837,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -268913,7 +268913,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -268989,7 +268989,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -269067,7 +269067,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -269102,7 +269102,7 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -269207,10 +269207,10 @@ Munah
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -269218,7 +269218,7 @@ Merkha
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -269275,7 +269275,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -269299,7 +269299,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -269310,7 +269310,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -269355,7 +269355,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -269384,7 +269384,7 @@ Geresh
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Tevir
@@ -269405,9 +269405,9 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -269422,7 +269422,7 @@ Etnahta
 Tipeha
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -269513,7 +269513,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -269584,7 +269584,7 @@ Etnahta
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -269688,7 +269688,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -269762,7 +269762,7 @@ Revia
 Zinor
 Munah
 Segol
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -269800,7 +269800,7 @@ Etnahta
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -269809,7 +269809,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -269869,7 +269869,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -270058,7 +270058,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -270109,7 +270109,7 @@ Merkha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Qadma
@@ -270164,7 +270164,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -270182,7 +270182,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -270196,14 +270196,14 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Qetana
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -270253,19 +270253,19 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Telisha Gedola
 Qadma
@@ -270274,7 +270274,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -270382,7 +270382,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 
@@ -270404,7 +270404,7 @@ Telisha Gedola
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -270445,14 +270445,14 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -270525,7 +270525,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -270563,7 +270563,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -270650,7 +270650,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -270766,7 +270766,7 @@ Etnahta
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -270805,7 +270805,7 @@ Revia
 Munah
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 Telisha Gedola
@@ -270851,9 +270851,9 @@ Revia
 
 Pashta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 
 Merkha
@@ -270874,7 +270874,7 @@ Revia
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -270910,7 +270910,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -270918,7 +270918,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -270956,7 +270956,7 @@ Etnahta
 Munah
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -270973,7 +270973,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -271046,10 +271046,10 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
-Pashta, Qadma
+Munah, Zaqef Qatan
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -271077,7 +271077,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -271112,7 +271112,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -271146,7 +271146,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -271229,7 +271229,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -271250,7 +271250,7 @@ Revia
 Pashta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -271260,7 +271260,7 @@ Tevir
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -271277,7 +271277,7 @@ Tevir
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -271385,7 +271385,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -271411,7 +271411,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -271497,7 +271497,7 @@ Etnahta
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -271588,7 +271588,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -271664,7 +271664,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -271731,7 +271731,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -271745,7 +271745,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -271776,7 +271776,7 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -271798,7 +271798,7 @@ Etnahta
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -271837,7 +271837,7 @@ Qadma
 Geresh
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -271864,7 +271864,7 @@ Gershayim
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -271944,7 +271944,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -271953,7 +271953,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -271966,7 +271966,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -271983,7 +271983,7 @@ Etnahta
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -271993,7 +271993,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -272010,7 +272010,7 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -272026,7 +272026,7 @@ Tipeha
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -272124,7 +272124,7 @@ Segol
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -272197,7 +272197,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -272206,7 +272206,7 @@ Mahapakh
 Pashta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -272232,7 +272232,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -272346,7 +272346,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -272410,7 +272410,7 @@ Revia
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 
@@ -272493,14 +272493,14 @@ Revia
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -272680,13 +272680,13 @@ Revia
 Munah
 Mahapakh
 Pashta
-Munah
+Munah, Paseq
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -272792,7 +272792,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -272919,7 +272919,7 @@ Munah
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 Zaqef Qatan
@@ -273058,7 +273058,7 @@ Munah
 Etnahta
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -273268,7 +273268,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -273365,7 +273365,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -273392,14 +273392,14 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -273432,7 +273432,7 @@ Tipeha
 
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -273518,7 +273518,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -273537,7 +273537,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -273592,7 +273592,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -273626,7 +273626,7 @@ Zaqef Qatan
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -273724,7 +273724,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -273742,7 +273742,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -274005,7 +274005,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -274072,7 +274072,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -274088,7 +274088,7 @@ Munah
 Etnahta
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -274112,7 +274112,7 @@ Revia
 Yetiv
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -274123,7 +274123,7 @@ Pashta
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -274153,7 +274153,7 @@ Zaqef Qatan
 Munah
 Revia
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -274180,7 +274180,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -274210,7 +274210,7 @@ Qadma
 
 Geresh
 Telisha Qetana
-Mahapakh, Qadma
+Qadma, Mahapakh
 
 
 Pashta
@@ -274235,11 +274235,11 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -274317,9 +274317,9 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -274373,7 +274373,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -274403,7 +274403,7 @@ Munah
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -274474,7 +274474,7 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -274490,7 +274490,7 @@ Pashta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -274538,7 +274538,7 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -274567,7 +274567,7 @@ Munah
 Pazer
 Munah
 
-Munah
+Munah, Paseq
 Pazer
 
 Munah
@@ -274624,9 +274624,9 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -274696,7 +274696,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -274732,7 +274732,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
@@ -274753,7 +274753,7 @@ Merkha
 Zaqef Gadol
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -274766,7 +274766,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -274792,7 +274792,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -274819,7 +274819,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -274853,7 +274853,7 @@ Etnahta
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Revia
@@ -274864,7 +274864,7 @@ Zaqef Qatan
 
 Tipeha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -274874,7 +274874,7 @@ Pashta
 Zaqef Qatan
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -274917,7 +274917,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -274983,7 +274983,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -275018,7 +275018,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -275035,18 +275035,18 @@ Munah
 Segol
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -275166,7 +275166,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -275219,7 +275219,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -275351,7 +275351,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -275384,7 +275384,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -275475,7 +275475,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -275545,7 +275545,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -275583,7 +275583,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -275668,7 +275668,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -275789,7 +275789,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -275801,7 +275801,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -275820,7 +275820,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
@@ -275854,7 +275854,7 @@ Munah
 Segol
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -275873,7 +275873,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -275882,7 +275882,7 @@ Tipeha
 Etnahta
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -275934,7 +275934,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -276028,7 +276028,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Merkha
@@ -276042,7 +276042,7 @@ Segol
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tevir
 
@@ -276061,7 +276061,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -276119,7 +276119,7 @@ Pashta
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -276130,7 +276130,7 @@ Etnahta
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -276159,7 +276159,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -276358,7 +276358,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Darga
 
@@ -276380,7 +276380,7 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -276467,7 +276467,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -276509,7 +276509,7 @@ Merkha
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -276544,7 +276544,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -276597,7 +276597,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -276609,7 +276609,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Munah
@@ -276628,7 +276628,7 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -276658,7 +276658,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Zinor
@@ -276670,14 +276670,14 @@ Munah
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -276693,7 +276693,7 @@ Merkha
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -276769,7 +276769,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -276795,7 +276795,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -276811,7 +276811,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Merkha
@@ -276843,7 +276843,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Munah
+Munah, Paseq
 Revia
 Pashta
 Munah
@@ -276897,7 +276897,7 @@ Etnahta
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -276913,7 +276913,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -276972,7 +276972,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -277008,7 +277008,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 
@@ -277039,7 +277039,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -277189,7 +277189,7 @@ Mahapakh
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -277198,7 +277198,7 @@ Tipeha
 
 
 Etnahta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -277235,13 +277235,13 @@ Tipeha
 Etnahta
 Revia
 Yetiv
-Zaqef Qatan, Munah
-Tipeha, Merkha
+Munah, Zaqef Qatan
+Merkha, Tipeha
 
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -277374,7 +277374,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -277422,7 +277422,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tevir
 Merkha
@@ -277442,7 +277442,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -277489,7 +277489,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -277546,7 +277546,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -277559,7 +277559,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -277575,7 +277575,7 @@ Qadma
 Geresh
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -277620,7 +277620,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -277662,7 +277662,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -277671,7 +277671,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -277687,16 +277687,16 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
 Tipeha
 Etnahta
-Mahapakh
-Pashta, Qadma
+Legarmeh
+Shene Pashtim
 
 
 Munah
@@ -277773,7 +277773,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -277850,7 +277850,7 @@ Revia
 
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -277906,7 +277906,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -277938,7 +277938,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -277977,17 +277977,17 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Etnahta
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Merkha
@@ -278076,7 +278076,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -278165,7 +278165,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -278266,7 +278266,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -278276,14 +278276,14 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -278316,7 +278316,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -278324,9 +278324,9 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -278382,14 +278382,14 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Darga
@@ -278423,7 +278423,7 @@ Merkha
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -278461,7 +278461,7 @@ Merkha
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Etnahta
@@ -278551,15 +278551,15 @@ Revia
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Gershayim
 
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -278569,7 +278569,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -278647,8 +278647,8 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 
@@ -278661,7 +278661,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -278670,7 +278670,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -278705,7 +278705,7 @@ Pashta
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -278730,7 +278730,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
@@ -278760,12 +278760,12 @@ Munah
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -278775,7 +278775,7 @@ Zinor
 Munah
 Segol
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -278826,9 +278826,9 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 Merkha
 Tipeha
@@ -278872,11 +278872,11 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -278908,7 +278908,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -278982,7 +278982,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -279007,7 +279007,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -279040,7 +279040,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Merkha
@@ -279068,11 +279068,11 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 Mahapakh
@@ -279084,7 +279084,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -279142,7 +279142,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -279164,7 +279164,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -279174,7 +279174,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -279274,7 +279274,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -279301,7 +279301,7 @@ Merkha
 Zaqef Gadol
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
@@ -279326,7 +279326,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -279378,10 +279378,10 @@ Tipeha
 Munah
 Etnahta
 
-Revia, Munah
+Munah, Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -279669,7 +279669,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -279680,7 +279680,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -279761,7 +279761,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -279936,7 +279936,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -279967,7 +279967,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Munah
@@ -279991,7 +279991,7 @@ Telisha Gedola
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Munah
 Revia
 
@@ -280076,7 +280076,7 @@ Revia
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Geresh
 Mahapakh
 Pashta
@@ -280113,7 +280113,7 @@ Tipeha
 Munah
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -280227,7 +280227,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -280239,7 +280239,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -280262,7 +280262,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -280328,14 +280328,14 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
 Merkha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -280358,7 +280358,7 @@ Revia
 
 Pashta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -280458,7 +280458,7 @@ Merkha
 Merkha
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -280563,7 +280563,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -280600,7 +280600,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -280709,7 +280709,7 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -280765,7 +280765,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -281018,8 +281018,8 @@ Merkha
 Qadma
 Geresh
 
-Munah
-Munah
+Munah, Paseq
+Munah, Paseq
 Munah
 Revia
 
@@ -281060,7 +281060,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -281309,12 +281309,12 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 
-Darga
+Darga, Paseq
 Tevir
 
 Tevir
@@ -281391,7 +281391,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -281415,7 +281415,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -281472,7 +281472,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -281517,7 +281517,7 @@ Etnahta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -281544,7 +281544,7 @@ Qadma
 
 Geresh
 Merkha
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -281564,7 +281564,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -281591,13 +281591,13 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -281646,7 +281646,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -281663,14 +281663,14 @@ Merkha
 
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Munah
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -281829,7 +281829,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -281909,7 +281909,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -281921,7 +281921,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -281983,7 +281983,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -282058,7 +282058,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -282073,7 +282073,7 @@ Geresh
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -282093,7 +282093,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -282165,7 +282165,7 @@ Tipeha
 Munah
 Etnahta
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -282206,7 +282206,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -282280,7 +282280,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -282331,7 +282331,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -282348,7 +282348,7 @@ Zinor
 
 Munah
 Segol
-Munah
+Munah, Paseq
 
 
 Revia
@@ -282358,7 +282358,7 @@ Tevir
 Merkha
 Tipeha
 
-Munah
+Munah, Paseq
 
 Merkha
 Tipeha
@@ -282380,7 +282380,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -282388,7 +282388,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Darga
 
@@ -282421,7 +282421,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 Zaqef Qatan
 Tipeha
@@ -282549,10 +282549,10 @@ Etnahta
 Munah
 
 
-Munah
+Munah, Paseq
 Telisha Gedola
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 
@@ -282586,7 +282586,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -282680,7 +282680,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -282847,7 +282847,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -282945,7 +282945,7 @@ Tevir
 
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 Merkha
 
 
@@ -282960,11 +282960,11 @@ Munah
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -283005,7 +283005,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -283065,7 +283065,7 @@ Pashta
 
 Zaqef Qatan
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -283124,7 +283124,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -283151,12 +283151,12 @@ Revia
 Munah
 Zinor
 Segol
-Munah
+Munah, Paseq
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -283189,11 +283189,11 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -283213,7 +283213,7 @@ Segol
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -283228,7 +283228,7 @@ Merkha
 
 Merkha
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 Qadma
@@ -283372,7 +283372,7 @@ Pashta
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -283625,7 +283625,7 @@ Munah
 Segol
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -283654,7 +283654,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -283689,7 +283689,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -283744,7 +283744,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -283835,7 +283835,7 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -283850,13 +283850,13 @@ Etnahta
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Zaqef Gadol
 Tipeha
@@ -283864,7 +283864,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -283939,13 +283939,13 @@ Segol
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -283968,7 +283968,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -283994,7 +283994,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -284016,7 +284016,7 @@ Munah
 Zaqef Qatan
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -284067,7 +284067,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -284083,12 +284083,12 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -284109,7 +284109,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -284143,7 +284143,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -284160,7 +284160,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Telisha Qetana
@@ -284204,7 +284204,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -284232,7 +284232,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -284262,7 +284262,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -284340,7 +284340,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -284358,13 +284358,13 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Zaqef Gadol
 Tipeha
@@ -284372,7 +284372,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -284489,7 +284489,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -284546,7 +284546,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -284559,7 +284559,7 @@ Munah
 Pazer
 Munah
 
-Telisha Qetana
+Telisha Qetana, Paseq
 
 Qadma
 Geresh
@@ -284587,7 +284587,7 @@ Pashta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -284614,14 +284614,14 @@ Tipeha
 
 Etnahta
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -284682,7 +284682,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Qetana
@@ -284692,13 +284692,13 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -284908,7 +284908,7 @@ Revia
 Munah
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
@@ -284968,7 +284968,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -284992,7 +284992,7 @@ Etnahta
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -285008,7 +285008,7 @@ Revia
 
 
 Pashta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -285072,7 +285072,7 @@ Merkha
 
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 
 
@@ -285104,7 +285104,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 Pashta
 Munah
@@ -285115,7 +285115,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -285135,7 +285135,7 @@ Tipeha
 Revia
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
@@ -285176,7 +285176,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -285292,7 +285292,7 @@ Pashta
 Zaqef Qatan
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 
 Revia
@@ -285324,8 +285324,8 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
-Munah
+Shene Pashtim
+Munah, Paseq
 Zaqef Qatan
 
 Tipeha
@@ -285334,7 +285334,7 @@ Tipeha
 Etnahta
 
 Gershayim
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -285348,7 +285348,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
@@ -285358,7 +285358,7 @@ Merkha
 
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 Merkha
 Tipeha
@@ -285472,7 +285472,7 @@ Etnahta
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -285480,7 +285480,7 @@ Zaqef Qatan
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -285505,7 +285505,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -285531,7 +285531,7 @@ Mahapakh
 
 
 
-Munah
+Munah, Paseq
 Zaqef Qatan
 
 
@@ -285600,7 +285600,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -285628,7 +285628,7 @@ Tevir
 
 
 
-Munah
+Munah, Paseq
 Etnahta
 Mahapakh
 Pashta
@@ -285641,7 +285641,7 @@ Tipeha
 
 
 Tipeha
-Munah
+Munah, Paseq
 Etnahta
 Revia
 Mahapakh
@@ -285657,7 +285657,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -285703,7 +285703,7 @@ Tevir
 
 
 
-Munah
+Munah, Paseq
 Etnahta
 Yetiv
 Munah
@@ -285720,7 +285720,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -285754,1370 +285754,11 @@ Merkha
 
 Merkha
 Tipeha
-Munah
-Etnahta
-Yetiv
-Munah
-Zaqef Qatan
-
-Zaqef Gadol
-Merkha
-
-Tipeha
-
-
-
-
-
-Pashta
-
-Zaqef Qatan, Munah
-
-Merkha
-
-
-
-Munah
-
-
-Etnahta
-
-Merkha
-Tipeha
-
-
-Munah
-
-Zaqef Qatan
-
-Tipeha
-
-Etnahta
-Tipeha
-Merkha
-
-
-
-
-
-Munah
-
-Revia
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-Etnahta
-
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-
-
-
-Munah
-
-Revia
-
-
-Pashta
-
-Pashta, Qadma
-
-Munah
-
-Zaqef Qatan
-Tipeha
-Etnahta
-
-
-
-Munah
-
-Revia
-Pashta
-
-Munah
-
-Zaqef Qatan
-Tipeha
-
-Qadma
-Geresh
-
-Revia
-
-Darga
-Tevir
-
-Tipeha
-
-Munah
-
-Etnahta
-Merkha
-Tipeha
-Merkha
-
-
-Telisha Qetana
-Qadma
-
-
-Geresh
-Munah
-Revia
-Telisha Qetana
-Qadma
-Mahapakh
-
-Pashta, Qadma
-
-Qadma
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-Tipeha
-Munah
-Etnahta
-Revia
-
-Mahapakh
-
-
-Pashta
-Qadma
-Darga
-
-
-Tevir
-Tipeha
-
-
-
-
-
-Revia
-Darga
-Tevir
-Merkha
-
-
-Tipeha
-Munah
-Etnahta
-
-
-
-Tipeha
-Merkha
-
-
-
-
-Telisha Qetana
-
-
-Qadma
-
-Geresh
-Munah
-Revia
-
-
-Mahapakh
-
-Pashta
-Revia
-
-Pashta, Qadma
-Munah
-
-Zaqef Qatan
-
-Tipeha
-Munah
-
-Etnahta
-Revia
-
-Pashta, Qadma
-Munah
-
-Zaqef Qatan
-Tipeha
-Merkha
-
-
-
-Tipeha
-Etnahta
-Munah
-
-Revia
-Mahapakh
-Pashta, Qadma
-Munah
-
-Zaqef Qatan
-
-
-Zaqef Qatan, Munah
-Tipeha
-Merkha
-
-
-
-
-Revia
-Mahapakh
-Pashta, Qadma
-Munah
-
-Zaqef Qatan
-
-
-Zaqef Qatan, Munah
-Tipeha
-Munah
-
-Etnahta
-Munah
-
-Revia
-
-Darga
-
-
-Tevir
-
-Tipeha
-
-
-
-Qadma
-
-
-Geresh
-Munah
-Munah
-Revia
-
-Tevir
-Merkha
-Tipeha
-Etnahta
-
-
-Tipeha
-
-Merkha
-
-
-
-Zinor
-
-Munah
-
-Segol
-
-Pashta, Qadma
-Munah
-Zaqef Qatan
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-Etnahta
-
-Munah
-
-Zaqef Qatan
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-Munah
-
-Gershayim
-Munah
-Revia
-
-Pashta, Qadma
-Munah
-Munah
-Zaqef Qatan
-
-
-
-Zaqef Qatan
-Merkha
-Tipeha
-Etnahta
-
-Pashta
-
-Munah
-Zaqef Qatan
-Merkha
-
-Tipeha
-
-Merkha
-
-
-
-Tipeha
-
-
-Etnahta
-
-Munah
-
-
-Revia
-
-Qadma
-Darga
-
-Tevir
-
-
-
-Merkha
-
-Tipeha
-Merkha
-
-
-
-Munah
-
-Zinor
-Munah
-Segol
-
-Munah
-
-Zaqef Qatan
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-Etnahta
-
-Mahapakh
-Pashta
-Munah
-Zaqef Qatan
-
-Tipeha
-Merkha
-
-
-Munah
-
-Zaqef Qatan
-
-Merkha
-
-
-Tipeha
-Munah
-Etnahta
-
-
-Pashta, Qadma
-Munah
-Zaqef Qatan
-
-Merkha
-
-Tipeha
-Merkha
-
-
-Qadma
-
-Geresh
-Munah
-Revia
-
-Tevir
-Merkha
-Tipeha
-
-Munah
-
-Etnahta
-
-Munah
-Zaqef Qatan
-Tipeha
-Merkha
-
-
-
-Merkha
-
-
-Tipeha
-Munah
-Etnahta
-
-Munah
-
-Telisha Qetana
-Qadma
-Geresh
-Darga
-Tevir
-
-
-Tipeha
-
-
-
-Telisha Qetana
-Qadma
-
-Geresh
-Darga
-
-Munah
-Revia
-Telisha Gedola
-
-
-
-Qadma
-
-
-
-Darga
-
-
-Tevir
-Merkha
-Tipeha
-
-Munah
-Etnahta
-
-
-Merkha
-Tipeha
-
-Merkha
-
-
-
-Pazer
-
-Telisha Qetana
-
-Qadma
-
-Geresh
-
-
-Revia
-Munah
-
-Telisha Gedola
-
-
-Qadma
-
-Geresh
-Mahapakh
-Pashta
-
-
-Zaqef Qatan
-
-Merkha
-
-
-
-Tipeha
-
-Etnahta
-
-Darga
-
-Tevir
-Merkha
-
-
-Tipeha
-
-
-
-
-Darga
-
-
-Tevir
-Tipeha
-Munah
-Etnahta
-
-
-Pashta
-Munah
-
-Zaqef Qatan
-Merkha
-Tipeha
-
-Munah
-
-Darga
-
-
-
-Tevir
-
-
-Tipeha
-Munah
-Etnahta
-
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-Merkha
-
-
-
-
-Qadma
-
-Geresh
-Munah
-Merkha
-Tevir
-Merkha
-
-
-Tipeha
-Merkha
-
-
-Mahapakh
-
-Pashta
-
-
-Zaqef Qatan
-Mahapakh
-Pashta
-Munah
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-Etnahta
-
-Pashta, Qadma
-Munah
-
-Zaqef Qatan
-Merkha
-Tipeha
-Merkha
-
-
-
-Pazer
-Telisha Qetana
-
-Qadma
-
-Geresh
-Munah
-
-
-Revia
-Yetiv
-Munah
-Zaqef Qatan
-
-Darga
-
-Tevir
-
-Merkha
-Tipeha
-Munah
-Etnahta
-
-Tipeha
-Merkha
-
-
-Munah
-
-
-Zaqef Qatan
-Tipeha
-Munah
-Etnahta
-
-
-Mahapakh
-
-
-Pashta
-
-Zaqef Qatan, Munah
-Tipeha
-Merkha
-
-
-Telisha Qetana
-Qadma
-
-Darga
-
-
-Tevir
-
-
-Tipeha
-Merkha
-
-
-Munah
-
-Telisha Gedola
-
-
-Qadma
-
-Geresh
-Qadma
-
-Darga
-
-
-
-Merkha
-
-
-Tipeha
-Munah
-Etnahta
-
-
-Pashta
-
-Zaqef Qatan
-
-Tipeha
-
-
-
-Pazer
-
-
-Munah
-Telisha Gedola
-
-
-
-Mahapakh
-Pashta
-
-Zaqef Qatan
-Darga
-
-Tevir
-Merkha
-Tipeha
-Munah
-Etnahta
-
-
-Pashta, Qadma
-
-
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-Munah
-
-Pazer
-
-
-
-Telisha Qetana
-
-Qadma
-
-
-
-Geresh
-
-
-
-
-Qadma
-Darga
-Tevir
-
-
-Merkha
-
-
-
-Tipeha
-
-
-Merkha
-Tipeha
-
-Etnahta
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-
-
-Qadma
-Mahapakh
-
-
-Pashta
-
-Zaqef Qatan
-
-
-Merkha
-
-
-Tipeha
-
-Etnahta
-Merkha
-
-
-
-Tipeha
-Merkha
-
-
-
-Pashta, Qadma
-
-
-Munah
-
-Zaqef Qatan
-
-Merkha
-
-
-Tipeha
-Etnahta
-
-Tipeha
-
-
-
-Tipeha
-Munah
-Etnahta
-
-Munah
-
-Zaqef Qatan
-
-Tipeha
-
-
-
-
-Pazer
-Munah
-Telisha Qetana
-Qadma
-Geresh
-
-Munah
-
-Revia
-
-Pashta
-Zaqef Qatan
-
-Merkha
-
-Tipeha
-Etnahta
-
-Munah
-Zaqef Qatan
-Yetiv
-
-Zaqef Qatan
-Tipeha
-
-Merkha
-
-
-Darga
-Tevir
-
-
-Tipeha
-
-
-
-
-
-Merkha
-Tipeha
-
-
+Munah, Paseq
 Etnahta
 Yetiv
 Munah
 Zaqef Qatan
-Yetiv
-
-Munah
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-
-
-Qadma
-Geresh
-
-Mahapakh
-
-Pashta
-Munah
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-Etnahta
-
-Merkha
-Tevir
-
-Merkha
-
-Tipeha
-
-
-
-
-Qadma
-Mahapakh
-
-Pashta
-
-Munah
-
-
-Zaqef Qatan
-
-Tipeha
-
-Etnahta
-
-Merkha
-
-Tipeha
-
-
-
-
-Revia
-
-
-Pashta
-
-Zaqef Qatan, Munah
-
-Tipeha
-Munah
-
-Etnahta
-
-Munah
-
-
-Revia
-Qadma
-Darga
-
-Tevir
-
-
-Merkha
-
-Tipeha
-
-
-
-
-
-Pashta, Qadma
-Munah
-
-Zaqef Qatan
-Tipeha
-
-Etnahta
-
-
-Tipeha
-Merkha
-
-Munah
-
-Revia
-Pashta
-
-
-Munah
-
-Zaqef Qatan
-
-Munah
-Zaqef Qatan
-Tipeha
-
-
-Munah
-
-Etnahta
-Merkha
-
-
-Tipeha
-
-
-
-
-
-Qadma
-
-Geresh
-Telisha Qetana
-Qadma
-Merkha
-Pashta, Qadma
-
-
-Zaqef Qatan
-Tipeha
-Munah
-Etnahta
-
-Tipeha
-
-
-
-
-
-Merkha
-
-Tipeha
-Etnahta
-
-Qadma
-Geresh
-
-Revia
-
-
-Tevir
-
-
-
-Tipeha
-
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Tipeha
-
-Etnahta
-
-Munah
-Revia
-
-
-Tevir
-
-
-
-Tipeha
-
-
-
-
-Mahapakh
-
-
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-Tevir
-
-Merkha
-
-Tipeha
-
-Munah
-
-Etnahta
-Tipeha
-Merkha
-
-
-Munah
-
-Revia
-Tevir
-
-
-Merkha
-
-Tipeha
-Munah
-Etnahta
-
-Tevir
-
-Merkha
-
-Tipeha
-Merkha
-
-
-
-
-
-
-
-Etnahta
-
-
-
-
-Zaqef Qatan
-
-Munah
-
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-Munah
-Munah
-
-Revia
-Darga
-
-Tevir
-
-Darga
-
-Tevir
-
-
-Merkha
-
-Tipeha
-
-
-Pashta, Qadma
-
-Zaqef Qatan
-
-Munah
-
-Revia
-Pashta
-Munah
-
-Zaqef Qatan
-
-Tipeha
-Munah
-Etnahta
-
-Pashta
-Zaqef Qatan, Munah
-
-
-Tipeha
-
-
-
-
-
-Munah
-
-Revia
-Pashta
-Munah
-
-Zaqef Qatan
-Tipeha
-
-Munah
-Etnahta
-Revia
-
-Pashta
-
-Munah
-Zaqef Qatan
-Merkha
-
-Tipeha
-
-
-
-Munah
-Revia
-Qadma
-
-Geresh
-Munah
-
-Zinor
-Munah
-
-Munah
-
-Segol
-Munah
-Munah
-
-Revia
-Qadma
-
-Darga
-
-Tevir
-
-Merkha
-
-Tipeha
-Munah
-
-Etnahta
-Gershayim
-Munah
-Munah
-
-Revia
-
-
-Pashta
-
-
-Munah
-
-
-Zaqef Qatan
-Merkha
-
-Tipeha
-
-
-Munah
-
-Revia
-
-
-Mahapakh
-
-
-Pashta, Qadma
-
-
-Munah
-
-Zaqef Qatan
-
-Gershayim
-Darga
-Tevir
-
-Merkha
-Tipeha
-
-Munah
-Etnahta
-
-
-Munah
-Zaqef Qatan
-
-Tipeha
-
-Merkha
-
-
-
-
-Revia
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Pashta, Qadma
-Munah
-
-Zaqef Qatan
-Merkha
-Tipeha
-Munah
-
-Etnahta
-
-Tipeha
-Merkha
-
-Tevir
-Merkha
-
-Tipeha
-
-Munah
-
-Etnahta
-
-
-Tevir
-
-Merkha
-
-Tipeha
-
-Tipeha
-Munah
-
-Etnahta
-
-Merkha
-Tevir
-
-Merkha
-
-Tipeha
-
-Tevir
-Merkha
-
-Tipeha
-Etnahta
-
-Merkha
-Tipeha
-
-Merkha
-
-
-Tipeha
-
-Munah
-
-Etnahta
-Tevir
-
-Merkha
-Tipeha
-
-Merkha
-
-
-
-Qadma
-Geresh
-Revia
-Mahapakh
-Pashta
-Munah
-Zaqef Qatan
-Yetiv
-Munah
-Zaqef Qatan
-
-Tipeha
-Munah
-Etnahta
 
 Zaqef Gadol
 Merkha
@@ -287126,802 +285767,94 @@ Tipeha
 
 
 
-Tipeha
+
+
+Pashta
+
+Munah, Zaqef Qatan
+
+Merkha
+
+
+
+Munah
 
 
 Etnahta
-Zaqef Gadol
+
 Merkha
 Tipeha
-Merkha
 
 
-
-Revia
-Pashta
 Munah
+
 Zaqef Qatan
-Tipeha
 
-Munah
+Tipeha
 
 Etnahta
-
-Revia
-
-Pashta
-Munah
-Zaqef Qatan
-
-
 Tipeha
 Merkha
 
 
 
 
-Qadma
 
-Geresh
 Munah
-Revia
 
+Revia
+Mahapakh
+Pashta
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+Etnahta
 
 Mahapakh
-
-Pashta, Qadma
-
 Pashta
 
-Munah
-
-
 Zaqef Qatan
 
-Zaqef Gadol
-
-
-Zaqef Gadol
-Merkha
-Tipeha
-
-
-Etnahta
 
 Tipeha
 
 
 
-Merkha
-Tipeha
-Munah
-
-
-Etnahta
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-Merkha
 
 
 
 Munah
-Zaqef Qatan
 
-Zaqef Gadol
-
-
-Tipeha
-
-Etnahta
-
-Tevir
-Merkha
-
-Tipeha
-
-
-
-Tevir
-
-Merkha
-Tipeha
-
-
-Etnahta
-
-Zaqef Gadol
-Merkha
-Tipeha
-
-
-Munah
-Revia
-
-Pashta
-
-Munah
 Revia
 
 
 Pashta
+
+Shene Pashtim
+
 Munah
+
 Zaqef Qatan
-Darga
-
-Tevir
-
-Merkha
-
 Tipeha
-
 Etnahta
 
-Munah
-Munah
+
+
 Munah
 
-Telisha Gedola
-Munah
-Gershayim
-Mahapakh
-
+Revia
 Pashta
 
+Munah
+
 Zaqef Qatan
-
-
-Merkha
 Tipeha
-
 
 Qadma
 Geresh
-
-Revia
-
-Pashta
-Munah
-Zaqef Qatan
-
-
-Tipeha
-Munah
-
-Etnahta
-
-Munah
-
-Munah
-Revia
-
-Pashta
-Munah
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-Gershayim
-Darga
-
-Tevir
-
-Merkha
-Tipeha
-Etnahta
-
-Merkha
-
-Tipeha
-
-
-Munah
-
-Revia
-Mahapakh
-
-
-Pashta
-
-
-Zaqef Qatan
-
-Tipeha
-
-Etnahta
-
-Tipeha
-
-
-
-
-Gershayim
-
-Munah
-
-Revia
-Munah
-
-Pazer
-
-Pazer
-
-Pazer
-
-Munah
-
-
-
-
-Munah
-
-Telisha Qetana
-
-
-
-
-
-
-Munah
-Zaqef Qatan
-
-Tipeha
-
-Etnahta
-
-Gershayim
-
-
-Tevir
-
-
-
-Tipeha
-
-Merkha
-
-Tipeha
-Munah
-
-Etnahta
-
-Munah
-Telisha Gedola
-
-
-Gershayim
-Mahapakh
-Pashta
-Munah
-Zaqef Qatan
-
-Tipeha
-Merkha
-
-
-
-Qadma
-Mahapakh
-
-Pashta, Qadma
-
-
-Zaqef Qatan
-Merkha
-Tipeha
-
-Etnahta
-
-Qadma
-
-Geresh
-
-
-Revia
-
-Qadma
-
-Mahapakh
-Pashta
-Munah
-
-Zaqef Qatan
-
-Tipeha
-Merkha
-
-
-
-
-Qadma
-
-Geresh
-
-
-Mahapakh
-
-Pashta
-Munah
-Zaqef Qatan
-
-Tipeha
-Munah
-Etnahta
-
-
-
-Qadma
-
-Geresh
-
-
-Mahapakh
-
-Pashta
-Munah
-Zaqef Qatan
-
-Tipeha
-
-
-
-
-Tipeha
-Munah
-Etnahta
-
-
-
-
-
-
-Zaqef Qatan
-
-Tipeha
-
-
-
-
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Merkha
-Tipeha
-Etnahta
-Zaqef Gadol
-Tipeha
-Merkha
-
-
-
-Gershayim
-Darga
-Munah
-Revia
-
-Mahapakh
-Pashta
-Zaqef Qatan
-Tipeha
-Munah
-Etnahta
-
-
-
-Qadma
-Geresh
-Munah
-
-Revia
-
-
-
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Tipeha
-Merkha
-
-
-Munah
-Revia
-
-Pashta
-Mahapakh
-Pashta
-Munah
-Zaqef Qatan
-Yetiv
-Munah
-
-Zaqef Qatan
-
-Tipeha
-Etnahta
-
-Mahapakh
-Pashta
-Zaqef Qatan
-
-
-Merkha
-Tipeha
-
-
-Munah
-
-
-Munah
-
-Pazer
-Munah
-Telisha Qetana
-
-Qadma
-Geresh
-
-Munah
-Revia
-Tevir
-Merkha
-Tipeha
-
-Etnahta
-Merkha
-
-Tipeha
-
-
-
-Munah
-
-Revia
-
-Geresh, Qadma
-
-Mahapakh
-Pashta
-
-
-Pashta
-Munah
-
-Zaqef Qatan
-
-
-
-Tipeha
-Etnahta
-
-Merkha
-Tipeha
-
-
-
-Zaqef Qatan, Munah
-Tipeha
-
-Munah
-
-Etnahta
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Tipeha
-
-
-
-
-
-
-Pashta
-
-Zaqef Qatan
-Tevir
-
-Merkha
-Tipeha
-
-Etnahta
-
-Pashta
-
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-
-
-Tipeha
-
-Etnahta
-Pashta
-Munah
-
-Munah
-Zaqef Qatan
-
-Merkha
-
-
-Tipeha
-
-
-Tipeha
-
-Munah
-Etnahta
-
-Qadma
-
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Merkha
-Tevir
-Tipeha
-
-
-Munah
-Zaqef Qatan
-Merkha
-
-Tipeha
-
-
-Etnahta
-
-Darga
-
-Tevir
-
-Merkha
-
-
-Tipeha
-Merkha
-
-Munah
-Revia
-Pashta
-
-
-Zaqef Qatan
-
-Tipeha
-Etnahta
-
-Tipeha
-
-
-Tipeha
-
-
-Etnahta
-
-Telisha Qetana
-
-
-Qadma
-
-Geresh
-
-Revia
-Qadma
-
-Mahapakh
-
-
-Pashta, Qadma
-
-Pashta
-
-
-Zaqef Qatan
-
-Munah
-Zaqef Qatan
-Tipeha
-Merkha
-
-
-Munah
-Revia
-Munah
-Mahapakh
-
-Pashta
-
-Zaqef Qatan
-
-Tipeha
-Etnahta
-
-Tipeha
-
-
-Qadma
-Geresh
-Revia
-
-Munah
-
-Telisha Qetana
-Qadma
-Geresh
-Munah
-Revia
-
-Pashta
-
-Munah
-Zaqef Qatan
-Tevir
-Merkha
-
-Tipeha
-Munah
-Etnahta
-
-Tipeha
-
-
-
-Revia
-Merkha
-Tevir
-
-Merkha
-
-
-Tipeha
-
-Munah
-Etnahta
-
-Qadma
-Mahapakh
-
-Pashta, Qadma
-Zaqef Qatan
-
-
-Tipeha
-
-
-Geresh
-
-Munah
-
-Zinor
-
-Munah
-
-Segol
-
-Zaqef Gadol
-
-Tevir
-Merkha
-
-Tipeha
-
-Munah
-Etnahta
-
-Tipeha
-
-
-
-Qadma
-Geresh
-Revia
-
-Pazer
-Munah
-Telisha Qetana
-
-Qadma
-
-Geresh
-
-
-Munah
-Revia
-Munah
-
-Mahapakh
-Pashta
-Munah
-Zaqef Qatan
-
-
-Merkha
-
-Tipeha
-
-
-
-
-
-Mahapakh
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Tipeha
-Merkha
-
-
-
-Mahapakh
-
-Pashta, Qadma
-
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-Munah
-Etnahta
-
-Tevir
-
-
-Tipeha
-Merkha
-
-
-Munah
-
-Revia
-
-Pashta
-
-Munah
-Zaqef Qatan
-
-Merkha
-
-Tipeha
-
-Munah
-
-Etnahta
-
-Mahapakh
-
-Pashta
-Munah
-
-Zaqef Qatan
-
-Pashta, Qadma
-
-Zaqef Qatan
-Tipeha
-
-
-
-Merkha
-Tipeha
-Munah
-Etnahta
 
 Revia
 
@@ -287930,415 +285863,12 @@ Tevir
 
 Tipeha
 
-
-Zinor
-Munah
-Segol
-
-
-Revia
-Mahapakh
-Pashta
-
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-
-Etnahta
-
-
-
-Zaqef Qatan
-Zaqef Gadol
-
-Tipeha
-Merkha
-
-Munah
-
-
-Revia
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-Mahapakh
-Pashta
-Munah
-Munah
-
-Zaqef Qatan
-Tipeha
-Etnahta
-
-Tipeha
-
-
-Mahapakh
-
-Pashta
-Zaqef Qatan, Munah
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Tipeha
-
-
-Etnahta
-Telisha Gedola
-Qadma
-
-
-Mahapakh
-
-
-
-Pashta, Qadma
-
-
-Zaqef Qatan
-
-Tevir
-Merkha
-
-Tipeha
-
-
-Revia
-Qadma
-Mahapakh
-Pashta
-
-Munah
-Zaqef Qatan
-
-Merkha
-
-
-Tipeha
-
-Munah
-Etnahta
-
-Telisha Qetana
-Qadma
-Geresh
-Revia
-Pashta
-Munah
-Zaqef Qatan
-
-Tipeha
-
-
-
-Mahapakh
-Pashta
-
-Munah
-Zaqef Qatan
-
-
-Pashta, Qadma
-
-
-Zaqef Qatan, Munah
-
-Tipeha
-
-Etnahta
-
-Pashta
-Zaqef Qatan
-
-Tipeha
-Merkha
-
-
-Munah
-Zaqef Qatan
-Tipeha
 Munah
 
 Etnahta
-
-Pashta
-Zaqef Qatan, Munah
-
-
-Tevir
 Merkha
 Tipeha
-
-
-
-Qadma
-
-Geresh
-Munah
-Revia
-Qadma
-Geresh
-
-Mahapakh
-Pashta
-
-Mahapakh
-
-Pashta
-
-Zaqef Qatan
-Tevir
 Merkha
-Tipeha
-
-Etnahta
-
-Munah
-
-Revia
-
-Merkha
-Pashta
-Munah
-
-Zaqef Qatan
-Tipeha
-Merkha
-
-Geresh
-Munah
-
-Revia
-
-Tevir
-Merkha
-
-Tipeha
-
-Etnahta
-
-Tipeha
-
-
-
-Revia
-
-Pashta
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-Merkha
-Tipeha
-Etnahta
-
-
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Revia
-
-Tevir
-
-Merkha
-
-Tipeha
-
-
-Mahapakh
-Pashta
-Munah
-
-Zaqef Qatan
-
-Munah
-Zaqef Qatan
-Tipeha
-
-Etnahta
-Merkha
-Tipeha
-
-
-
-Telisha Gedola
-
-
-
-
-Qadma
-
-Geresh
-
-
-Munah
-
-Zinor
-
-
-Segol
-Munah
-
-Revia
-
-Pashta, Qadma
-Munah
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-Munah
-
-Etnahta
-
-Pashta
-Munah
-Zaqef Qatan
-
-
-Merkha
-
-
-Tipeha
-
-
-
-Pashta
-Munah
-Zaqef Qatan
-
-Tipeha
-Munah
-Etnahta
-Merkha
-Tipeha
-
-
-
-Merkha
-
-Tipeha
-
-Etnahta
-
-Tipeha
-
-
-Merkha
-
-
-
-Pashta
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-Etnahta
-Munah
-
-Revia
-
-Pashta, Qadma
-Munah
-Zaqef Qatan
-
-
-Pashta
-Munah
-Munah
-Zaqef Qatan
-
-Tipeha
-
-
-
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-
-Etnahta
-
-
-Merkha
-
-Tipeha
-
-
-
-Revia
-Yetiv
-Munah
-
-
-
-Tipeha
-
-
-
-Mahapakh
-
-
-Pashta
-
-
-Munah
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-
-Etnahta
-Munah
-
-
-Pazer
-Telisha Gedola
-
-
-
-
-Qadma
-
-
-Geresh
-
-Revia
-
-
-Tevir
-
-
-Merkha
-
-Tipeha
-
-
-Tipeha
-Etnahta
-Merkha
-Tipeha
-
-
 
 
 Telisha Qetana
@@ -288346,1322 +285876,151 @@ Qadma
 
 
 Geresh
-
-
-Mahapakh
-
-Pashta
-
 Munah
-
-
-Zaqef Qatan
-Tipeha
-Etnahta
-Tipeha
-Merkha
-
-
-Mahapakh
-Pashta
-
-Zaqef Qatan
-Tipeha
-Etnahta
-
-Revia
-
-Mahapakh
-Pashta
-
-Zaqef Qatan
-Tipeha
-
-
-Pashta
-
-
-Munah
-
-
-Zaqef Qatan
-Tipeha
-Etnahta
-
-
-Merkha
-
-Tipeha
-Merkha
-
-
-Telisha Qetana
-
-Qadma
-Geresh
-
-
-Munah
-Revia
-
-Pashta
-Zaqef Qatan, Munah
-
-
-Tipeha
-Etnahta
-
-Mahapakh
-Pashta
-Munah
-
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-
-Pashta
-
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-Etnahta
-Merkha
-Tipeha
-
-
-
-
-Qadma
-
-
-Geresh
-
 Revia
 Telisha Qetana
 Qadma
+Mahapakh
 
-Merkha
-Zinor
+Shene Pashtim
 
-
-Segol
-Revia
 Qadma
+Mahapakh
+Pashta
 
-Merkha
-Pashta, Qadma
 Zaqef Qatan
 
 Tipeha
 Munah
 Etnahta
-
-Merkha
-
-
-Tipeha
+Revia
 
 Mahapakh
 
+
 Pashta
+Qadma
+Darga
 
 
-Zaqef Qatan
-Merkha
 Tevir
-
-Merkha
-Tipeha
-Munah
-Etnahta
-
-Munah
-Zaqef Qatan
-Merkha
 Tipeha
 
 
 
 
-Mahapakh
 
-Pashta
-Zaqef Qatan
 Revia
-
-
-Pashta
-Zaqef Qatan
-
-Tipeha
-Munah
-Etnahta
-
-
-Merkha
-
-Tipeha
-Merkha
-
-Munah
-
-
-Geresh
-Revia
-
-
-Geresh, Qadma
-Mahapakh
-
-Pashta
-Zaqef Qatan
-
-Tipeha
-
-Munah
-
-Etnahta
-
-Qadma
-Mahapakh
-Pashta
-
-Zaqef Qatan, Munah
-
-Tipeha
-
-
-
-
-Qadma
-
-Merkha
-Pashta, Qadma
-Zaqef Qatan
-
-Merkha
-Tipeha
-Etnahta
-
-
-
-
-Telisha Qetana
-Qadma
-
 Darga
 Tevir
-
-Tipeha
 Merkha
 
 
-Qadma
-
-Geresh
-Revia
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Revia
-Mahapakh
-
-Pashta
-Zaqef Qatan
-
 Tipeha
-Munah
-
+Munah, Paseq
 Etnahta
 
 
-Merkha
+
 Tipeha
+Merkha
 
 
-
-
-Pazer
-
-Munah
 
 
 Telisha Qetana
 
+
 Qadma
 
 Geresh
-
-
 Munah
-
 Revia
+
 
 Mahapakh
 
-
-Pashta, Qadma
-
-
 Pashta
+Revia
+
+Shene Pashtim
 Munah
 
 Zaqef Qatan
 
-
+Tipeha
 Munah
+
+Etnahta
+Revia
+
+Shene Pashtim
+Munah
+
 Zaqef Qatan
+Tipeha
+Merkha
 
 
 
 Tipeha
 Etnahta
+Munah
 
 Revia
-
-Pashta
-Munah
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-Merkha
-
-
-
-Tevir
-
-Merkha
-
-Tipeha
-
-Etnahta
-
-
-Qadma
 Mahapakh
-Pashta
+Shene Pashtim
+Munah
 
 Zaqef Qatan
 
 
-Tevir
+Munah, Zaqef Qatan
+Tipeha
 Merkha
 
 
-Tipeha
 
 
-
-Gershayim
-Munah
 Revia
-
-Pashta
-Munah
-Zaqef Qatan
 Mahapakh
+Shene Pashtim
+Munah
 
-Pashta
 Zaqef Qatan
 
-Merkha
 
+Munah, Zaqef Qatan
 Tipeha
+Munah
+
 Etnahta
-Mahapakh
-Pashta
-
 Munah
-Zaqef Qatan
-Tipeha
-Merkha
 
+Revia
 
 Darga
 
 
 Tevir
 
-
-Tipeha
-Merkha
-
-
-Munah
-
-
-Revia
-Mahapakh
-Pashta
-Zaqef Qatan
-
-Zaqef Gadol
-Merkha
-
-Tipeha
-
-Etnahta
-
-Mahapakh
-
-Pashta, Qadma
-
-Zaqef Qatan
-
-
-Tipeha
-Merkha
-
-
-
-Tipeha
-Munah
-Etnahta
-Qadma
-Geresh
-Darga
-
-Munah
-Revia
-Mahapakh
-
-Pashta
-Zaqef Qatan
-
-Tipeha
-Merkha
-
-Merkha
-
-Tipeha
-Munah
-Etnahta
-Mahapakh
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Pashta
-
-Zaqef Qatan
-
 Tipeha
 
 
 
 Qadma
+
 
 Geresh
-
-Munah
-
-Revia
-Mahapakh
-
-Pashta
-
-
-Zaqef Qatan
-Merkha
-
-Tipeha
-Etnahta
-
-Merkha
-
-Tipeha
-
-
-
-Qadma
-
-
-Mahapakh
-
-
-Pashta, Qadma
-
-Munah
-Zaqef Qatan
-
-Tipeha
-
-
-Munah
-
-
-Etnahta
-
-Munah
-Zaqef Qatan
-Tipeha
-Merkha
-
-Yetiv
-
-Munah
-
-Zaqef Qatan
-Tipeha
-
-
-Munah
-
-Etnahta
-
-
-Tipeha
-
-
-
-
-
+Munah, Paseq
 Munah
 Revia
-
-Munah
-
-
-Zinor
-
-
-Segol
-
-
-Mahapakh
-
-
-
-Pashta
-
-
-
-Zaqef Qatan
-
-
-Tipeha
-Munah
-Etnahta
-
-Gershayim
-
-
-Munah
-
-
-
-Revia
-
-
-
-Pashta
-
-
-
-Zaqef Qatan
-
-Tipeha
-Merkha
-
-
-
-Zinor
-Munah
-Segol
-
-
-Pashta
-
-Munah
-
-
-Zaqef Qatan
-Merkha
-
-
-Tipeha
-Etnahta
-
-Tipeha
-
-
-
-
-Qadma
-
-Geresh
-
-Munah
-
-Revia
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-
 
 Tevir
 Merkha
-
-Tipeha
-
-
-Etnahta
-
-Qadma
-Zaqef Qatan
-Tipeha
-
-Merkha
-
-
-
-Mahapakh
-Pashta
-
-Munah
-
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-Etnahta
-
-Tipeha
-
-
-
-Telisha Gedola
-
-
-
-Qadma
-Merkha
-Pashta
-
-
-Zaqef Qatan
-Merkha
-Tipeha
-
-Etnahta
-Zaqef Gadol
-Munah
-Zaqef Qatan
-Tipeha
-
-
-Mahapakh
-
-Pashta
-
-
-Munah
-
-Zaqef Qatan
-Zaqef Gadol
-
-Tipeha
-
-Munah
-
-Etnahta
-Tipeha
-
-
-Qadma
-
-
-Geresh
-Darga
-Munah
-
-Revia
-Munah
-Telisha Gedola
-
-Qadma
-Mahapakh
-Pashta
-
-
-Zaqef Qatan
-Tipeha
-
-Etnahta
-
-Zaqef Gadol
-Merkha
-Tipeha
-
-
-
-
-Revia
-Merkha
-
-
-Tevir
-
-Merkha
-
-
 Tipeha
 Etnahta
 
-Tipeha
-Merkha
-
-
-
-
-
-Pazer
-
-Telisha Qetana
-Qadma
-Mahapakh
-
-
-Pashta, Qadma
-
-
-Zaqef Qatan
-Merkha
-
-Tipeha
-Munah
-
-Etnahta
-
-
-Pashta
-
-
-Zaqef Qatan
-
-
-
-Tipeha
-
-
-
-
-
-Zinor
-Munah
-Segol
-Geresh
-
-Mahapakh
-
-Pashta
-
-Munah
-Zaqef Qatan
-Munah
-Zaqef Qatan
-Tipeha
-Munah
-
-Etnahta
-
-
-Mahapakh
-
-Pashta
-Zaqef Qatan
-
-
-Merkha
-
-Tipeha
-
-
-Munah
-
-Pazer
-Telisha Qetana
-Qadma
-
-Geresh
-
-Revia
-
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Munah
-
-Revia
-
-Pashta
-
-
-Zaqef Qatan
-
-Tevir
-
-Merkha
-
-Tipeha
-
-Etnahta
-
-
-Merkha
-
-Tipeha
-
-
-
-
-Munah
-
-
-Revia
-Yetiv
-
-Munah
-
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-Etnahta
-
-Tipeha
-
-
-Munah
-Zaqef Qatan
-
-Merkha
-
-Tipeha
-
-Etnahta
-
-Munah
-
-Revia
-Darga
-Tevir
-Tipeha
-
-Merkha
-
-
-Pashta
-Munah
-
-
-Zaqef Qatan
-
-
-
-Merkha
-Tipeha
-Munah
-Etnahta
-
-Tipeha
-Merkha
-
-
-
-
-
-Munah
-
-Zaqef Qatan
-Merkha
-
-Tipeha
-Etnahta
-
-Darga
-Tevir
-
-Tipeha
-Merkha
-
-
-Qadma
-
-
-Geresh
-
-Mahapakh
-
-
-Pashta, Qadma
-Munah
-Zaqef Qatan
-
-Qadma
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-Etnahta
-
-Tipeha
-Merkha
-
-
-
-
-
-Tipeha
-
-Etnahta
-Munah
-Mahapakh
-
-Pashta, Qadma
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-Qadma
-
-
-Geresh
-
-Munah
-Zinor
-
-
-Segol
-
-Pazer
-
-Qadma
-Geresh
-
-Revia
-Pashta
-
-Munah
-Zaqef Qatan
-
-
-Pashta
-
-Munah
-Zaqef Qatan
-Tipeha
-
-Munah
-Etnahta
-Munah
-Revia
-Mahapakh
-
-Pashta, Qadma
-
-Munah
-Zaqef Qatan
-Merkha
-Tipeha
-
-
-
-Etnahta
-
-Mahapakh
-
-Pashta
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-
-Munah
-
-
-
-Revia
-Mahapakh
-
-Pashta
-Mahapakh
-
-
-Pashta
-
-Munah
-
-
-Zaqef Qatan
-
-
-
-Tipeha
-Munah
-Etnahta
-
-Tipeha
-Merkha
-
-
-
-
-
-Telisha Qetana
-
-Qadma
-Geresh
-Munah
-
-Zinor
-Munah
-
-Segol
-
-Munah
-Revia
-
-
-Pashta, Qadma
-
-Munah
-Zaqef Qatan
-
-Mahapakh
-
-Pashta
-
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-Munah
-
-Etnahta
-
-Tevir
-
-Merkha
-
-
-Tipeha
-Merkha
-
-
-Qadma
-
-Geresh
-Revia
-Merkha
-Tevir
-
-
-Tipeha
-
-Etnahta
-
-
-Merkha
-
-
-Tipeha
-Merkha
-
-
-Telisha Qetana
-Qadma
-Geresh
-
-
-Mahapakh
-
-
-Pashta, Qadma
-Munah
-
-Zaqef Qatan
-
-Tevir
-Merkha
-
-Tipeha
-
-Munah
-
-
-Etnahta
-Pashta
-
-Zaqef Qatan
-Merkha
-Tipeha
-
-
-
-
-Darga
-
-
-
-Tevir
-
-
-
-Tipeha
-
-
-Munah
-
-
-Etnahta
-Tipeha
-
-
-Gershayim
-Munah
-Revia
-
-Qadma
-
-Mahapakh
-Pashta
-
-Munah
-
-Zaqef Qatan
-Merkha
-Tipeha
-
-Munah
-Etnahta
-Merkha
-Tipeha
-
-
-
-
-Qadma
-Geresh
-
-Revia
-
-Pashta
-
-Zaqef Qatan
-
-Mahapakh
-Pashta
-
-Munah
-
-Zaqef Qatan
-
-Tipeha
-
-
-Etnahta
-Yetiv
-Zaqef Qatan
-Tipeha
-Merkha
-
-
-
-Qadma
-
-Geresh
-
-Munah
-
-Revia
-
-Pashta
-
-Zaqef Qatan
-
-Tipeha
-Munah
-
-Etnahta
-Pashta, Qadma
-Munah
-
-Munah
-Zaqef Qatan
-Tipeha
-
-
-
-Munah
-
-
-Zinor
-Munah
-
-Munah
-
-Segol
-
-
-Mahapakh
-
-Pashta, Qadma
-
-
-Zaqef Qatan, Munah
-
-Tipeha
-Etnahta
-
-
-Munah
-Zaqef Qatan
-
-
-
-
-
-Munah
-Zaqef Qatan
-Munah
-
-Revia
-Mahapakh
-
-Pashta
-
-Zaqef Qatan, Munah
-
-
-Tipeha
-
-
-
-Etnahta
-Mahapakh
-Pashta
-
-
-Zaqef Qatan
-
-Merkha
-Tevir
-
-
-Merkha
-
-Tipeha
-
-Merkha
-
-
-
-
-Revia
-
-
-Pashta
-
-Zaqef Qatan, Munah
-
-Zaqef Qatan, Munah
-
-Tipeha
-Munah
-
-Etnahta
-
-Mahapakh
-Pashta
-
-Munah
-
-Zaqef Qatan
-Tipeha
-
-Merkha
-
-
-
-Geresh
-Mahapakh
-
-Pashta
-Munah
-Zaqef Qatan
-Munah
-Zaqef Qatan
-
-Tipeha
-Etnahta
-Munah
-Zaqef Qatan
-
-Tipeha
-
-
-Qadma
-Merkha
-Tevir
-Tipeha
-
-Etnahta
-
-Munah
-Zaqef Qatan
-
-Merkha
-
-Tipeha
-
-
-Tipeha
-Etnahta
-Yetiv
-Munah
-
-Zaqef Qatan
-Darga
-
-Tevir
-Merkha
 
 Tipeha
 
@@ -289675,6 +286034,3647 @@ Munah
 
 Segol
 
+Shene Pashtim
+Munah
+Zaqef Qatan
+Mahapakh
+Pashta
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+Etnahta
+
+Munah
+
+Zaqef Qatan
+Mahapakh
+Pashta
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+Munah
+
+Gershayim
+Munah
+Revia
+
+Shene Pashtim
+Munah
+Munah
+Zaqef Qatan
+
+
+
+Zaqef Qatan
+Merkha
+Tipeha
+Etnahta
+
+Pashta
+
+Munah
+Zaqef Qatan
+Merkha
+
+Tipeha
+
+Merkha
+
+
+
+Tipeha
+
+
+Etnahta
+
+Munah
+
+
+Revia
+
+Qadma
+Darga
+
+Tevir
+
+
+
+Merkha
+
+Tipeha
+Merkha
+
+
+
+Munah
+
+Zinor
+Munah
+Segol
+
+Munah
+
+Zaqef Qatan
+Mahapakh
+Pashta
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+Etnahta
+
+Mahapakh
+Pashta
+Munah
+Zaqef Qatan
+
+Tipeha
+Merkha
+
+
+Munah
+
+Zaqef Qatan
+
+Merkha
+
+
+Tipeha
+Munah
+Etnahta
+
+
+Shene Pashtim
+Munah
+Zaqef Qatan
+
+Merkha
+
+Tipeha
+Merkha
+
+
+Qadma
+
+Geresh
+Munah
+Revia
+
+Tevir
+Merkha
+Tipeha
+
+Munah
+
+Etnahta
+
+Munah
+Zaqef Qatan
+Tipeha
+Merkha
+
+
+
+Merkha
+
+
+Tipeha
+Munah
+Etnahta
+
+Munah
+
+Telisha Qetana
+Qadma
+Geresh
+Darga, Paseq
+Tevir
+
+
+Tipeha
+
+
+
+Telisha Qetana
+Qadma
+
+Geresh
+Darga
+
+Munah
+Revia
+Telisha Gedola
+
+
+
+Qadma
+
+
+
+Darga
+
+
+Tevir
+Merkha, Paseq
+Tipeha
+
+Munah
+Etnahta
+
+
+Merkha
+Tipeha
+
+Merkha
+
+
+
+Pazer
+
+Telisha Qetana
+
+Qadma
+
+Geresh
+
+
+Revia
+Munah
+
+Telisha Gedola
+
+
+Qadma
+
+Geresh
+Legarmeh
+Pashta
+
+
+Zaqef Qatan
+
+Merkha
+
+
+
+Tipeha
+
+Etnahta
+
+Darga
+
+Tevir
+Merkha
+
+
+Tipeha
+
+
+
+
+Darga
+
+
+Tevir
+Tipeha
+Munah, Paseq
+Etnahta
+
+
+Pashta
+Munah
+
+Zaqef Qatan
+Merkha
+Tipeha
+
+Munah
+
+Darga
+
+
+
+Tevir
+
+
+Tipeha
+Munah
+Etnahta
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+Merkha
+
+
+
+
+Qadma
+
+Geresh
+Munah
+Merkha
+Tevir
+Merkha
+
+
+Tipeha
+Merkha, Paseq
+
+
+Mahapakh
+
+Pashta
+
+
+Zaqef Qatan
+Mahapakh
+Pashta
+Munah
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+Etnahta
+
+Shene Pashtim
+Munah
+
+Zaqef Qatan
+Merkha
+Tipeha
+Merkha, Paseq
+
+
+
+Pazer
+Telisha Qetana
+
+Qadma
+
+Geresh
+Munah
+
+
+Revia
+Yetiv
+Munah
+Zaqef Qatan
+
+Darga
+
+Tevir
+
+Merkha
+Tipeha
+Munah, Paseq
+Etnahta
+
+Tipeha
+Merkha
+
+
+Munah
+
+
+Zaqef Qatan
+Tipeha
+Munah
+Etnahta
+
+
+Mahapakh
+
+
+Pashta
+
+Munah, Zaqef Qatan
+Tipeha
+Merkha
+
+
+Telisha Qetana
+Qadma
+
+Darga
+
+
+Tevir
+
+
+Tipeha
+Merkha
+
+
+Munah
+
+Telisha Gedola
+
+
+Qadma
+
+Geresh
+Qadma
+
+Darga
+
+
+
+Merkha
+
+
+Tipeha
+Munah
+Etnahta
+
+
+Pashta
+
+Zaqef Qatan
+
+Tipeha
+
+
+
+Pazer
+
+
+Munah
+Telisha Gedola
+
+
+
+Legarmeh
+Pashta
+
+Zaqef Qatan
+Darga
+
+Tevir
+Merkha
+Tipeha
+Munah, Paseq
+Etnahta
+
+
+Shene Pashtim
+
+
+Zaqef Qatan
+
+
+Tipeha
+
+
+
+Munah
+
+Pazer
+
+
+
+Telisha Qetana
+
+Qadma
+
+
+
+Geresh
+
+
+
+
+Qadma
+Darga, Paseq
+Tevir
+
+
+Merkha
+
+
+
+Tipeha
+
+
+Merkha
+Tipeha
+
+Etnahta
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+
+
+Qadma
+Mahapakh
+
+
+Pashta
+
+Zaqef Qatan
+
+
+Merkha
+
+
+Tipeha
+
+Etnahta
+Merkha
+
+
+
+Tipeha
+Merkha, Paseq
+
+
+
+Shene Pashtim
+
+
+Munah
+
+Zaqef Qatan
+
+Merkha
+
+
+Tipeha
+Etnahta
+
+Tipeha
+
+
+
+Tipeha
+Munah
+Etnahta
+
+Munah
+
+Zaqef Qatan
+
+Tipeha
+
+
+
+
+Pazer
+Munah
+Telisha Qetana
+Qadma
+Geresh
+
+Munah
+
+Revia
+
+Pashta
+Zaqef Qatan
+
+Merkha
+
+Tipeha
+Etnahta
+
+Munah
+Zaqef Qatan
+Yetiv
+
+Zaqef Qatan
+Tipeha
+
+Merkha
+
+
+Darga
+Tevir
+
+
+Tipeha
+
+
+
+
+
+Merkha
+Tipeha
+
+
+Etnahta
+Yetiv
+Munah
+Zaqef Qatan
+Yetiv
+
+Munah
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+
+
+Qadma
+Geresh
+
+Mahapakh
+
+Pashta
+Munah
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+Etnahta
+
+Merkha
+Tevir
+
+Merkha
+
+Tipeha
+
+
+
+
+Qadma
+Mahapakh
+
+Pashta
+
+Munah
+
+
+Zaqef Qatan
+
+Tipeha
+
+Etnahta
+
+Merkha
+
+Tipeha
+
+
+
+
+Revia
+
+
+Pashta
+
+Munah, Zaqef Qatan
+
+Tipeha
+Munah
+
+Etnahta
+
+Munah
+
+
+Revia
+Qadma
+Darga
+
+Tevir
+
+
+Merkha
+
+Tipeha
+
+
+
+
+
+Shene Pashtim
+Munah
+
+Zaqef Qatan
+Tipeha
+
+Etnahta
+
+
+Tipeha
+Merkha
+
+Munah
+
+Revia
+Pashta
+
+
+Munah
+
+Zaqef Qatan
+
+Munah
+Zaqef Qatan
+Tipeha
+
+
+Munah
+
+Etnahta
+Merkha
+
+
+Tipeha
+
+
+
+
+
+Qadma
+
+Geresh
+Telisha Qetana
+Qadma
+Merkha
+Shene Pashtim
+
+
+Zaqef Qatan
+Tipeha
+Munah
+Etnahta
+
+Tipeha
+
+
+
+
+
+Merkha
+
+Tipeha
+Etnahta
+
+Qadma
+Geresh
+
+Revia
+
+
+Tevir
+
+
+
+Tipeha
+
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Tipeha
+
+Etnahta
+
+Munah
+Revia
+
+
+Tevir
+
+
+
+Tipeha
+
+
+
+
+Mahapakh
+
+
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+Tevir
+
+Merkha
+
+Tipeha
+
+Munah
+
+Etnahta
+Tipeha
+Merkha
+
+
+Munah
+
+Revia
+Tevir
+
+
+Merkha
+
+Tipeha
+Munah
+Etnahta
+
+Tevir
+
+Merkha
+
+Tipeha
+Merkha
+
+
+
+
+
+
+
+Etnahta
+
+
+
+
+Zaqef Qatan
+
+Munah
+
+Zaqef Qatan
+
+
+Tipeha
+
+
+
+Munah, Paseq
+Munah
+
+Revia
+Darga
+
+Tevir
+
+Darga
+
+Tevir
+
+
+Merkha
+
+Tipeha
+
+
+Shene Pashtim
+
+Zaqef Qatan
+
+Munah
+
+Revia
+Pashta
+Munah
+
+Zaqef Qatan
+
+Tipeha
+Munah
+Etnahta
+
+Pashta
+Munah, Zaqef Qatan
+
+
+Tipeha
+
+
+
+
+
+Munah
+
+Revia
+Pashta
+Munah
+
+Zaqef Qatan
+Tipeha
+
+Munah
+Etnahta
+Revia
+
+Pashta
+
+Munah
+Zaqef Qatan
+Merkha
+
+Tipeha
+
+
+
+Munah
+Revia
+Qadma
+
+Geresh
+Munah
+
+Zinor
+Munah
+
+Munah
+
+Segol
+Munah, Paseq
+Munah
+
+Revia
+Qadma
+
+Darga
+
+Tevir
+
+Merkha
+
+Tipeha
+Munah
+
+Etnahta
+Gershayim
+Munah, Paseq
+Munah
+
+Revia
+
+
+Pashta
+
+
+Munah
+
+
+Zaqef Qatan
+Merkha
+
+Tipeha
+
+
+Munah
+
+Revia
+
+
+Mahapakh
+
+
+Shene Pashtim
+
+
+Munah
+
+Zaqef Qatan
+
+Gershayim
+Darga
+Tevir
+
+Merkha
+Tipeha
+
+Munah
+Etnahta
+
+
+Munah
+Zaqef Qatan
+
+Tipeha
+
+Merkha
+
+
+
+
+Revia
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Shene Pashtim
+Munah
+
+Zaqef Qatan
+Merkha
+Tipeha
+Munah
+
+Etnahta
+
+Tipeha
+Merkha, Paseq
+
+Tevir
+Merkha
+
+Tipeha
+
+Munah
+
+Etnahta
+
+
+Tevir
+
+Merkha
+
+Tipeha
+
+Tipeha
+Munah
+
+Etnahta
+
+Merkha
+Tevir
+
+Merkha
+
+Tipeha
+
+Tevir
+Merkha
+
+Tipeha
+Etnahta
+
+Merkha
+Tipeha
+
+Merkha
+
+
+Tipeha
+
+Munah
+
+Etnahta
+Tevir
+
+Merkha
+Tipeha
+
+Merkha
+
+
+
+Qadma
+Geresh
+Revia
+Mahapakh
+Pashta
+Munah, Paseq
+Zaqef Qatan
+Yetiv
+Munah
+Zaqef Qatan
+
+Tipeha
+Munah
+Etnahta
+
+Zaqef Gadol
+Merkha
+
+Tipeha
+
+
+
+Tipeha
+
+
+Etnahta
+Zaqef Gadol
+Merkha
+Tipeha
+Merkha
+
+
+
+Revia
+Pashta
+Munah
+Zaqef Qatan
+Tipeha
+
+Munah
+
+Etnahta
+
+Revia
+
+Pashta
+Munah
+Zaqef Qatan
+
+
+Tipeha
+Merkha
+
+
+
+
+Qadma
+
+Geresh
+Munah
+Revia
+
+
+Mahapakh
+
+Shene Pashtim
+
+Pashta
+
+Munah
+
+
+Zaqef Qatan
+
+Zaqef Gadol
+
+
+Zaqef Gadol
+Merkha
+Tipeha
+
+
+Etnahta
+
+Tipeha
+
+
+
+Merkha
+Tipeha
+Munah
+
+
+Etnahta
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+Merkha
+
+
+
+Munah
+Zaqef Qatan
+
+Zaqef Gadol
+
+
+Tipeha
+
+Etnahta
+
+Tevir
+Merkha
+
+Tipeha
+
+
+
+Tevir
+
+Merkha
+Tipeha
+
+
+Etnahta
+
+Zaqef Gadol
+Merkha
+Tipeha
+
+
+Munah
+Revia
+
+Pashta
+
+Munah
+Revia
+
+
+Pashta
+Munah
+Zaqef Qatan
+Darga
+
+Tevir
+
+Merkha
+
+Tipeha
+
+Etnahta
+
+Munah
+Munah
+Munah
+
+Telisha Gedola
+Munah
+Gershayim
+Mahapakh
+
+Pashta
+
+Zaqef Qatan
+
+
+Merkha
+Tipeha
+
+
+Qadma
+Geresh
+
+Revia
+
+Pashta
+Munah
+Zaqef Qatan
+
+
+Tipeha
+Munah
+
+Etnahta
+
+Munah, Paseq
+
+Munah
+Revia
+
+Pashta
+Munah
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+Gershayim
+Darga
+
+Tevir
+
+Merkha
+Tipeha
+Etnahta
+
+Merkha
+
+Tipeha
+
+
+Munah
+
+Revia
+Mahapakh
+
+
+Pashta
+
+
+Zaqef Qatan
+
+Tipeha
+
+Etnahta
+
+Tipeha
+
+
+
+
+Gershayim
+
+Munah
+
+Revia
+Munah
+
+Pazer
+
+Pazer
+
+Pazer
+
+Munah
+
+
+
+
+Munah
+
+Telisha Qetana
+
+
+
+
+
+
+Munah
+Zaqef Qatan
+
+Tipeha
+
+Etnahta
+
+Gershayim
+
+
+Tevir
+
+
+
+Tipeha
+
+Merkha
+
+Tipeha
+Munah
+
+Etnahta
+
+Munah
+Telisha Gedola
+
+
+Gershayim
+Legarmeh
+Pashta
+Munah
+Zaqef Qatan
+
+Tipeha
+Merkha
+
+
+
+Qadma
+Mahapakh
+
+Shene Pashtim
+
+
+Zaqef Qatan
+Merkha
+Tipeha
+
+Etnahta
+
+Qadma
+
+Geresh
+
+
+Revia
+
+Qadma
+
+Mahapakh
+Pashta
+Munah
+
+Zaqef Qatan
+
+Tipeha
+Merkha
+
+
+
+
+Qadma
+
+Geresh
+
+
+Mahapakh
+
+Pashta
+Munah
+Zaqef Qatan
+
+Tipeha
+Munah
+Etnahta
+
+
+
+Qadma
+
+Geresh
+
+
+Mahapakh
+
+Pashta
+Munah
+Zaqef Qatan
+
+Tipeha
+
+
+
+
+Tipeha
+Munah
+Etnahta
+
+
+
+
+
+
+Zaqef Qatan
+
+Tipeha
+
+
+
+
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Merkha
+Tipeha
+Etnahta
+Zaqef Gadol
+Tipeha
+Merkha
+
+
+
+Gershayim
+Darga
+Munah
+Revia
+
+Mahapakh
+Pashta
+Zaqef Qatan
+Tipeha
+Munah
+Etnahta
+
+
+
+Qadma
+Geresh
+Munah
+
+Revia
+
+
+
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Tipeha
+Merkha
+
+
+Munah
+Revia
+
+Pashta
+Mahapakh
+Pashta
+Munah
+Zaqef Qatan
+Yetiv
+Munah
+
+Zaqef Qatan
+
+Tipeha
+Etnahta
+
+Mahapakh
+Pashta
+Zaqef Qatan
+
+
+Merkha
+Tipeha
+
+
+Munah
+
+
+Munah
+
+Pazer
+Munah
+Telisha Qetana
+
+Qadma
+Geresh
+
+Munah
+Revia
+Tevir
+Merkha
+Tipeha
+
+Etnahta
+Merkha
+
+Tipeha
+
+
+
+Munah
+
+Revia
+
+Qadma, Geresh
+
+Mahapakh
+Pashta
+
+
+Pashta
+Munah
+
+Zaqef Qatan
+
+
+
+Tipeha
+Etnahta
+
+Merkha
+Tipeha
+
+
+
+Munah, Zaqef Qatan
+Tipeha
+
+Munah
+
+Etnahta
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Tipeha
+
+
+
+
+
+
+Pashta
+
+Zaqef Qatan
+Tevir
+
+Merkha
+Tipeha
+
+Etnahta
+
+Pashta
+
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+
+
+Tipeha
+
+Etnahta
+Pashta
+Munah
+
+Munah
+Zaqef Qatan
+
+Merkha
+
+
+Tipeha
+
+
+Tipeha
+
+Munah
+Etnahta
+
+Qadma
+
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Merkha
+Tevir
+Tipeha
+
+
+Munah
+Zaqef Qatan
+Merkha
+
+Tipeha
+
+
+Etnahta
+
+Darga
+
+Tevir
+
+Merkha
+
+
+Tipeha
+Merkha
+
+Munah
+Revia
+Pashta
+
+
+Zaqef Qatan
+
+Tipeha
+Etnahta
+
+Tipeha
+
+
+Tipeha
+
+
+Etnahta
+
+Telisha Qetana
+
+
+Qadma
+
+Geresh
+
+Revia
+Qadma
+
+Mahapakh
+
+
+Shene Pashtim
+
+Pashta
+
+
+Zaqef Qatan
+
+Munah
+Zaqef Qatan
+Tipeha
+Merkha
+
+
+Munah
+Revia
+Munah
+Mahapakh
+
+Pashta
+
+Zaqef Qatan
+
+Tipeha
+Etnahta
+
+Tipeha
+
+
+Qadma
+Geresh
+Revia
+
+Munah
+
+Telisha Qetana
+Qadma
+Geresh
+Munah
+Revia
+
+Pashta
+
+Munah
+Zaqef Qatan
+Tevir
+Merkha
+
+Tipeha
+Munah
+Etnahta
+
+Tipeha
+
+
+
+Revia
+Merkha
+Tevir
+
+Merkha
+
+
+Tipeha
+
+Munah
+Etnahta
+
+Qadma
+Mahapakh
+
+Shene Pashtim
+Zaqef Qatan
+
+
+Tipeha
+
+
+Geresh
+
+Munah
+
+Zinor
+
+Munah
+
+Segol
+
+Zaqef Gadol
+
+Tevir
+Merkha
+
+Tipeha
+
+Munah
+Etnahta
+
+Tipeha
+
+
+
+Qadma
+Geresh
+Revia
+
+Pazer
+Munah
+Telisha Qetana
+
+Qadma
+
+Geresh
+
+
+Munah
+Revia
+Munah
+
+Mahapakh
+Pashta
+Munah
+Zaqef Qatan
+
+
+Merkha
+
+Tipeha
+
+
+
+
+
+Mahapakh
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Tipeha
+Merkha
+
+
+
+Mahapakh
+
+Shene Pashtim
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+Munah
+Etnahta
+
+Tevir
+
+
+Tipeha
+Merkha
+
+
+Munah
+
+Revia
+
+Pashta
+
+Munah
+Zaqef Qatan
+
+Merkha
+
+Tipeha
+
+Munah
+
+Etnahta
+
+Mahapakh
+
+Pashta
+Munah
+
+Zaqef Qatan
+
+Shene Pashtim
+
+Zaqef Qatan
+Tipeha
+
+
+
+Merkha
+Tipeha
+Munah
+Etnahta
+
+Revia
+
+Darga
+Tevir
+
+Tipeha
+
+
+Zinor
+Munah
+Segol
+
+
+Revia
+Mahapakh
+Pashta
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+
+Etnahta
+
+
+
+Zaqef Qatan
+Zaqef Gadol
+
+Tipeha
+Merkha
+
+Munah
+
+
+Revia
+Mahapakh
+Pashta
+
+Zaqef Qatan
+
+Mahapakh
+Pashta
+Munah
+Munah
+
+Zaqef Qatan
+Tipeha
+Etnahta
+
+Tipeha
+
+
+Mahapakh
+
+Pashta
+Munah, Zaqef Qatan
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Tipeha
+
+
+Etnahta
+Telisha Gedola
+Qadma
+
+
+Mahapakh
+
+
+
+Shene Pashtim
+
+
+Zaqef Qatan
+
+Tevir
+Merkha
+
+Tipeha
+
+
+Revia
+Qadma
+Mahapakh
+Pashta
+
+Munah
+Zaqef Qatan
+
+Merkha
+
+
+Tipeha
+
+Munah
+Etnahta
+
+Telisha Qetana
+Qadma
+Geresh
+Revia
+Pashta
+Munah
+Zaqef Qatan
+
+Tipeha
+
+
+
+Mahapakh
+Pashta
+
+Munah
+Zaqef Qatan
+
+
+Shene Pashtim
+
+
+Munah, Zaqef Qatan
+
+Tipeha
+
+Etnahta
+
+Pashta
+Zaqef Qatan
+
+Tipeha
+Merkha
+
+
+Munah
+Zaqef Qatan
+Tipeha
+Munah
+
+Etnahta
+
+Pashta
+Munah, Zaqef Qatan
+
+
+Tevir
+Merkha
+Tipeha
+
+
+
+Qadma
+
+Geresh
+Munah
+Revia
+Qadma
+Geresh
+
+Mahapakh
+Pashta
+
+Mahapakh
+
+Pashta
+
+Zaqef Qatan
+Tevir
+Merkha
+Tipeha
+
+Etnahta
+
+Munah
+
+Revia
+
+Merkha
+Pashta
+Munah
+
+Zaqef Qatan
+Tipeha
+Merkha
+
+Geresh
+Munah
+
+Revia
+
+Tevir
+Merkha
+
+Tipeha
+
+Etnahta
+
+Tipeha
+
+
+
+Revia
+
+Pashta
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+Merkha
+Tipeha
+Etnahta
+
+
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Revia
+
+Tevir
+
+Merkha
+
+Tipeha
+
+
+Mahapakh
+Pashta
+Munah
+
+Zaqef Qatan
+
+Munah
+Zaqef Qatan
+Tipeha
+
+Etnahta
+Merkha
+Tipeha
+
+
+
+Telisha Gedola
+
+
+
+
+Qadma
+
+Geresh
+
+
+Munah
+
+Zinor
+
+
+Segol
+Munah
+
+Revia
+
+Shene Pashtim
+Munah
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+Munah
+
+Etnahta
+
+Pashta
+Munah
+Zaqef Qatan
+
+
+Merkha
+
+
+Tipeha
+
+
+
+Pashta
+Munah
+Zaqef Qatan
+
+Tipeha
+Munah
+Etnahta
+Merkha
+Tipeha
+
+
+
+Merkha
+
+Tipeha
+
+Etnahta
+
+Tipeha
+
+
+Merkha
+
+
+
+Pashta
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+Etnahta
+Munah
+
+Revia
+
+Shene Pashtim
+Munah
+Zaqef Qatan
+
+
+Pashta
+Munah
+Munah
+Zaqef Qatan
+
+Tipeha
+
+
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+
+Etnahta
+
+
+Merkha
+
+Tipeha
+
+
+
+Revia
+Yetiv
+Munah
+
+
+
+Tipeha
+
+
+
+Mahapakh
+
+
+Pashta
+
+
+Munah
+Zaqef Qatan
+
+
+Tipeha
+
+
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+
+Etnahta
+Munah
+
+
+Pazer
+Telisha Gedola
+
+
+
+
+Qadma
+
+
+Geresh
+
+Revia
+
+
+Tevir
+
+
+Merkha
+
+Tipeha
+
+
+Tipeha
+Etnahta
+Merkha
+Tipeha
+
+
+
+
+Telisha Qetana
+Qadma
+
+
+Geresh
+
+
+Mahapakh
+
+Pashta
+
+Munah
+
+
+Zaqef Qatan
+Tipeha
+Etnahta
+Tipeha
+Merkha
+
+
+Mahapakh
+Pashta
+
+Zaqef Qatan
+Tipeha
+Etnahta
+
+Revia
+
+Mahapakh
+Pashta
+
+Zaqef Qatan
+Tipeha
+
+
+Pashta
+
+
+Munah
+
+
+Zaqef Qatan
+Tipeha
+Etnahta
+
+
+Merkha
+
+Tipeha
+Merkha
+
+
+Telisha Qetana
+
+Qadma
+Geresh
+
+
+Munah
+Revia
+
+Pashta
+Munah, Zaqef Qatan
+
+
+Tipeha
+Etnahta
+
+Mahapakh
+Pashta
+Munah
+
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+
+Pashta
+
+Zaqef Qatan
+
+
+Tipeha
+
+
+
+Etnahta
+Merkha
+Tipeha
+
+
+
+
+Qadma
+
+
+Geresh
+
+Revia
+Telisha Qetana
+Qadma
+
+Merkha, Paseq
+Zinor
+
+
+Segol
+Revia
+Qadma
+
+Merkha
+Shene Pashtim
+Zaqef Qatan
+
+Tipeha
+Munah
+Etnahta
+
+Merkha
+
+
+Tipeha
+
+Mahapakh
+
+Pashta
+
+
+Zaqef Qatan
+Merkha
+Tevir
+
+Merkha
+Tipeha
+Munah
+Etnahta
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+
+
+
+
+Mahapakh
+
+Pashta
+Zaqef Qatan
+Revia
+
+
+Pashta
+Zaqef Qatan
+
+Tipeha
+Munah
+Etnahta
+
+
+Merkha
+
+Tipeha
+Merkha
+
+Munah
+
+
+Geresh
+Revia
+
+
+Qadma, Geresh
+Mahapakh
+
+Pashta
+Zaqef Qatan
+
+Tipeha
+
+Munah
+
+Etnahta
+
+Qadma
+Mahapakh
+Pashta
+
+Munah, Zaqef Qatan
+
+Tipeha
+
+
+
+
+Qadma
+
+Merkha
+Shene Pashtim
+Zaqef Qatan
+
+Merkha
+Tipeha
+Etnahta
+
+
+
+
+Telisha Qetana
+Qadma
+
+Darga
+Tevir
+
+Tipeha
+Merkha
+
+
+Qadma
+
+Geresh
+Revia
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Revia
+Mahapakh
+
+Pashta
+Zaqef Qatan
+
+Tipeha
+Munah
+
+Etnahta
+
+
+Merkha
+Tipeha
+
+
+
+
+Pazer
+
+Munah
+
+
+Telisha Qetana
+
+Qadma
+
+Geresh
+
+
+Munah
+
+Revia
+
+Mahapakh
+
+
+Shene Pashtim
+
+
+Pashta
+Munah
+
+Zaqef Qatan
+
+
+Munah
+Zaqef Qatan
+
+
+
+Tipeha
+Etnahta
+
+Revia
+
+Pashta
+Munah
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+Merkha
+
+
+
+Tevir
+
+Merkha
+
+Tipeha
+
+Etnahta
+
+
+Qadma
+Mahapakh
+Pashta
+
+Zaqef Qatan
+
+
+Tevir
+Merkha
+
+
+Tipeha
+
+
+
+Gershayim
+Munah
+Revia
+
+Pashta
+Munah
+Zaqef Qatan
+Mahapakh
+
+Pashta
+Zaqef Qatan
+
+Merkha
+
+Tipeha
+Etnahta
+Mahapakh
+Pashta
+
+Munah
+Zaqef Qatan
+Tipeha
+Merkha
+
+
+Darga
+
+
+Tevir
+
+
+Tipeha
+Merkha
+
+
+Munah
+
+
+Revia
+Mahapakh
+Pashta
+Zaqef Qatan
+
+Zaqef Gadol
+Merkha
+
+Tipeha
+
+Etnahta
+
+Mahapakh
+
+Shene Pashtim
+
+Zaqef Qatan
+
+
+Tipeha
+Merkha
+
+
+
+Tipeha
+Munah
+Etnahta
+Qadma
+Geresh
+Darga
+
+Munah
+Revia
+Mahapakh
+
+Pashta
+Zaqef Qatan
+
+Tipeha
+Merkha
+
+Merkha
+
+Tipeha
+Munah
+Etnahta
+Mahapakh
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Pashta
+
+Zaqef Qatan
+
+Tipeha
+
+
+
+Qadma
+
+Geresh
+
+Munah
+
+Revia
+Mahapakh
+
+Pashta
+
+
+Zaqef Qatan
+Merkha
+
+Tipeha
+Etnahta
+
+Merkha
+
+Tipeha
+
+
+
+Qadma
+
+
+Mahapakh
+
+
+Shene Pashtim
+
+Munah
+Zaqef Qatan
+
+Tipeha
+
+
+Munah
+
+
+Etnahta
+
+Munah
+Zaqef Qatan
+Tipeha
+Merkha
+
+Yetiv
+
+Munah
+
+Zaqef Qatan
+Tipeha
+
+
+Munah
+
+Etnahta
+
+
+Tipeha
+
+
+
+
+
+Munah
+Revia
+
+Munah
+
+
+Zinor
+
+
+Segol
+
+
+Mahapakh
+
+
+
+Pashta
+
+
+
+Zaqef Qatan
+
+
+Tipeha
+Munah
+Etnahta
+
+Gershayim
+
+
+Munah
+
+
+
+Revia
+
+
+
+Pashta
+
+
+
+Zaqef Qatan
+
+Tipeha
+Merkha
+
+
+
+Zinor
+Munah
+Segol
+
+
+Pashta
+
+Munah
+
+
+Zaqef Qatan
+Merkha
+
+
+Tipeha
+Etnahta
+
+Tipeha
+
+
+
+
+Qadma
+
+Geresh
+
+Munah
+
+Revia
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+
+Tevir
+Merkha
+
+Tipeha
+
+
+Etnahta
+
+Qadma
+Zaqef Qatan
+Tipeha
+
+Merkha
+
+
+
+Mahapakh
+Pashta
+
+Munah
+
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+Etnahta
+
+Tipeha
+
+
+
+Telisha Gedola
+
+
+
+Qadma
+Merkha
+Pashta
+
+
+Zaqef Qatan
+Merkha
+Tipeha
+
+Etnahta
+Zaqef Gadol
+Munah
+Zaqef Qatan
+Tipeha
+
+
+Mahapakh
+
+Pashta
+
+
+Munah
+
+Zaqef Qatan
+Zaqef Gadol
+
+Tipeha
+
+Munah
+
+Etnahta
+Tipeha
+
+
+Qadma
+
+
+Geresh
+Darga
+Munah
+
+Revia
+Munah
+Telisha Gedola
+
+Qadma
+Mahapakh
+Pashta
+
+
+Zaqef Qatan
+Tipeha
+
+Etnahta
+
+Zaqef Gadol
+Merkha
+Tipeha
+
+
+
+
+Revia
+Merkha
+
+
+Tevir
+
+Merkha
+
+
+Tipeha
+Etnahta
+
+Tipeha
+Merkha
+
+
+
+
+
+Pazer
+
+Telisha Qetana
+Qadma
+Mahapakh
+
+
+Shene Pashtim
+
+
+Zaqef Qatan
+Merkha
+
+Tipeha
+Munah
+
+Etnahta
+
+
+Pashta
+
+
+Zaqef Qatan
+
+
+
+Tipeha
+
+
+
+
+
+Zinor
+Munah
+Segol
+Geresh
+
+Mahapakh
+
+Pashta
+
+Munah
+Zaqef Qatan
+Munah
+Zaqef Qatan
+Tipeha
+Munah
+
+Etnahta
+
+
+Mahapakh
+
+Pashta
+Zaqef Qatan
+
+
+Merkha
+
+Tipeha
+
+
+Munah
+
+Pazer
+Telisha Qetana
+Qadma
+
+Geresh
+
+Revia
+
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Munah
+
+Revia
+
+Pashta
+
+
+Zaqef Qatan
+
+Tevir
+
+Merkha
+
+Tipeha
+
+Etnahta
+
+
+Merkha
+
+Tipeha
+
+
+
+
+Munah
+
+
+Revia
+Yetiv
+
+Munah
+
+Zaqef Qatan
+
+
+Tipeha
+
+
+
+Etnahta
+
+Tipeha
+
+
+Munah
+Zaqef Qatan
+
+Merkha
+
+Tipeha
+
+Etnahta
+
+Munah
+
+Revia
+Darga
+Tevir
+Tipeha
+
+Merkha
+
+
+Pashta
+Munah
+
+
+Zaqef Qatan
+
+
+
+Merkha
+Tipeha
+Munah
+Etnahta
+
+Tipeha
+Merkha
+
+
+
+
+
+Munah
+
+Zaqef Qatan
+Merkha
+
+Tipeha
+Etnahta
+
+Darga
+Tevir
+
+Tipeha
+Merkha
+
+
+Qadma
+
+
+Geresh
+
+Mahapakh
+
+
+Shene Pashtim
+Munah
+Zaqef Qatan
+
+Qadma
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+Etnahta
+
+Tipeha
+Merkha
+
+
+
+
+
+Tipeha
+
+Etnahta
+Munah
+Mahapakh
+
+Shene Pashtim
+Zaqef Qatan
+
+
+Tipeha
+
+
+
+Qadma
+
+
+Geresh
+
+Munah
+Zinor
+
+
+Segol
+
+Pazer
+
+Qadma
+Geresh
+
+Revia
+Pashta
+
+Munah
+Zaqef Qatan
+
+
+Pashta
+
+Munah
+Zaqef Qatan
+Tipeha
+
+Munah
+Etnahta
+Munah
+Revia
+Mahapakh
+
+Shene Pashtim
+
+Munah
+Zaqef Qatan
+Merkha
+Tipeha
+
+
+
+Etnahta
+
+Mahapakh
+
+Pashta
+Zaqef Qatan
+
+
+Tipeha
+
+
+
+
+Munah
+
+
+
+Revia
+Mahapakh
+
+Pashta
+Mahapakh
+
+
+Pashta
+
+Munah
+
+
+Zaqef Qatan
+
+
+
+Tipeha
+Munah
+Etnahta
+
+Tipeha
+Merkha
+
+
+
+
+
+Telisha Qetana
+
+Qadma
+Geresh
+Munah
+
+Zinor
+Munah
+
+Segol
+
+Munah
+Revia
+
+
+Shene Pashtim
+
+Munah
+Zaqef Qatan
+
+Mahapakh
+
+Pashta
+
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+Munah
+
+Etnahta
+
+Tevir
+
+Merkha
+
+
+Tipeha
+Merkha
+
+
+Qadma
+
+Geresh
+Revia
+Merkha
+Tevir
+
+
+Tipeha
+
+Etnahta
+
+
+Merkha
+
+
+Tipeha
+Merkha
+
+
+Telisha Qetana
+Qadma
+Geresh
+
+
+Mahapakh
+
+
+Shene Pashtim
+Munah
+
+Zaqef Qatan
+
+Tevir
+Merkha
+
+Tipeha
+
+Munah
+
+
+Etnahta
+Pashta
+
+Zaqef Qatan
+Merkha
+Tipeha
+
+
+
+
+Darga
+
+
+
+Tevir
+
+
+
+Tipeha
+
+
+Munah
+
+
+Etnahta
+Tipeha
+
+
+Gershayim
+Munah
+Revia
+
+Qadma
+
+Mahapakh
+Pashta
+
+Munah
+
+Zaqef Qatan
+Merkha
+Tipeha
+
+Munah
+Etnahta
+Merkha
+Tipeha
+
+
+
+
+Qadma
+Geresh
+
+Revia
+
+Pashta
+
+Zaqef Qatan
+
+Mahapakh
+Pashta
+
+Munah
+
+Zaqef Qatan
+
+Tipeha
+
+
+Etnahta
+Yetiv
+Zaqef Qatan
+Tipeha
+Merkha
+
+
+
+Qadma
+
+Geresh
+
+Munah
+
+Revia
+
+Pashta
+
+Zaqef Qatan
+
+Tipeha
+Munah
+
+Etnahta
+Shene Pashtim
+Munah
+
+Munah
+Zaqef Qatan
+Tipeha
+
+
+
+Munah
+
+
+Zinor
+Munah
+
+Munah
+
+Segol
+
+
+Mahapakh
+
+Shene Pashtim
+
+
+Munah, Zaqef Qatan
+
+Tipeha
+Etnahta
+
+
+Munah
+Zaqef Qatan
+
+
+
+
+
+Munah
+Zaqef Qatan
+Munah
+
+Revia
+Mahapakh
+
+Pashta
+
+Munah, Zaqef Qatan
+
+
+Tipeha
+
+
+
+Etnahta
+Mahapakh
+Pashta
+
+
+Zaqef Qatan
+
+Merkha
+Tevir
+
+
+Merkha
+
+Tipeha
+
+Merkha
+
+
+
+
+Revia
+
+
+Pashta
+
+Munah, Zaqef Qatan
+
+Munah, Zaqef Qatan
+
+Tipeha
+Munah
+
+Etnahta
+
+Mahapakh
+Pashta
+
+Munah
+
+Zaqef Qatan
+Tipeha
+
+Merkha
+
+
+
+Geresh
+Mahapakh
+
+Pashta
+Munah
+Zaqef Qatan
+Munah
+Zaqef Qatan
+
+Tipeha
+Etnahta
+Munah
+Zaqef Qatan
+
+Tipeha
+
+
+Qadma
+Merkha
+Tevir
+Tipeha
+
+Etnahta
+
+Munah
+Zaqef Qatan
+
+Merkha
+
+Tipeha
+
+
+Tipeha
+Etnahta
+Yetiv
+Munah
+
+Zaqef Qatan
+Darga
+
+Tevir
+Merkha
+
+Tipeha
+
+Merkha
+
+
+
+Zinor
+
+Munah
+
+Segol
+
 
 Munah
 Revia
@@ -289682,7 +289682,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -289698,7 +289698,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -289712,7 +289712,7 @@ Zinor
 Munah
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -289743,7 +289743,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -289783,7 +289783,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -289826,7 +289826,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Revia
 
 
@@ -289855,7 +289855,7 @@ Tipeha
 Munah
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 Munah
@@ -289863,7 +289863,7 @@ Munah
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -289894,10 +289894,10 @@ Telisha Qetana
 Geresh
 Revia
 
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -289931,10 +289931,10 @@ Munah
 
 Munah
 
-Munah
+Munah, Paseq
 
 
-Munah
+Munah, Paseq
 
 
 Telisha Gedola
@@ -289989,7 +289989,7 @@ Munah
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -289997,7 +289997,7 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 
 Darga
 
@@ -290024,8 +290024,8 @@ Tipeha
 
 Merkha
 
-Mahapakh
-Pashta, Qadma
+Legarmeh
+Shene Pashtim
 Zaqef Qatan
 Pashta
 
@@ -290048,11 +290048,11 @@ Geresh
 
 
 Revia
-Pashta, Mahapakh
+Mahapakh, Pashta
 Munah
 Zaqef Qatan
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 Munah
@@ -290207,14 +290207,14 @@ Pazer
 
 Munah
 
-Munah
+Munah, Paseq
 
 
 Pazer
 Munah, Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -290228,32 +290228,7 @@ Tipeha
 Merkha
 
 
-Munah
-Munah
-Revia
-
-Merkha
-Tevir
-
-
-Tipeha
-Merkha
-
-
-Munah
-Munah
-Revia
-
-Merkha
-Tevir
-
-
-
-Tipeha
-Merkha
-
-
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -290265,19 +290240,7 @@ Tipeha
 Merkha
 
 
-Munah
-Munah
-Revia
-
-Merkha
-Tevir
-
-
-Tipeha
-Merkha
-
-
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -290290,7 +290253,44 @@ Tipeha
 Merkha
 
 
+Munah, Paseq
 Munah
+Revia
+
+Merkha
+Tevir
+
+
+Tipeha
+Merkha
+
+
+Munah, Paseq
+Munah
+Revia
+
+Merkha
+Tevir
+
+
+Tipeha
+Merkha
+
+
+Munah, Paseq
+Munah
+Revia
+
+Merkha
+Tevir
+
+
+
+Tipeha
+Merkha
+
+
+Munah, Paseq
 Munah
 Revia
 
@@ -290329,7 +290329,7 @@ Mahapakh
 Pashta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -290370,7 +290370,7 @@ Darga
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Yetiv
 Munah
 Zaqef Qatan
@@ -290440,7 +290440,7 @@ Zaqef Qatan
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -290544,7 +290544,7 @@ Zinor
 
 
 Segol
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -290554,7 +290554,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -290570,13 +290570,13 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
@@ -290620,7 +290620,7 @@ Merkha
 Tipeha
 Etnahta
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -290636,10 +290636,10 @@ Munah
 
 Munah
 
-Munah
+Munah, Paseq
 
 
-Munah
+Munah, Paseq
 
 
 
@@ -290654,7 +290654,7 @@ Munah
 Telisha Qetana
 
 Qadma
-Merkha
+Merkha, Paseq
 Zinor
 
 Munah
@@ -290666,7 +290666,7 @@ Telisha Gedola
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -290704,7 +290704,7 @@ Merkha
 
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -290728,19 +290728,7 @@ Tipeha
 Merkha
 
 
-Munah
-Munah
-Revia
-
-Merkha
-Tevir
-
-
-Tipeha
-Merkha
-
-
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -290752,7 +290740,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -290764,7 +290752,19 @@ Tipeha
 Merkha
 
 
+Munah, Paseq
 Munah
+Revia
+
+Merkha
+Tevir
+
+
+Tipeha
+Merkha
+
+
+Munah, Paseq
 Munah
 Revia
 
@@ -290808,7 +290808,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Merkha
@@ -290918,14 +290918,14 @@ Etnahta
 Merkha
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -290971,7 +290971,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -290995,7 +290995,7 @@ Etnahta
 Munah
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -291003,7 +291003,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -291033,7 +291033,7 @@ Munah
 Zaqef Qatan
 Merkha
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 Telisha Qetana
 Qadma
 Geresh
@@ -291063,7 +291063,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -291075,7 +291075,7 @@ Tipeha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -291085,7 +291085,7 @@ Merkha
 Zaqef Gadol
 Merkha
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 Mahapakh
 Pashta
 Munah
@@ -291169,7 +291169,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -291181,7 +291181,7 @@ Merkha
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -291191,7 +291191,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -291248,7 +291248,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -291262,7 +291262,7 @@ Etnahta
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -291348,11 +291348,11 @@ Tipeha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -291407,7 +291407,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -291419,7 +291419,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -291526,7 +291526,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -291574,7 +291574,7 @@ Zaqef Qatan
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Mahapakh
 
@@ -291644,14 +291644,14 @@ Etnahta
 
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
 Munah
 Zaqef Qatan
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -291667,7 +291667,7 @@ Tipeha
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -291732,7 +291732,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -291899,8 +291899,8 @@ Munah
 Etnahta
 
 Revia
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -291946,7 +291946,7 @@ Revia
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -291993,13 +291993,13 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -292040,7 +292040,7 @@ Tipeha
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -292108,11 +292108,11 @@ Tipeha
 
 
 Etnahta
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -292170,7 +292170,7 @@ Pashta
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -292194,7 +292194,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -292214,7 +292214,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -292258,7 +292258,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -292269,7 +292269,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -292296,7 +292296,7 @@ Merkha
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -292375,7 +292375,7 @@ Revia
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -292413,7 +292413,7 @@ Etnahta
 Tipeha
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Tipeha
@@ -292447,7 +292447,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Zaqef Gadol
@@ -292457,7 +292457,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -292506,7 +292506,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -292588,7 +292588,7 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -292708,7 +292708,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -292774,7 +292774,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -292791,7 +292791,7 @@ Tipeha
 
 
 Qadma
-Mahapakh
+Legarmeh
 
 Pashta
 
@@ -292824,7 +292824,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -292834,7 +292834,7 @@ Merkha
 
 Qadma
 
-Merkha
+Merkha, Paseq
 Zinor
 
 Munah
@@ -292883,7 +292883,7 @@ Zaqef Qatan
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -292935,14 +292935,14 @@ Munah
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 Geresh
@@ -293099,7 +293099,7 @@ Tipeha
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -293125,7 +293125,7 @@ Merkha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -293235,7 +293235,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -293290,7 +293290,7 @@ Zaqef Qatan
 
 Darga
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 Munah
 Etnahta
@@ -293341,7 +293341,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -293386,7 +293386,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -293482,7 +293482,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -293501,7 +293501,7 @@ Tipeha
 
 Geresh
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -293627,7 +293627,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -293643,7 +293643,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -293694,13 +293694,13 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -293714,7 +293714,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -293835,7 +293835,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -293845,7 +293845,7 @@ Merkha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -293956,7 +293956,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -293976,7 +293976,7 @@ Tipeha
 Merkha
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 Tevir
@@ -294013,7 +294013,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -294189,7 +294189,7 @@ Munah
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -294205,7 +294205,7 @@ Merkha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -294244,7 +294244,7 @@ Qadma
 Geresh
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -294308,8 +294308,8 @@ Merkha
 Munah
 Revia
 Yetiv
-Zaqef Qatan, Munah
-Pashta, Qadma
+Munah, Zaqef Qatan
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Etnahta
@@ -294319,7 +294319,7 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tevir
@@ -294340,7 +294340,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -294366,7 +294366,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -294535,7 +294535,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -294602,7 +294602,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -294662,7 +294662,7 @@ Pashta
 Zaqef Qatan
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 
@@ -294760,7 +294760,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -294867,7 +294867,7 @@ Revia
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -294917,7 +294917,7 @@ Etnahta
 Pashta
 Munah
 Zaqef Qatan
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -294954,7 +294954,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -295029,7 +295029,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -295059,7 +295059,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -295170,7 +295170,7 @@ Pashta
 Zaqef Qatan
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -295206,7 +295206,7 @@ Zaqef Gadol
 Merkha
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -295235,7 +295235,7 @@ Pashta
 
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -295270,7 +295270,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -295293,7 +295293,7 @@ Revia
 Munah
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -295301,7 +295301,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -295343,7 +295343,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -295398,7 +295398,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -295416,7 +295416,7 @@ Merkha
 
 
 
-Shalshelet
+Shalshelet, Paseq
 Pashta
 
 Munah
@@ -295480,7 +295480,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Darga
 
@@ -295768,7 +295768,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -295779,7 +295779,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -295815,7 +295815,7 @@ Zaqef Qatan
 Tipeha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 
@@ -295928,7 +295928,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -296019,7 +296019,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -296087,7 +296087,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -296169,7 +296169,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -296300,7 +296300,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -296329,10 +296329,10 @@ Telisha Qetana
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -296429,15 +296429,15 @@ Tipeha
 
 Qadma
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -296506,7 +296506,7 @@ Pashta
 
 Zaqef Qatan
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -296634,7 +296634,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -296699,7 +296699,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -296924,7 +296924,7 @@ Tipeha
 Munah
 Etnahta
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -297076,7 +297076,7 @@ Merkha
 
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 Darga
 Tevir
 
@@ -297140,7 +297140,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -297160,9 +297160,9 @@ Tipeha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 
@@ -297194,7 +297194,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -297244,7 +297244,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -297258,7 +297258,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -297321,7 +297321,7 @@ Qadma
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -297330,7 +297330,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -297360,7 +297360,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -297382,7 +297382,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -297416,7 +297416,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -297488,7 +297488,7 @@ Pashta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -297506,7 +297506,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -297580,7 +297580,7 @@ Revia
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -297606,7 +297606,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -297654,7 +297654,7 @@ Merkha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -297692,7 +297692,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -297700,7 +297700,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -297709,7 +297709,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -297725,7 +297725,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -297784,7 +297784,7 @@ Zaqef Qatan
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -297814,7 +297814,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -297863,7 +297863,7 @@ Tipeha
 Etnahta
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -297915,7 +297915,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -297938,7 +297938,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Tipeha
@@ -297974,7 +297974,7 @@ Etnahta
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -297987,7 +297987,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -298028,7 +298028,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -298332,7 +298332,7 @@ Munah
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -298345,7 +298345,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -298417,7 +298417,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -298527,7 +298527,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -298597,7 +298597,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -298705,7 +298705,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -298716,7 +298716,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -298763,7 +298763,7 @@ Etnahta
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -298822,7 +298822,7 @@ Merkha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -298879,7 +298879,7 @@ Pashta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -298922,7 +298922,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -299005,7 +299005,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -299040,7 +299040,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -299095,7 +299095,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -299169,7 +299169,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -299188,7 +299188,7 @@ Tipeha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -299266,7 +299266,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -299328,7 +299328,7 @@ Munah
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -299377,7 +299377,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -299395,7 +299395,7 @@ Munah
 Telisha Gedola
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -299438,7 +299438,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -299493,10 +299493,10 @@ Tipeha
 Munah
 Zaqef Qatan
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 
 Merkha
@@ -299542,13 +299542,13 @@ Zaqef Qatan
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tevir
@@ -299662,7 +299662,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -299705,7 +299705,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -299738,7 +299738,7 @@ Pashta
 Munah
 Zaqef Qatan
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -299780,7 +299780,7 @@ Pashta
 Munah
 Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 Mahapakh
 Pashta
 
@@ -299825,7 +299825,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -299959,7 +299959,7 @@ Tipeha
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -299988,7 +299988,7 @@ Merkha
 
 Gershayim
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -300022,7 +300022,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -300171,7 +300171,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -300187,7 +300187,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -300201,7 +300201,7 @@ Tipeha
 Revia
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -300245,12 +300245,12 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -300281,7 +300281,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -300292,7 +300292,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -300321,7 +300321,7 @@ Munah
 Revia
 
 Pashta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -300333,7 +300333,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -300427,7 +300427,7 @@ Geresh
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -300473,7 +300473,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -300565,7 +300565,7 @@ Gershayim
 Mahapakh
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -300593,7 +300593,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -300663,7 +300663,7 @@ Tipeha
 Merkha
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -300710,11 +300710,11 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -300745,7 +300745,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -300893,7 +300893,7 @@ Etnahta
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -301029,7 +301029,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -301077,7 +301077,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -301107,7 +301107,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -301117,7 +301117,7 @@ Tipeha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -301154,7 +301154,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -301182,7 +301182,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -301230,7 +301230,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -301265,7 +301265,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -301385,7 +301385,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -301464,7 +301464,7 @@ Tipeha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -301512,7 +301512,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -301583,7 +301583,7 @@ Zaqef Qatan
 
 Tipeha
 Etnahta
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -301596,7 +301596,7 @@ Tipeha
 Etnahta
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -301610,7 +301610,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -301625,7 +301625,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -301673,7 +301673,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -301698,7 +301698,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -301784,7 +301784,7 @@ Munah
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -301867,7 +301867,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -301880,7 +301880,7 @@ Munah
 Etnahta
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -301901,7 +301901,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -301913,7 +301913,7 @@ Munah
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -301968,7 +301968,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -301986,7 +301986,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -302032,7 +302032,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -302071,7 +302071,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
@@ -302123,7 +302123,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -302150,7 +302150,7 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -302169,7 +302169,7 @@ Munah
 Zaqef Qatan
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -302204,7 +302204,7 @@ Merkha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -302251,7 +302251,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -302379,7 +302379,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -302437,7 +302437,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -302544,7 +302544,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -302587,7 +302587,7 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -302599,7 +302599,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -302826,7 +302826,7 @@ Etnahta
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -302837,7 +302837,7 @@ Merkha
 Tipeha
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -302845,7 +302845,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -302867,7 +302867,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -302926,7 +302926,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -302943,7 +302943,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -302957,7 +302957,7 @@ Etnahta
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -302983,7 +302983,7 @@ Munah
 Tipeha
 
 Etnahta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -302999,7 +302999,7 @@ Etnahta
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -303015,7 +303015,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -303080,7 +303080,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -303117,7 +303117,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -303392,7 +303392,7 @@ Pashta
 
 Zaqef Qatan
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -303477,7 +303477,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -303485,7 +303485,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -303493,7 +303493,7 @@ Pashta
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -303511,11 +303511,11 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -303531,8 +303531,8 @@ Etnahta
 Revia
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -303546,7 +303546,7 @@ Etnahta
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -303579,7 +303579,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Darga
 Tevir
@@ -303588,7 +303588,7 @@ Tipeha
 
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -303738,7 +303738,7 @@ Tipeha
 
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -303780,7 +303780,7 @@ Munah
 Zaqef Qatan
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -303788,11 +303788,11 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -303824,7 +303824,7 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -303924,7 +303924,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -303932,7 +303932,7 @@ Merkha
 Tipeha
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -304003,7 +304003,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 Munah
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -304037,7 +304037,7 @@ Geresh
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -304118,14 +304118,14 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -304352,7 +304352,7 @@ Merkha
 
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -304364,7 +304364,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -304419,7 +304419,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Mahapakh
 
 Pashta
@@ -304435,7 +304435,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -304537,7 +304537,7 @@ Tipeha
 
 Munah
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -304701,7 +304701,7 @@ Tevir
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Qadma
 
@@ -304885,7 +304885,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -304914,7 +304914,7 @@ Tipeha
 
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -304948,7 +304948,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Munah
 
@@ -304957,12 +304957,12 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -304995,7 +304995,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -305009,7 +305009,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -305085,12 +305085,12 @@ Zaqef Qatan
 
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -305112,10 +305112,10 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -305127,7 +305127,7 @@ Geresh
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -305142,14 +305142,14 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Revia
 
@@ -305323,7 +305323,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -305337,7 +305337,7 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -305426,7 +305426,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -305468,7 +305468,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -305663,7 +305663,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -305743,7 +305743,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -305765,14 +305765,14 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -305814,14 +305814,14 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -305836,12 +305836,12 @@ Tevir
 
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -305909,7 +305909,7 @@ Tipeha
 Etnahta
 
 
-Munah
+Munah, Paseq
 
 Munah
 Telisha Qetana
@@ -305921,7 +305921,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Mahapakh
 
@@ -305947,7 +305947,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -305997,7 +305997,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -306048,7 +306048,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -306210,7 +306210,7 @@ Zaqef Qatan
 
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -306220,7 +306220,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -306236,7 +306236,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -306260,7 +306260,7 @@ Munah
 Zaqef Qatan
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -306302,7 +306302,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -306344,7 +306344,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -306441,7 +306441,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -306504,7 +306504,7 @@ Revia
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -306549,7 +306549,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -306657,7 +306657,7 @@ Merkha
 Revia
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -306675,7 +306675,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Revia
 
 Pashta
@@ -306726,7 +306726,7 @@ Pashta
 Zaqef Qatan
 Zaqef Gadol
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 
@@ -306814,7 +306814,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -306835,7 +306835,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -306954,7 +306954,7 @@ Tipeha
 Merkha
 
 
-Revia, Munah
+Munah, Revia
 Mahapakh
 
 
@@ -306964,7 +306964,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -307012,7 +307012,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -307047,7 +307047,7 @@ Merkha
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -307220,7 +307220,7 @@ Mahapakh
 Pashta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -307287,7 +307287,7 @@ Tipeha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -307321,7 +307321,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -307455,7 +307455,7 @@ Munah
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -307513,7 +307513,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -307553,7 +307553,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -307621,7 +307621,7 @@ Qadma
 Geresh
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
@@ -307650,7 +307650,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -307679,7 +307679,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -307707,7 +307707,7 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -307804,7 +307804,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -307891,7 +307891,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -307900,7 +307900,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -308041,7 +308041,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -308087,7 +308087,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -308111,7 +308111,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -308144,7 +308144,7 @@ Revia
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Pashta
@@ -308183,7 +308183,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Qadma
@@ -308243,7 +308243,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Etnahta
 
 Merkha
@@ -308255,7 +308255,7 @@ Merkha
 Qadma
 Geresh
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -308371,7 +308371,7 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -308499,7 +308499,7 @@ Pashta
 
 Zaqef Qatan
 
-Geresh, Qadma
+Qadma, Geresh
 
 Darga
 
@@ -308594,13 +308594,13 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -308632,7 +308632,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -308723,7 +308723,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Gershayim
@@ -308782,7 +308782,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -308863,7 +308863,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -308898,7 +308898,7 @@ Munah
 
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -308906,7 +308906,7 @@ Revia
 
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -308929,7 +308929,7 @@ Qadma
 
 
 
-Merkha
+Merkha, Paseq
 
 Zinor
 
@@ -308940,9 +308940,9 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -309085,7 +309085,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -309095,7 +309095,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Revia
 
 
@@ -309189,7 +309189,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -309204,7 +309204,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Revia
 
 Pashta
@@ -309272,7 +309272,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -309317,7 +309317,7 @@ Revia
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -309336,9 +309336,9 @@ Geresh
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Qatan
 
@@ -309440,10 +309440,10 @@ Yetiv
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -309570,7 +309570,7 @@ Munah
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -309606,7 +309606,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -309736,7 +309736,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -309833,7 +309833,7 @@ Pashta
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -309860,7 +309860,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -309991,7 +309991,7 @@ Tipeha
 
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -310009,7 +310009,7 @@ Geresh
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -310057,7 +310057,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -310076,7 +310076,7 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -310088,7 +310088,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -310131,7 +310131,7 @@ Revia
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -310158,7 +310158,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -310246,7 +310246,7 @@ Zinor
 
 Segol
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -310255,7 +310255,7 @@ Pashta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -310355,7 +310355,7 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -310400,7 +310400,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -310439,12 +310439,12 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -310654,12 +310654,12 @@ Tipeha
 Merkha
 
 Revia
-Mahapakh
+Legarmeh
 Merkha
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 
 Munah
@@ -310669,7 +310669,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -310677,7 +310677,7 @@ Merkha
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -310694,7 +310694,7 @@ Yerah Ben Yomo
 Ole
 Merkha
 Mahapakh
-Qadma
+Qadma, Paseq
 Iluy
 
 Revia
@@ -310720,7 +310720,7 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Dehi
@@ -310748,7 +310748,7 @@ Geresh Muqdam
 Revia
 
 
-Merkha, Qadma
+Merkha, Qadma, Paseq
 
 Revia
 
@@ -310772,7 +310772,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -310789,7 +310789,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -310800,7 +310800,7 @@ Zarqa
 Merkha
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -310826,7 +310826,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -310841,7 +310841,7 @@ Revia
 
 Pazer
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -310850,7 +310850,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -310860,20 +310860,20 @@ Etnahta
 Geresh Muqdam
 Revia
 
-Mahapakh
+Legarmeh
 Iluy
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Shalshelet
 Iluy
@@ -310885,7 +310885,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -310902,7 +310902,7 @@ Munah
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Etnahta
 Tipeha
 Munah
@@ -310913,11 +310913,11 @@ Dehi
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
@@ -310947,7 +310947,7 @@ Merkha
 
 
 Pazer
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 Dehi
@@ -310955,7 +310955,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -310979,14 +310979,14 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Revia
 
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -311027,7 +311027,7 @@ Munah
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -311046,11 +311046,11 @@ Merkha
 
 
 Tipeha
-Merkha
+Merkha, Paseq
 Revia
 Munah
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -311058,7 +311058,7 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Revia
 Tipeha
@@ -311066,14 +311066,14 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Mahapakh
 
 Zarqa
-Merkha
+Merkha, Paseq
 Etnahta
 Tipeha
 Munah
@@ -311084,18 +311084,18 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
 Revia
-Zarqa, Merkha
+Zarqa, Merkha, Paseq
 
 
 Revia
@@ -311107,10 +311107,10 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Iluy
 
 Revia
@@ -311126,17 +311126,17 @@ Yerah Ben Yomo
 Pazer
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Qadma
+Qadma, Paseq
 Revia
 Zinor
 
-Merkha, Yerah Ben Yomo, Ole
+Yerah Ben Yomo, Ole, Merkha
 
 Munah
 Dehi
@@ -311157,13 +311157,13 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Etnahta
 Geresh Muqdam
 
@@ -311207,14 +311207,14 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -311228,7 +311228,7 @@ Revia
 Munah
 
 
-Mahapakh
+Legarmeh
 
 Revia
 Munah
@@ -311244,7 +311244,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -311255,34 +311255,34 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
 Dehi
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -311292,7 +311292,7 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -311300,7 +311300,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -311323,7 +311323,7 @@ Tipeha
 Munah
 
 Merkha
-Qadma
+Qadma, Paseq
 Pazer
 
 Revia
@@ -311334,14 +311334,14 @@ Munah
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 
 
 Tipeha
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Dehi
@@ -311350,7 +311350,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -311365,7 +311365,7 @@ Merkha
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
@@ -311376,14 +311376,14 @@ Munah
 
 
 Iluy
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
-Revia, Dehi
+Dehi, Revia
 
 Revia
 Merkha
@@ -311391,7 +311391,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -311409,7 +311409,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -311417,7 +311417,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -311426,7 +311426,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -311445,7 +311445,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -311477,13 +311477,13 @@ Dehi
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Zinor
 Yerah Ben Yomo, Ole
@@ -311492,7 +311492,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -311511,7 +311511,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -311546,14 +311546,14 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -311573,7 +311573,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -311607,13 +311607,13 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 
-Qadma
+Qadma, Paseq
 Merkha
 Revia
 Ole
@@ -311641,7 +311641,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Zarqa
@@ -311651,7 +311651,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -311683,7 +311683,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Iluy
@@ -311692,19 +311692,19 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -311715,13 +311715,13 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh, Qadma
+Mahapakh, Qadma, Paseq
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
@@ -311734,7 +311734,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
@@ -311754,13 +311754,13 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 Tipeha
@@ -311771,7 +311771,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -311782,7 +311782,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 Munah
@@ -311795,8 +311795,8 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
-Zarqa, Merkha
+Geresh Muqdam, Revia
+Zarqa, Merkha, Paseq
 
 Revia
 
@@ -311805,7 +311805,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Zarqa, Mahapakh
@@ -311818,7 +311818,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -311842,11 +311842,11 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -311855,14 +311855,14 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Iluy
 
 
-Qadma
+Qadma, Paseq
 
 Iluy
 
@@ -311872,7 +311872,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -311891,7 +311891,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -311905,9 +311905,9 @@ Etnahta
 Merkha
 
 
-Mahapakh
+Legarmeh
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
 Merkha
 Geresh Muqdam
@@ -311916,20 +311916,20 @@ Munah
 
 Pazer
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 Dehi
@@ -311947,7 +311947,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Iluy
@@ -311955,7 +311955,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -311968,7 +311968,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -311976,9 +311976,9 @@ Revia, Geresh Muqdam
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 Munah
@@ -312000,7 +312000,7 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -312008,10 +312008,10 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 
 Zarqa, Mahapakh
 Revia
@@ -312019,16 +312019,16 @@ Zinor
 
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -312039,7 +312039,7 @@ Merkha
 Merkha
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -312053,7 +312053,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -312072,15 +312072,15 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zinor
 Mahapakh
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
@@ -312093,11 +312093,11 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Munah
 Dehi
@@ -312111,7 +312111,7 @@ Merkha
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
@@ -312124,7 +312124,7 @@ Merkha
 Munah
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -312132,12 +312132,12 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 
 
 Tipeha
@@ -312149,7 +312149,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -312165,7 +312165,7 @@ Dehi
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 
 Munah
@@ -312181,7 +312181,7 @@ Munah
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 Munah
 
@@ -312190,7 +312190,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -312200,18 +312200,18 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Zinor
 Mahapakh, Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 Etnahta
@@ -312222,7 +312222,7 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Zarqa, Mahapakh
 Munah
 Dehi
@@ -312241,7 +312241,7 @@ Zinor
 Yerah Ben Yomo
 
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -312254,11 +312254,11 @@ Geresh Muqdam
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -312271,14 +312271,14 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
-Mahapakh
+Legarmeh
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -312293,26 +312293,26 @@ Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -312323,11 +312323,11 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -312341,7 +312341,7 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Zarqa, Mahapakh
 Revia
@@ -312356,7 +312356,7 @@ Revia
 
 Munah
 
-Mahapakh
+Legarmeh
 
 Munah
 
@@ -312366,7 +312366,7 @@ Merkha
 
 Revia
 Merkha
-Merkha, Ole
+Ole, Merkha
 
 Etnahta
 Tipeha
@@ -312377,7 +312377,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -312386,7 +312386,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -312404,7 +312404,7 @@ Revia
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -312414,7 +312414,7 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -312422,7 +312422,7 @@ Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -312432,7 +312432,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
@@ -312441,7 +312441,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Iluy
@@ -312454,18 +312454,18 @@ Geresh Muqdam
 Revia
 
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Munah
@@ -312473,13 +312473,13 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Zinor
 Mahapakh
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -312490,9 +312490,9 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Merkha
 Revia
@@ -312507,17 +312507,17 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -312528,7 +312528,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -312545,7 +312545,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -312563,7 +312563,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -312577,7 +312577,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -312585,7 +312585,7 @@ Dehi
 Munah
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -312609,13 +312609,13 @@ Munah
 Dehi
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 Merkha
-Qadma
+Qadma, Paseq
 Pazer
 
 Iluy
@@ -312628,12 +312628,12 @@ Zinor
 
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -312647,14 +312647,14 @@ Revia
 
 
 
-Mahapakh
+Legarmeh
 
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -312671,7 +312671,7 @@ Merkha
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -312681,12 +312681,12 @@ Pazer
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -312694,14 +312694,14 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -312713,19 +312713,19 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 
 
-Mahapakh
+Legarmeh
 Munah
 Zinor
 
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 
 Munah
@@ -312733,14 +312733,14 @@ Etnahta
 Geresh Muqdam
 Revia
 
-Mahapakh
+Legarmeh
 Iluy
 
 
 
 Iluy
 
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -312753,7 +312753,7 @@ Revia
 Merkha
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -312761,7 +312761,7 @@ Revia
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -312785,20 +312785,20 @@ Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Merkha
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -312806,13 +312806,13 @@ Revia, Geresh Muqdam
 Iluy
 
 
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -312827,15 +312827,15 @@ Geresh Muqdam
 
 
 
-Mahapakh, Qadma
+Mahapakh, Qadma, Paseq
 Merkha
 Revia
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
-Munah
+Munah, Munah
 Etnahta
 Geresh Muqdam
 Revia
@@ -312845,7 +312845,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -312874,7 +312874,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Zarqa
 Merkha
 
@@ -312884,7 +312884,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -312893,7 +312893,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -312922,7 +312922,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -312931,14 +312931,14 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -312954,7 +312954,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -312969,14 +312969,14 @@ Revia
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Mahapakh
+Legarmeh
 
 Iluy
 
@@ -312988,7 +312988,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -313007,7 +313007,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -313017,13 +313017,13 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -313035,7 +313035,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -313051,7 +313051,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -313076,7 +313076,7 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -313109,7 +313109,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -313140,21 +313140,21 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 
 Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Tipeha
 
 
-Merkha
+Merkha, Paseq
 Etnahta
 
 
@@ -313162,10 +313162,10 @@ Merkha
 
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -313188,7 +313188,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -313208,13 +313208,13 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 
 
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
@@ -313244,7 +313244,7 @@ Merkha
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Revia
 
 Merkha
@@ -313252,7 +313252,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Zarqa, Mahapakh
@@ -313262,7 +313262,7 @@ Munah
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Zarqa, Mahapakh
@@ -313272,11 +313272,11 @@ Dehi
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zinor
 Yerah Ben Yomo
 Ole
@@ -313317,7 +313317,7 @@ Merkha
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Iluy
 Revia
 
@@ -313332,7 +313332,7 @@ Merkha
 
 Merkha
 
-Qadma
+Qadma, Paseq
 
 Pazer
 
@@ -313340,7 +313340,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -313355,8 +313355,8 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 
@@ -313382,24 +313382,24 @@ Etnahta
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zarqa
-Revia, Mahapakh
+Mahapakh, Revia
 
 
 
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
 Revia
 Mahapakh
-Merkha
+Merkha, Paseq
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -313418,7 +313418,7 @@ Munah
 
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 
 
 Tipeha
@@ -313430,7 +313430,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -313454,7 +313454,7 @@ Merkha
 Etnahta
 Geresh Muqdam
 
-Revia, Merkha
+Merkha, Revia
 
 Merkha
 
@@ -313464,7 +313464,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -313477,13 +313477,13 @@ Geresh Muqdam
 Revia
 Munah
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -313515,7 +313515,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -313526,13 +313526,13 @@ Etnahta
 Geresh Muqdam
 Merkha
 
-Mahapakh
+Legarmeh
 
 Merkha
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -313554,7 +313554,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -313607,13 +313607,13 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -313632,7 +313632,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -313649,7 +313649,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Zarqa
 Merkha
 
@@ -313658,7 +313658,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -313668,7 +313668,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -313689,7 +313689,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -313700,20 +313700,20 @@ Zinor
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Zarqa, Mahapakh
 
 
-Qadma
+Qadma, Paseq
 Revia
 Tipeha
 
@@ -313726,7 +313726,7 @@ Merkha
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Etnahta
@@ -313740,7 +313740,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -313748,7 +313748,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -313756,7 +313756,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -313766,7 +313766,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -313786,7 +313786,7 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 
 Munah
@@ -313794,7 +313794,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -313818,26 +313818,26 @@ Munah
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Iluy
-Qadma
+Qadma, Paseq
 
 Revia
 Munah
 Dehi
-Etnahta, Munah
+Munah, Etnahta
 Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 
 Munah
 
@@ -313864,7 +313864,7 @@ Revia
 
 Iluy
 
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -313892,14 +313892,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -313915,7 +313915,7 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -313937,7 +313937,7 @@ Munah
 
 Iluy
 
-Qadma
+Qadma, Paseq
 Revia
 Merkha
 Etnahta
@@ -313945,10 +313945,10 @@ Tipeha
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Mahapakh
 
 Munah
@@ -313960,20 +313960,20 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -313984,7 +313984,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -314001,8 +314001,8 @@ Merkha
 Revia
 
 
-Merkha, Ole
-Mahapakh
+Ole, Merkha
+Legarmeh
 
 Munah
 
@@ -314032,7 +314032,7 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
@@ -314047,16 +314047,16 @@ Merkha
 Zinor
 Mahapakh
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
@@ -314072,7 +314072,7 @@ Munah
 Zinor
 Mahapakh
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 Mahapakh
@@ -314083,7 +314083,7 @@ Munah
 
 Pazer
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
@@ -314100,7 +314100,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -314111,7 +314111,7 @@ Tipeha, Munah
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -314119,7 +314119,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -314133,11 +314133,11 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -314174,7 +314174,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -314193,7 +314193,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -314260,7 +314260,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -314268,7 +314268,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -314278,7 +314278,7 @@ Geresh Muqdam
 Revia
 
 
-Qadma
+Qadma, Paseq
 Mahapakh
 Revia
 
@@ -314289,7 +314289,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -314316,7 +314316,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -314324,7 +314324,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -314389,8 +314389,8 @@ Revia
 Merkha
 
 
-Qadma
-Mahapakh
+Qadma, Paseq
+Legarmeh
 Munah
 Dehi
 
@@ -314399,18 +314399,18 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Munah
 
 Munah
@@ -314421,11 +314421,11 @@ Munah
 
 
 Iluy
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
@@ -314434,13 +314434,13 @@ Geresh Muqdam
 Revia
 Munah
 
-Mahapakh
+Legarmeh
 Munah
 
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 
 
@@ -314452,19 +314452,19 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -314498,7 +314498,7 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 Munah
@@ -314509,20 +314509,20 @@ Munah
 
 
 Iluy
-Qadma
+Qadma, Paseq
 Zinor
 
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -314535,13 +314535,13 @@ Munah
 
 Mahapakh, Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -314552,7 +314552,7 @@ Merkha
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -314568,7 +314568,7 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -314580,12 +314580,12 @@ Revia
 
 Pazer
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -314602,7 +314602,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -314629,7 +314629,7 @@ Zinor
 
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
@@ -314648,7 +314648,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -314658,7 +314658,7 @@ Etnahta
 Geresh Muqdam
 Munah
 
-Mahapakh
+Legarmeh
 Merkha
 
 Zinor
@@ -314666,7 +314666,7 @@ Mahapakh
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -314682,7 +314682,7 @@ Zarqa, Mahapakh
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 
 Revia
 
@@ -314698,7 +314698,7 @@ Revia
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -314730,7 +314730,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -314740,7 +314740,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -314750,7 +314750,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -314775,20 +314775,20 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -314798,7 +314798,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -314807,7 +314807,7 @@ Tipeha
 
 Munah
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 
 Munah
@@ -314833,7 +314833,7 @@ Munah
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -314841,7 +314841,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -314855,12 +314855,12 @@ Revia
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -314896,7 +314896,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -314930,14 +314930,14 @@ Etnahta
 
 Merkha
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -314958,12 +314958,12 @@ Etnahta
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Dehi
@@ -314979,7 +314979,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -314995,7 +314995,7 @@ Geresh Muqdam
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Tipeha
 Merkha
 Revia
@@ -315015,12 +315015,12 @@ Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -315055,7 +315055,7 @@ Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Munah
 
 Munah
@@ -315070,12 +315070,12 @@ Yerah Ben Yomo
 Pazer
 
 
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 
@@ -315087,17 +315087,17 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Merkha
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -315107,11 +315107,11 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -315120,7 +315120,7 @@ Etnahta
 Zarqa, Mahapakh
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -315137,11 +315137,11 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
-Revia, Merkha
+Merkha, Revia
 Ole
 Merkha
 
@@ -315159,16 +315159,16 @@ Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
-Mahapakh
+Legarmeh
 
 Merkha
 Zinor
@@ -315186,19 +315186,19 @@ Etnahta
 Merkha
 Zarqa
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 
 Revia
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Revia
 Dehi
 Merkha
@@ -315210,14 +315210,14 @@ Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -315231,7 +315231,7 @@ Revia
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 Revia
@@ -315258,13 +315258,13 @@ Revia
 
 
 
-Mahapakh
+Legarmeh
 Munah
 
 Zinor
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
@@ -315272,7 +315272,7 @@ Tipeha
 Munah
 
 Qadma
-Pazer, Yerah Ben Yomo
+Yerah Ben Yomo, Pazer
 
 Zarqa, Mahapakh
 
@@ -315293,30 +315293,30 @@ Munah
 Pazer
 Iluy
 
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Revia
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
-Mahapakh
+Legarmeh
 Merkha
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 Tipeha, Munah
 
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -315327,13 +315327,13 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 
 Merkha
 
 Zinor
 Mahapakh
-Merkha, Ole
+Ole, Merkha
 
 
 
@@ -315341,20 +315341,20 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Merkha
 Revia
 
 
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Iluy
 
@@ -315383,7 +315383,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -315391,7 +315391,7 @@ Tipeha
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -315400,7 +315400,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -315408,7 +315408,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -315420,7 +315420,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -315441,7 +315441,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -315451,14 +315451,14 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -315467,7 +315467,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -315479,7 +315479,7 @@ Dehi
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 
 Munah
@@ -315488,7 +315488,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -315519,7 +315519,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -315533,7 +315533,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -315601,7 +315601,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -315629,7 +315629,7 @@ Etnahta
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Munah
@@ -315648,7 +315648,7 @@ Etnahta
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Mahapakh
 
@@ -315675,7 +315675,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -315684,7 +315684,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -315694,7 +315694,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -315703,7 +315703,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -315751,7 +315751,7 @@ Etnahta
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -315792,18 +315792,18 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 
 
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -315831,12 +315831,12 @@ Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Revia
 
@@ -315855,7 +315855,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -315863,14 +315863,14 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Munah
 Zinor
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 
@@ -315889,11 +315889,11 @@ Geresh Muqdam
 
 
 Merkha
-Qadma
+Qadma, Paseq
 Zinor
 Revia
 Merkha
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -315910,7 +315910,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -315920,7 +315920,7 @@ Munah
 
 
 
-Mahapakh
+Legarmeh
 
 Pazer
 Iluy
@@ -315943,7 +315943,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -315951,7 +315951,7 @@ Merkha
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Iluy
 Munah
 Dehi
@@ -315972,7 +315972,7 @@ Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -315994,13 +315994,13 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -316011,9 +316011,9 @@ Geresh Muqdam
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
-Munah
+Munah, Paseq
 Etnahta
 Merkha
 
@@ -316021,7 +316021,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -316051,14 +316051,14 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -316070,7 +316070,7 @@ Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
@@ -316088,14 +316088,14 @@ Etnahta
 Geresh Muqdam
 
 
+
+
+Iluy, Paseq
 
 
 Iluy
 
 
-Iluy
-
-
 
 Munah
 Dehi
@@ -316106,7 +316106,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -316130,16 +316130,16 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -316147,10 +316147,10 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -316165,13 +316165,13 @@ Munah
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -316204,27 +316204,27 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 
 
-Qadma
+Qadma, Paseq
 
 Merkha
 
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -316237,7 +316237,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -316246,7 +316246,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -316256,7 +316256,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -316265,7 +316265,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -316280,7 +316280,7 @@ Revia
 
 
 
-Mahapakh
+Legarmeh
 
 Zinor
 
@@ -316302,7 +316302,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -316311,7 +316311,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -316349,16 +316349,16 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -316412,7 +316412,7 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 
 Munah
@@ -316455,13 +316455,13 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 
 Dehi
@@ -316492,7 +316492,7 @@ Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
@@ -316546,12 +316546,12 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Iluy
 Revia
@@ -316604,7 +316604,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -316612,7 +316612,7 @@ Munah
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -316663,7 +316663,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -316687,7 +316687,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -316695,7 +316695,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -316716,10 +316716,10 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -316732,7 +316732,7 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 Iluy
 Revia
 
@@ -316775,7 +316775,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -316785,22 +316785,8 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
-
-
-Dehi
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Merkha
-Etnahta
-Revia, Geresh Muqdam
 
 
 Dehi
@@ -316812,25 +316798,39 @@ Tipeha
 Munah
 
 
+Merkha
+Etnahta
+Geresh Muqdam, Revia
+
+
+Dehi
+
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
 Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -316846,7 +316846,7 @@ Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 Merkha
@@ -316865,30 +316865,30 @@ Etnahta
 Merkha
 
 
-Qadma
+Qadma, Paseq
 
 Revia
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 
 Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
@@ -316900,18 +316900,18 @@ Merkha
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 
-Mahapakh
+Legarmeh
 
 Revia
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -316922,7 +316922,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -316930,7 +316930,7 @@ Munah
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -316946,13 +316946,13 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 Iluy
 Revia
 
@@ -316967,20 +316967,20 @@ Tipeha
 Munah
 
 Merkha
-Qadma
+Qadma, Paseq
 Pazer
 
-Qadma
+Qadma, Paseq
 Zinor
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -317004,19 +317004,19 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Merkha
 Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 
 Tipeha
 
@@ -317027,12 +317027,12 @@ Merkha
 
 Iluy
 
-Qadma
+Qadma, Paseq
 Merkha
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Munah
 
@@ -317052,31 +317052,31 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Mahapakh
-Qadma
-Mahapakh
+Qadma, Paseq
+Legarmeh
 Munah
 Zinor
 Merkha
 
 Revia
-Merkha, Ole
-Mahapakh
+Ole, Merkha
+Legarmeh
 Iluy
 Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Revia
 Dehi
@@ -317093,7 +317093,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -317107,7 +317107,7 @@ Revia
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Zarqa, Mahapakh
 Revia
@@ -317115,12 +317115,12 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Iluy
 
-Qadma
+Qadma, Paseq
 
 Iluy
 Revia
@@ -317149,7 +317149,7 @@ Merkha
 
 Mahapakh
 Merkha
-Qadma
+Qadma, Paseq
 Pazer
 
 Iluy
@@ -317164,7 +317164,7 @@ Etnahta
 Merkha
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -317172,23 +317172,23 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 Zinor
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -317196,23 +317196,23 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
-Merkha
+Geresh Muqdam, Revia
+Merkha, Paseq
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Munah
 
 Zinor
@@ -317223,7 +317223,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -317238,57 +317238,57 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
+
+Legarmeh
+Munah
+Dehi
+
+
+
+
+
+Etnahta
+
+
+Geresh Muqdam, Revia
+
+Munah
+
+Revia
+Dehi
+
+Munah
+Etnahta
+
+Geresh Muqdam, Revia
+Merkha
+
+
+
+Dehi
+Munah
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+
+Merkha
+
+Revia
+Munah
+Munah
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+
+Merkha
+
+
 
 Mahapakh
-Munah
-Dehi
 
-
-
-
-
-Etnahta
-
-
-Revia, Geresh Muqdam
-
-Munah
-
-Revia
-Dehi
-
-Munah
-Etnahta
-
-Revia, Geresh Muqdam
-Merkha
-
-
-
-Dehi
-Munah
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-
-Merkha
-
-Revia
-Munah
-Munah
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-
-Merkha
-
-
-
-Mahapakh
-
-Qadma
+Qadma, Paseq
 Mahapakh
 Revia
 Revia
@@ -317305,7 +317305,7 @@ Munah
 Dehi
 
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 Munah
 
@@ -317315,14 +317315,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Munah
 Tipeha
@@ -317364,7 +317364,7 @@ Munah
 
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Dehi
@@ -317374,7 +317374,7 @@ Dehi
 Merkha
 
 Revia
-Zarqa, Merkha
+Zarqa, Merkha, Paseq
 
 
 
@@ -317396,7 +317396,7 @@ Tipeha
 Munah
 
 Iluy
-Qadma
+Qadma, Paseq
 
 Zinor
 
@@ -317424,20 +317424,20 @@ Revia
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Iluy
-Qadma
+Qadma, Paseq
 Revia
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Zinor
 Revia
 
 Merkha
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -317446,11 +317446,11 @@ Revia
 Merkha
 
 
-Qadma, Iluy
+Iluy, Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -317462,7 +317462,7 @@ Merkha
 Revia
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Revia
 Dehi
@@ -317487,9 +317487,9 @@ Geresh Muqdam
 Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Iluy
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
@@ -317497,16 +317497,16 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
-Mahapakh
+Legarmeh
 
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Revia
@@ -317514,7 +317514,7 @@ Revia
 Munah
 
 
-Mahapakh
+Legarmeh
 
 Revia
 Merkha
@@ -317528,12 +317528,12 @@ Revia
 Merkha
 
 
-Qadma, Iluy
+Iluy, Qadma, Paseq
 Zinor
 
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -317541,11 +317541,11 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Zarqa, Mahapakh
 Revia
@@ -317560,11 +317560,11 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Munah
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Revia
@@ -317580,19 +317580,19 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -317600,12 +317600,12 @@ Revia
 Merkha
 
 
-Qadma, Iluy
+Iluy, Qadma, Paseq
 Zinor
 
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -317613,7 +317613,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -317623,7 +317623,7 @@ Iluy
 
 Iluy
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -317637,14 +317637,14 @@ Revia
 Munah
 
 
-Mahapakh
+Legarmeh
 Pazer
 Munah
 Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -317671,7 +317671,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -317704,7 +317704,7 @@ Munah
 
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 Munah
@@ -317715,7 +317715,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -317742,7 +317742,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -317760,7 +317760,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -317779,7 +317779,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -317790,7 +317790,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -317818,7 +317818,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -317829,7 +317829,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -317838,27 +317838,27 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
+
+Legarmeh
+Tipeha
+Merkha, Paseq
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+
+
+Merkha
+Etnahta
+Tipeha
+Munah
+
 
 Mahapakh
-Tipeha
-Merkha
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-
-
-Merkha
-Etnahta
-Tipeha
-Munah
-
-
-Mahapakh
 Munah
 
 
@@ -317884,11 +317884,11 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Munah
@@ -317896,8 +317896,8 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 Pazer
@@ -317919,11 +317919,11 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Qadma, Iluy
+Iluy, Qadma, Paseq
 Iluy
 Revia
 
@@ -317937,7 +317937,7 @@ Tipeha
 Munah
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 Etnahta
@@ -317952,7 +317952,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -317961,7 +317961,7 @@ Zinor
 Ole
 Merkha
 
-Mahapakh
+Legarmeh
 Pazer
 Munah
 Dehi
@@ -317977,7 +317977,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -318000,7 +318000,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -318011,13 +318011,13 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
 
-Qadma
+Qadma, Paseq
 Dehi
 
 Merkha
@@ -318049,7 +318049,7 @@ Tipeha
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -318074,7 +318074,7 @@ Etnahta
 
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -318108,7 +318108,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -318125,7 +318125,7 @@ Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -318134,7 +318134,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -318176,7 +318176,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -318205,7 +318205,7 @@ Munah
 
 
 
-Iluy
+Iluy, Paseq
 
 
 Iluy
@@ -318252,7 +318252,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -318275,17 +318275,17 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 
 Iluy
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -318305,7 +318305,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -318318,7 +318318,7 @@ Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Merkha
@@ -318343,19 +318343,19 @@ Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Mahapakh
 Revia
 
@@ -318384,36 +318384,36 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 
 Revia
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 Munah
@@ -318425,7 +318425,7 @@ Munah
 
 
 
-Iluy
+Iluy, Paseq
 
 
 Iluy
@@ -318435,7 +318435,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -318445,7 +318445,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -318479,7 +318479,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Revia
 
@@ -318509,7 +318509,7 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Mahapakh
@@ -318523,7 +318523,7 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Dehi
@@ -318552,23 +318552,23 @@ Dehi
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 Munah
 
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Zinor
 Mahapakh
-Merkha, Ole
+Ole, Merkha
 
 Zarqa
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -318625,7 +318625,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -318642,8 +318642,8 @@ Munah
 
 Revia
 
-Merkha, Ole
-Mahapakh
+Ole, Merkha
+Legarmeh
 Pazer
 Revia
 Merkha
@@ -318652,7 +318652,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -318665,7 +318665,7 @@ Mahapakh, Merkha
 Revia
 
 
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -318699,12 +318699,12 @@ Munah
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Dehi
@@ -318736,7 +318736,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -318746,7 +318746,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -318755,7 +318755,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -318780,13 +318780,13 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
@@ -318831,11 +318831,11 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Revia
@@ -318853,17 +318853,17 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -318881,7 +318881,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -318890,7 +318890,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -318911,14 +318911,14 @@ Munah
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Zinor
 
 
 Merkha
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 Merkha
 
@@ -318951,7 +318951,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -318960,7 +318960,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -318978,7 +318978,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -318989,7 +318989,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -319010,7 +319010,7 @@ Merkha
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 Revia
 Merkha
 Etnahta
@@ -319024,24 +319024,24 @@ Geresh Muqdam
 Revia
 Merkha
 
-Mahapakh
+Legarmeh
 
 Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -319049,7 +319049,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
@@ -319071,19 +319071,19 @@ Merkha
 
 
 
-Mahapakh
+Legarmeh
 Munah
 
 Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -319094,7 +319094,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -319103,14 +319103,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
 Munah
 
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 Munah
@@ -319151,17 +319151,17 @@ Revia
 Mahapakh
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Dehi
@@ -319171,7 +319171,7 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -319184,7 +319184,7 @@ Etnahta
 Tipeha
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -319201,10 +319201,10 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -319220,17 +319220,17 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -319242,10 +319242,10 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
-Mahapakh
+Legarmeh
 
 Zinor
 
@@ -319256,7 +319256,7 @@ Revia
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -319265,14 +319265,14 @@ Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -319293,7 +319293,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -319307,20 +319307,20 @@ Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
+Mahapakh
+Qadma, Paseq
+Mahapakh
+Revia
+Dehi
+
+Munah
+Etnahta
 Mahapakh
 Qadma
-Mahapakh
-Revia
-Dehi
-
-Munah
-Etnahta
-Mahapakh
-Qadma
 Tipeha
 
 Munah
@@ -319329,7 +319329,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -319373,7 +319373,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -319395,7 +319395,7 @@ Etnahta
 
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -319406,7 +319406,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -319485,7 +319485,7 @@ Mahapakh
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 Munah
@@ -319498,7 +319498,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -319507,7 +319507,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -319553,8 +319553,8 @@ Geresh Muqdam
 Revia
 Merkha
 
-Mahapakh
-Qadma
+Legarmeh
+Qadma, Paseq
 
 Zinor
 
@@ -319575,12 +319575,12 @@ Dehi
 Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Munah
 Zinor
 
 
-Merkha, Ole
+Ole, Merkha
 Tipeha
 Merkha
 
@@ -319590,11 +319590,11 @@ Munah
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Tipeha
 
@@ -319605,8 +319605,8 @@ Revia
 
 
 Mahapakh
-Qadma
-Iluy
+Qadma, Paseq
+Iluy, Paseq
 
 Iluy
 Revia
@@ -319623,7 +319623,7 @@ Revia
 
 
 
-Mahapakh
+Legarmeh
 
 Iluy
 Munah
@@ -319659,13 +319659,13 @@ Munah
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
@@ -319686,7 +319686,7 @@ Munah
 
 
 
-Mahapakh
+Legarmeh
 
 Dehi
 Munah
@@ -319701,7 +319701,7 @@ Merkha
 Etnahta
 Geresh Muqdam
 Revia
-Mahapakh
+Legarmeh
 Iluy
 
 Zinor
@@ -319715,7 +319715,7 @@ Geresh Muqdam
 Revia
 
 
-Merkha, Qadma
+Qadma, Merkha
 Zarqa, Mahapakh
 Munah
 Dehi
@@ -319723,7 +319723,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -319781,23 +319781,23 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -319811,23 +319811,23 @@ Merkha
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Revia
 Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Revia
 Dehi
@@ -319848,12 +319848,12 @@ Tipeha
 
 Munah
 
-Mahapakh
+Legarmeh
 Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 
 Munah
@@ -319867,7 +319867,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -319882,9 +319882,9 @@ Merkha
 Tipeha
 
 
-Merkha
+Merkha, Paseq
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -319919,19 +319919,19 @@ Munah
 Dehi
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 
 Pazer
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Munah
@@ -319950,7 +319950,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -319968,8 +319968,8 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
-Munah
+Geresh Muqdam, Revia
+Munah, Paseq
 
 Munah
 
@@ -319985,7 +319985,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -319997,7 +319997,7 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -320005,7 +320005,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -320020,7 +320020,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -320032,7 +320032,7 @@ Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -320045,7 +320045,7 @@ Revia
 
 Tipeha
 
-Merkha
+Merkha, Paseq
 Etnahta
 
 Merkha
@@ -320057,7 +320057,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Mahapakh
 Yerah Ben Yomo
@@ -320086,7 +320086,7 @@ Munah
 
 Mahapakh
 
-Merkha
+Merkha, Paseq
 Pazer
 Zarqa, Mahapakh
 Revia
@@ -320113,7 +320113,7 @@ Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 
 Revia
@@ -320128,7 +320128,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -320136,17 +320136,17 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -320160,7 +320160,7 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -320177,7 +320177,7 @@ Merkha
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 
 Revia
 
@@ -320208,11 +320208,11 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Mahapakh
+Legarmeh
 Munah
 Zinor
 
@@ -320220,7 +320220,7 @@ Merkha
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -320236,7 +320236,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -320251,13 +320251,13 @@ Munah
 
 
 
-Qadma
+Qadma, Paseq
 Merkha
 Munah, Zinor
 
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Mahapakh
 Revia
@@ -320273,7 +320273,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah, Merkha
 
 Munah
@@ -320286,7 +320286,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Zarqa, Mahapakh
@@ -320306,11 +320306,11 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Merkha
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
@@ -320318,7 +320318,7 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Iluy
 Revia
@@ -320326,16 +320326,16 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Mahapakh
+Legarmeh
 Iluy
 Revia
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -320354,7 +320354,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -320376,7 +320376,7 @@ Merkha
 
 
 
-Iluy
+Iluy, Paseq
 
 Iluy
 
@@ -320384,12 +320384,12 @@ Iluy
 Munah
 Dehi
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 
@@ -320405,7 +320405,7 @@ Munah
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -320425,7 +320425,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -320433,7 +320433,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -320456,7 +320456,7 @@ Etnahta
 
 Merkha
 Revia
-Munah
+Munah, Paseq
 
 
 
@@ -320471,38 +320471,38 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
-Mahapakh
+Legarmeh
 Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -320517,14 +320517,14 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -320534,14 +320534,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Zarqa
 Mahapakh
 
 
-Qadma
+Qadma, Paseq
 Revia
 
 
@@ -320551,7 +320551,7 @@ Tipeha
 
 Munah
 
-Mahapakh
+Legarmeh
 Merkha
 
 Zinor
@@ -320562,7 +320562,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -320574,21 +320574,21 @@ Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
-Mahapakh
+Ole, Merkha
+Legarmeh
 
 Etnahta
 
 Merkha
 
-Mahapakh
+Legarmeh
 Iluy
 Revia
 
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -320610,12 +320610,12 @@ Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Iluy
-Qadma
+Qadma, Paseq
 Revia
 Munah
 Munah
@@ -320634,7 +320634,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -320660,7 +320660,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -320683,7 +320683,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -320692,7 +320692,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -320709,14 +320709,14 @@ Munah
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -320733,7 +320733,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -320751,7 +320751,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -320761,19 +320761,19 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -320784,29 +320784,29 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Merkha
@@ -320845,7 +320845,7 @@ Revia
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -320853,22 +320853,22 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Mahapakh, Qadma
+Mahapakh, Qadma, Paseq
 
 Munah
 Dehi
@@ -320877,7 +320877,7 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -320885,10 +320885,10 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 Merkha
@@ -320897,7 +320897,7 @@ Revia
 Merkha
 
 
-Mahapakh, Qadma
+Mahapakh, Qadma, Paseq
 Munah
 Dehi
 
@@ -320909,9 +320909,9 @@ Munah
 
 Merkha
 
-Qadma
+Qadma, Paseq
 
-Pazer, Yerah Ben Yomo
+Yerah Ben Yomo, Pazer
 Iluy
 Revia
 Munah
@@ -320919,7 +320919,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -320929,7 +320929,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -320947,14 +320947,14 @@ Revia
 Merkha
 
 Iluy
-Qadma
+Qadma, Paseq
 
 Revia
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -320972,7 +320972,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -320982,13 +320982,13 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Tipeha
 Munah
 
 
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 
@@ -321003,12 +321003,12 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Dehi
@@ -321017,12 +321017,12 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
@@ -321030,13 +321030,13 @@ Dehi
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 
 
 Munah
 
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
 Geresh Muqdam
 Revia
@@ -321058,7 +321058,7 @@ Munah
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -321073,7 +321073,7 @@ Munah
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 
 
@@ -321099,7 +321099,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -321140,12 +321140,12 @@ Munah
 
 Etnahta
 Tipeha
-Munah
+Munah, Paseq
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -321182,46 +321182,46 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 
 
 Tipeha
 Munah
 
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -321238,13 +321238,13 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
@@ -321252,7 +321252,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -321267,11 +321267,11 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Pazer
 
 
@@ -321291,13 +321291,13 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Munah
 Dehi
@@ -321305,7 +321305,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
@@ -321320,18 +321320,18 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -321366,13 +321366,13 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
@@ -321397,13 +321397,13 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Revia
 Munah
@@ -321411,7 +321411,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -321421,7 +321421,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -321429,7 +321429,7 @@ Merkha
 Zarqa, Mahapakh
 
 
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Munah
@@ -321439,14 +321439,14 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Mahapakh
+Legarmeh
 Iluy
 
-Munah, Mahapakh
+Mahapakh, Munah
 Zinor
-Mahapakh
+Legarmeh
 Merkha
 
 Revia
@@ -321455,11 +321455,11 @@ Mahapakh
 Iluy
 
 Mahapakh
-Munah
+Munah, Paseq
 Zinor
 Mahapakh
 
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -321472,10 +321472,10 @@ Revia
 Revia
 Zinor
 Mahapakh
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -321483,11 +321483,11 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
 Ole
@@ -321512,33 +321512,33 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Pazer
 Revia
 Munah
 Dehi
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -321553,7 +321553,7 @@ Qadma
 Yerah Ben Yomo
 Pazer
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Iluy
 Revia
@@ -321562,7 +321562,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -321571,7 +321571,7 @@ Munah
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -321599,7 +321599,7 @@ Munah
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -321611,11 +321611,11 @@ Revia
 Mahapakh, Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Revia
 Mahapakh
-Qadma
+Qadma, Paseq
 Tipeha
 
 Merkha
@@ -321638,7 +321638,7 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Dehi
@@ -321648,7 +321648,7 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -321656,25 +321656,25 @@ Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Revia
@@ -321689,16 +321689,16 @@ Merkha
 
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Zinor
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -321722,7 +321722,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -321756,7 +321756,7 @@ Merkha
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Pazer
 Mahapakh
 Revia
@@ -321764,7 +321764,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -321782,7 +321782,7 @@ Revia
 
 
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 
@@ -321802,7 +321802,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -321813,7 +321813,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -321830,14 +321830,14 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 
@@ -321885,7 +321885,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -321911,7 +321911,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -321920,7 +321920,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -321953,7 +321953,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -321964,20 +321964,20 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Dehi
@@ -321986,7 +321986,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -321995,7 +321995,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Geresh Muqdam
@@ -322008,7 +322008,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -322016,12 +322016,12 @@ Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -322029,23 +322029,23 @@ Munah
 Etnahta
 Geresh Muqdam
 Revia
-Zarqa, Merkha
+Zarqa, Merkha, Paseq
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Munah
 
 Zinor
@@ -322056,7 +322056,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -322073,11 +322073,11 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Merkha
 Pazer
@@ -322106,11 +322106,11 @@ Munah
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 Iluy
 
 Revia
@@ -322145,7 +322145,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -322154,7 +322154,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -322171,19 +322171,19 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Munah
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -322194,7 +322194,7 @@ Revia
 
 
 
-Mahapakh
+Legarmeh
 Iluy
 Revia
 
@@ -322220,18 +322220,18 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -322239,17 +322239,17 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -322257,7 +322257,7 @@ Mahapakh
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 
@@ -322267,26 +322267,26 @@ Geresh Muqdam
 Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Revia
 
 Merkha
 
 
-Mahapakh
+Legarmeh
 Munah
 
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Munah
+Munah, Munah
 Dehi
 Munah
 
@@ -322305,11 +322305,11 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
@@ -322338,7 +322338,7 @@ Geresh Muqdam
 Revia
 
 
-Mahapakh
+Legarmeh
 
 Revia
 Dehi
@@ -322354,7 +322354,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -322372,7 +322372,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -322454,7 +322454,7 @@ Revia
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -322465,13 +322465,13 @@ Revia
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 
 
@@ -322493,14 +322493,14 @@ Revia
 
 Zinor
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
 
 Merkha
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 Munah
@@ -322510,11 +322510,11 @@ Munah
 
 
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
@@ -322522,17 +322522,17 @@ Dehi
 Merkha
 
 Revia
-Zarqa, Merkha
+Zarqa, Merkha, Paseq
 
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Dehi
 
@@ -322573,24 +322573,24 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 
 Munah
 
@@ -322610,13 +322610,13 @@ Merkha
 
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -322634,7 +322634,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -322679,7 +322679,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -322687,7 +322687,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -322697,7 +322697,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -322706,7 +322706,7 @@ Merkha
 Etnahta
 Geresh Muqdam
 
-Mahapakh
+Legarmeh
 Iluy
 
 Dehi
@@ -322721,31 +322721,31 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
 Merkha
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-
-Merkha
-
-
 Etnahta
 Geresh Muqdam
 Revia
+Merkha
+
+
+Merkha
+
+
+Etnahta
+Geresh Muqdam
+Revia
 
 Merkha
 
@@ -322754,7 +322754,7 @@ Merkha
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -322766,17 +322766,17 @@ Merkha
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
 Ole
 Merkha
-Mahapakh
+Legarmeh
 
 Munah
 Munah
@@ -322787,27 +322787,27 @@ Revia
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 Munah
@@ -322836,7 +322836,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -322872,13 +322872,13 @@ Munah
 
 Revia
 Merkha
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -322907,7 +322907,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -322919,7 +322919,7 @@ Munah
 Etnahta
 Tipeha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -322928,7 +322928,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -322939,7 +322939,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -322948,7 +322948,7 @@ Dehi
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -322965,11 +322965,11 @@ Merkha
 
 Revia
 Dehi
-Munah
+Munah, Paseq
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -322979,7 +322979,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -322991,7 +322991,7 @@ Etnahta
 Merkha
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -323010,7 +323010,7 @@ Etnahta
 Merkha
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -323019,7 +323019,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -323032,18 +323032,18 @@ Tipeha
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
@@ -323094,7 +323094,7 @@ Merkha
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -323105,7 +323105,7 @@ Yerah Ben Yomo
 Pazer
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Merkha
 Zinor
 
@@ -323116,7 +323116,7 @@ Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -323124,7 +323124,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -323133,7 +323133,7 @@ Merkha
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -323178,7 +323178,7 @@ Revia
 
 
 
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 Munah
@@ -323194,12 +323194,12 @@ Dehi
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
 
@@ -323242,18 +323242,18 @@ Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -323272,7 +323272,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -323280,8 +323280,8 @@ Merkha
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
-Mahapakh
+Ole, Merkha
+Legarmeh
 Munah
 Dehi
 
@@ -323294,7 +323294,7 @@ Munah
 Munah
 
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 Munah
@@ -323302,7 +323302,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -323310,7 +323310,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 Revia
@@ -323326,7 +323326,7 @@ Merkha
 Dehi
 
 
-Merkha
+Merkha, Paseq
 Etnahta
 
 
@@ -323340,7 +323340,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -323359,7 +323359,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -323386,7 +323386,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -323409,25 +323409,25 @@ Tipeha
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Tipeha
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -323464,12 +323464,12 @@ Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -323478,7 +323478,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -323490,7 +323490,7 @@ Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -323507,14 +323507,14 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
 Zinor
 Mahapakh
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -323524,12 +323524,12 @@ Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -323538,7 +323538,7 @@ Merkha
 Merkha
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
@@ -323549,13 +323549,13 @@ Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -323571,7 +323571,7 @@ Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -323652,7 +323652,7 @@ Tipeha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -323669,26 +323669,26 @@ Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 
 Dehi
@@ -323699,7 +323699,7 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
 
@@ -323711,7 +323711,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -323722,7 +323722,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -323742,7 +323742,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -323774,7 +323774,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -323782,7 +323782,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -323798,13 +323798,13 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Dehi
@@ -323822,7 +323822,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -323870,17 +323870,17 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Merkha
 Zinor
 
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -323897,7 +323897,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -323907,7 +323907,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -323923,7 +323923,7 @@ Munah
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -323989,7 +323989,7 @@ Revia
 
 
 
-Qadma
+Qadma, Paseq
 Iluy
 Revia
 Munah
@@ -323997,13 +323997,13 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 
@@ -324022,7 +324022,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -324049,7 +324049,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -324059,13 +324059,13 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
@@ -324095,7 +324095,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -324113,14 +324113,14 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -324165,7 +324165,7 @@ Munah
 
 Tipeha
 
-Merkha
+Merkha, Paseq
 Etnahta
 Geresh Muqdam
 Revia
@@ -324177,7 +324177,7 @@ Merkha
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -324188,7 +324188,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -324198,33 +324198,33 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 Munah
 
 Dehi
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-
-Dehi
-
-
-Munah
 Etnahta
 Geresh Muqdam
 Revia
+Merkha
+
+
+Dehi
+
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
 
 Merkha
 
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -324246,10 +324246,10 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Pazer
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Dehi
@@ -324271,12 +324271,12 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Iluy
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -324302,7 +324302,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Mahapakh
 Qadma
@@ -324311,7 +324311,7 @@ Qadma
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -324332,14 +324332,14 @@ Merkha
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 Etnahta
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 
@@ -324351,35 +324351,35 @@ Merkha
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
-Mahapakh
+Legarmeh
 Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 
 
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
-Munah, Mahapakh
+Mahapakh, Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -324395,19 +324395,19 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Merkha
 Zinor
 Mahapakh, Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -324419,7 +324419,7 @@ Tipeha
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Munah
 
@@ -324432,7 +324432,7 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Zarqa, Mahapakh
 
@@ -324449,7 +324449,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -324457,7 +324457,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -324482,7 +324482,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -324490,7 +324490,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -324498,7 +324498,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -324515,7 +324515,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 Munah
@@ -324553,7 +324553,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -324572,14 +324572,14 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -324589,22 +324589,22 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
+
+
+Iluy, Paseq
 
 
 Iluy
 
 
-Iluy
-
-
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -324633,11 +324633,11 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 
 Zarqa, Mahapakh
 Revia
@@ -324654,7 +324654,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -324663,7 +324663,7 @@ Merkha
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -324678,7 +324678,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -324689,11 +324689,11 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Dehi
@@ -324702,7 +324702,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -324721,14 +324721,14 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -324738,7 +324738,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -324762,7 +324762,7 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Revia
 Merkha
 
@@ -324778,7 +324778,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -324798,14 +324798,14 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Merkha
 Revia
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -324834,7 +324834,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -324885,7 +324885,7 @@ Mahapakh
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -324900,7 +324900,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -324929,7 +324929,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -324952,7 +324952,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Revia
@@ -325006,7 +325006,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -325029,40 +325029,40 @@ Merkha
 Iluy
 
 
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 
-Qadma
+Qadma, Paseq
 Yerah Ben Yomo
 Pazer
 
-Mahapakh
+Legarmeh
 Merkha
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -325070,10 +325070,10 @@ Dehi
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Dehi
@@ -325081,7 +325081,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -325128,11 +325128,11 @@ Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -325140,7 +325140,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -325149,20 +325149,20 @@ Merkha
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
+
+
+Iluy, Paseq
 
 
 Iluy
 
-
-Iluy
-
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -325175,7 +325175,7 @@ Munah
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -325192,7 +325192,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -325217,9 +325217,9 @@ Revia
 
 Zinor
 
-Yerah Ben Yomo
-Merkha, Ole
-Mahapakh
+Yerah Ben Yomo, Paseq
+Ole, Merkha
+Legarmeh
 Iluy
 Revia
 
@@ -325232,7 +325232,7 @@ Etnahta
 Merkha
 
 
-Mahapakh
+Legarmeh
 Munah
 
 Munah
@@ -325279,7 +325279,7 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -325305,7 +325305,7 @@ Merkha
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -325314,7 +325314,7 @@ Munah
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -325325,7 +325325,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -325339,7 +325339,7 @@ Munah
 
 
 Munah
-Merkha, Dehi
+Dehi, Merkha
 Revia
 Munah
 
@@ -325347,17 +325347,17 @@ Munah
 Tipeha
 
 
-Merkha
+Merkha, Paseq
 Revia
 
 Munah
 
 
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
-Mahapakh
+Legarmeh
 
 Munah
 
@@ -325378,17 +325378,17 @@ Munah
 
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 
@@ -325405,11 +325405,11 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 
 Revia
@@ -325431,7 +325431,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -325440,7 +325440,7 @@ Merkha
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -325454,7 +325454,7 @@ Revia
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -325462,7 +325462,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -325471,7 +325471,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -325490,24 +325490,24 @@ Tipeha
 
 Munah
 
-Mahapakh
+Legarmeh
 Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Munah
 
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
-Qadma
+Qadma, Paseq
 Revia
 Munah
 Dehi
@@ -325546,7 +325546,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -325565,7 +325565,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -325582,7 +325582,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -325590,9 +325590,9 @@ Munah
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Mahapakh
-Qadma
+Qadma, Paseq
 Merkha
 Revia
 Mahapakh
@@ -325617,16 +325617,16 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -325649,8 +325649,8 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 
@@ -325659,7 +325659,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -325675,7 +325675,7 @@ Revia
 Munah
 
 
-Mahapakh
+Legarmeh
 Munah
 Munah
 Etnahta
@@ -325704,7 +325704,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -325723,7 +325723,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -325735,7 +325735,7 @@ Etnahta
 
 Merkha
 
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 Munah
 
@@ -325745,7 +325745,7 @@ Revia
 Dehi
 Munah
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 Munah
 
@@ -325753,7 +325753,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -325775,7 +325775,7 @@ Munah
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -325804,12 +325804,12 @@ Revia
 
 
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
 Geresh Muqdam
 Revia
@@ -325822,7 +325822,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
@@ -325833,7 +325833,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -325862,7 +325862,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -325880,7 +325880,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -325949,7 +325949,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -325985,7 +325985,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -325993,7 +325993,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -326049,7 +326049,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -326057,7 +326057,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -326094,7 +326094,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -326116,13 +326116,13 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -326131,7 +326131,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -326167,7 +326167,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -326185,10 +326185,10 @@ Tipeha
 
 Munah
 
-Mahapakh
+Legarmeh
 Tipeha
 
-Merkha
+Merkha, Paseq
 Etnahta
 Merkha
 Geresh Muqdam
@@ -326207,17 +326207,17 @@ Merkha
 
 Mahapakh
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Tipeha
 Merkha
 Geresh Muqdam
 Revia
-Zarqa, Merkha
+Zarqa, Merkha, Paseq
 
 
 Zinor
@@ -326225,7 +326225,7 @@ Zinor
 Yerah Ben Yomo
 
 
-Merkha, Ole
+Ole, Merkha
 Revia
 Munah
 Dehi
@@ -326236,7 +326236,7 @@ Munah
 
 
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 
@@ -326248,7 +326248,7 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -326309,7 +326309,7 @@ Merkha
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -326331,7 +326331,7 @@ Pazer
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Dehi
@@ -326341,7 +326341,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -326385,7 +326385,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -326395,40 +326395,40 @@ Etnahta
 Geresh Muqdam
 Revia
 
+
+
+Legarmeh
+Mahapakh
+Merkha
+Revia
+Ole, Merkha
+
+Munah
+Dehi
+Merkha
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+Dehi
+
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+Revia
+Dehi
+
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
 
 
 Mahapakh
-Mahapakh
-Merkha
-Revia
-Merkha, Ole
-
-Munah
-Dehi
-Merkha
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-Dehi
-
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-Revia
-Dehi
-
-Munah
-
-Etnahta
-Revia, Geresh Muqdam
-
-
-Mahapakh
 Munah
 Dehi
 
@@ -326438,7 +326438,7 @@ Revia
 Merkha
 
 
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 
@@ -326470,13 +326470,13 @@ Merkha
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Revia
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -326491,7 +326491,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -326536,18 +326536,18 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Qadma
+Qadma, Paseq
 
 Revia
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -326607,7 +326607,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -326622,7 +326622,7 @@ Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Merkha
 Revia
 Dehi
@@ -326642,13 +326642,13 @@ Merkha
 
 Mahapakh
 Yerah Ben Yomo
-Pazer
+Pazer, Paseq
 Revia
 
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -326657,7 +326657,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -326665,7 +326665,7 @@ Munah
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 
 Tipeha
@@ -326705,7 +326705,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -326713,14 +326713,14 @@ Revia, Geresh Muqdam
 Munah
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -326731,7 +326731,7 @@ Etnahta
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Munah
 Munah
@@ -326740,7 +326740,7 @@ Tipeha
 Munah
 
 
-Qadma
+Qadma, Paseq
 Mahapakh
 Revia
 Munah
@@ -326751,14 +326751,14 @@ Tipeha
 
 Munah
 
-Qadma
+Qadma, Paseq
 Iluy
 Revia
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -326773,21 +326773,21 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -326811,7 +326811,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -326831,7 +326831,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -326852,29 +326852,29 @@ Etnahta
 
 Merkha
 
+Legarmeh
+
+Munah
+
+Munah
+Etnahta
+
+
+Merkha
+
+
+Munah
+Tipeha
+Munah
+
+Etnahta
 Mahapakh
-
-Munah
-
-Munah
-Etnahta
-
-
-Merkha
-
-
-Munah
-Tipeha
-Munah
-
-Etnahta
-Mahapakh
 Tipeha
 
 
 Munah
 
-Mahapakh
+Legarmeh
 
 Munah
 Munah
@@ -326909,7 +326909,7 @@ Dehi
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 Munah
 
@@ -326918,14 +326918,14 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -326957,21 +326957,21 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -326989,7 +326989,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -327017,7 +327017,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -327045,19 +327045,19 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Munah
 Dehi
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 
 Revia
@@ -327077,7 +327077,7 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -327119,68 +327119,68 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
+
+
+
+Legarmeh
+
+Munah
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+
+
+Merkha
+
+Etnahta
+Merkha
+Geresh Muqdam
+Revia
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Merkha
+Geresh Muqdam
+Revia
+Merkha
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+
+Geresh Muqdam, Revia
+
+Merkha
+
+
+Munah
+Dehi
+
+
+
+Etnahta
+Merkha
+Geresh Muqdam
+Revia
 
 
 
 Mahapakh
 
-Munah
 
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-
-
-Merkha
-
-Etnahta
-Merkha
-Geresh Muqdam
-Revia
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Merkha
-Geresh Muqdam
-Revia
-Merkha
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-
-Revia, Geresh Muqdam
-
-Merkha
-
-
-Munah
-Dehi
-
-
-
-Etnahta
-Merkha
-Geresh Muqdam
-Revia
-
-
-
-Mahapakh
-
-
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
@@ -327189,7 +327189,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -327211,13 +327211,13 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Iluy
 Revia
 Merkha
@@ -327239,7 +327239,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -327293,7 +327293,7 @@ Tipeha
 
 Munah
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -327308,7 +327308,7 @@ Geresh Muqdam
 
 Iluy
 
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
@@ -327326,7 +327326,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -327339,7 +327339,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Tipeha
 Munah
@@ -327363,7 +327363,7 @@ Munah
 Pazer
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 
@@ -327371,7 +327371,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -327385,17 +327385,17 @@ Revia
 Merkha
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -327424,9 +327424,9 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Mahapakh
+Legarmeh
 
 Iluy
 
@@ -327435,14 +327435,14 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -327467,7 +327467,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -327477,7 +327477,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -327493,7 +327493,7 @@ Merkha
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 Etnahta
@@ -327501,7 +327501,7 @@ Merkha
 Geresh Muqdam
 Revia
 
-Mahapakh
+Legarmeh
 Iluy
 
 Pazer
@@ -327516,7 +327516,7 @@ Merkha
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Revia
 Dehi
@@ -327526,7 +327526,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -327536,7 +327536,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -327544,7 +327544,7 @@ Munah
 Munah
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
@@ -327562,7 +327562,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
@@ -327588,25 +327588,25 @@ Revia
 
 Zinor
 Mahapakh
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -327623,7 +327623,7 @@ Revia
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -327631,7 +327631,7 @@ Etnahta
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -327641,17 +327641,17 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 
-Qadma
+Qadma, Paseq
 
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -327662,48 +327662,48 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 
 
-Qadma
+Qadma, Paseq
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
-Mahapakh
+Legarmeh
 
 
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Qadma
+Qadma, Paseq
 
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -327718,7 +327718,7 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -327730,7 +327730,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -327742,7 +327742,7 @@ Merkha
 
 
 Iluy
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
@@ -327753,7 +327753,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -327774,7 +327774,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -327782,14 +327782,14 @@ Merkha
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -327806,7 +327806,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -327826,7 +327826,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -327888,7 +327888,7 @@ Revia
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -327898,7 +327898,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -327908,7 +327908,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -327916,9 +327916,9 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Mahapakh
+Legarmeh
 
 Iluy
 
@@ -327977,11 +327977,11 @@ Etnahta
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -328010,14 +328010,14 @@ Revia
 Merkha
 
 
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -328027,7 +328027,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -328075,7 +328075,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -328114,7 +328114,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -328123,7 +328123,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -328132,14 +328132,14 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Tipeha
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -328167,7 +328167,7 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Munah
 
@@ -328186,7 +328186,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -328203,7 +328203,7 @@ Merkha
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
@@ -328217,11 +328217,11 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -328229,13 +328229,13 @@ Revia
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
@@ -328250,7 +328250,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -328259,7 +328259,7 @@ Merkha
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -328272,7 +328272,7 @@ Revia
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -328280,7 +328280,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -328290,23 +328290,23 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Munah
+Munah, Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 
@@ -328314,7 +328314,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -328326,7 +328326,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -328342,7 +328342,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -328351,12 +328351,12 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -328368,12 +328368,12 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
-Mahapakh
+Legarmeh
 Iluy
 
 Revia
@@ -328391,14 +328391,14 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -328407,7 +328407,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -328416,7 +328416,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -328425,7 +328425,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -328447,7 +328447,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Munah
@@ -328460,7 +328460,7 @@ Tipeha, Munah
 
 
 Iluy
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
@@ -328470,26 +328470,26 @@ Merkha
 Geresh Muqdam
 Revia
 
-Mahapakh
+Legarmeh
 
 Merkha
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -328507,12 +328507,12 @@ Munah
 Dehi
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
 Zinor
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Etnahta
@@ -328562,17 +328562,17 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Pazer
 
-Mahapakh
+Legarmeh
 Mahapakh
 Revia
 Munah
@@ -328596,7 +328596,7 @@ Revia
 Tipeha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -328604,8 +328604,8 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 Munah
@@ -328619,7 +328619,7 @@ Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -328642,7 +328642,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -328671,7 +328671,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -328734,7 +328734,7 @@ Munah
 
 Munah
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -328749,7 +328749,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -328800,7 +328800,7 @@ Revia
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -328819,7 +328819,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -328841,7 +328841,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -328886,7 +328886,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -328924,14 +328924,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -328963,7 +328963,7 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 
@@ -328972,7 +328972,7 @@ Revia
 
 
 
-Qadma
+Qadma, Paseq
 Munah
 
 Munah
@@ -328986,7 +328986,7 @@ Revia
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -329002,11 +329002,11 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Mahapakh
+Legarmeh
 
 Zarqa, Mahapakh
 Revia
@@ -329026,7 +329026,7 @@ Merkha
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Iluy
 Revia
@@ -329080,20 +329080,20 @@ Merkha
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -329104,7 +329104,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -329142,7 +329142,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -329159,7 +329159,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -329173,14 +329173,14 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Pazer
 Zarqa, Mahapakh
 Revia
@@ -329192,7 +329192,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -329201,7 +329201,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -329209,7 +329209,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -329219,7 +329219,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -329239,7 +329239,7 @@ Revia
 Dehi
 Munah
 
-Etnahta, Munah
+Munah, Etnahta
 Geresh Muqdam
 Revia
 Merkha
@@ -329250,7 +329250,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -329372,7 +329372,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -329383,7 +329383,7 @@ Munah
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -329421,14 +329421,14 @@ Geresh Muqdam
 Tevir
 
 
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
 Zinor
 
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -329444,7 +329444,7 @@ Yerah Ben Yomo
 Pazer
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Iluy
 
@@ -329470,14 +329470,14 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -329496,13 +329496,13 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -329566,7 +329566,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -329666,7 +329666,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -329691,7 +329691,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -329703,7 +329703,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -329758,7 +329758,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -329776,7 +329776,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -329843,7 +329843,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -329877,7 +329877,7 @@ Merkha
 Tipeha
 
 
-Merkha
+Merkha, Paseq
 Etnahta
 Geresh Muqdam
 Revia
@@ -329909,29 +329909,29 @@ Etnahta
 Tipeha
 Munah
 
+
+Legarmeh
+Merkha
+
+Revia
+Merkha
+Merkha
+Etnahta
+
+Tipeha
+Munah
 
 Mahapakh
-Merkha
-
-Revia
-Merkha
-Merkha
-Etnahta
-
-Tipeha
-Munah
-
-Mahapakh
-Qadma
+Qadma, Paseq
 Mahapakh
 Revia
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Mahapakh
+Legarmeh
 Iluy
 Revia
 
@@ -329939,7 +329939,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -329956,7 +329956,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -329983,7 +329983,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -329995,7 +329995,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -330041,7 +330041,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -330078,7 +330078,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -330087,17 +330087,17 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -330110,7 +330110,7 @@ Tipeha
 Munah
 
 Revia
-Mahapakh
+Legarmeh
 Merkha
 Zinor
 Yerah Ben Yomo
@@ -330143,7 +330143,7 @@ Merkha
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 
@@ -330176,11 +330176,11 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 
@@ -330189,7 +330189,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -330206,7 +330206,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -330220,17 +330220,17 @@ Merkha
 
 
 
-Mahapakh
+Legarmeh
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
 Munah
 Etnahta
-Munah, Dehi
+Dehi, Munah
 
 
 Dehi
@@ -330245,8 +330245,8 @@ Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
-Mahapakh
+Ole, Merkha
+Legarmeh
 
 Revia
 
@@ -330283,9 +330283,9 @@ Merkha
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Merkha
@@ -330293,7 +330293,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -330303,7 +330303,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -330311,18 +330311,18 @@ Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 
 Tipeha
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Merkha
 Revia
@@ -330331,7 +330331,7 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -330348,7 +330348,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -330359,11 +330359,11 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 
@@ -330377,7 +330377,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -330413,7 +330413,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -330421,7 +330421,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -330429,12 +330429,12 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 
 Revia
@@ -330447,7 +330447,7 @@ Tipeha
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Iluy
 Revia
 Munah
@@ -330455,12 +330455,12 @@ Tipeha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Merkha
-Qadma
+Qadma, Paseq
 
 Dehi
 Munah
@@ -330518,7 +330518,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -330527,7 +330527,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -330539,41 +330539,41 @@ Tipeha
 
 Munah
 
+
+Legarmeh
+Zarqa, Mahapakh
+
+
+Revia
+Dehi
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+
+Zarqa, Mahapakh
+Qadma, Paseq
+
+Revia
+Munah
+Munah
+
+Etnahta
+Tipeha
+Munah
+
+Merkha
+Qadma, Paseq
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+
+Merkha
 
 Mahapakh
-Zarqa, Mahapakh
-
-
-Revia
-Dehi
-Munah
-
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-
-Zarqa, Mahapakh
-Qadma
-
-Revia
-Munah
-Munah
-
-Etnahta
-Tipeha
-Munah
-
-Merkha
-Qadma
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-
-Merkha
-
-Mahapakh
 Munah
 Munah
 Etnahta
@@ -330587,13 +330587,13 @@ Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Tipeha
 
 
-Merkha
+Merkha, Paseq
 Etnahta
 Tipeha
 
@@ -330630,10 +330630,10 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Qadma
+Qadma, Paseq
 Iluy
 
 Revia
@@ -330649,7 +330649,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -330657,7 +330657,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -330674,7 +330674,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -330694,7 +330694,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -330715,7 +330715,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -330730,7 +330730,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -330738,7 +330738,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -330753,7 +330753,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -330762,7 +330762,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -330772,11 +330772,11 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -330785,7 +330785,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -330823,12 +330823,12 @@ Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -330843,7 +330843,7 @@ Revia
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -330851,7 +330851,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -330878,7 +330878,7 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 
@@ -330890,10 +330890,10 @@ Revia
 
 Dehi
 
-Merkha
+Merkha, Paseq
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -330903,7 +330903,7 @@ Etnahta
 
 Merkha
 
-Mahapakh
+Legarmeh
 
 Revia
 
@@ -330920,7 +330920,7 @@ Munah
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -330933,7 +330933,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -330942,7 +330942,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
@@ -330969,7 +330969,7 @@ Revia
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -331000,7 +331000,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -331016,12 +331016,12 @@ Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -331038,12 +331038,12 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
-Mahapakh
+Legarmeh
 Mahapakh
 Revia
 
@@ -331056,13 +331056,13 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Merkha
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 
 
@@ -331154,7 +331154,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Merkha
@@ -331162,7 +331162,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -331174,7 +331174,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -331190,10 +331190,10 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Iluy
 
 Revia
@@ -331241,7 +331241,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -331249,14 +331249,14 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -331283,7 +331283,7 @@ Dehi
 Zarqa, Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Zarqa, Merkha
 
 Munah
@@ -331292,11 +331292,11 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zinor
 
 Yerah Ben Yomo
@@ -331306,14 +331306,14 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -331396,14 +331396,14 @@ Revia
 Merkha
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -331415,7 +331415,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -331449,7 +331449,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -331459,7 +331459,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Munah
@@ -331491,7 +331491,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -331505,7 +331505,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -331525,7 +331525,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -331543,7 +331543,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -331595,7 +331595,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -331616,7 +331616,7 @@ Merkha
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -331686,7 +331686,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -331707,7 +331707,7 @@ Munah
 Zarqa, Mahapakh
 Tipeha
 
-Merkha
+Merkha, Paseq
 Revia
 
 
@@ -331715,7 +331715,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -331750,14 +331750,14 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -331770,7 +331770,7 @@ Revia
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -331779,7 +331779,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -331803,7 +331803,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -331833,10 +331833,10 @@ Iluy
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Iluy
 
 Munah
@@ -331844,14 +331844,14 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -331867,7 +331867,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -331901,14 +331901,14 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -331923,7 +331923,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -331947,7 +331947,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -331963,7 +331963,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -331994,7 +331994,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -332005,7 +332005,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -332020,7 +332020,7 @@ Munah
 Munah
 Dehi
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -332030,7 +332030,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -332043,7 +332043,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -332075,7 +332075,7 @@ Munah
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -332090,7 +332090,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -332098,7 +332098,7 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -332113,8 +332113,8 @@ Merkha
 Merkha
 Etnahta
 
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 
 Iluy
 
@@ -332136,7 +332136,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -332207,7 +332207,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -332224,14 +332224,14 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Revia
 Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -332247,7 +332247,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -332284,7 +332284,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -332295,309 +332295,309 @@ Merkha
 
 
 
+
+Legarmeh
+
+Munah
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Merkha
+Etnahta
+
+Geresh Muqdam, Revia
+Merkha
+
+Tipeha
+Merkha
+Revia
+Merkha
+
+
+Dehi
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Merkha
+
+Etnahta
+Geresh Muqdam
+Revia
+
+Merkha
+
+Dehi
+Munah
+
+Etnahta
+
+
+
+Merkha
+
+
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Dehi
+Munah
+
+Etnahta
+Geresh Muqdam
+Revia
+
+
+
+Dehi
+Munah
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+Munah
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Dehi
+Munah
+Etnahta
+
+Merkha
+
+Merkha
+Etnahta
+
+Tipeha
+Munah
+
+Tipeha
+Merkha
+Revia
+
+Merkha
+
+Munah
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
+Munah
+
+Munah
+Munah
+
+Etnahta
+
+Merkha
+
+
+
+Merkha
+Etnahta
+Geresh Muqdam, Revia
+
+Tipeha
+Merkha
+
+Revia
+Merkha
+
+
+Munah
+
+
+Dehi
+Merkha
+Revia
+Merkha
+
+Merkha
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+Dehi
+
+
+
+Etnahta
+
+
+
+Munah
+Dehi
+Etnahta
+Geresh Muqdam
+Revia
+
+
+Dehi
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+Dehi
+Munah
+Etnahta
+
+Merkha
+
+Munah
+Munah
+Etnahta
+
+
+Merkha
+
+Munah
+Dehi
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Merkha
+
+Etnahta
+
+Geresh Muqdam, Revia
+Munah
+
+Munah
+Dehi
+
+Etnahta
+
+Merkha
+
+Munah
+
+Munah
+Etnahta
+
+Geresh Muqdam
+Munah
+
+Tipeha
+Merkha, Paseq
+Etnahta
+
+Merkha
+
+Dehi
+Munah
+
+Etnahta
+Geresh Muqdam
+Revia
+Munah
+
+Munah
+Dehi
+
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+Munah
+
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+
+Merkha
+Etnahta
+Geresh Muqdam
+
+Revia
+
+Merkha
+
+Dehi
+Munah
+Etnahta
+
+
+
+Merkha
+
+Munah
+Dehi
+
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Munah
+Dehi
+
+Etnahta
+Merkha
+
+Munah
+Dehi
+
+
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+Munah
+Dehi
+
+Munah
+Etnahta
+
+
+Merkha
+
+Munah
+
+Munah
+Etnahta
+
+Merkha
+
+Munah
+Dehi
+Etnahta
+
+Merkha
+
+Munah
+Dehi
+
+Etnahta
+Tipeha
+
+Munah
 
 Mahapakh
-
-Munah
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Merkha
-Etnahta
-
-Revia, Geresh Muqdam
-Merkha
-
-Tipeha
-Merkha
-Revia
-Merkha
-
-
-Dehi
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Merkha
-
-Etnahta
-Geresh Muqdam
-Revia
-
-Merkha
-
-Dehi
-Munah
-
-Etnahta
-
-
-
-Merkha
-
-
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Dehi
-Munah
-
-Etnahta
-Geresh Muqdam
-Revia
-
-
-
-Dehi
-Munah
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-Munah
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Dehi
-Munah
-Etnahta
-
-Merkha
-
-Merkha
-Etnahta
-
-Tipeha
-Munah
-
-Tipeha
-Merkha
-Revia
-
-Merkha
-
-Munah
-Munah
-
-Etnahta
-Revia, Geresh Muqdam
-Munah
-
-Munah
-Munah
-
-Etnahta
-
-Merkha
-
-
-
-Merkha
-Etnahta
-Revia, Geresh Muqdam
-
-Tipeha
-Merkha
-
-Revia
-Merkha
-
-
-Munah
-
-
-Dehi
-Merkha
-Revia
-Merkha
-
-Merkha
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-Dehi
-
-
-
-Etnahta
-
-
-
-Munah
-Dehi
-Etnahta
-Geresh Muqdam
-Revia
-
-
-Dehi
-Munah
-
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-Dehi
-Munah
-Etnahta
-
-Merkha
-
-Munah
-Munah
-Etnahta
-
-
-Merkha
-
-Munah
-Dehi
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Merkha
-
-Etnahta
-
-Revia, Geresh Muqdam
-Munah
-
-Munah
-Dehi
-
-Etnahta
-
-Merkha
-
-Munah
-
-Munah
-Etnahta
-
-Geresh Muqdam
-Munah
-
-Tipeha
-Merkha
-Etnahta
-
-Merkha
-
-Dehi
-Munah
-
-Etnahta
-Geresh Muqdam
-Revia
-Munah
-
-Munah
-Dehi
-
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-Munah
-
-Dehi
-
-Munah
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-
-Merkha
-Etnahta
-Geresh Muqdam
-
-Revia
-
-Merkha
-
-Dehi
-Munah
-Etnahta
-
-
-
-Merkha
-
-Munah
-Dehi
-
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-Munah
-Dehi
-
-Etnahta
-Merkha
-
-Munah
-Dehi
-
-
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-Munah
-Dehi
-
-Munah
-Etnahta
-
-
-Merkha
-
-Munah
-
-Munah
-Etnahta
-
-Merkha
-
-Munah
-Dehi
-Etnahta
-
-Merkha
-
-Munah
-Dehi
-
-Etnahta
-Tipeha
-
-Munah
-
-Mahapakh
 Munah
 
 Munah
@@ -332653,19 +332653,19 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -332689,7 +332689,7 @@ Merkha
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -332697,7 +332697,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -332705,7 +332705,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -332713,14 +332713,14 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Revia
 
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -332734,7 +332734,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -332745,7 +332745,7 @@ Munah
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -332753,12 +332753,12 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -332777,7 +332777,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -332794,7 +332794,7 @@ Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -332832,25 +332832,25 @@ Revia
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -332870,7 +332870,7 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 
@@ -332892,26 +332892,26 @@ Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -332925,7 +332925,7 @@ Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -332954,7 +332954,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -332971,7 +332971,7 @@ Etnahta
 
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -332980,7 +332980,7 @@ Merkha
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Revia
@@ -332991,13 +332991,13 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
@@ -333006,7 +333006,7 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -333033,7 +333033,7 @@ Revia
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Pazer
 
 Tipeha
@@ -333062,19 +333062,19 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -333083,14 +333083,14 @@ Pazer
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -333119,7 +333119,7 @@ Revia
 Merkha
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 
 Zinor
 Yerah Ben Yomo
@@ -333130,19 +333130,19 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
-Mahapakh
+Legarmeh
 Munah
 Munah
 Etnahta
@@ -333150,12 +333150,12 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Yerah Ben Yomo
 Pazer
 
@@ -333173,7 +333173,7 @@ Mahapakh
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -333182,7 +333182,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -333193,7 +333193,7 @@ Mahapakh
 Merkha
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Etnahta
 
@@ -333205,7 +333205,7 @@ Munah
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -333218,22 +333218,22 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
-Mahapakh
+Legarmeh
 
 Merkha
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -333246,13 +333246,13 @@ Munah
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -333260,12 +333260,12 @@ Munah
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 
@@ -333285,19 +333285,19 @@ Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -333318,14 +333318,14 @@ Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -333339,7 +333339,7 @@ Munah
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Etnahta
@@ -333350,14 +333350,14 @@ Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -333404,8 +333404,8 @@ Merkha
 
 Revia
 
-Merkha, Ole
-Mahapakh
+Ole, Merkha
+Legarmeh
 
 Munah
 Dehi
@@ -333414,850 +333414,850 @@ Dehi
 Munah
 Etnahta
 
+
+Shalshelet, Paseq
+
+Tipeha
+
+
+Munah
+
+
+Mahapakh
+Qadma, Paseq
+
+Revia
+Ole, Merkha
+Dehi
+
+Munah
+Etnahta
+
+
+Tipeha
+Munah
+
+Munah
+Geresh Muqdam
+
+Etnahta
+Geresh Muqdam
+Revia
+
+
+
+Revia
+
+Ole, Merkha
+
+Merkha
+
+Etnahta
+Geresh Muqdam
+
+
+Munah
+Dehi
+
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+
+Dehi
+
+Munah
+Etnahta
+
+Geresh Muqdam, Revia
+
+Merkha
+
+
+Munah
+Munah
+
+Etnahta
+
+Merkha
+
+
+Munah
+Dehi
+
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+
+Merkha
+
+Etnahta
+Geresh Muqdam, Revia
+
+
+
+Merkha
+
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+Munah
+Dehi
+
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+Merkha
+
+Etnahta
+
+Merkha
+
+Dehi
+
+Munah
+Etnahta
+
+Geresh Muqdam, Revia
+Munah
+
+
+Qadma, Paseq
+
+Pazer
+Zinor
+
+Yerah Ben Yomo
+Ole, Merkha
+
+Merkha
+Etnahta
+Geresh Muqdam, Revia
+
+
+
+
+Iluy
+Qadma, Paseq
+Zinor
+
+Merkha
+Revia
+Ole, Merkha
+
+Merkha
+
+Etnahta
+Geresh Muqdam, Revia
+
+
+
+
+Munah
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+
+Merkha
+
+Etnahta
+
+Geresh Muqdam, Revia
+Munah
+
+Dehi
+Munah
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Mahapakh
+Munah
+Munah
+
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+
+
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Merkha
+
+Revia
+
+Ole, Merkha
+Munah
+
+Dehi
+
+
+Etnahta
+Tipeha
+Munah
+
+
+
+
+Mahapakh
+
+Qadma, Paseq
+
+
+Revia
+Revia
+
+
+Merkha
+
+Etnahta
+Geresh Muqdam
+Revia
+
+Merkha
+
+
+
+Revia
+
+Zinor
+
+Yerah Ben Yomo
+Ole, Merkha
+Mahapakh
+Qadma, Paseq
+Munah
+Dehi
+
+
+Etnahta
+Geresh Muqdam, Revia
+
+
+
+Revia
+
+Ole, Merkha
+Legarmeh
+Munah
+
+Dehi
+
+Munah
+Etnahta
+
+Merkha
+
+
+Geresh Muqdam, Revia
+
+
+
+
+Merkha
+Etnahta
+Geresh Muqdam
+
+
+
+Munah
+Dehi
+
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+
+Merkha
+Qadma, Paseq
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Merkha
+
+Dehi, Munah
+
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Munah
+
+Dehi
+
+
+Munah
+Etnahta
+Merkha
+Geresh Muqdam
+Revia
+Munah
+
+
+Revia
+Munah
+Munah
+Etnahta
+Geresh Muqdam, Revia
+
+
+Mahapakh
+Munah
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+
+
+Mahapakh
+
+Merkha
+Revia
+Ole, Merkha
+
+
+Merkha
+
+
+
+Etnahta
+Geresh Muqdam
+
+Revia
+
+
+
+Munah
+Zinor
+
+Yerah Ben Yomo
+Ole
+Merkha
+Munah
+
+
+Munah
+Etnahta
+
+Geresh Muqdam
+
+
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+
+Legarmeh
+Munah
+Dehi
+
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+
+
+
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+
+Legarmeh
+Mahapakh
+
+Revia
+Dehi
+
+
+Munah
+
+Etnahta
+Geresh Muqdam
+
+Revia
+Merkha
+
+
+Munah
+Munah
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+Dehi
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+
+
+
+
+Munah
+Munah
+Etnahta
+
+
+Geresh Muqdam, Revia
+
+Munah
+Dehi
+
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
+Munah
+
+
+Dehi
+
+Munah
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+
+Munah
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam, Revia
+
+
+Merkha
+
+
+Dehi
+Munah
+Etnahta
+Dehi
+
+Munah
+
+Munah
+Dehi
+Munah
+
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+Merkha
+
+
+Munah
+Dehi
+
+Munah
+
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+Merkha
+
+
+Zarqa, Mahapakh
+Qadma, Paseq
+
+Revia
+Zarqa, Mahapakh
+Revia
+
+
+Munah
+
+Munah
+
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+Munah
+
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+Munah
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Zarqa, Mahapakh
+Munah
+Munah
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Munah
+Dehi
+
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Munah
+Dehi
+
+
+
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+Munah
+Etnahta
+Tipeha
+
+Munah
+
+
+Dehi
+
+
+Munah
+
+
+Etnahta
+Tipeha
+
+Munah
+
+
+
+Munah
+Dehi
+
+
+Munah
+
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Munah
+Dehi
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Munah
+Dehi
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Munah
+Dehi
+
+
+Munah
+Etnahta
+Tipeha
+
+Munah
+
+
+Munah
+
+Dehi
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Munah
+Munah
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Zarqa, Mahapakh
+Munah
+
+Munah
+
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Munah
+Dehi
+
+
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+Munah
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+Munah
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+Munah
+
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+
+Munah
+
+Etnahta
+Tipeha
+
+Munah
+
+
+Munah
+Munah
+
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+Munah
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+
+Munah
+Etnahta
+Tipeha
+
+Munah
+
+
+Merkha
+
+Etnahta
+Tipeha
+
+Munah
+
+Munah
+Dehi
+
+
+Etnahta
+Tipeha
+
+Munah
+
+Dehi
+
+Munah
+
+Etnahta
+Tipeha
+
+Munah
+
+Merkha
+Qadma, Paseq
+Revia
+Munah
+Dehi
+
+Etnahta
+Geresh Muqdam
+Revia
+
+
+
+Merkha
+
+Etnahta
+Geresh Muqdam, Revia
+
+Mahapakh
+Qadma
+Yerah Ben Yomo
+Pazer
+
+Dehi
+
+Munah
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+
+Merkha
+
+Revia
+Merkha
+
+
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+
+Merkha
+Revia
+Merkha
+
+Merkha
+Qadma, Paseq
+
+Zinor
+
+Yerah Ben Yomo
+Ole, Merkha
+
+Munah
+Dehi
+
+Etnahta
+Geresh Muqdam, Revia
+Munah
+
+Mahapakh
+Qadma, Paseq
+
+Iluy
+Revia
+Zinor
+Mahapakh
+Ole, Merkha
+Dehi
+Munah
+Legarmeh
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+
+Revia
+
+Ole, Merkha
+Merkha
+
+
+Etnahta
+
+Geresh Muqdam, Revia
+
+Merkha
+
+Legarmeh
 
 Shalshelet
 
-Tipeha
-
-
-Munah
-
-
-Mahapakh
-Qadma
-
-Revia
-Merkha, Ole
-Dehi
-
-Munah
-Etnahta
-
-
-Tipeha
-Munah
-
-Munah
-Geresh Muqdam
-
-Etnahta
-Geresh Muqdam
-Revia
-
-
-
-Revia
-
-Merkha, Ole
-
-Merkha
-
-Etnahta
-Geresh Muqdam
-
-
-Munah
-Dehi
-
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-
-Dehi
-
-Munah
-Etnahta
-
-Revia, Geresh Muqdam
-
-Merkha
-
-
-Munah
-Munah
-
-Etnahta
-
-Merkha
-
-
-Munah
-Dehi
-
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-
-Merkha
-
-Etnahta
-Revia, Geresh Muqdam
-
-
-
-Merkha
-
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-Munah
-Dehi
-
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-Merkha
-
-Etnahta
-
-Merkha
-
-Dehi
-
-Munah
-Etnahta
-
-Revia, Geresh Muqdam
-Munah
-
-
-Qadma
-
-Pazer
-Zinor
-
-Yerah Ben Yomo
-Merkha, Ole
-
-Merkha
-Etnahta
-Revia, Geresh Muqdam
-
-
-
-
-Iluy
-Qadma
-Zinor
-
-Merkha
-Revia
-Merkha, Ole
-
-Merkha
-
-Etnahta
-Revia, Geresh Muqdam
-
-
-
-
-Munah
-Munah
-
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-
-Merkha
-
-Etnahta
-
-Revia, Geresh Muqdam
-Munah
-
-Dehi
-Munah
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-Mahapakh
-Munah
-Munah
-
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-
-
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-Merkha
-
-Revia
-
-Merkha, Ole
-Munah
-
-Dehi
-
-
-Etnahta
-Tipeha
-Munah
-
-
-
-
-Mahapakh
-
-Qadma
-
-
-Revia
-Revia
-
-
-Merkha
-
-Etnahta
-Geresh Muqdam
-Revia
-
-Merkha
-
-
-
-Revia
-
-Zinor
-
-Yerah Ben Yomo
-Merkha, Ole
-Mahapakh
-Qadma
-Munah
-Dehi
-
-
-Etnahta
-Revia, Geresh Muqdam
-
-
-
-Revia
-
-Merkha, Ole
-Mahapakh
-Munah
-
-Dehi
-
-Munah
-Etnahta
-
-Merkha
-
-
-Revia, Geresh Muqdam
-
-
-
-
-Merkha
-Etnahta
-Geresh Muqdam
-
-
-
-Munah
-Dehi
-
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-
-Merkha
-Qadma
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Merkha
-
-Munah, Dehi
-
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Munah
-
-Dehi
-
-
-Munah
-Etnahta
-Merkha
-Geresh Muqdam
-Revia
-Munah
-
-
-Revia
-Munah
-Munah
-Etnahta
-Revia, Geresh Muqdam
-
-
-Mahapakh
-Munah
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-
-
-Mahapakh
-
-Merkha
-Revia
-Merkha, Ole
-
-
-Merkha
-
-
-
-Etnahta
-Geresh Muqdam
-
-Revia
-
-
-
-Munah
-Zinor
-
-Yerah Ben Yomo
-Ole
-Merkha
-Munah
-
-
-Munah
-Etnahta
-
-Geresh Muqdam
-
-
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-
-Mahapakh
-Munah
-Dehi
-
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-
-
-
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-
-Mahapakh
-Mahapakh
-
-Revia
-Dehi
-
-
-Munah
-
-Etnahta
-Geresh Muqdam
-
-Revia
-Merkha
-
-
-Munah
-Munah
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-Dehi
-Munah
-
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-
-
-
-
-Munah
-Munah
-Etnahta
-
-
-Revia, Geresh Muqdam
-
-Munah
-Dehi
-
-Munah
-
-Etnahta
-Revia, Geresh Muqdam
-Munah
-
-
-Dehi
-
-Munah
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-
-Munah
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Revia, Geresh Muqdam
-
-
-Merkha
-
-
-Dehi
-Munah
-Etnahta
-Dehi
-
-Munah
-
-Munah
-Dehi
-Munah
-
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-Merkha
-
-
-Munah
-Dehi
-
-Munah
-
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-Merkha
-
-
-Zarqa, Mahapakh
-Qadma
-
-Revia
-Zarqa, Mahapakh
-Revia
-
-
-Munah
-
-Munah
-
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-Munah
-
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-Munah
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Zarqa, Mahapakh
-Munah
-Munah
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Munah
-Dehi
-
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Munah
-Dehi
-
-
-
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-Munah
-Etnahta
-Tipeha
-
-Munah
-
-
-Dehi
-
-
-Munah
-
-
-Etnahta
-Tipeha
-
-Munah
-
-
-
-Munah
-Dehi
-
-
-Munah
-
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Munah
-Dehi
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Munah
-Dehi
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Munah
-Dehi
-
-
-Munah
-Etnahta
-Tipeha
-
-Munah
-
-
-Munah
-
-Dehi
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Munah
-Munah
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Zarqa, Mahapakh
-Munah
-
-Munah
-
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Munah
-Dehi
-
-
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-Munah
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-Munah
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-Munah
-
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-
-Munah
-
-Etnahta
-Tipeha
-
-Munah
-
-
-Munah
-Munah
-
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-Munah
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-
-Munah
-Etnahta
-Tipeha
-
-Munah
-
-
-Merkha
-
-Etnahta
-Tipeha
-
-Munah
-
-Munah
-Dehi
-
-
-Etnahta
-Tipeha
-
-Munah
-
-Dehi
-
-Munah
-
-Etnahta
-Tipeha
-
-Munah
-
-Merkha
-Qadma
-Revia
-Munah
-Dehi
-
-Etnahta
-Geresh Muqdam
-Revia
-
-
-
-Merkha
-
-Etnahta
-Revia, Geresh Muqdam
-
-Mahapakh
-Qadma
-Yerah Ben Yomo
-Pazer
-
-Dehi
-
-Munah
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-
-Merkha
-
-Revia
-Merkha
-
-
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-
-Merkha
-Revia
-Merkha
-
-Merkha
-Qadma
-
-Zinor
-
-Yerah Ben Yomo
-Merkha, Ole
-
-Munah
-Dehi
-
-Etnahta
-Revia, Geresh Muqdam
-Munah
-
-Mahapakh
-Qadma
-
-Iluy
-Revia
-Zinor
-Mahapakh
-Merkha, Ole
-Dehi
-Munah
-Mahapakh
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-
-Revia
-
-Merkha, Ole
-Merkha
-
-
-Etnahta
-
-Revia, Geresh Muqdam
-
-Merkha
-
-Mahapakh
-
-Shalshelet
-
 Iluy
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
-Qadma
+Qadma, Paseq
 Merkha
 
 
@@ -334282,7 +334282,7 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -334299,7 +334299,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -334308,7 +334308,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -334323,11 +334323,11 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Munah
 Tipeha
@@ -334338,7 +334338,7 @@ Tipeha, Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 
@@ -334354,7 +334354,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -334381,7 +334381,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -334395,11 +334395,11 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Merkha, Dehi
+Dehi, Merkha
 Munah
 
 Etnahta
@@ -334420,7 +334420,7 @@ Munah
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -334444,7 +334444,7 @@ Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -334461,7 +334461,7 @@ Revia
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -334469,7 +334469,7 @@ Revia
 Mahapakh
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 Geresh Muqdam
@@ -334479,24 +334479,24 @@ Merkha
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
@@ -334516,17 +334516,17 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -334541,7 +334541,7 @@ Munah
 
 
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
 Geresh Muqdam
 
@@ -334559,7 +334559,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -334595,20 +334595,20 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
 Zinor
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa
 Mahapakh
 Revia
@@ -334617,12 +334617,12 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
-Qadma
+Qadma, Paseq
 Pazer
 Revia
 
@@ -334642,7 +334642,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -334662,7 +334662,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
@@ -334672,7 +334672,7 @@ Munah
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -334691,7 +334691,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -334700,7 +334700,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -334708,18 +334708,18 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -334729,7 +334729,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -334737,7 +334737,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -334745,11 +334745,11 @@ Merkha
 
 Qadma
 
-Yerah Ben Yomo
+Yerah Ben Yomo, Paseq
 Pazer
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -334758,11 +334758,11 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Qadma
+Qadma, Paseq
 Pazer
 
 Revia
@@ -334784,7 +334784,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -334795,17 +334795,17 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -334824,7 +334824,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -334840,7 +334840,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -334848,18 +334848,18 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 Iluy
-Qadma
+Qadma, Paseq
 Revia
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -334868,13 +334868,13 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Zinor
 
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Munah
 Munah
 Etnahta
@@ -334884,16 +334884,16 @@ Munah
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 
-Mahapakh
+Legarmeh
 
 Zinor
 
@@ -334907,12 +334907,12 @@ Munah
 
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 Etnahta
@@ -334921,8 +334921,8 @@ Munah
 
 Revia
 
-Merkha, Ole
-Mahapakh
+Ole, Merkha
+Legarmeh
 Iluy
 Revia
 Merkha
@@ -334930,7 +334930,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -334949,7 +334949,7 @@ Munah
 
 Merkha
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Munah
 Dehi
@@ -334971,7 +334971,7 @@ Revia
 Merkha
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Merkha
@@ -334985,17 +334985,17 @@ Munah
 Munah
 Munah
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 
 
 Tipeha
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -335008,11 +335008,11 @@ Merkha
 Zarqa, Mahapakh
 
 
-Qadma
+Qadma, Paseq
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Revia
 
 Merkha
@@ -335023,20 +335023,20 @@ Merkha
 
 Tipeha
 
-Merkha
+Merkha, Paseq
 Revia
 Merkha
 
-Mahapakh
+Legarmeh
 
 Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -335045,7 +335045,7 @@ Munah
 Munah
 Etnahta
 
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 
 Munah
@@ -335054,19 +335054,19 @@ Munah
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 
 Munah
@@ -335074,7 +335074,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -335099,7 +335099,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -335107,7 +335107,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -335127,13 +335127,13 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -335159,7 +335159,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -335167,7 +335167,7 @@ Merkha
 Revia
 
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -335182,7 +335182,7 @@ Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -335192,16 +335192,16 @@ Revia
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -335217,7 +335217,7 @@ Revia
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 
@@ -335225,7 +335225,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -335242,14 +335242,14 @@ Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Munah
 
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -335260,7 +335260,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -335309,7 +335309,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -335337,7 +335337,7 @@ Etnahta
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Dehi
@@ -335418,7 +335418,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -335449,7 +335449,7 @@ Merkha
 
 Pazer
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -335467,7 +335467,7 @@ Merkha
 Etnahta
 
 
-Shalshelet
+Shalshelet, Paseq
 Mahapakh
 
 Merkha
@@ -335490,11 +335490,11 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 
 Revia
@@ -335512,7 +335512,7 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -335521,19 +335521,19 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 
 Revia
@@ -335546,7 +335546,7 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Munah
@@ -335558,7 +335558,7 @@ Revia
 
 
 Merkha
-Qadma
+Qadma, Paseq
 
 Tipeha
 Munah
@@ -335619,7 +335619,7 @@ Munah
 
 
 Iluy
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -335638,7 +335638,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -335682,14 +335682,14 @@ Munah
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -335698,7 +335698,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -335709,7 +335709,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -335717,7 +335717,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -335731,7 +335731,7 @@ Revia
 
 Zarqa
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -335742,28 +335742,28 @@ Revia
 
 
 Merkha
-Qadma
+Qadma, Paseq
 Munah
 
 Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -335774,7 +335774,7 @@ Etnahta
 Geresh Muqdam
 
 Revia
-Mahapakh
+Legarmeh
 
 Iluy
 
@@ -335795,7 +335795,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -335805,7 +335805,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -335816,7 +335816,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -335825,7 +335825,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -335834,7 +335834,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -335843,7 +335843,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -335852,10 +335852,10 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -335864,14 +335864,14 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Pazer
 Mahapakh
@@ -335886,13 +335886,13 @@ Revia
 
 
 Merkha
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -335901,7 +335901,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -335921,14 +335921,14 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -335946,7 +335946,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -335961,7 +335961,7 @@ Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Iluy
 Revia
 Munah
@@ -335972,19 +335972,19 @@ Revia
 
 
 Merkha
-Qadma
+Qadma, Paseq
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -335992,7 +335992,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -336002,7 +336002,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -336011,7 +336011,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -336030,7 +336030,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -336153,7 +336153,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -336208,7 +336208,7 @@ Munah
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -336348,7 +336348,7 @@ Munah
 
 Etnahta
 
-Darga, Qadma
+Qadma, Darga
 
 Tevir
 
@@ -336356,7 +336356,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -336382,7 +336382,7 @@ Tipeha
 
 Etnahta
 
-Darga, Qadma
+Qadma, Darga
 
 Tevir
 
@@ -336390,7 +336390,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -336399,7 +336399,7 @@ Munah
 
 Segol
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -336418,7 +336418,7 @@ Munah
 
 Etnahta
 
-Darga, Qadma
+Qadma, Darga
 
 Tevir
 
@@ -336450,7 +336450,7 @@ Merkha
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -336470,7 +336470,7 @@ Tipeha
 
 Etnahta
 
-Darga, Qadma
+Qadma, Darga
 
 Tevir
 
@@ -336531,7 +336531,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -336606,7 +336606,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -336746,7 +336746,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -336759,7 +336759,7 @@ Zinor
 Munah
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -336855,7 +336855,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -336881,7 +336881,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -336897,7 +336897,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -336920,7 +336920,7 @@ Merkha
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -336928,7 +336928,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -336939,7 +336939,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -336957,7 +336957,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -336965,8 +336965,8 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 
@@ -337004,14 +337004,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -337049,7 +337049,7 @@ Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -337081,11 +337081,11 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Tipeha
 Merkha
@@ -337128,20 +337128,20 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Munah
 Dehi
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -337189,7 +337189,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -337197,7 +337197,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -337207,7 +337207,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -337223,10 +337223,10 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 
 
 Iluy
@@ -337259,7 +337259,7 @@ Geresh Muqdam
 Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Iluy
 
 Revia
@@ -337268,7 +337268,7 @@ Revia
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -337280,7 +337280,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -337289,7 +337289,7 @@ Merkha
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -337335,7 +337335,7 @@ Revia
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
@@ -337347,7 +337347,7 @@ Etnahta
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 
 Munah
 
@@ -337366,7 +337366,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
@@ -337376,7 +337376,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -337384,7 +337384,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -337415,7 +337415,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Munah
@@ -337464,7 +337464,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -337472,7 +337472,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -337482,7 +337482,7 @@ Dehi
 Etnahta
 
 
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 Munah
@@ -337571,7 +337571,7 @@ Dehi
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -337598,7 +337598,7 @@ Munah
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
@@ -337619,7 +337619,7 @@ Merkha
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -337630,7 +337630,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -337638,7 +337638,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -337656,13 +337656,13 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 
-Qadma
-Revia, Zarqa, Mahapakh
+Qadma, Paseq
+Zarqa, Mahapakh, Revia
 
 Munah
 Dehi
@@ -337671,7 +337671,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -337680,7 +337680,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -337722,7 +337722,7 @@ Munah
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -337734,7 +337734,7 @@ Revia
 Merkha
 
 
-Munah, Dehi
+Dehi, Munah
 Munah
 Etnahta
 Tipeha
@@ -337747,14 +337747,14 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -337762,7 +337762,7 @@ Dehi
 Munah
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -337791,7 +337791,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -337828,7 +337828,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -337847,7 +337847,7 @@ Geresh Muqdam
 Merkha
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -337879,7 +337879,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -337903,7 +337903,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -337921,7 +337921,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -337939,7 +337939,7 @@ Dehi
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -337961,7 +337961,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -337994,7 +337994,7 @@ Merkha
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -338003,7 +338003,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -338029,17 +338029,17 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Pazer
 Mahapakh
-Qadma
+Qadma, Paseq
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Munah
 
@@ -338051,14 +338051,14 @@ Munah
 
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 
@@ -338091,7 +338091,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -338110,7 +338110,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -338201,7 +338201,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -338210,7 +338210,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -338221,8 +338221,8 @@ Tipeha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
-Merkha, Dehi
+Geresh Muqdam, Revia
+Dehi, Merkha
 
 
 Dehi
@@ -338237,7 +338237,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -338256,7 +338256,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -338295,7 +338295,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -338306,7 +338306,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -338384,7 +338384,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -338392,7 +338392,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -338415,7 +338415,7 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -338432,7 +338432,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -338450,7 +338450,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -338478,7 +338478,7 @@ Etnahta
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 Iluy
 
 
@@ -338496,7 +338496,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -338520,14 +338520,14 @@ Munah
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Merkha
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -338554,7 +338554,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -338581,16 +338581,16 @@ Etnahta
 Merkha
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -338599,13 +338599,13 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -338632,7 +338632,7 @@ Munah
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -338659,7 +338659,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -338708,7 +338708,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -338731,7 +338731,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -338746,7 +338746,7 @@ Revia
 
 
 Iluy
-Qadma
+Qadma, Paseq
 Revia
 
 Munah
@@ -338761,7 +338761,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -338785,7 +338785,7 @@ Munah
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -338801,7 +338801,7 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Merkha
 Revia
 Dehi
@@ -338858,19 +338858,19 @@ Munah
 
 
 
-Qadma
+Qadma, Paseq
 Munah
 Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 
 Pazer
 
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -338915,7 +338915,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -338925,11 +338925,11 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
-Revia, Dehi
+Dehi, Revia
 Munah
 Etnahta
 
@@ -338948,14 +338948,14 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Munah
 Munah
 
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -338972,7 +338972,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -338999,7 +338999,7 @@ Munah
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -339023,7 +339023,7 @@ Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 
 Munah
@@ -339037,14 +339037,14 @@ Merkha
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Revia
 Munah
 Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -339054,14 +339054,14 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
-Revia, Merkha
+Merkha, Revia
 Dehi
 
 
@@ -339086,77 +339086,6 @@ Geresh Muqdam
 Revia
 
 
-
-Mahapakh
-Munah
-
-
-Munah
-
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-Munah
-
-
-Dehi
-
-Munah
-
-
-Etnahta
-Merkha
-
-Geresh Muqdam
-Munah
-
-Munah
-Dehi
-
-Munah
-
-Etnahta
-Geresh Muqdam
-Revia
-
-
-
-
-
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Munah
-
-
-
-Merkha
-Etnahta
-
-Tipeha
-Munah
-
-Dehi
-Munah
-
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Merkha
-
-Revia, Geresh Muqdam
-
-Munah
 
 Mahapakh
 Munah
@@ -339165,92 +339094,27 @@ Munah
 Munah
 
 Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+Munah
+
+
+Dehi
+
+Munah
+
+
+Etnahta
+Merkha
+
 Geresh Muqdam
-Revia
-
-Tipeha
-
-Dehi
-Munah
-
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-
-Munah
-Munah
-Etnahta
-
-Merkha
-
-Munah
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-
-Munah
-Munah
-Etnahta
-
 Munah
 
 Munah
 Dehi
 
-Etnahta
-
-Tipeha
 Munah
-
-Munah
-Dehi
-
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
-Etnahta
-
-Tipeha
-
-
-Munah
-
-Munah
-Dehi
-
-
-
-Etnahta
-Merkha
-Geresh Muqdam
-
-Revia
-
-
-Revia
-Dehi
-Munah
-
-
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-
-
-
-Merkha
-
 
 Etnahta
 Geresh Muqdam
@@ -339259,123 +339123,259 @@ Revia
 
 
 
-Tipeha
-Munah
-Etnahta
-Merkha
-Revia, Geresh Muqdam
 
-Merkha
-
-Dehi
-
-Munah
-
-Etnahta
-
-Tipeha
-Munah
-
-Revia
-Dehi
-
-Munah
-Etnahta
-
-Tipeha
-
-Munah
-
-
-Revia
-Merkha
-
-Etnahta
-Tipeha
-Munah
-
-
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-
-Merkha
-Etnahta
-
-Tipeha
-Munah
-
-Dehi
-
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-
-Merkha
-Etnahta
-
-
-
-Merkha
-
-Dehi
-
-
-Munah
-Etnahta
-
-
-Merkha
-Geresh Muqdam
-Revia
-Merkha
-
-Munah
-Munah
-Etnahta
-
-Geresh Muqdam
-
-Revia
-Merkha
-
-
-Munah
 Dehi
 Munah
 Etnahta
 Geresh Muqdam
 Revia
-Merkha
-
-Dehi
-
-Etnahta
-
-
-Revia, Geresh Muqdam
-
 Munah
-Dehi
 
 
+
+Merkha
 Etnahta
 
 Tipeha
 Munah
 
+Dehi
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Merkha
+
+Geresh Muqdam, Revia
+
+Munah
 
 Mahapakh
 Munah
+
+
+Munah
+
+Etnahta
+Geresh Muqdam
+Revia
+
+Tipeha
+
+Dehi
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+
+Munah
+Munah
+Etnahta
+
+Merkha
+
+Munah
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+
+Munah
+Munah
+Etnahta
+
+Munah
+
+Munah
+Dehi
+
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+Etnahta
+
+Tipeha
+
+
+Munah
+
+Munah
+Dehi
+
+
+
+Etnahta
+Merkha
+Geresh Muqdam
+
+Revia
+
+
+Revia
+Dehi
+Munah
+
+
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+
+
+
+Merkha
+
+
+Etnahta
+Geresh Muqdam
+Revia
+
+
+
+
+Tipeha
+Munah
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+
+Merkha
+
+Dehi
+
+Munah
+
+Etnahta
+
+Tipeha
+Munah
+
+Revia
+Dehi
+
+Munah
+Etnahta
+
+Tipeha
+
+Munah
+
+
+Revia
+Merkha
+
+Etnahta
+Tipeha
+Munah
+
+
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+
+Merkha
+Etnahta
+
+Tipeha
+Munah
+
+Dehi
+
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+
+Merkha
+Etnahta
+
+
+
+Merkha
+
+Dehi
+
+
+Munah
+Etnahta
+
+
+Merkha
+Geresh Muqdam
+Revia
+Merkha
+
+Munah
+Munah
+Etnahta
+
+Geresh Muqdam
+
+Revia
+Merkha
+
+
+Munah
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Dehi
+
+Etnahta
+
+
+Geresh Muqdam, Revia
+
+Munah
+Dehi
+
+
+Etnahta
+
+Tipeha
+Munah
+
+
+Legarmeh
+Munah
 Munah
 
 Etnahta
@@ -339389,7 +339389,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -339415,7 +339415,7 @@ Revia
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -339443,7 +339443,7 @@ Dehi
 Munah
 Etnahta
 Geresh Muqdam
-Revia, Merkha
+Merkha, Revia
 
 
 Dehi
@@ -339452,7 +339452,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -339494,7 +339494,7 @@ Merkha
 Zarqa, Mahapakh
 
 
-Qadma
+Qadma, Paseq
 Revia
 
 Merkha
@@ -339502,7 +339502,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -339517,7 +339517,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -339553,13 +339553,13 @@ Revia
 Munah
 
 Merkha
-Qadma
+Qadma, Paseq
 Revia
 
 Merkha
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -339569,7 +339569,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -339578,7 +339578,7 @@ Merkha
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 
@@ -339633,7 +339633,7 @@ Merkha
 Revia
 
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
@@ -339641,11 +339641,11 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Iluy
 Revia
@@ -339662,13 +339662,13 @@ Munah
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -339683,7 +339683,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -339702,84 +339702,84 @@ Etnahta
 Geresh Muqdam
 Revia
 Merkha
+
+
+Legarmeh
+Merkha
+Revia
+
+Merkha
+
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+
+Merkha
+
+
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Dehi
+
+Merkha
+
+Revia
+
+
+
+Revia
+Merkha
+
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Merkha
+
+
+Dehi
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
 
 
 Mahapakh
-Merkha
-Revia
-
-Merkha
-
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
-
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-
-Merkha
-
-
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-Dehi
-
-Merkha
-
-Revia
-
-
-
-Revia
-Merkha
-
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Merkha
-
-
-Dehi
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-
-
-Mahapakh
 Munah
 Munah
 Etnahta
@@ -339819,7 +339819,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -339867,7 +339867,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -339897,7 +339897,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -339905,7 +339905,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -339927,7 +339927,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -339957,7 +339957,7 @@ Munah
 
 Munah
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 
@@ -339968,9 +339968,9 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Mahapakh
+Legarmeh
 Iluy
 
 
@@ -339982,7 +339982,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Munah
@@ -340003,7 +340003,7 @@ Munah
 
 
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 Dehi
@@ -340028,7 +340028,7 @@ Tipeha
 Munah
 
 
-Qadma
+Qadma, Paseq
 
 Revia
 Dehi
@@ -340046,7 +340046,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -340105,13 +340105,13 @@ Merkha
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
-Mahapakh
+Legarmeh
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Yerah Ben Yomo
 Pazer
@@ -340123,7 +340123,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Merkha
@@ -340146,7 +340146,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -340157,31 +340157,31 @@ Etnahta
 
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 Munah
 Munah
 
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 Munah
 
 Iluy
-Qadma
+Qadma, Paseq
 
 Revia
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -340194,7 +340194,7 @@ Tipeha
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -340205,11 +340205,11 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Munah
 Dehi
@@ -340263,7 +340263,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -340281,7 +340281,7 @@ Revia
 Merkha
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -340324,7 +340324,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -340334,7 +340334,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -340381,7 +340381,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -340406,7 +340406,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -340454,45 +340454,45 @@ Merkha
 
 Revia
 
+
+
+Legarmeh
+Munah
+Munah
+
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+Dehi
+Munah
+
+
+Etnahta
+Geresh Muqdam, Revia
+
+
+Merkha
+Revia
+
+Ole, Merkha
+Dehi
+
+Munah
+Etnahta
+
+
+Geresh Muqdam, Revia
 
 
 Mahapakh
 Munah
 Munah
-
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-Dehi
-Munah
-
-
-Etnahta
-Revia, Geresh Muqdam
-
-
-Merkha
-Revia
-
-Merkha, Ole
-Dehi
-
-Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
-
-
-Mahapakh
-Munah
-Munah
-Etnahta
-
-
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Tipeha
@@ -340517,7 +340517,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -340554,7 +340554,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -340592,7 +340592,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -340615,7 +340615,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -340654,14 +340654,14 @@ Munah
 Dehi
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -340670,7 +340670,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -340687,7 +340687,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -340698,7 +340698,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -340728,7 +340728,7 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 Revia
 
@@ -340761,7 +340761,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -340772,7 +340772,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -340788,7 +340788,7 @@ Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -340798,7 +340798,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -340819,7 +340819,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -340876,7 +340876,7 @@ Revia
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -340896,11 +340896,11 @@ Tipeha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -340971,7 +340971,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -340992,7 +340992,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -341015,7 +341015,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -341047,7 +341047,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -341055,7 +341055,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -341066,7 +341066,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -341075,11 +341075,11 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
-Mahapakh
+Legarmeh
 
 Munah
 Munah
@@ -341094,7 +341094,7 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -341107,7 +341107,7 @@ Etnahta
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -341117,21 +341117,21 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Zinor
 
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -341143,7 +341143,7 @@ Merkha
 Zinor
 Yerah Ben Yomo
 
-Merkha, Ole
+Ole, Merkha
 Dehi
 Munah
 
@@ -341162,11 +341162,11 @@ Zarqa, Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
-Mahapakh
+Legarmeh
 
 Munah
 Dehi
@@ -341187,7 +341187,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 Dehi
 
@@ -341204,7 +341204,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -341224,12 +341224,12 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -341257,7 +341257,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -341298,7 +341298,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -341307,7 +341307,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -341317,11 +341317,11 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
-Mahapakh
+Legarmeh
 
 Zarqa, Mahapakh
 Revia
@@ -341329,7 +341329,7 @@ Revia
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -341385,7 +341385,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -341404,7 +341404,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -341430,7 +341430,7 @@ Merkha
 Etnahta
 Geresh Muqdam
 Revia
-Mahapakh
+Legarmeh
 Iluy
 
 
@@ -341459,7 +341459,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -341518,7 +341518,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -341527,7 +341527,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -341537,7 +341537,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -341565,7 +341565,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -341619,7 +341619,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -341634,7 +341634,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -341656,7 +341656,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -341680,7 +341680,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -341690,7 +341690,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -341699,7 +341699,7 @@ Munah
 Dehi
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -341745,7 +341745,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -341775,7 +341775,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -341784,7 +341784,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -341811,7 +341811,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
@@ -341842,7 +341842,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -341850,7 +341850,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -341899,7 +341899,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -341935,13 +341935,13 @@ Merkha
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -341949,11 +341949,11 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -341966,7 +341966,7 @@ Munah
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -341986,7 +341986,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -341997,7 +341997,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -342020,12 +342020,12 @@ Munah
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Zarqa
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 
 
@@ -342036,7 +342036,7 @@ Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zinor
 
 Ole
@@ -342046,7 +342046,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -342068,7 +342068,7 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Mahapakh
 Munah
 Dehi
@@ -342084,7 +342084,7 @@ Merkha
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 Revia
@@ -342092,16 +342092,16 @@ Revia
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 
 Revia
@@ -342123,7 +342123,7 @@ Revia
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Merkha
@@ -342148,7 +342148,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -342166,7 +342166,7 @@ Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -342203,7 +342203,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -342213,7 +342213,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -342225,43 +342225,10 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
-
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Merkha
-
-
-Dehi
-
-Munah
-Etnahta
-
-
-Revia, Geresh Muqdam
-
-
-Merkha
-Revia
-
-
-
-Merkha
-
-
-Etnahta
-Revia, Geresh Muqdam
-Munah
-
-
 
 Dehi
 
@@ -342274,6 +342241,39 @@ Merkha
 
 
 Dehi
+
+Munah
+Etnahta
+
+
+Geresh Muqdam, Revia
+
+
+Merkha
+Revia
+
+
+
+Merkha
+
+
+Etnahta
+Geresh Muqdam, Revia
+Munah
+
+
+
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Merkha
+
+
+Dehi
 Munah
 Etnahta
 
@@ -342286,7 +342286,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -342294,7 +342294,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -342303,7 +342303,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -342354,11 +342354,11 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 Iluy
 
 
@@ -342410,7 +342410,7 @@ Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Etnahta
 
@@ -342425,13 +342425,13 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Dehi
 
-Etnahta, Munah
+Munah, Etnahta
 
 Merkha
 
@@ -342448,7 +342448,7 @@ Munah
 
 Dehi
 
-Merkha
+Merkha, Paseq
 Etnahta
 
 Tipeha
@@ -342470,7 +342470,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -342479,18 +342479,18 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
-Mahapakh
+Legarmeh
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -342546,83 +342546,83 @@ Merkha
 Munah
 Dehi
 
-Munah
-Etnahta
-Tipeha
-Munah
-
-
-Munah
-Dehi
-
-
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-Munah
-Munah
-
-Etnahta
-Geresh Muqdam
-Revia
-
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-Munah
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-
-Mahapakh
-Munah
-
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-
-Merkha
-
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-Mahapakh
-Mahapakh
-
-
-Revia
-
-
-
-Dehi
 Munah
 Etnahta
 Tipeha
 Munah
+
+
+Munah
+Dehi
+
+
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+Munah
+Munah
+
+Etnahta
+Geresh Muqdam
+Revia
+
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Munah
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
 
 
 Mahapakh
-Qadma
+Munah
+
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+
+Merkha
+
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Legarmeh
+Mahapakh
+
+
+Revia
+
+
+
+Dehi
+Munah
+Etnahta
+Tipeha
+Munah
+
+
+Mahapakh
+Qadma, Paseq
 
 
 Revia
@@ -342656,7 +342656,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -342683,7 +342683,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -342711,7 +342711,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -342723,7 +342723,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -342732,7 +342732,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -342761,7 +342761,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -342770,7 +342770,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -342781,7 +342781,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -342799,7 +342799,7 @@ Munah
 Munah
 Dehi
 
-Etnahta, Munah
+Munah, Etnahta
 Geresh Muqdam
 Revia
 Merkha
@@ -342850,16 +342850,16 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 
+Legarmeh
+
+
+Revia
 Mahapakh
-
-
-Revia
-Mahapakh
 Munah
 Dehi
 Munah
@@ -342902,7 +342902,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -342919,7 +342919,7 @@ Etnahta
 
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -342964,7 +342964,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -343085,7 +343085,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -343105,13 +343105,13 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Munah
 Zinor
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -343125,7 +343125,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -343133,11 +343133,11 @@ Merkha
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -343154,7 +343154,7 @@ Munah
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -343179,7 +343179,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -343214,16 +343214,16 @@ Merkha
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Merkha
 Etnahta
@@ -343235,11 +343235,11 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -343255,7 +343255,7 @@ Revia
 Dehi
 Munah
 Etnahta
-Munah, Dehi
+Dehi, Munah
 
 
 Revia
@@ -343292,7 +343292,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -343339,7 +343339,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -343389,7 +343389,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -343408,18 +343408,18 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Mahapakh
+Legarmeh
 Munah
 Munah
 
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -343456,7 +343456,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 Munah
@@ -343534,7 +343534,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Geresh Muqdam
@@ -343588,7 +343588,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -343648,7 +343648,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -343720,7 +343720,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -343736,7 +343736,7 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
@@ -343750,7 +343750,7 @@ Merkha
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 
@@ -343759,7 +343759,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -343774,7 +343774,7 @@ Munah
 Dehi
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -343794,14 +343794,14 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Merkha
 Revia
 
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -343822,7 +343822,7 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 
 Munah
@@ -343837,7 +343837,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -343845,7 +343845,7 @@ Revia, Geresh Muqdam
 Munah
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Munah
 
@@ -343883,14 +343883,14 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 Tipeha
 
 Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Zarqa, Mahapakh
 Munah
 Dehi
@@ -343902,7 +343902,7 @@ Etnahta
 Tipeha
 Merkha
 
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 Munah
@@ -343912,7 +343912,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -343945,13 +343945,13 @@ Qadma
 Revia
 Dehi
 
-Etnahta, Merkha
+Merkha, Etnahta
 
 Merkha
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Mahapakh
 Munah
@@ -343962,7 +343962,7 @@ Tipeha
 Munah
 
 
-Munah, Dehi
+Dehi, Munah
 Munah
 Etnahta
 Tipeha
@@ -343992,7 +343992,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -344007,7 +344007,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -344018,7 +344018,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -344035,7 +344035,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -344069,7 +344069,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -344138,7 +344138,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -344148,7 +344148,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -344156,7 +344156,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -344170,7 +344170,7 @@ Revia
 Munah
 
 
-Mahapakh
+Legarmeh
 Iluy
 Revia
 
@@ -344234,7 +344234,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -344250,7 +344250,7 @@ Revia
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Revia
 Merkha
@@ -344275,13 +344275,13 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -344294,7 +344294,7 @@ Merkha
 Geresh Muqdam
 Revia
 
-Mahapakh
+Legarmeh
 
 Revia
 
@@ -344344,7 +344344,7 @@ Tipeha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -344352,7 +344352,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -344361,7 +344361,7 @@ Dehi
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -344439,7 +344439,7 @@ Geresh Muqdam
 Revia
 
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
 Ole
@@ -344462,7 +344462,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -344480,7 +344480,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -344506,7 +344506,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -344525,12 +344525,12 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 Merkha
 Revia
 
@@ -344544,7 +344544,7 @@ Etnahta
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 Zinor
 
 Yerah Ben Yomo
@@ -344555,7 +344555,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -344575,7 +344575,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -344587,7 +344587,7 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -344604,7 +344604,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -344621,7 +344621,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -344635,7 +344635,7 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Merkha
 Revia
@@ -344673,7 +344673,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -344698,7 +344698,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -344717,7 +344717,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -344744,7 +344744,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -344754,7 +344754,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -344770,7 +344770,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -344780,7 +344780,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -344801,7 +344801,7 @@ Etnahta
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -344844,7 +344844,7 @@ Munah
 
 Dehi
 
-Merkha
+Merkha, Paseq
 Etnahta
 Geresh Muqdam
 Revia
@@ -344881,7 +344881,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -344923,7 +344923,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -344937,7 +344937,7 @@ Munah
 Merkha
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -344956,7 +344956,7 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -344983,7 +344983,7 @@ Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Munah
 
@@ -345012,7 +345012,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -345037,7 +345037,7 @@ Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -345047,7 +345047,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -345066,7 +345066,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -345094,7 +345094,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -345112,7 +345112,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -345126,7 +345126,7 @@ Munah
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -345152,8 +345152,8 @@ Munah
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 Munah
@@ -345161,7 +345161,7 @@ Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -345192,7 +345192,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -345226,7 +345226,7 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Revia
 Dehi
@@ -345235,7 +345235,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -345245,14 +345245,14 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Mahapakh
 
 
-Qadma
+Qadma, Paseq
 Revia
 Ole
 Merkha
@@ -345306,12 +345306,12 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 
 
@@ -345319,7 +345319,7 @@ Munah
 Etnahta
 Tipeha
 Merkha
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 Munah
@@ -345337,9 +345337,9 @@ Revia
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
-Mahapakh
+Legarmeh
 Iluy
 
 Dehi
@@ -345357,7 +345357,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -345365,14 +345365,14 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -345381,7 +345381,7 @@ Tipeha
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -345392,11 +345392,11 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
-Mahapakh
+Legarmeh
 Zarqa
 Mahapakh
 Revia
@@ -345407,7 +345407,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -345415,7 +345415,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -345427,14 +345427,14 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -345449,7 +345449,7 @@ Dehi
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Tipeha
 Merkha
 
@@ -345470,7 +345470,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -345490,7 +345490,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -345539,7 +345539,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -345577,7 +345577,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -345587,7 +345587,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -345602,7 +345602,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -345623,7 +345623,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -345650,7 +345650,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -345680,7 +345680,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -345702,7 +345702,7 @@ Merkha
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -345723,7 +345723,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -345792,7 +345792,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -345829,13 +345829,13 @@ Merkha
 
 
 Revia
-Merkha, Ole
+Ole, Merkha
 
 
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -345866,7 +345866,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -345877,89 +345877,89 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 Munah
 Munah
 Etnahta
-
-Merkha
-
-Dehi
-
-Munah
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-Munah
-
-Munah
-Munah
-Etnahta
-
-Tipeha
-
-Munah
-
-
-Munah
-Munah
-Etnahta
-
-Revia, Geresh Muqdam
-
-
-
-
-Dehi
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-
-Tipeha
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Munah
-Tipeha
-
-
-Etnahta
-
-Merkha
-
-
-Merkha
-Etnahta
-
-Revia, Geresh Muqdam
-Merkha
-
-
-
-Munah
-
-
-Munah
-Etnahta
-
 
 Merkha
 
 Dehi
 
+Munah
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+Munah
+
+Munah
+Munah
+Etnahta
+
+Tipeha
+
+Munah
+
+
+Munah
+Munah
+Etnahta
+
+Geresh Muqdam, Revia
+
+
+
+
+Dehi
+
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+
+Tipeha
+
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+Munah
+Tipeha
+
+
+Etnahta
+
+Merkha
+
+
+Merkha
+Etnahta
+
+Geresh Muqdam, Revia
+Merkha
+
+
+
+Munah
+
+
+Munah
+Etnahta
+
+
+Merkha
+
+Dehi
+
 
 Munah
 Etnahta
@@ -345985,7 +345985,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -346029,7 +346029,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -346041,7 +346041,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -346060,13 +346060,13 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Zarqa, Mahapakh
 Revia
 Dehi
@@ -346102,7 +346102,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -346121,7 +346121,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -346150,7 +346150,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -346178,14 +346178,14 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -346193,7 +346193,7 @@ Munah
 Tipeha
 
 
-Merkha
+Merkha, Paseq
 Etnahta
 Geresh Muqdam
 
@@ -346216,7 +346216,7 @@ Etnahta
 
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -346232,7 +346232,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -346251,7 +346251,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -346276,7 +346276,7 @@ Tipeha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -346311,7 +346311,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -346319,7 +346319,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 
 Tipeha
 Munah
@@ -346363,7 +346363,7 @@ Munah
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -346380,7 +346380,7 @@ Revia
 Munah
 Dehi
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -346397,7 +346397,7 @@ Munah
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -346414,7 +346414,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -346433,7 +346433,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -346443,7 +346443,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -346456,7 +346456,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -346472,7 +346472,7 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -346489,7 +346489,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -346521,7 +346521,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -346587,7 +346587,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -346612,7 +346612,7 @@ Revia
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -346635,7 +346635,7 @@ Tipeha
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Merkha
 Revia
 Ole
@@ -346646,7 +346646,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -346655,7 +346655,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -346719,7 +346719,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -346760,7 +346760,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Qatan
 
@@ -346938,7 +346938,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -346983,7 +346983,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -347001,10 +347001,10 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
-Mahapakh
+Legarmeh
 Mahapakh
 Shalshelet
 Iluy
@@ -347017,13 +347017,13 @@ Revia
 Pazer
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 Etnahta
@@ -347047,12 +347047,12 @@ Etnahta
 Tipeha
 Munah
 
-Munah, Dehi
+Dehi, Munah
 Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -347063,7 +347063,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -347092,7 +347092,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -347117,7 +347117,7 @@ Merkha
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Tipeha
 Merkha
@@ -347127,7 +347127,7 @@ Revia
 Merkha
 
 
-Munah
+Munah, Paseq
 Zinor
 Ole
 Merkha
@@ -347142,7 +347142,7 @@ Revia
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Munah
 Munah
@@ -347155,7 +347155,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -347172,7 +347172,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -347188,7 +347188,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -347197,7 +347197,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -347207,14 +347207,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -347259,7 +347259,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -347306,7 +347306,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -347366,7 +347366,7 @@ Dehi
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -347402,7 +347402,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -347410,7 +347410,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
@@ -347461,11 +347461,11 @@ Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -347488,7 +347488,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -347506,7 +347506,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -347544,7 +347544,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -347583,7 +347583,7 @@ Dehi
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -347619,7 +347619,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -347636,7 +347636,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -347674,7 +347674,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -347739,7 +347739,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -347792,7 +347792,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -347826,7 +347826,7 @@ Etnahta
 Merkha
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -347844,13 +347844,13 @@ Etnahta
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -347868,14 +347868,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
 Munah
 Dehi
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -347886,7 +347886,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -347895,7 +347895,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -347906,7 +347906,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -347927,7 +347927,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -347958,7 +347958,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -347974,7 +347974,7 @@ Revia
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -347994,7 +347994,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -348003,7 +348003,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -348061,14 +348061,14 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -348076,7 +348076,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -348086,7 +348086,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -348096,7 +348096,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -348124,7 +348124,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -348218,7 +348218,7 @@ Revia
 Munah
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 Dehi
 
@@ -348235,7 +348235,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Revia
 Dehi
@@ -348261,13 +348261,13 @@ Merkha
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Qadma
 Merkha
-Yerah Ben Yomo
+Yerah Ben Yomo, Paseq
 Pazer
 
 Revia
@@ -348277,7 +348277,7 @@ Mahapakh
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -348328,9 +348328,9 @@ Revia
 
 
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -348338,7 +348338,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 Munah
 
@@ -348357,7 +348357,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -348366,10 +348366,10 @@ Munah
 Munah
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Qadma
+Qadma, Paseq
 
 Revia
 Munah
@@ -348385,7 +348385,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -348411,7 +348411,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -348423,7 +348423,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -348432,18 +348432,18 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Qadma
+Qadma, Paseq
 Iluy
 Revia
 Dehi
@@ -348462,7 +348462,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -348481,7 +348481,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -348524,7 +348524,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -348538,7 +348538,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -348555,7 +348555,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -348572,7 +348572,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -348583,7 +348583,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -348606,7 +348606,7 @@ Merkha
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -348667,7 +348667,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -348676,7 +348676,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -348689,7 +348689,7 @@ Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 
 
 Revia
@@ -348709,7 +348709,7 @@ Tipeha
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -348727,19 +348727,19 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -348748,7 +348748,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -348757,7 +348757,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -348780,11 +348780,11 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Mahapakh, Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 
@@ -348807,7 +348807,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -348842,7 +348842,7 @@ Revia
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -348892,7 +348892,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -348908,7 +348908,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -348939,7 +348939,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -348957,7 +348957,7 @@ Ole
 Merkha
 Zarqa, Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Munah
 Dehi
@@ -348970,7 +348970,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -348999,7 +348999,7 @@ Revia
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -349024,7 +349024,7 @@ Merkha
 
 
 Tipeha
-Merkha
+Merkha, Paseq
 Etnahta
 
 Tipeha, Munah
@@ -349051,7 +349051,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -349079,7 +349079,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -349096,7 +349096,7 @@ Merkha
 Zarqa, Mahapakh
 
 
-Qadma
+Qadma, Paseq
 Revia
 Dehi
 
@@ -349110,11 +349110,11 @@ Munah
 
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Dehi
-Mahapakh
+Legarmeh
 Etnahta
 Tipeha
 
@@ -349155,107 +349155,537 @@ Merkha
 Munah
 
 Dehi
+Legarmeh
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Munah
+Dehi
+
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+
+Dehi
+
+Munah
+Etnahta
+
+Geresh Muqdam, Revia
+Munah
+
+Dehi
+Munah
+Etnahta
+Tipeha
+Munah
+
+Munah
+Dehi
+Munah
+Etnahta
+Geresh Muqdam, Revia
+Merkha
+
+Munah
+Munah
+Etnahta
+
+Geresh Muqdam, Revia
+Munah
+
+
+Dehi
+Munah
+Etnahta
+
+Geresh Muqdam, Revia
+Munah
+
+Dehi
+Munah
+
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+
+Munah
+Munah
+
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+
+Mahapakh, Qadma, Paseq
+Revia
+Munah
+Munah
+Etnahta
+
+Tipeha
+
+Munah
+
+
+Munah
+Dehi
+
+Etnahta
+Merkha
+Geresh Muqdam
+Revia
+
+
+Munah
+Dehi
+
+
+
+Etnahta
+Merkha
+Geresh Muqdam
+Revia
+
+Munah
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+Dehi
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+Munah
+
+
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Merkha
+
+Munah
+Dehi
+Etnahta
+Geresh Muqdam, Revia
+
+
+Merkha
+
+Dehi
+
+
+Munah
+Etnahta
+
+Geresh Muqdam, Revia
+Munah
+
+
+Merkha
+
+
+Etnahta
+Geresh Muqdam
+Revia
+
+
+Dehi
+Munah
+Etnahta
+
+
+Geresh Muqdam, Revia
+
+Munah
+
+
+Merkha
+Etnahta
+
+Tipeha
+Munah
+
+
+
+Dehi
+
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Revia
+Ole, Merkha
+Munah
+Dehi
+
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+Merkha
+
+
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Revia
+Merkha
+
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+
+Munah
+Etnahta
+Merkha
+Geresh Muqdam
+
+Revia
+Munah
+
+Dehi
+
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+Merkha
+
+Munah
+Dehi
+
+Etnahta
+
+Tipeha
+Munah
+
+
+Dehi
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+Munah
+Dehi
+
+
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+Munah, Tipeha
+Dehi
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+Merkha
+
+Dehi
+Munah
+Etnahta
+
+Merkha
+
+Geresh Muqdam, Revia
+Merkha
+
+
+Munah
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+
+
+Merkha
+
+Etnahta
+
+
+Geresh Muqdam
+Merkha
+
+Munah
+Dehi
+Munah
+Etnahta
+Tipeha
+Munah
+
+Munah
+Munah
+
+Etnahta
+Tipeha
+Munah
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+Munah
+
+
+Munah
+Dehi
+Munah
+
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+Munah
+Etnahta
+Tipeha
+Munah
+
+
+Munah
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+
+Merkha
+
+Munah
+Dehi
+Munah
+Etnahta
+
+
+Tipeha
+Munah
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+Munah
+Tipeha
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Munah
+
+
+
+Legarmeh
+
+
+Revia
+
+
+
+Merkha
+
+
+Etnahta
+Merkha
+Geresh Muqdam
+Revia
+
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+
+Munah
+
+Munah
+
+Etnahta
+Geresh Muqdam
+Revia
+Munah
+
+
+
+Dehi
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+Dehi
+
+Munah
+Etnahta
+
+
+Merkha
+
+Munah
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+Munah
+Tipeha
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+
+Munah
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+
+Revia
+Merkha
+
+Munah
+Dehi
+Etnahta
+Geresh Muqdam
+
+Revia
+Merkha
+
+
 Mahapakh
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-Munah
-Dehi
-
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-
-Dehi
-
-Munah
-Etnahta
-
-Revia, Geresh Muqdam
-Munah
-
-Dehi
-Munah
-Etnahta
-Tipeha
-Munah
-
-Munah
-Dehi
-Munah
-Etnahta
-Revia, Geresh Muqdam
-Merkha
-
-Munah
-Munah
-Etnahta
-
-Revia, Geresh Muqdam
-Munah
-
-
-Dehi
-Munah
-Etnahta
-
-Revia, Geresh Muqdam
-Munah
-
-Dehi
-Munah
-
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-
-Munah
-Munah
-
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-
-Mahapakh, Qadma
-Revia
-Munah
-Munah
-Etnahta
-
-Tipeha
-
-Munah
-
-
-Munah
-Dehi
-
-Etnahta
-Merkha
-Geresh Muqdam
-Revia
-
-
-Munah
-Dehi
-
-
-
-Etnahta
-Merkha
-Geresh Muqdam
-Revia
-
-Munah
-
 Munah
 Dehi
 Munah
@@ -349263,68 +349693,6 @@ Etnahta
 
 Tipeha
 Munah
-
-
-Dehi
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-Munah
-
-
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Merkha
-
-Munah
-Dehi
-Etnahta
-Revia, Geresh Muqdam
-
-
-Merkha
-
-Dehi
-
-
-Munah
-Etnahta
-
-Revia, Geresh Muqdam
-Munah
-
-
-Merkha
-
-
-Etnahta
-Geresh Muqdam
-Revia
-
-
-Dehi
-Munah
-Etnahta
-
-
-Revia, Geresh Muqdam
-
-Munah
-
-
-Merkha
-Etnahta
-
-Tipeha
-Munah
-
-
 
 Dehi
 
@@ -349334,25 +349702,15 @@ Etnahta
 Tipeha
 Munah
 
+
 Revia
-Merkha, Ole
-Munah
-Dehi
-
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-Merkha
-
-
 Dehi
 Munah
 Etnahta
 Geresh Muqdam
+
 Revia
 Merkha
-
 
 
 Munah
@@ -349360,10 +349718,22 @@ Dehi
 Munah
 Etnahta
 
+
 Tipeha
 Munah
 
-Revia
+
+Munah
+Dehi
+Munah
+Etnahta
+
+
+Merkha
+Geresh Muqdam, Revia
+
+
+
 Merkha
 
 Etnahta
@@ -349374,23 +349744,264 @@ Munah
 Munah
 Dehi
 
-
-Munah
 Etnahta
-Merkha
-Geresh Muqdam
 
-Revia
+
+Geresh Muqdam, Revia
+Merkha
+
+
 Munah
+Dehi
+
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+
 
 Dehi
 
 Munah
 Etnahta
 
+Tipeha
+Munah
+
+
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+
+Munah
+Dehi
+Munah
+Etnahta
+
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
+
+Revia
 Merkha
+
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+Munah
+
+
+Merkha
+
+Etnahta
+
+Tipeha
+Munah
+
+
+Munah
+Dehi
+
+Etnahta
+Geresh Muqdam
+Revia
+Munah
+
+Munah
+Dehi
+
+
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+
+Munah
+
+Munah
+Munah
+
+Etnahta
+Tipeha
+Munah
+
+Munah
+Dehi
+
+Merkha
+Etnahta
+
+Merkha
+Geresh Muqdam
+Revia
+
+
+
+
+Merkha
+Etnahta
+Geresh Muqdam
+Revia
+
+Merkha
+
+Munah
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+
+
+Revia
+Merkha
+
+Munah
+Dehi
+
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+
+
+
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+
+Munah
+Etnahta
+Geresh Muqdam, Revia
+
+Merkha
+
+
+Munah
+Tipeha
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Revia
+Munah
+Dehi
+
+Etnahta
+
+Tipeha
+Munah
+
+
+Munah
+Munah
+
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+
+
+Dehi
+Munah
+Etnahta
+
+
+Tipeha
+
+Munah
+
+Munah
+Munah
+Etnahta
+Tipeha
+Munah
+
+Munah
+Munah
+
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+Munah
+Munah
+
+Etnahta
+
+Tipeha
+Munah
+
+
+
+Dehi
+
+Etnahta
+
+
+Geresh Muqdam, Revia
+Merkha
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
 
 Munah
 Dehi
@@ -349401,860 +350012,249 @@ Tipeha
 Munah
 
 
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+
+Munah
+
+
+Munah
+
+Dehi
+
+Etnahta
+
+Merkha
+
+Geresh Muqdam, Revia
+
+
+Munah
+Dehi
+Munah
+
+Etnahta
+
+Tipeha
+
+Munah
+
+Revia
+Dehi
+
+
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Tipeha
+
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+Dehi
+Munah
+
+Etnahta
+
+
+Geresh Muqdam, Revia
+Munah
+
+Dehi
+
+
+Munah
+Etnahta
+
+
+Tipeha
+Munah
+
+
+Munah
+
+
+Munah
+
+Etnahta
+Geresh Muqdam
+Revia
+Munah
+
+Munah
+Dehi
+
+Etnahta
+
+Tipeha
+Munah
+
+Munah
 Dehi
 Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
+Merkha
+
+
+Merkha
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
 
 Munah
-Dehi
 
 
 Munah
 Etnahta
 
+Tipeha
+Munah
+
+Munah
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+Munah
+Munah
+Etnahta
+
+
+Tipeha
+Munah
+
+
+
 Merkha
-Revia, Geresh Muqdam
+Etnahta
+
+Tipeha
+Munah
+
+
+Munah
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Merkha
+
+
+Munah
+
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+Munah
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+
+Dehi
+Munah
+
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Geresh Muqdam, Revia
+
+Munah
+
+Munah
+
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Merkha
+
+
+Merkha
+Etnahta
+
+Tipeha
+Munah
+
+
+Dehi
+
+Munah
+Etnahta
+
 
 Tipeha, Munah
-Dehi
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-Merkha
-
-Dehi
-Munah
-Etnahta
-
-Merkha
-
-Revia, Geresh Muqdam
-Merkha
-
-
-Munah
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-
-
-Merkha
-
-Etnahta
-
-
-Geresh Muqdam
-Merkha
-
-Munah
-Dehi
-Munah
-Etnahta
-Tipeha
-Munah
-
-Munah
-Munah
-
-Etnahta
-Tipeha
-Munah
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-Munah
-
-
-Munah
-Dehi
-Munah
-
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-Munah
-Etnahta
-Tipeha
-Munah
-
-
-Munah
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-
-Merkha
-
-Munah
-Dehi
-Munah
-Etnahta
-
-
-Tipeha
-Munah
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Munah
-Tipeha
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Munah
-
-
-
-Mahapakh
-
-
-Revia
-
-
-
-Merkha
-
-
-Etnahta
-Merkha
-Geresh Muqdam
-Revia
-
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-
-Munah
-
-Munah
-
-Etnahta
-Geresh Muqdam
-Revia
-Munah
-
-
-
-Dehi
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Dehi
-
-Munah
-Etnahta
-
-
-Merkha
-
-Munah
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Munah
-Tipeha
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-
-Munah
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-
-Revia
-Merkha
-
-Munah
-Dehi
-Etnahta
-Geresh Muqdam
-
-Revia
-Merkha
-
-
-Mahapakh
-Munah
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Dehi
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Revia
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-
-Revia
-Merkha
-
-
-Munah
-Dehi
-Munah
-Etnahta
-
-
-Tipeha
-Munah
-
-
-Munah
-Dehi
-Munah
-Etnahta
-
-
-Merkha
-Revia, Geresh Muqdam
-
-
-
-Merkha
-
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
-Etnahta
-
-
-Revia, Geresh Muqdam
-Merkha
-
-
-Munah
-Dehi
-
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-
-
-Dehi
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-Revia
-Merkha
-
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-Munah
-
-
-Merkha
-
-Etnahta
-
-Tipeha
-Munah
-
-
-Munah
-Dehi
-
-Etnahta
-Geresh Muqdam
-Revia
-Munah
-
-Munah
-Dehi
-
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-
-Munah
-
-Munah
-Munah
-
-Etnahta
-Tipeha
-Munah
-
-Munah
-Dehi
-
-Merkha
-Etnahta
-
-Merkha
-Geresh Muqdam
-Revia
-
-
-
-
-Merkha
-Etnahta
-Geresh Muqdam
-Revia
-
-Merkha
-
-Munah
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-
-
-Revia
-Merkha
-
-Munah
-Dehi
-
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-
-
-
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
-
-Munah
-Etnahta
-Revia, Geresh Muqdam
-
-Merkha
-
-
-Munah
-Tipeha
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Revia
-Munah
-Dehi
-
-Etnahta
-
-Tipeha
-Munah
-
-
-Munah
-Munah
-
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-
-
-Dehi
-Munah
-Etnahta
-
-
-Tipeha
-
-Munah
-
-Munah
-Munah
-Etnahta
-Tipeha
-Munah
-
-Munah
-Munah
-
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-Munah
-Munah
-
-Etnahta
-
-Tipeha
-Munah
-
-
-
-Dehi
-
-Etnahta
-
-
-Revia, Geresh Muqdam
-Merkha
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-Munah
-Dehi
-
-Etnahta
-
-Tipeha
-Munah
-
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Tipeha
-
-Munah
-
-
-Munah
-
-Dehi
-
-Etnahta
-
-Merkha
-
-Revia, Geresh Muqdam
-
-
-Munah
-Dehi
-Munah
-
-Etnahta
-
-Tipeha
-
-Munah
-
-Revia
-Dehi
-
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Tipeha
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Dehi
-Munah
-
-Etnahta
-
-
-Revia, Geresh Muqdam
-Munah
-
-Dehi
-
-
-Munah
-Etnahta
-
-
-Tipeha
-Munah
-
-
-Munah
-
-
-Munah
-
-Etnahta
-Geresh Muqdam
-Revia
-Munah
-
-Munah
-Dehi
-
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-Merkha
-
-
-Merkha
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-
-Munah
-
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Munah
-Munah
-Etnahta
-
-
-Tipeha
-Munah
-
-
-
-Merkha
-Etnahta
-
-Tipeha
-Munah
-
-
-Munah
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Merkha
-
-
-Munah
-
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-Munah
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-
-Dehi
-Munah
-
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Revia, Geresh Muqdam
-
-Munah
-
-Munah
-
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Merkha
-
-
-Merkha
-Etnahta
-
-Tipeha
-Munah
-
-
-Dehi
-
-Munah
-Etnahta
-
-
-Tipeha, Munah
 
 Tipeha
 
@@ -350271,7 +350271,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -350281,7 +350281,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -350335,7 +350335,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -350352,7 +350352,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -350372,7 +350372,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -350418,7 +350418,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -350427,7 +350427,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -350437,7 +350437,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -350458,7 +350458,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -350549,7 +350549,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Munah
@@ -350603,7 +350603,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -350648,7 +350648,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -350657,7 +350657,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -350693,7 +350693,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -350717,7 +350717,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -350726,7 +350726,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -350734,7 +350734,7 @@ Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -350744,7 +350744,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -350803,7 +350803,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -350814,7 +350814,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -350833,7 +350833,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -350842,7 +350842,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -350852,7 +350852,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -350864,7 +350864,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -350874,7 +350874,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -350882,6 +350882,35 @@ Dehi
 
 Munah
 Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+Merkha
+
+Dehi
+Munah
+
+
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+
 
 Tipeha
 Munah
@@ -350889,35 +350918,6 @@ Munah
 Munah
 Dehi
 
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-Merkha
-
-Dehi
-Munah
-
-
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-
-
-Tipeha
-Munah
-
-Munah
-Dehi
-
 
 
 
@@ -350935,13 +350935,13 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 Munah
 Dehi
-Merkha
+Merkha, Paseq
 Etnahta
 Geresh Muqdam
 Revia
@@ -350970,7 +350970,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -350986,7 +350986,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -351003,7 +351003,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -351049,7 +351049,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -351072,7 +351072,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -351082,7 +351082,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -351091,7 +351091,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -351103,7 +351103,7 @@ Geresh Muqdam
 Revia
 Merkha
 
-Mahapakh
+Legarmeh
 
 
 Etnahta
@@ -351112,13 +351112,13 @@ Revia
 Munah
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -351165,7 +351165,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -351175,7 +351175,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -351185,7 +351185,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -351195,7 +351195,7 @@ Dehi
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -351215,7 +351215,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -351232,7 +351232,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -351246,92 +351246,6 @@ Geresh Muqdam
 
 Merkha
 
-
-
-Mahapakh
-Munah
-Dehi
-
-
-Etnahta
-Geresh Muqdam
-Revia
-
-
-Munah
-Dehi
-Munah
-Etnahta
-
-Tipeha
-Munah
-
-Munah
-Dehi
-Munah
-Etnahta
-
-
-
-
-Munah
-
-Munah
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-Merkha
-
-Munah
-Dehi
-Munah
-Etnahta
-Geresh Muqdam
-Revia
-
-Munah
-
-
-Munah
-Dehi
-
-Munah
-Etnahta
-Merkha
-Revia, Geresh Muqdam
-Merkha
-
-Munah
-Munah
-Etnahta
-
-Merkha
-Revia, Geresh Muqdam
-
-Mahapakh
-Munah
-Dehi
-
-Etnahta
-
-Merkha
-Geresh Muqdam
-Revia
-
-Merkha
-
-Dehi
-
-
-Munah
-
-
-Etnahta
-Geresh Muqdam
-
-Revia
 
 
 Mahapakh
@@ -351342,6 +351256,92 @@ Dehi
 Etnahta
 Geresh Muqdam
 Revia
+
+
+Munah
+Dehi
+Munah
+Etnahta
+
+Tipeha
+Munah
+
+Munah
+Dehi
+Munah
+Etnahta
+
+
+
+
+Munah
+
+Munah
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+Merkha
+
+Munah
+Dehi
+Munah
+Etnahta
+Geresh Muqdam
+Revia
+
+Munah
+
+
+Munah
+Dehi
+
+Munah
+Etnahta
+Merkha
+Geresh Muqdam, Revia
+Merkha
+
+Munah
+Munah
+Etnahta
+
+Merkha
+Geresh Muqdam, Revia
+
+Mahapakh
+Munah
+Dehi
+
+Etnahta
+
+Merkha
+Geresh Muqdam
+Revia
+
+Merkha
+
+Dehi
+
+
+Munah
+
+
+Etnahta
+Geresh Muqdam
+
+Revia
+
+
+Mahapakh
+Munah
+Dehi
+
+
+Etnahta
+Geresh Muqdam
+Revia
 Merkha
 
 
@@ -351354,7 +351354,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -351405,7 +351405,7 @@ Munah
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -351447,7 +351447,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Iluy
@@ -351457,7 +351457,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -351466,7 +351466,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -351476,7 +351476,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -351486,7 +351486,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -351518,7 +351518,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -351527,7 +351527,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -351549,7 +351549,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -351558,7 +351558,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -351576,7 +351576,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -351606,7 +351606,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Mahapakh
@@ -351623,14 +351623,14 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -351651,7 +351651,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -351661,7 +351661,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -351697,7 +351697,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -351717,7 +351717,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -351738,7 +351738,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -351747,7 +351747,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -351756,7 +351756,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -351775,7 +351775,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -351821,7 +351821,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -351837,7 +351837,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -351848,7 +351848,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -351870,7 +351870,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Revia
@@ -351888,7 +351888,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -351904,7 +351904,7 @@ Munah
 
 Merkha
 
-Qadma
+Qadma, Paseq
 Revia
 Mahapakh
 Munah
@@ -351920,7 +351920,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -351937,10 +351937,10 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Iluy
 
 
@@ -351972,7 +351972,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -352014,7 +352014,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -352024,7 +352024,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -352033,7 +352033,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -352044,7 +352044,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -352062,7 +352062,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -352074,7 +352074,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -352092,7 +352092,7 @@ Merkha
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -352112,7 +352112,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -352133,7 +352133,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -352142,7 +352142,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -352154,7 +352154,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Dehi
 
@@ -352185,7 +352185,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -352209,7 +352209,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -352219,7 +352219,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -352238,7 +352238,7 @@ Tipeha
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -352258,7 +352258,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -352268,7 +352268,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -352307,7 +352307,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -352315,7 +352315,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -352378,7 +352378,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -352455,7 +352455,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -352465,14 +352465,14 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
 Merkha
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -352492,7 +352492,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -352534,7 +352534,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -352600,7 +352600,7 @@ Tipeha
 
 
 
-Mahapakh
+Legarmeh
 Munah
 Dehi
 
@@ -352616,7 +352616,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -352640,7 +352640,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -352659,14 +352659,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Munah
 Dehi
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -352676,7 +352676,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -352687,7 +352687,7 @@ Munah
 Etnahta
 Geresh Muqdam
 Revia
-Mahapakh
+Legarmeh
 
 
 Munah
@@ -352697,7 +352697,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -352730,7 +352730,7 @@ Etnahta
 Tipeha
 Munah
 
-Mahapakh
+Legarmeh
 Munah
 Munah
 
@@ -352755,7 +352755,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -352767,7 +352767,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -352777,7 +352777,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -352814,7 +352814,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -352833,14 +352833,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -352849,7 +352849,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -352881,7 +352881,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -352911,7 +352911,7 @@ Etnahta
 
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -352971,7 +352971,7 @@ Merkha
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -352982,7 +352982,7 @@ Tipeha
 Munah
 
 Pazer
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 
 Revia
@@ -353002,7 +353002,7 @@ Munah
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -353036,7 +353036,7 @@ Merkha
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Mahapakh
 Munah
 
@@ -353058,7 +353058,7 @@ Etnahta
 
 
 
-Mahapakh
+Legarmeh
 
 Merkha
 
@@ -353088,7 +353088,7 @@ Dehi
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -353099,7 +353099,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -353155,7 +353155,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -353167,7 +353167,7 @@ Merkha
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -353215,7 +353215,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -353235,7 +353235,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -353259,7 +353259,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -353307,14 +353307,14 @@ Merkha
 Merkha
 Zinor
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -353350,10 +353350,10 @@ Merkha
 Zinor
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -353400,7 +353400,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -353427,7 +353427,7 @@ Munah
 Merkha
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -353466,7 +353466,7 @@ Merkha
 
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 
 Revia
 
@@ -353487,14 +353487,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
 
-Merkha, Ole
+Ole, Merkha
 
 Dehi
 
@@ -353514,7 +353514,7 @@ Etnahta
 Merkha
 
 Mahapakh
-Qadma
+Qadma, Paseq
 Munah
 Munah
 
@@ -353553,11 +353553,11 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
-Mahapakh
+Legarmeh
 
 Munah
 Munah
@@ -353574,7 +353574,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -353583,7 +353583,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -353596,7 +353596,7 @@ Tipeha
 Munah
 
 
-Mahapakh, Qadma
+Mahapakh, Qadma, Paseq
 
 Zinor
 Yerah Ben Yomo
@@ -353617,13 +353617,13 @@ Merkha
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Zarqa, Mahapakh
 
 
-Qadma
+Qadma, Paseq
 Revia
 
 Munah
@@ -353631,7 +353631,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -353668,14 +353668,14 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
 
 Qadma
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 Revia
 Munah
 Munah
@@ -353689,14 +353689,14 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
 Dehi
 Munah
 Etnahta
-Shalshelet
+Shalshelet, Paseq
 Tipeha
 Munah
 
@@ -353715,8 +353715,8 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
-Mahapakh
+Geresh Muqdam, Revia
+Legarmeh
 Iluy
 
 
@@ -353726,7 +353726,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -353740,7 +353740,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -353772,7 +353772,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -353793,7 +353793,7 @@ Munah
 Merkha
 
 Revia
-Merkha, Ole
+Ole, Merkha
 Munah
 
 Dehi
@@ -353824,7 +353824,7 @@ Dehi
 
 Merkha
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -353834,13 +353834,13 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
 
 
-Qadma
+Qadma, Paseq
 
 Iluy
 Revia
@@ -353859,7 +353859,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -353870,7 +353870,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -353878,7 +353878,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -353887,7 +353887,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -353908,12 +353908,12 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
 Merkha
-Qadma
+Qadma, Paseq
 
 Munah
 Dehi
@@ -353935,7 +353935,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Mahapakh
@@ -353954,7 +353954,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Revia
@@ -353975,7 +353975,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -353984,7 +353984,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -354002,7 +354002,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Mahapakh
 Tipeha
 Munah
@@ -354010,7 +354010,7 @@ Munah
 
 
 
-Mahapakh
+Legarmeh
 
 
 Revia
@@ -354039,7 +354039,7 @@ Munah
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -354117,7 +354117,7 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -354126,7 +354126,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354145,7 +354145,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -354164,7 +354164,7 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -354182,7 +354182,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -354214,7 +354214,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -354282,7 +354282,7 @@ Dehi
 Munah
 Etnahta
 
-Merkha
+Merkha, Merkha
 Geresh Muqdam
 Merkha
 
@@ -354292,7 +354292,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354302,7 +354302,7 @@ Munah
 Etnahta
 Mahapakh
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -354311,7 +354311,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -354323,7 +354323,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354357,7 +354357,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -354367,7 +354367,7 @@ Munah
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354378,7 +354378,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -354398,7 +354398,7 @@ Munah
 Etnahta
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -354415,7 +354415,7 @@ Mahapakh
 Munah
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354428,7 +354428,7 @@ Tipeha
 Munah
 
 Zarqa, Mahapakh
-Qadma
+Qadma, Paseq
 
 Munah
 Dehi
@@ -354436,7 +354436,7 @@ Dehi
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -354516,7 +354516,7 @@ Merkha
 
 
 
-Qadma
+Qadma, Paseq
 
 
 Pazer
@@ -354537,7 +354537,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Mahapakh
@@ -354547,7 +354547,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -354566,10 +354566,10 @@ Merkha
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
-Mahapakh
+Legarmeh
 Iluy
 Revia
 Dehi
@@ -354600,7 +354600,7 @@ Etnahta
 
 Merkha
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
@@ -354609,7 +354609,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -354619,7 +354619,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354629,7 +354629,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354639,7 +354639,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -354649,7 +354649,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -354668,10 +354668,10 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Mahapakh
-Qadma
+Qadma, Paseq
 
 Merkha
 Revia
@@ -354700,7 +354700,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -354718,7 +354718,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354728,7 +354728,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -354739,7 +354739,7 @@ Dehi
 Merkha
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Dehi
@@ -354749,7 +354749,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -354758,7 +354758,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354768,7 +354768,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -354788,7 +354788,7 @@ Etnahta
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -354812,7 +354812,7 @@ Etnahta
 
 Merkha
 
-Mahapakh
+Legarmeh
 Zarqa, Mahapakh
 
 Revia
@@ -354821,7 +354821,7 @@ Merkha
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -354853,7 +354853,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -354871,7 +354871,7 @@ Dehi
 
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -354884,7 +354884,7 @@ Etnahta
 
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354894,7 +354894,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Revia
@@ -354910,7 +354910,7 @@ Dehi
 Munah
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -354928,7 +354928,7 @@ Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -354992,7 +354992,7 @@ Munah
 
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -355003,7 +355003,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 
@@ -355040,7 +355040,7 @@ Dehi
 Munah
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -355075,7 +355075,7 @@ Dehi
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Munah
@@ -355084,7 +355084,7 @@ Dehi
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
@@ -355115,12 +355115,12 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Merkha
 
 Revia
 
-Merkha, Ole
+Ole, Merkha
 Munah
 Dehi
 
@@ -355150,17 +355150,17 @@ Munah
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Pazer
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 Pazer
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 
 Revia
@@ -355174,7 +355174,7 @@ Merkha
 
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -355182,7 +355182,7 @@ Munah
 Munah
 Etnahta
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Merkha
@@ -355202,11 +355202,11 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Munah
 
-Mahapakh
+Legarmeh
 
 
 Pazer
@@ -355218,17 +355218,17 @@ Dehi
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Merkha
-Qadma
+Qadma, Paseq
 
 Zinor
 
 Revia
 Merkha
-Merkha, Ole
+Ole, Merkha
 
 
 Merkha
@@ -355252,7 +355252,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -355271,12 +355271,12 @@ Etnahta
 Geresh Muqdam
 Revia
 
-Mahapakh
+Legarmeh
 Munah
 Zinor
 
 Yerah Ben Yomo
-Merkha, Ole
+Ole, Merkha
 
 Munah
 Munah
@@ -355287,16 +355287,16 @@ Revia
 
 
 
-Qadma
+Qadma, Paseq
 Merkha
 Zinor
-Mahapakh
+Legarmeh
 Merkha
 Munah
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -355313,7 +355313,7 @@ Revia
 
 Merkha
 
-Mahapakh
+Legarmeh
 Munah
 
 Zinor
@@ -355339,7 +355339,7 @@ Munah
 
 Mahapakh
 
-Qadma
+Qadma, Paseq
 
 
 Zinor
@@ -355357,10 +355357,10 @@ Tipeha
 Munah
 
 
-Mahapakh
+Legarmeh
 Merkha
 Revia
-Merkha, Ole
+Ole, Merkha
 Dehi
 
 Munah
@@ -355376,7 +355376,7 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -355460,7 +355460,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 
@@ -355478,7 +355478,7 @@ Merkha
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -355494,13 +355494,13 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
 Munah
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -355528,7 +355528,7 @@ Merkha
 Mahapakh
 
 
-Qadma
+Qadma, Paseq
 Revia
 Munah
 
@@ -355575,7 +355575,7 @@ Merkha
 
 Etnahta
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 Merkha
 
@@ -355610,7 +355610,7 @@ Munah
 
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Dehi
@@ -355631,7 +355631,7 @@ Revia
 Merkha
 
 
-Mahapakh
+Legarmeh
 
 Iluy
 Revia
@@ -355650,7 +355650,7 @@ Dehi
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -355698,7 +355698,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Merkha
 
 Merkha
@@ -355743,7 +355743,7 @@ Munah
 Etnahta
 
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Dehi
@@ -355751,14 +355751,14 @@ Munah
 Etnahta
 
 Merkha
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 Munah
 Dehi
 
 Etnahta
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 
 
 Munah
@@ -355779,7 +355779,7 @@ Munah
 Etnahta
 Merkha
 
-Revia, Geresh Muqdam
+Geresh Muqdam, Revia
 Munah
 
 
@@ -355810,7 +355810,7 @@ Etnahta
 Qadma
 Geresh
 
-Munah, Darga
+Darga, Munah
 Revia
 
 Pashta
@@ -355835,13 +355835,13 @@ Geresh
 
 Merkha
 
-Munah
+Munah, Paseq
 Mahapakh
 
 Pashta
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 Etnahta
 
 Merkha
@@ -356022,14 +356022,14 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -356037,7 +356037,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Revia
 Yetiv
 Munah
@@ -356110,7 +356110,7 @@ Revia
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 Zaqef Qatan
@@ -356119,7 +356119,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -356156,12 +356156,12 @@ Munah
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Revia
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Mahapakh
 
@@ -356205,7 +356205,7 @@ Munah
 Zaqef Qatan
 
 Tipeha
-Merkha
+Merkha, Merkha
 
 
 Munah
@@ -356224,7 +356224,7 @@ Etnahta
 
 Revia
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -356300,7 +356300,7 @@ Merkha
 Revia
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -356315,7 +356315,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -356369,7 +356369,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -356451,7 +356451,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -356459,7 +356459,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -356480,10 +356480,10 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 Merkha
@@ -356553,7 +356553,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -356701,7 +356701,7 @@ Darga
 Munah
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -356712,7 +356712,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -356742,7 +356742,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -356754,7 +356754,7 @@ Merkha
 Gershayim
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -356788,7 +356788,7 @@ Merkha
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -356804,7 +356804,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Revia
 
@@ -356832,7 +356832,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Pashta
@@ -356926,9 +356926,9 @@ Munah
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -356951,7 +356951,7 @@ Etnahta
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -356961,14 +356961,14 @@ Tipeha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -356989,14 +356989,14 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 
 Revia
 
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Merkha
 Pashta
@@ -357031,7 +357031,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -357101,7 +357101,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Yetiv
@@ -357164,7 +357164,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -357328,7 +357328,7 @@ Pashta
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -357363,7 +357363,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Darga
@@ -357382,7 +357382,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 
 Darga
@@ -357404,7 +357404,7 @@ Munah
 
 Revia
 
-Mahapakh
+Legarmeh
 
 
 Pashta
@@ -357502,7 +357502,7 @@ Etnahta
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -357516,7 +357516,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -357548,7 +357548,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -357601,7 +357601,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -357611,7 +357611,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -357633,7 +357633,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -357651,7 +357651,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -357663,7 +357663,7 @@ Darga
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -357689,7 +357689,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -357724,7 +357724,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -357743,7 +357743,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -357751,7 +357751,7 @@ Merkha
 
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 Zaqef Qatan
 Merkha
@@ -357759,7 +357759,7 @@ Tipeha
 
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 Zaqef Qatan
 
@@ -357781,7 +357781,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -357803,7 +357803,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -357823,7 +357823,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -357832,7 +357832,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -357854,7 +357854,7 @@ Tipeha
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -357863,7 +357863,7 @@ Munah
 
 Etnahta
 
-Darga
+Darga, Paseq
 
 
 Tevir
@@ -357900,7 +357900,7 @@ Mahapakh
 Pashta
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -357953,7 +357953,7 @@ Munah
 Zaqef Qatan
 
 
-Merkha
+Merkha, Paseq
 Tipeha
 Munah
 Etnahta
@@ -357970,10 +357970,10 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -357986,7 +357986,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -358007,7 +358007,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -358065,9 +358065,9 @@ Tipeha
 
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -358107,7 +358107,7 @@ Tipeha
 Qadma
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -358116,7 +358116,7 @@ Munah
 
 Etnahta
 
-Darga
+Darga, Paseq
 
 
 Tevir
@@ -358192,7 +358192,7 @@ Zaqef Qatan
 
 Tipeha
 
-Darga
+Darga, Paseq
 
 Tevir
 Merkha
@@ -358237,7 +358237,7 @@ Tipeha
 
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -358301,7 +358301,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -358334,7 +358334,7 @@ Tipeha
 
 Munah
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -358352,7 +358352,7 @@ Tipeha
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -358369,7 +358369,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -358393,7 +358393,7 @@ Tipeha
 
 Merkha
 
-Merkha
+Merkha, Paseq
 Tipeha
 Munah
 Etnahta
@@ -358401,7 +358401,7 @@ Merkha
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -358410,7 +358410,7 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Revia
 Pashta
@@ -358481,7 +358481,7 @@ Tipeha
 
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -358497,7 +358497,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -358547,7 +358547,7 @@ Pashta
 Munah
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -358664,7 +358664,7 @@ Tipeha
 
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -358739,7 +358739,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -358755,7 +358755,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -358782,7 +358782,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -358857,9 +358857,9 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -358869,7 +358869,7 @@ Etnahta
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -358921,7 +358921,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Pashta
 
@@ -358932,7 +358932,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -358965,7 +358965,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -358975,7 +358975,7 @@ Etnahta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -359015,7 +359015,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -359023,7 +359023,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -359041,7 +359041,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -359062,7 +359062,7 @@ Mahapakh
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -359092,7 +359092,7 @@ Tipeha
 Munah
 Etnahta
 
-Darga
+Darga, Paseq
 
 
 Tevir
@@ -359113,7 +359113,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Yetiv
 Munah
@@ -359136,7 +359136,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -359173,7 +359173,7 @@ Tipeha
 Merkha
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -359223,7 +359223,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 
@@ -359262,7 +359262,7 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 Revia
 
 
@@ -359339,7 +359339,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Mahapakh
+Legarmeh
 Pashta
 Munah
 
@@ -359384,7 +359384,7 @@ Tipeha
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -359479,7 +359479,7 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Darga
@@ -359491,7 +359491,7 @@ Tipeha
 
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -359530,7 +359530,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tevir
 
@@ -359672,7 +359672,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -359755,7 +359755,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -359787,7 +359787,7 @@ Etnahta
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -359807,7 +359807,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -359917,7 +359917,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -360050,7 +360050,7 @@ Darga
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -360221,7 +360221,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -360512,7 +360512,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -360540,7 +360540,7 @@ Tipeha
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -360563,7 +360563,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -360695,7 +360695,7 @@ Munah
 Etnahta
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -360804,7 +360804,7 @@ Merkha
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -360891,7 +360891,7 @@ Munah
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -360948,7 +360948,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -360995,7 +360995,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -361009,7 +361009,7 @@ Munah
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -361026,7 +361026,7 @@ Merkha
 Tipeha
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -361121,7 +361121,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -361182,7 +361182,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -361215,7 +361215,7 @@ Geresh
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -361272,7 +361272,7 @@ Geresh
 Qadma
 Merkha
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -361304,7 +361304,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -361498,7 +361498,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -361603,7 +361603,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -361813,7 +361813,7 @@ Tipeha
 
 Etnahta
 
-Merkha
+Merkha, Paseq
 Tipeha
 Merkha
 
@@ -361833,7 +361833,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -361889,7 +361889,7 @@ Etnahta
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -362013,7 +362013,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -362041,7 +362041,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -362159,7 +362159,7 @@ Munah
 
 
 Segol
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -362333,7 +362333,7 @@ Munah
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -362388,7 +362388,7 @@ Zaqef Gadol
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Revia
 
 Mahapakh
@@ -362542,7 +362542,7 @@ Pashta
 Zaqef Qatan
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -362599,7 +362599,7 @@ Munah
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 Mahapakh
@@ -362960,7 +362960,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -363008,14 +363008,14 @@ Zaqef Qatan
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -363058,7 +363058,7 @@ Tipeha
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -363096,7 +363096,7 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -363121,7 +363121,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -363218,7 +363218,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -363236,14 +363236,14 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -363261,7 +363261,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -363282,7 +363282,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -363306,7 +363306,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -363330,7 +363330,7 @@ Merkha
 Munah
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -363422,7 +363422,7 @@ Tipeha
 Etnahta
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -363448,7 +363448,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -363510,7 +363510,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -363524,7 +363524,7 @@ Munah
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -363547,7 +363547,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -363557,7 +363557,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -363584,7 +363584,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Etnahta
@@ -363664,7 +363664,7 @@ Merkha
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -363672,7 +363672,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -363776,7 +363776,7 @@ Mahapakh
 Pashta
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -363802,7 +363802,7 @@ Merkha
 
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 
 Zaqef Qatan
@@ -363820,10 +363820,10 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
-Mahapakh
+Legarmeh
 Pashta
 Munah
 Zaqef Qatan
@@ -363893,7 +363893,7 @@ Munah
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -363931,7 +363931,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 Zaqef Qatan
@@ -363948,7 +363948,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -363968,14 +363968,14 @@ Merkha
 Telisha Qetana
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 
 
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Etnahta
@@ -364046,7 +364046,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -364055,7 +364055,7 @@ Merkha
 Tipeha
 
 Qadma
-Mahapakh
+Legarmeh
 
 Pashta
 Munah
@@ -364066,7 +364066,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -364082,7 +364082,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 Qadma
-Mahapakh
+Legarmeh
 
 Pashta
 Munah
@@ -364097,7 +364097,7 @@ Merkha
 
 
 Qadma
-Mahapakh
+Legarmeh
 Pashta
 Munah
 Zaqef Qatan
@@ -364116,7 +364116,7 @@ Tipeha
 Merkha
 
 Qadma
-Mahapakh
+Legarmeh
 
 Pashta
 Munah
@@ -364139,7 +364139,7 @@ Merkha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -364177,7 +364177,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -364191,7 +364191,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -364233,7 +364233,7 @@ Munah
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 
 Pashta
@@ -364274,7 +364274,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -364302,7 +364302,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 
 
@@ -364334,7 +364334,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Merkha
@@ -364362,7 +364362,7 @@ Zaqef Qatan
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -364373,7 +364373,7 @@ Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Munah
@@ -364382,7 +364382,7 @@ Darga
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -364429,7 +364429,7 @@ Munah
 
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -364461,7 +364461,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -364750,7 +364750,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -364758,7 +364758,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -364767,7 +364767,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -364814,7 +364814,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -364881,7 +364881,7 @@ Tevir
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -364896,10 +364896,10 @@ Merkha
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -364955,7 +364955,7 @@ Tipeha
 Munah
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -365012,7 +365012,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -365041,14 +365041,14 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -365080,14 +365080,14 @@ Tipeha
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
 
 Revia
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Etnahta
 Mahapakh
@@ -365114,7 +365114,7 @@ Zaqef Qatan
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -365159,7 +365159,7 @@ Gershayim
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -365231,7 +365231,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -365255,7 +365255,7 @@ Zaqef Qatan
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -365286,7 +365286,7 @@ Zaqef Qatan
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -365294,14 +365294,14 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -365310,14 +365310,14 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -365340,7 +365340,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -365348,7 +365348,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -365432,15 +365432,15 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
 Merkha
 
 Qadma
-Mahapakh
-Pashta, Qadma
+Legarmeh
+Shene Pashtim
 
 
 Merkha
@@ -365481,7 +365481,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -365505,7 +365505,7 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -365520,7 +365520,7 @@ Tipeha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -365536,7 +365536,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -365569,7 +365569,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -365585,7 +365585,7 @@ Tipeha
 
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -365625,7 +365625,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -365681,9 +365681,9 @@ Munah
 Zaqef Qatan
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -365734,7 +365734,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -365774,7 +365774,7 @@ Merkha
 Tipeha
 Etnahta
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -365797,7 +365797,7 @@ Zaqef Qatan
 
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -365816,14 +365816,14 @@ Munah
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -365883,7 +365883,7 @@ Tipeha
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 
@@ -366141,7 +366141,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -366175,14 +366175,14 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -366196,7 +366196,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -366241,7 +366241,7 @@ Telisha Gedola
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -366299,7 +366299,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -366315,7 +366315,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -366381,7 +366381,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Gedola
@@ -366599,7 +366599,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -366656,7 +366656,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -366674,7 +366674,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -366706,14 +366706,14 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Merkha
 
 Tevir
@@ -366724,7 +366724,7 @@ Merkha
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -366831,7 +366831,7 @@ Geresh
 Munah
 Revia
 
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -366874,7 +366874,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -366933,7 +366933,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -366981,7 +366981,7 @@ Telisha Gedola
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 
@@ -367201,7 +367201,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -367234,7 +367234,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 
@@ -367275,7 +367275,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -367403,7 +367403,7 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -367519,7 +367519,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -367542,7 +367542,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -367558,7 +367558,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -367590,7 +367590,7 @@ Geresh
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -367676,7 +367676,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -367728,12 +367728,12 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -367825,7 +367825,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Munah
@@ -367904,7 +367904,7 @@ Segol
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -368002,11 +368002,11 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -368026,9 +368026,9 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 
@@ -368045,10 +368045,10 @@ Tipeha
 Merkha
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -368109,7 +368109,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -368144,11 +368144,11 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -368235,7 +368235,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -368280,13 +368280,13 @@ Pashta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
 Etnahta
 
-Telisha Qetana
+Telisha Qetana, Telisha Qetana
 Qadma
 Geresh
 
@@ -368321,7 +368321,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -368335,7 +368335,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -368388,7 +368388,7 @@ Zaqef Qatan
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -368401,13 +368401,13 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -368425,7 +368425,7 @@ Qadma
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Munah
 Merkha
@@ -368437,7 +368437,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -368528,7 +368528,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -368713,7 +368713,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -368764,7 +368764,7 @@ Revia
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -368915,7 +368915,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -368972,7 +368972,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -368984,7 +368984,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -369076,7 +369076,7 @@ Tipeha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tevir
@@ -369097,7 +369097,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 
 Munah
@@ -369171,7 +369171,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -369307,7 +369307,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -369334,34 +369334,34 @@ Merkha
 Tipeha
 
 
-Darga
+Darga, Paseq
 Tevir
 
-Merkha
+Merkha, Paseq
 Tipeha
 
-Merkha
+Merkha, Paseq
 
 
-Darga
+Darga, Paseq
 Tevir
 
-Merkha
+Merkha, Paseq
 Tipeha
 
-Merkha
+Merkha, Paseq
 
 
-Mahapakh
-Pashta, Qadma
+Legarmeh
+Shene Pashtim
 
-Munah
+Munah, Paseq
 Zaqef Qatan
 
-Merkha
+Merkha, Paseq
 Tipeha
 
-Merkha
+Merkha, Paseq
 
 Telisha Gedola
 Qadma
@@ -369476,7 +369476,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -369530,19 +369530,19 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -369696,7 +369696,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Revia
@@ -369839,8 +369839,8 @@ Munah
 
 
 
-Telisha Qetana
-Qadma
+Telisha Qetana, Paseq
+Qadma, Paseq
 
 
 Geresh
@@ -370024,7 +370024,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 Munah
@@ -370038,7 +370038,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -370047,7 +370047,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -370160,7 +370160,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -370193,7 +370193,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -370233,7 +370233,7 @@ Etnahta
 Qadma
 
 Geresh
-Revia, Munah
+Munah, Revia
 
 
 Pashta
@@ -370276,7 +370276,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -370293,7 +370293,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 Pashta
 
@@ -370364,14 +370364,14 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -370411,7 +370411,7 @@ Etnahta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -370434,7 +370434,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Qadma
 Darga
@@ -370629,7 +370629,7 @@ Munah
 Etnahta
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -370727,7 +370727,7 @@ Qadma
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
@@ -370744,7 +370744,7 @@ Etnahta
 Revia
 Yetiv
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -370777,7 +370777,7 @@ Etnahta
 Munah
 Zaqef Qatan
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -370794,7 +370794,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -370854,7 +370854,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -370914,7 +370914,7 @@ Merkha
 Tipeha
 Munah
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -370974,7 +370974,7 @@ Zaqef Qatan
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -370989,7 +370989,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -371013,7 +371013,7 @@ Tipeha
 
 Munah
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -371023,7 +371023,7 @@ Mahapakh
 Pashta
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -371170,7 +371170,7 @@ Tipeha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 Merkha
@@ -371220,7 +371220,7 @@ Revia
 Telisha Gedola
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -371267,7 +371267,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -371398,7 +371398,7 @@ Etnahta
 Pashta
 Munah
 Zaqef Qatan
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -371464,7 +371464,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -371533,7 +371533,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -371575,7 +371575,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 Munah
@@ -371603,7 +371603,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 
@@ -371633,14 +371633,14 @@ Munah
 Pazer
 Pazer
 
-Munah
+Munah, Paseq
 
 Pazer
 Munah
 
 Pazer
 Telisha Qetana
-Mahapakh, Qadma
+Qadma, Mahapakh
 Pashta
 Zaqef Qatan
 
@@ -371665,7 +371665,7 @@ Munah
 Pazer
 Munah
 Telisha Qetana
-Geresh, Qadma
+Qadma, Geresh
 Revia
 
 Pashta
@@ -371707,7 +371707,7 @@ Telisha Gedola
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -371750,7 +371750,7 @@ Munah
 Pazer
 Munah
 Telisha Qetana
-Geresh, Qadma
+Qadma, Geresh
 
 Pashta
 Zaqef Qatan
@@ -371788,7 +371788,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -371849,7 +371849,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 Munah
 Revia
 
@@ -371883,9 +371883,9 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -371901,7 +371901,7 @@ Zaqef Gadol
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Revia
 Mahapakh
@@ -371931,9 +371931,9 @@ Munah
 Pazer
 Telisha Qetana
 
-Geresh, Qadma
+Qadma, Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -371967,7 +371967,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -371983,7 +371983,7 @@ Tipeha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -372027,13 +372027,13 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 Mahapakh
 
 Pashta
@@ -372052,7 +372052,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -372063,7 +372063,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Zaqef Gadol
 
@@ -372074,7 +372074,7 @@ Tipeha
 Geresh
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -372105,12 +372105,12 @@ Etnahta
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Tipeha
@@ -372119,11 +372119,11 @@ Merkha
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 Tevir
 
 
@@ -372131,7 +372131,7 @@ Tevir
 Merkha
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -372168,7 +372168,7 @@ Qadma
 Geresh
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -372215,7 +372215,7 @@ Revia
 Merkha
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Merkha
 
@@ -372263,7 +372263,7 @@ Pashta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
@@ -372312,7 +372312,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -372341,7 +372341,7 @@ Tevir
 Merkha
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Merkha
 
@@ -372372,7 +372372,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -372439,7 +372439,7 @@ Etnahta
 Revia
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -372470,7 +372470,7 @@ Merkha
 Zinor
 Munah
 Segol
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Gedola
@@ -372533,12 +372533,12 @@ Qadma
 Tipeha
 Etnahta
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -372588,7 +372588,7 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -372668,12 +372668,12 @@ Etnahta
 
 
 Geresh
-Munah
+Munah, Paseq
 Revia
 
 
 Pashta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -372681,7 +372681,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Zaqef Qatan
@@ -372788,7 +372788,7 @@ Pazer
 Munah
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -372799,7 +372799,7 @@ Geresh
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -372856,7 +372856,7 @@ Geresh
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -372891,7 +372891,7 @@ Revia
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -373051,7 +373051,7 @@ Munah
 Telisha Qetana
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -373111,7 +373111,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -373151,7 +373151,7 @@ Munah
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -373179,7 +373179,7 @@ Tipeha
 Merkha
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -373284,7 +373284,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -373296,14 +373296,14 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -373330,7 +373330,7 @@ Merkha
 
 Tipeha
 
-Pashta, Qadma
+Shene Pashtim
 
 Tipeha
 Munah
@@ -373424,7 +373424,7 @@ Merkha
 
 Pazer
 Munah
-Munah
+Munah, Paseq
 Pazer
 
 Pazer
@@ -373441,7 +373441,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -373454,7 +373454,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Munah
@@ -373539,7 +373539,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Revia
 
@@ -373565,7 +373565,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Munah
 Etnahta
@@ -373602,7 +373602,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 
 
@@ -373656,7 +373656,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -373667,7 +373667,7 @@ Zaqef Qatan
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -373708,7 +373708,7 @@ Tipeha
 
 Munah
 
-Munah
+Munah, Paseq
 Pazer
 
 
@@ -373762,7 +373762,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -373809,7 +373809,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -373834,13 +373834,13 @@ Tipeha
 
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Tipeha
 Etnahta
@@ -373888,7 +373888,7 @@ Tipeha
 
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Munah
@@ -373985,7 +373985,7 @@ Tipeha
 Merkha
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -374075,7 +374075,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -374212,7 +374212,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -374248,7 +374248,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -374271,7 +374271,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -374321,7 +374321,7 @@ Munah
 Etnahta
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 
@@ -374333,7 +374333,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -374361,7 +374361,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -374384,7 +374384,7 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Pashta
 Munah
 Zaqef Qatan
@@ -374403,7 +374403,7 @@ Munah
 Zaqef Qatan
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -374433,7 +374433,7 @@ Mahapakh
 Pashta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -374455,7 +374455,7 @@ Telisha Gedola
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -374482,7 +374482,7 @@ Merkha
 Zinor
 Munah
 Segol
-Munah
+Munah, Paseq
 
 
 Munah
@@ -374490,20 +374490,20 @@ Revia
 Mahapakh
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -374561,7 +374561,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -374617,7 +374617,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -374675,7 +374675,7 @@ Tipeha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -374738,7 +374738,7 @@ Munah
 Revia
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -374765,7 +374765,7 @@ Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -374908,7 +374908,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -374943,7 +374943,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -374954,7 +374954,7 @@ Pashta
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -375040,7 +375040,7 @@ Merkha
 Zinor
 Segol
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 
 Munah
@@ -375143,7 +375143,7 @@ Munah
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -375155,7 +375155,7 @@ Munah
 Etnahta
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -375224,7 +375224,7 @@ Pashta
 
 Zaqef Qatan
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Tevir
@@ -375282,7 +375282,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -375316,7 +375316,7 @@ Merkha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -375335,7 +375335,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -375365,7 +375365,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -375451,7 +375451,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -375596,7 +375596,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -375744,7 +375744,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -375870,7 +375870,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -375983,7 +375983,7 @@ Merkha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -376019,7 +376019,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -376057,7 +376057,7 @@ Etnahta
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -376093,7 +376093,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Qetana
@@ -376102,7 +376102,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -376120,12 +376120,12 @@ Tipeha
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -376133,7 +376133,7 @@ Tipeha
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -376147,7 +376147,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -376155,7 +376155,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -376166,7 +376166,7 @@ Etnahta
 Tipeha
 
 Qadma
-Merkha
+Merkha, Paseq
 Zinor
 
 Segol
@@ -376182,13 +376182,13 @@ Zaqef Gadol
 Merkha
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -376196,9 +376196,9 @@ Tipeha
 Merkha
 
 
-Mahapakh
-Pashta, Qadma
-Munah
+Legarmeh
+Shene Pashtim
+Munah, Paseq
 Zaqef Qatan
 Tevir
 Merkha
@@ -376308,7 +376308,7 @@ Qadma
 Geresh
 Merkha
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -376353,7 +376353,7 @@ Pashta
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -376421,7 +376421,7 @@ Etnahta
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -376434,7 +376434,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -376442,7 +376442,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Pashta
@@ -376675,7 +376675,7 @@ Geresh
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -376701,7 +376701,7 @@ Zinor
 
 Munah
 Segol
-Munah
+Munah, Paseq
 
 
 Munah
@@ -376727,7 +376727,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
@@ -376756,9 +376756,9 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tevir
 
 Merkha
@@ -376834,7 +376834,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -376879,7 +376879,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -377059,10 +377059,10 @@ Zaqef Qatan
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -377224,7 +377224,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Tevir
@@ -377248,7 +377248,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -377282,7 +377282,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Telisha Gedola
 
 Gershayim
@@ -377620,7 +377620,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -377672,7 +377672,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -377701,7 +377701,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -377764,10 +377764,10 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -377790,7 +377790,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -377974,7 +377974,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -377983,7 +377983,7 @@ Merkha
 Tipeha
 Etnahta
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -378019,7 +378019,7 @@ Merkha
 Gershayim
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -378067,7 +378067,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 Merkha
 Tipeha
@@ -378153,7 +378153,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -378166,7 +378166,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -378250,7 +378250,7 @@ Munah
 Munah
 
 Segol
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -378347,7 +378347,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -378378,7 +378378,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 Merkha
@@ -378388,7 +378388,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -378424,7 +378424,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -378490,7 +378490,7 @@ Merkha
 
 
 
-Tevir, Merkha
+Merkha, Tevir
 
 Merkha
 Tipeha
@@ -378544,7 +378544,7 @@ Merkha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -378617,7 +378617,7 @@ Merkha
 
 
 Qadma
-Pashta, Mahapakh
+Mahapakh, Pashta
 Munah
 
 Zaqef Qatan
@@ -378868,7 +378868,7 @@ Munah
 
 Revia
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 Merkha
 
 Qadma
@@ -378888,8 +378888,8 @@ Revia
 
 Pashta
 
-Pashta, Merkha, Qadma
-Zaqef Qatan, Munah
+Merkha, Qadma, Pashta
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -378921,7 +378921,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
@@ -378957,7 +378957,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -379016,7 +379016,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Merkha
 Tipeha
 Munah
@@ -379158,9 +379158,9 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 
 Munah
@@ -379299,7 +379299,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -379315,7 +379315,7 @@ Qadma
 Geresh
 
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 
@@ -379465,9 +379465,9 @@ Pashta
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Munah
@@ -379550,7 +379550,7 @@ Munah
 Revia
 
 Pashta
-Pashta, Mahapakh
+Mahapakh, Pashta
 Munah
 Zaqef Qatan
 
@@ -379737,14 +379737,14 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -379763,7 +379763,7 @@ Zaqef Qatan
 Tipeha
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -379812,7 +379812,7 @@ Pazer
 Telisha Qetana
 
 
-Geresh, Qadma
+Qadma, Geresh
 Munah
 Revia
 Telisha Gedola
@@ -379846,7 +379846,7 @@ Merkha
 Tipeha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Telisha Gedola
@@ -379879,7 +379879,7 @@ Munah
 Zaqef Qatan
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -379926,9 +379926,9 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Munah
@@ -379993,7 +379993,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -380031,7 +380031,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -380078,7 +380078,7 @@ Darga
 
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 
@@ -380136,15 +380136,15 @@ Munah
 Telisha Gedola
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
-Zaqef Qatan, Munah
-Zaqef Qatan, Qadma
+Munah, Zaqef Qatan
+Qadma, Zaqef Qatan
 Tipeha
 
 Munah
@@ -380166,7 +380166,7 @@ Merkha
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -380199,7 +380199,7 @@ Merkha
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -380270,7 +380270,7 @@ Revia
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -380343,7 +380343,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -380352,7 +380352,7 @@ Tipeha
 
 
 
-Shalshelet
+Shalshelet, Paseq
 
 Zaqef Qatan
 Yetiv
@@ -380370,7 +380370,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Revia
@@ -380437,7 +380437,7 @@ Tipeha
 Munah
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -380505,7 +380505,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -380551,9 +380551,9 @@ Telisha Gedola
 Qadma
 
 Geresh
-Pashta, Mahapakh
+Mahapakh, Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Qatan
 Tipeha
 
@@ -380626,14 +380626,14 @@ Munah
 
 Munah
 
-Munah
+Munah, Paseq
 
-Munah
+Munah, Paseq
 
 Yerah Ben Yomo
 Qarney Para
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -380646,7 +380646,7 @@ Pashta
 Qadma
 Merkha
 Tevir
-Merkha
+Merkha, Paseq
 
 Tipeha
 
@@ -380702,7 +380702,7 @@ Gershayim
 Mahapakh
 
 Pashta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -380716,7 +380716,7 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -380726,7 +380726,7 @@ Gershayim
 Darga
 
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 
@@ -380757,7 +380757,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -380841,7 +380841,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -380882,7 +380882,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -380928,7 +380928,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -381093,7 +381093,7 @@ Munah
 Revia
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -381121,7 +381121,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -381144,7 +381144,7 @@ Tevir
 Tipeha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Etnahta
 
@@ -381188,7 +381188,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -381213,7 +381213,7 @@ Etnahta
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -381253,7 +381253,7 @@ Geresh
 
 Munah
 Revia
-Mahapakh
+Legarmeh
 Pashta
 Zaqef Qatan
 
@@ -381372,7 +381372,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Pashta
@@ -381399,11 +381399,11 @@ Munah
 Munah
 Telisha Gedola
 
-Mahapakh, Qadma
+Qadma, Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -381507,7 +381507,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -381579,7 +381579,7 @@ Merkha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -381742,7 +381742,7 @@ Pashta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -381826,7 +381826,7 @@ Geresh
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -381894,7 +381894,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -381911,7 +381911,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -381988,9 +381988,9 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -382040,7 +382040,7 @@ Tipeha
 Munah
 Revia
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -382124,11 +382124,11 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tevir
@@ -382212,7 +382212,7 @@ Qadma
 
 Geresh
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -382222,7 +382222,7 @@ Mahapakh
 
 
 Pashta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -382240,7 +382240,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -382303,7 +382303,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -382436,7 +382436,7 @@ Merkha
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -382453,7 +382453,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -382484,12 +382484,12 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -382501,7 +382501,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -382535,7 +382535,7 @@ Revia
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -382637,7 +382637,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -382645,12 +382645,12 @@ Zaqef Qatan
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -382676,7 +382676,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -382699,7 +382699,7 @@ Munah
 Etnahta
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Munah
@@ -382755,7 +382755,7 @@ Mahapakh
 Munah
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -382916,7 +382916,7 @@ Munah
 
 Telisha Qetana
 
-Qadma
+Qadma, Paseq
 Geresh
 
 Munah
@@ -383050,7 +383050,7 @@ Telisha Gedola
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 
 
@@ -383076,7 +383076,7 @@ Telisha Gedola
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -383246,7 +383246,7 @@ Etnahta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -383322,7 +383322,7 @@ Merkha
 
 
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 
 Etnahta
@@ -383482,7 +383482,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -383493,13 +383493,13 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -383638,7 +383638,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -383660,7 +383660,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -383714,7 +383714,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -383731,7 +383731,7 @@ Etnahta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -383748,7 +383748,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -383841,7 +383841,7 @@ Qadma
 Geresh
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -383856,7 +383856,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -383912,7 +383912,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -383994,11 +383994,11 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Revia
 Zinor
 
-Munah
+Munah, Paseq
 Zinor
 Segol
 
@@ -384037,7 +384037,7 @@ Revia
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -384048,7 +384048,7 @@ Qadma
 Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -384083,7 +384083,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -384130,7 +384130,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -384149,7 +384149,7 @@ Munah
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -384203,13 +384203,13 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -384319,7 +384319,7 @@ Etnahta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -384380,7 +384380,7 @@ Etnahta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -384396,7 +384396,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -384425,7 +384425,7 @@ Tipeha
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -384468,7 +384468,7 @@ Zaqef Qatan
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 Merkha
@@ -384501,7 +384501,7 @@ Segol
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -384517,7 +384517,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -384550,7 +384550,7 @@ Munah
 
 Segol
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -384564,7 +384564,7 @@ Telisha Gedola
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -384588,7 +384588,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -384660,7 +384660,7 @@ Etnahta
 Qadma
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -384678,7 +384678,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -384742,7 +384742,7 @@ Pashta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -384766,7 +384766,7 @@ Telisha Gedola
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -384795,13 +384795,13 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -384840,7 +384840,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -384848,7 +384848,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -384904,7 +384904,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -384923,7 +384923,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -384960,7 +384960,7 @@ Tipeha
 Merkha
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -385087,7 +385087,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -385127,7 +385127,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -385209,7 +385209,7 @@ Gershayim
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -385221,7 +385221,7 @@ Tipeha
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -385229,7 +385229,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -385476,7 +385476,7 @@ Tipeha
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -385514,7 +385514,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -385528,7 +385528,7 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -385595,7 +385595,7 @@ Etnahta
 Gershayim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -385664,7 +385664,7 @@ Etnahta
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Qatan
 
@@ -385727,7 +385727,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -385745,7 +385745,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -385779,7 +385779,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Pashta
 
 Munah
@@ -385915,7 +385915,7 @@ Geresh
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -385940,7 +385940,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -385955,7 +385955,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -386109,7 +386109,7 @@ Merkha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Darga
@@ -386166,7 +386166,7 @@ Merkha
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -386261,7 +386261,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Revia
 
@@ -386275,7 +386275,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 
 Munah
@@ -386285,7 +386285,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -386294,7 +386294,7 @@ Revia
 Gershayim
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -386395,7 +386395,7 @@ Revia
 Munah
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -386425,7 +386425,7 @@ Merkha
 
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -386462,7 +386462,7 @@ Etnahta
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -386472,7 +386472,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -386539,7 +386539,7 @@ Merkha
 
 
 
-Tevir, Merkha
+Merkha, Tevir
 
 Merkha
 Tipeha
@@ -386594,7 +386594,7 @@ Merkha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -386645,7 +386645,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -386664,7 +386664,7 @@ Merkha
 
 
 Qadma
-Pashta, Mahapakh
+Mahapakh, Pashta
 Munah
 
 Zaqef Qatan
@@ -386900,7 +386900,7 @@ Munah
 
 Revia
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 Merkha
 
 
@@ -386920,8 +386920,8 @@ Revia
 
 Pashta
 
-Pashta, Merkha, Qadma
-Zaqef Qatan, Munah
+Merkha, Qadma, Pashta
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -386954,7 +386954,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Munah
@@ -386990,7 +386990,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 
@@ -387037,7 +387037,7 @@ Etnahta
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -387074,7 +387074,7 @@ Munah
 Revia
 Gershayim
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Pashta
@@ -387185,7 +387185,7 @@ Zaqef Qatan
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -387230,7 +387230,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 
@@ -387308,7 +387308,7 @@ Merkha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -387342,7 +387342,7 @@ Qadma
 
 
 Geresh
-Mahapakh
+Legarmeh
 Pashta
 
 Munah
@@ -387360,10 +387360,10 @@ Pazer
 
 Pazer
 
-Munah
+Munah, Paseq
 Pazer
 Pazer
-Munah
+Munah, Paseq
 Pazer
 Pazer
 Munah
@@ -387413,7 +387413,7 @@ Pazer
 
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -387475,7 +387475,7 @@ Tipeha
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -387519,7 +387519,7 @@ Tipeha
 Munah
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -387601,9 +387601,9 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -387639,7 +387639,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -387666,7 +387666,7 @@ Telisha Gedola
 Qadma
 
 
-Merkha
+Merkha, Paseq
 Zinor
 
 Munah
@@ -387701,7 +387701,7 @@ Qadma
 Mahapakh
 
 Pashta
-Munah
+Munah, Paseq
 
 Zaqef Qatan
 
@@ -387764,12 +387764,12 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -387869,7 +387869,7 @@ Geresh
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -387893,7 +387893,7 @@ Munah
 
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -387941,7 +387941,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -388008,7 +388008,7 @@ Tipeha
 Etnahta
 
 
-Geresh, Qadma
+Qadma, Geresh
 Darga
 
 Tevir
@@ -388131,7 +388131,7 @@ Revia
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -388170,7 +388170,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Merkha
@@ -388213,7 +388213,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -388276,7 +388276,7 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -388322,9 +388322,9 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -388453,7 +388453,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -388481,7 +388481,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -388614,7 +388614,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -388623,12 +388623,12 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -388705,7 +388705,7 @@ Telisha Gedola
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -388768,7 +388768,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Zaqef Gadol
@@ -388796,7 +388796,7 @@ Tipeha
 
 Etnahta
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -388886,7 +388886,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -388925,7 +388925,7 @@ Munah
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -388971,7 +388971,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -389085,7 +389085,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -389107,7 +389107,7 @@ Munah
 Zaqef Qatan
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -389210,7 +389210,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -389237,15 +389237,15 @@ Telisha Gedola
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -389271,7 +389271,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -389288,7 +389288,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 
 Pashta
@@ -389304,7 +389304,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -389373,7 +389373,7 @@ Pazer
 
 Telisha Qetana
 
-Darga, Qadma
+Qadma, Darga
 
 Tevir
 
@@ -389605,7 +389605,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 
 Pashta
@@ -389619,7 +389619,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -389670,7 +389670,7 @@ Munah
 Revia
 Gershayim
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 Zaqef Qatan
 
@@ -389694,7 +389694,7 @@ Tipeha
 Merkha
 
 
-Tevir, Merkha
+Merkha, Tevir
 
 
 Merkha
@@ -389712,7 +389712,7 @@ Tipeha
 
 
 
-Tevir, Merkha
+Merkha, Tevir
 
 
 Tipeha
@@ -389752,7 +389752,7 @@ Tipeha
 Merkha
 Tipeha
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 Merkha
@@ -389773,7 +389773,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -389909,7 +389909,7 @@ Merkha
 Tipeha
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -389953,7 +389953,7 @@ Munah
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -390049,7 +390049,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -390071,7 +390071,7 @@ Merkha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -390087,7 +390087,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Pashta
+Pashta, Zaqef Qatan
 
 
 Merkha
@@ -390099,7 +390099,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -390154,7 +390154,7 @@ Tipeha
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -390186,7 +390186,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -390307,7 +390307,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -390357,9 +390357,9 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -390408,7 +390408,7 @@ Geresh
 Revia
 
 
-Merkha, Qadma
+Qadma, Merkha
 
 
 Zinor
@@ -390477,7 +390477,7 @@ Tipeha
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -390687,7 +390687,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Pashta
@@ -390714,7 +390714,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -390733,7 +390733,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -390754,19 +390754,19 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -390844,9 +390844,9 @@ Munah
 Pazer
 Munah
 
-Munah
+Munah, Paseq
 
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -390930,7 +390930,7 @@ Merkha
 Qadma
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Qadma
 Geresh
@@ -390976,7 +390976,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 Munah
 Zaqef Qatan
@@ -390987,7 +390987,7 @@ Etnahta
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -391070,7 +391070,7 @@ Tipeha
 
 Merkha
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -391126,7 +391126,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -391510,7 +391510,7 @@ Etnahta
 Tipeha
 Merkha
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 Merkha
@@ -391582,7 +391582,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -391790,12 +391790,12 @@ Etnahta
 
 Munah
 Zaqef Qatan
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Mahapakh
 Pashta
@@ -391880,7 +391880,7 @@ Tipeha
 Etnahta
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 Tevir
@@ -391975,7 +391975,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -392165,7 +392165,7 @@ Tevir
 Merkha
 Tipeha
 
-Munah
+Munah, Paseq
 Etnahta
 
 Merkha
@@ -392485,12 +392485,12 @@ Pashta
 
 Zaqef Qatan
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 Tipeha
 Merkha
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -392506,16 +392506,16 @@ Etnahta
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
 Munah
 Revia
-Pashta, Merkha, Qadma
+Merkha, Qadma, Pashta
 
-Zaqef Qatan, Munah
-Etnahta, Tipeha, Munah
+Munah, Zaqef Qatan
+Tipeha, Munah, Etnahta
 
 Merkha
 
@@ -392551,10 +392551,10 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -392751,7 +392751,7 @@ Telisha Gedola
 Darga
 
 Tevir
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -392840,7 +392840,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Merkha
@@ -392990,7 +392990,7 @@ Zaqef Qatan
 
 Tipeha
 Munah
-Etnahta, Munah
+Munah, Etnahta
 Tipeha
 Merkha
 
@@ -393054,7 +393054,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -393076,7 +393076,7 @@ Mahapakh
 Pashta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -393156,14 +393156,14 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
 
 Tipeha
 
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -393251,13 +393251,13 @@ Tipeha
 
 
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 Etnahta
@@ -393306,7 +393306,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -393347,7 +393347,7 @@ Tipeha
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -393374,7 +393374,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -393397,7 +393397,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -393411,7 +393411,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -393428,7 +393428,7 @@ Merkha
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -393482,7 +393482,7 @@ Pashta
 Munah
 Zaqef Qatan
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -393537,7 +393537,7 @@ Munah
 Zaqef Qatan
 Munah
 Zaqef Qatan
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 Etnahta
 Merkha
@@ -393559,7 +393559,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -393611,7 +393611,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -393664,7 +393664,7 @@ Merkha
 
 Tipeha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -393736,7 +393736,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -393797,7 +393797,7 @@ Munah
 Revia
 Gershayim
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Revia
 Mahapakh
@@ -393840,7 +393840,7 @@ Etnahta
 
 Gershayim
 
-Tevir, Darga
+Darga, Tevir
 
 Merkha
 
@@ -393898,14 +393898,14 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
 
-Pashta, Qadma
-Pashta, Mahapakh, Qadma
+Shene Pashtim
+Mahapakh, Qadma, Pashta
 Munah
 Zaqef Qatan
 
@@ -393979,7 +393979,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -394018,7 +394018,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -394297,7 +394297,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -394454,7 +394454,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -394542,7 +394542,7 @@ Pashta
 Zaqef Qatan
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -394554,7 +394554,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -394726,7 +394726,7 @@ Pashta
 Zaqef Qatan
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 
 
@@ -395077,7 +395077,7 @@ Etnahta
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -395152,7 +395152,7 @@ Tipeha
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -395382,7 +395382,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Etnahta
@@ -395397,7 +395397,7 @@ Zaqef Qatan
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -395413,7 +395413,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -395424,7 +395424,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Merkha
 Tipeha
@@ -395452,7 +395452,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -395565,7 +395565,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 Munah
@@ -395895,9 +395895,9 @@ Tipeha
 
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
-Tipeha, Merkha
+Merkha, Tipeha
 Merkha
 
 
@@ -395951,8 +395951,8 @@ Segol
 
 Munah
 Revia
-Merkha
-Pashta, Qadma
+Merkha, Paseq
+Shene Pashtim
 
 Munah
 
@@ -396023,7 +396023,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -396031,7 +396031,7 @@ Tipeha
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -396039,7 +396039,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -396071,7 +396071,7 @@ Tipeha
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -396121,7 +396121,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -396271,7 +396271,7 @@ Tipeha
 Etnahta
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -396318,7 +396318,7 @@ Darga
 Tevir
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 Pashta
 Munah
@@ -396400,7 +396400,7 @@ Munah
 
 Gershayim
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -396469,7 +396469,7 @@ Etnahta
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -396486,7 +396486,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -396637,7 +396637,7 @@ Tipeha
 
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Tipeha
 Merkha
@@ -396692,8 +396692,8 @@ Segol
 
 Munah
 Revia
-Merkha
-Pashta, Qadma
+Merkha, Paseq
+Shene Pashtim
 
 Munah
 
@@ -396769,7 +396769,7 @@ Telisha Qetana
 Qadma
 Geresh
 Merkha
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -396778,7 +396778,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -396834,7 +396834,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -396878,7 +396878,7 @@ Tipeha
 Merkha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 
@@ -396901,7 +396901,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -397050,7 +397050,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Telisha Qetana
@@ -397067,7 +397067,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -397093,7 +397093,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 Pashta
 
@@ -397118,7 +397118,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -397245,7 +397245,7 @@ Qadma
 Geresh
 
 
-Revia, Munah
+Munah, Revia
 
 
 Pashta
@@ -397343,10 +397343,10 @@ Munah
 Revia
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -397429,7 +397429,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -397483,7 +397483,7 @@ Qadma
 
 Geresh
 Merkha
-Munah
+Munah, Paseq
 Munah
 
 
@@ -397573,13 +397573,13 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -397602,16 +397602,16 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -397627,7 +397627,7 @@ Merkha
 
 Yetiv
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -397648,7 +397648,7 @@ Tipeha
 Etnahta
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Zaqef Gadol
 Tipeha
 Merkha
@@ -397730,7 +397730,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 
@@ -397739,7 +397739,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -397805,7 +397805,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -397903,7 +397903,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -397945,7 +397945,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -397976,7 +397976,7 @@ Zinor
 
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -398023,13 +398023,13 @@ Pashta
 Munah
 
 Zaqef Qatan
-Qadma
+Qadma, Paseq
 Geresh
 Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Etnahta
@@ -398079,7 +398079,7 @@ Munah
 
 Revia
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 Telisha Gedola
@@ -398175,7 +398175,7 @@ Merkha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -398227,7 +398227,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Zaqef Gadol
 Tipeha
@@ -398359,7 +398359,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -398437,7 +398437,7 @@ Munah
 
 
 
-Munah
+Munah, Paseq
 
 
 
@@ -398478,7 +398478,7 @@ Tipeha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -398570,7 +398570,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 
 Etnahta
@@ -398581,7 +398581,7 @@ Revia
 Telisha Qetana
 Qadma
 
-Darga
+Darga, Paseq
 Tevir
 Merkha
 
@@ -398697,7 +398697,7 @@ Gershayim
 Mahapakh
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -398748,7 +398748,7 @@ Qadma
 Geresh
 
 Qadma
-Tevir, Merkha
+Merkha, Tevir
 
 Tipeha
 Munah
@@ -398798,7 +398798,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -398819,7 +398819,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -398859,7 +398859,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -399082,7 +399082,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -399239,12 +399239,12 @@ Tevir
 
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 Etnahta
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -399300,7 +399300,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tevir
@@ -399350,7 +399350,7 @@ Pazer
 
 Pazer
 
-Munah
+Munah, Paseq
 
 Pazer
 Pazer
@@ -399361,18 +399361,18 @@ Pazer
 
 Telisha Qetana
 
-Geresh, Qadma
+Qadma, Geresh
 
 Qadma
 
-Tevir, Merkha
+Merkha, Tevir
 
 Tipeha
 
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -399407,9 +399407,9 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -399456,19 +399456,19 @@ Telisha Gedola
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
 
 Etnahta
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 Zaqef Qatan
 Tipeha
@@ -399520,7 +399520,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -399535,7 +399535,7 @@ Munah
 Zaqef Qatan
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 
@@ -399587,7 +399587,7 @@ Etnahta
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -399606,7 +399606,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -399709,7 +399709,7 @@ Pazer
 
 Telisha Qetana
 
-Geresh, Qadma
+Qadma, Geresh
 
 Revia
 
@@ -399987,7 +399987,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -400038,7 +400038,7 @@ Tipeha
 
 
 Zaqef Gadol
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -400104,14 +400104,14 @@ Merkha
 
 
 
-Tevir, Merkha
+Merkha, Tevir
 
 Tipeha
 Munah
 
 Etnahta
 
-Darga, Qadma
+Qadma, Darga
 
 Tevir
 
@@ -400119,14 +400119,14 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -400194,7 +400194,7 @@ Qadma
 Geresh
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -400299,14 +400299,14 @@ Tipeha
 
 Munah
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -400364,7 +400364,7 @@ Pashta
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -400411,7 +400411,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -400458,7 +400458,7 @@ Merkha
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -400572,7 +400572,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -400678,7 +400678,7 @@ Telisha Gedola
 
 
 Pashta
-Darga
+Darga, Paseq
 Tevir
 
 Tipeha
@@ -400734,10 +400734,10 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -400770,7 +400770,7 @@ Tipeha
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -400936,13 +400936,13 @@ Tevir
 Tipeha
 Munah
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -400987,7 +400987,7 @@ Telisha Qetana
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -401014,7 +401014,7 @@ Pashta
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -401114,9 +401114,9 @@ Etnahta
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -401150,7 +401150,7 @@ Tipeha
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -401191,7 +401191,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -401257,7 +401257,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -401288,10 +401288,10 @@ Revia
 Munah
 Telisha Gedola
 
-Geresh, Qadma
+Qadma, Geresh
 
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 
 Zaqef Qatan
@@ -401325,7 +401325,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -401399,7 +401399,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -401408,7 +401408,7 @@ Merkha
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -401596,7 +401596,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -401608,7 +401608,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -401641,7 +401641,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -401753,7 +401753,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -401776,8 +401776,8 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -401804,7 +401804,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -401844,7 +401844,7 @@ Revia
 Telisha Qetana
 Qadma
 
-Mahapakh
+Legarmeh
 Pashta
 Munah
 Zaqef Qatan
@@ -401934,7 +401934,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -402031,7 +402031,7 @@ Merkha
 Zinor
 
 Munah
-Munah
+Munah, Paseq
 
 Segol
 
@@ -402041,7 +402041,7 @@ Telisha Gedola
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -402100,8 +402100,8 @@ Tipeha
 
 Telisha Qetana
 
-Qadma
-Merkha
+Qadma, Paseq
+Merkha, Paseq
 
 Zinor
 
@@ -402149,7 +402149,7 @@ Pashta
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -402193,7 +402193,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -402229,12 +402229,12 @@ Tipeha
 Munah
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -402402,7 +402402,7 @@ Merkha
 Telisha Qetana
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -402538,7 +402538,7 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Telisha Gedola
 
 
@@ -402595,14 +402595,14 @@ Munah
 
 Revia
 
-Qadma
+Qadma, Paseq
 
 Geresh
 
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -402624,7 +402624,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -402666,7 +402666,7 @@ Tipeha
 Etnahta
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Yetiv
@@ -402707,7 +402707,7 @@ Tipeha
 
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -402722,7 +402722,7 @@ Tipeha
 
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Darga
 Tevir
 
@@ -402737,7 +402737,7 @@ Etnahta
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Yetiv
 Munah
 Zaqef Qatan
@@ -402802,7 +402802,7 @@ Revia
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Revia
 Mahapakh
@@ -402893,7 +402893,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -402999,7 +402999,7 @@ Tipeha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -403181,7 +403181,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -403230,7 +403230,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -403320,7 +403320,7 @@ Munah
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 
@@ -403546,7 +403546,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -403580,7 +403580,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -403601,7 +403601,7 @@ Pashta
 
 Zaqef Qatan
 
-Merkha
+Merkha, Paseq
 Tipeha
 
 
@@ -403612,7 +403612,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -403643,20 +403643,12 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
 Tipeha
 
-
-
-Pashta
-Munah
-Zaqef Qatan
-
-Tipeha
-Merkha
 
 
 Pashta
@@ -403688,6 +403680,14 @@ Munah
 Zaqef Qatan
 
 Tipeha
+Merkha
+
+
+Pashta
+Munah
+Zaqef Qatan
+
+Tipeha
 
 
 
@@ -403701,7 +403701,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -403764,7 +403764,7 @@ Tipeha
 
 Tipeha
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Pashta
@@ -403840,7 +403840,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -403848,7 +403848,7 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -403966,9 +403966,9 @@ Geresh
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Munah
 Zaqef Qatan
 Tipeha
@@ -404011,7 +404011,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -404070,7 +404070,7 @@ Tevir
 Tipeha
 
 Etnahta
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -404268,7 +404268,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -404279,7 +404279,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -404308,7 +404308,7 @@ Pashta
 Munah
 
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -404325,7 +404325,7 @@ Tipeha
 
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 Etnahta
 Mahapakh
 
@@ -404388,8 +404388,8 @@ Tipeha
 
 Geresh
 
-Munah
-Revia, Munah
+Munah, Paseq
+Munah, Revia
 Mahapakh
 
 Pashta
@@ -404497,17 +404497,17 @@ Etnahta
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
 Tipeha
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 Etnahta
 
 
@@ -404578,7 +404578,7 @@ Tipeha
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -404850,7 +404850,7 @@ Merkha
 
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 Munah
@@ -404859,7 +404859,7 @@ Munah
 
 Munah
 
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -404871,7 +404871,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -404889,7 +404889,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -404933,7 +404933,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 
@@ -404942,7 +404942,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -404987,7 +404987,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -405183,7 +405183,7 @@ Tipeha
 Etnahta
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -405202,7 +405202,7 @@ Tipeha
 Munah
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -405212,7 +405212,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 
 
@@ -405378,7 +405378,7 @@ Munah
 
 
 Zaqef Qatan
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 
@@ -405431,7 +405431,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -405476,7 +405476,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -405518,7 +405518,7 @@ Munah
 
 
 
-Telisha Qetana
+Telisha Qetana, Paseq
 
 
 Qadma
@@ -405542,7 +405542,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -405754,7 +405754,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -405763,7 +405763,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Revia
 
 Tevir
@@ -405790,7 +405790,7 @@ Munah
 Telisha Qetana
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Darga
 
@@ -405810,7 +405810,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Darga
@@ -405873,7 +405873,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -405985,7 +405985,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -406081,7 +406081,7 @@ Tipeha
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -406118,7 +406118,7 @@ Munah
 
 Revia
 
-Munah
+Munah, Paseq
 Telisha Gedola
 
 
@@ -406199,7 +406199,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -406242,7 +406242,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -406358,7 +406358,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -406382,7 +406382,7 @@ Zaqef Qatan
 
 Tipeha
 
-Merkha
+Merkha, Paseq
 
 
 
@@ -406408,7 +406408,7 @@ Munah
 Etnahta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -406463,7 +406463,7 @@ Tipeha
 Etnahta
 
 
-Darga
+Darga, Paseq
 Tevir
 
 
@@ -406602,7 +406602,7 @@ Tipeha
 
 Munah
 
-Munah
+Munah, Paseq
 Telisha Gedola
 
 Qadma
@@ -406668,7 +406668,7 @@ Munah
 Telisha Gedola
 
 Qadma
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -406757,7 +406757,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -406898,7 +406898,7 @@ Pashta
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -406939,7 +406939,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -406987,7 +406987,7 @@ Pashta
 Munah
 Zaqef Qatan
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -407028,7 +407028,7 @@ Tipeha
 
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 Munah
@@ -407082,7 +407082,7 @@ Mahapakh
 Pashta
 
 Zaqef Qatan
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -407106,7 +407106,7 @@ Mahapakh
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -407232,7 +407232,7 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -407244,7 +407244,7 @@ Tipeha
 Qadma
 Geresh
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -407274,7 +407274,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -407294,7 +407294,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -407352,7 +407352,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -407444,7 +407444,7 @@ Yetiv
 Munah
 Zaqef Qatan
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -407475,13 +407475,13 @@ Merkha
 Munah
 
 
-Munah
+Munah, Paseq
 
-Munah
+Munah, Paseq
 
 Pazer
 Telisha Qetana
-Qadma
+Qadma, Paseq
 Geresh
 
 Revia
@@ -407546,13 +407546,13 @@ Qadma
 Geresh
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -407606,7 +407606,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -407617,7 +407617,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -407646,7 +407646,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -407710,7 +407710,7 @@ Merkha
 Qadma
 Geresh
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -407740,11 +407740,11 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -407778,7 +407778,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -407813,7 +407813,7 @@ Geresh
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -407829,7 +407829,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -407882,7 +407882,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -407893,7 +407893,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -407901,7 +407901,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -407949,7 +407949,7 @@ Geresh
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -407958,7 +407958,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Zaqef Gadol
@@ -407985,7 +407985,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Zaqef Gadol
@@ -408014,7 +408014,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -408034,7 +408034,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Zaqef Gadol
@@ -408100,7 +408100,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Mahapakh
@@ -408128,7 +408128,7 @@ Telisha Gedola
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Revia
 
 Mahapakh
@@ -408150,7 +408150,7 @@ Munah
 Telisha Qetana
 Qadma
 Geresh
-Mahapakh
+Legarmeh
 Pashta
 Munah
 Zaqef Qatan
@@ -408176,14 +408176,14 @@ Darga
 Munah
 Revia
 Munah
-Munah
+Munah, Paseq
 Pazer
 
 Telisha Qetana
-Qadma
+Qadma, Paseq
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -408291,7 +408291,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -408601,7 +408601,7 @@ Etnahta
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -408875,7 +408875,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -408995,7 +408995,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -409067,7 +409067,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -409105,7 +409105,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -409147,7 +409147,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -409285,7 +409285,7 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 Telisha Gedola
@@ -409317,9 +409317,9 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -409331,7 +409331,7 @@ Tipeha
 Munah
 Etnahta
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -409354,7 +409354,7 @@ Geresh
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Zaqef Gadol
@@ -409411,7 +409411,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -409424,7 +409424,7 @@ Tipeha
 
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
@@ -409474,13 +409474,13 @@ Merkha
 
 
 
-Munah
+Munah, Paseq
 Munah
 
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -409515,7 +409515,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -409538,7 +409538,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -409582,15 +409582,15 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -409680,9 +409680,9 @@ Qadma
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 
@@ -409708,7 +409708,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -409737,7 +409737,7 @@ Munah
 Zinor
 Segol
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -409767,7 +409767,7 @@ Gershayim
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -409815,7 +409815,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -409878,7 +409878,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -409888,7 +409888,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -409950,7 +409950,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Etnahta
@@ -409965,7 +409965,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -410040,7 +410040,7 @@ Merkha
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -410054,7 +410054,7 @@ Tipeha
 Merkha
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -410110,7 +410110,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Zaqef Gadol
@@ -410195,7 +410195,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -410249,7 +410249,7 @@ Merkha
 
 Tipeha
 Etnahta
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -410336,7 +410336,7 @@ Etnahta
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -410353,7 +410353,7 @@ Merkha
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -410422,7 +410422,7 @@ Merkha
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -410467,7 +410467,7 @@ Merkha
 Tipeha
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
@@ -410476,7 +410476,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -410578,7 +410578,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Munah
@@ -410587,7 +410587,7 @@ Zinor
 Munah
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -410609,7 +410609,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -410641,7 +410641,7 @@ Merkha
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -410665,12 +410665,12 @@ Tipeha
 
 Geresh
 
-Pashta, Mahapakh
+Mahapakh, Pashta
 
 Zaqef Qatan
 
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 Munah
@@ -410704,7 +410704,7 @@ Munah
 
 Etnahta
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -410713,7 +410713,7 @@ Pashta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -410883,7 +410883,7 @@ Zaqef Qatan
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 
@@ -411097,7 +411097,7 @@ Merkha Kefula
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Tipeha
@@ -411122,7 +411122,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Qatan
 Merkha
@@ -411136,7 +411136,7 @@ Tevir
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -411159,7 +411159,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -411186,7 +411186,7 @@ Etnahta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -411194,9 +411194,9 @@ Tipeha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -411234,7 +411234,7 @@ Qadma
 Geresh
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -411523,7 +411523,7 @@ Tipeha
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -411533,7 +411533,7 @@ Telisha Qetana
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -411569,7 +411569,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -411956,7 +411956,7 @@ Qadma
 Geresh
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -412014,7 +412014,7 @@ Etnahta
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -412111,7 +412111,7 @@ Munah
 Munah
 
 
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -412127,7 +412127,7 @@ Munah
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Zaqef Gadol
 Merkha
@@ -412258,7 +412258,7 @@ Pazer
 Telisha Qetana
 
 
-Geresh, Qadma
+Qadma, Geresh
 
 Revia
 Yetiv
@@ -412459,7 +412459,7 @@ Tipeha
 Munah
 Etnahta
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -412496,7 +412496,7 @@ Mahapakh
 Pashta
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -412550,7 +412550,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Telisha Gedola
 Mahapakh
 
@@ -412655,7 +412655,7 @@ Tipeha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 
@@ -412733,7 +412733,7 @@ Tipeha
 Etnahta
 
 Tipeha
-Merkha
+Merkha, Paseq
 
 
 
@@ -412745,7 +412745,7 @@ Telisha Qetana
 
 Pashta
 
-Darga
+Darga, Paseq
 
 Tevir
 Tipeha
@@ -412774,7 +412774,7 @@ Tipeha
 Etnahta
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -412828,7 +412828,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -412857,7 +412857,7 @@ Merkha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -412894,7 +412894,7 @@ Geresh
 
 Qadma
 Merkha
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -412937,7 +412937,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Qadma
@@ -412993,7 +412993,7 @@ Munah
 Revia
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 Zaqef Qatan
@@ -413017,7 +413017,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -413063,7 +413063,7 @@ Pashta
 
 Zaqef Qatan
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 Qadma
@@ -413081,7 +413081,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -413109,7 +413109,7 @@ Etnahta
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -413119,7 +413119,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -413193,7 +413193,7 @@ Tipeha
 Munah
 Etnahta
 
-Geresh, Qadma
+Qadma, Geresh
 Mahapakh
 
 Pashta
@@ -413239,7 +413239,7 @@ Qadma
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -413266,171 +413266,171 @@ Qadma
 
 Geresh
 
+Darga, Paseq
+
+Tevir
+
+Merkha
+
+Tipeha
+
+Munah
+Etnahta
+Munah
+Revia
+
+Tevir
+
+Merkha
+
+Tipeha
+
+Merkha
+
+
+Revia
+Pashta
+
+
+Zaqef Qatan
+
+Tipeha
+
+Etnahta
+
+Pashta
+
+Munah
+Zaqef Qatan
+
+
+Tipeha
+
+
+
+Munah
+Revia
+
+Qadma
+Mahapakh
+
+Pashta
+Munah
+
+Zaqef Qatan
+
+Tipeha
+
+Etnahta
+
+
+Munah, Zaqef Qatan
+
+
+
+
+Tipeha
+Munah
+Etnahta
+
+Revia
+
+Shene Pashtim
+Munah
+Zaqef Qatan
+
+
+Revia
+Mahapakh
+
+Pashta
+
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+
+
+
+Merkha
+
+Tipeha
+
+Munah
+Etnahta
+
+Merkha
+Tipeha
+
+
+
+Merkha
+Tevir
+Merkha
+
+Tipeha
+Munah
+Etnahta
+
+Mahapakh
+Pashta
+
+Zaqef Qatan
+
+Merkha
+Tipeha
+Merkha
+
+
+Merkha
+
+Tipeha
+
+
+Munah
+
+Etnahta
+
+Pashta
+Munah
+Zaqef Qatan
+Munah
+Zaqef Qatan
+
+Tipeha
+Merkha
+
+
+Munah
+Zinor
+Munah
+Segol
+
+Mahapakh
+Shene Pashtim
+Zaqef Qatan
+
+Pashta
+
+
+Zaqef Qatan
+
+
+Tipeha
+
+
+Etnahta
+
+
+
+
+
+
+
 Darga
 
 Tevir
-
-Merkha
-
-Tipeha
-
-Munah
-Etnahta
-Munah
-Revia
-
-Tevir
-
-Merkha
-
-Tipeha
-
-Merkha
-
-
-Revia
-Pashta
-
-
-Zaqef Qatan
-
-Tipeha
-
-Etnahta
-
-Pashta
-
-Munah
-Zaqef Qatan
-
-
-Tipeha
-
-
-
-Munah
-Revia
-
-Qadma
-Mahapakh
-
-Pashta
-Munah
-
-Zaqef Qatan
-
-Tipeha
-
-Etnahta
-
-
-Zaqef Qatan, Munah
-
-
-
-
-Tipeha
-Munah
-Etnahta
-
-Revia
-
-Pashta, Qadma
-Munah
-Zaqef Qatan
-
-
-Revia
-Mahapakh
-
-Pashta
-
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-
-
-
-Merkha
-
-Tipeha
-
-Munah
-Etnahta
-
-Merkha
-Tipeha
-
-
-
-Merkha
-Tevir
-Merkha
-
-Tipeha
-Munah
-Etnahta
-
-Mahapakh
-Pashta
-
-Zaqef Qatan
-
-Merkha
-Tipeha
-Merkha
-
-
-Merkha
-
-Tipeha
-
-
-Munah
-
-Etnahta
-
-Pashta
-Munah
-Zaqef Qatan
-Munah
-Zaqef Qatan
-
-Tipeha
-Merkha
-
-
-Munah
-Zinor
-Munah
-Segol
-
-Mahapakh
-Pashta, Qadma
-Zaqef Qatan
-
-Pashta
-
-
-Zaqef Qatan
-
-
-Tipeha
-
-
-Etnahta
-
-
-
-
-
-
-
-Darga
-
-Tevir
 Tipeha
 
 Munah
@@ -413453,14 +413453,14 @@ Etnahta
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -413528,7 +413528,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -413546,7 +413546,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -413591,7 +413591,7 @@ Tipeha
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 
 Munah
@@ -413611,7 +413611,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -413662,7 +413662,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -413706,7 +413706,7 @@ Munah
 Zaqef Qatan
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -413720,7 +413720,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -413790,7 +413790,7 @@ Merkha
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -413816,7 +413816,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -413845,7 +413845,7 @@ Munah
 Zaqef Qatan
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -413859,7 +413859,7 @@ Tipeha
 
 Etnahta
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -413872,7 +413872,7 @@ Tipeha
 Merkha
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -414131,7 +414131,7 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -414305,7 +414305,7 @@ Munah
 Zaqef Qatan
 
 Tipeha
-Etnahta, Munah
+Munah, Etnahta
 
 Merkha
 
@@ -414375,13 +414375,13 @@ Etnahta
 Munah
 Revia
 
-Geresh, Qadma
+Qadma, Geresh
 
 Mahapakh
 Pashta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -414402,7 +414402,7 @@ Munah
 Revia
 Qadma
 
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -414428,7 +414428,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Telisha Gedola
 
 
@@ -414451,7 +414451,7 @@ Geresh
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -414609,7 +414609,7 @@ Gershayim
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -414681,7 +414681,7 @@ Mahapakh
 
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -414715,11 +414715,11 @@ Pazer
 
 Telisha Qetana
 
-Darga, Qadma
+Qadma, Darga
 
 Tevir
 
-Tipeha, Merkha
+Merkha, Tipeha
 
 Etnahta
 
@@ -414734,12 +414734,12 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -414750,7 +414750,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
 Yetiv
@@ -414942,7 +414942,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Qadma
@@ -414983,7 +414983,7 @@ Etnahta
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -415042,8 +415042,8 @@ Merkha
 
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Qadma
 Merkha
@@ -415058,7 +415058,7 @@ Tipeha
 
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 Munah
@@ -415089,8 +415089,8 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -415145,7 +415145,7 @@ Tipeha
 Munah
 Munah
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -415180,7 +415180,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -415243,7 +415243,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -415335,7 +415335,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -415389,7 +415389,7 @@ Tipeha
 Revia
 Pashta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -415440,7 +415440,7 @@ Revia
 Munah
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Darga
 
 Tevir
@@ -415467,7 +415467,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Pashta
@@ -415500,7 +415500,7 @@ Etnahta
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -415574,7 +415574,7 @@ Pashta
 
 Zaqef Qatan
 Yetiv
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
@@ -415639,7 +415639,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -415718,7 +415718,7 @@ Zarqa, Zinor
 
 Segol
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -415776,7 +415776,7 @@ Munah
 Revia
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -415897,13 +415897,13 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
 Revia
 
-Munah
+Munah, Paseq
 
 Zinor
 
@@ -415986,7 +415986,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Darga
+Darga, Paseq
 
 
 Tevir
@@ -416017,7 +416017,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 Merkha
 
@@ -416075,7 +416075,7 @@ Merkha
 Revia
 Gershayim
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 
@@ -416104,10 +416104,10 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 
@@ -416132,7 +416132,7 @@ Tipeha
 Etnahta
 
 Qadma
-Darga
+Darga, Paseq
 Tevir
 Tipeha
 
@@ -416213,19 +416213,19 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Merkha
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 Munah
 Merkha
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Telisha Gedola
 
@@ -416303,7 +416303,7 @@ Telisha Gedola
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Qadma
 
@@ -416427,7 +416427,7 @@ Gershayim
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Revia
 Pashta
 
@@ -416438,7 +416438,7 @@ Geresh
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 
 Tipeha
@@ -416483,7 +416483,7 @@ Geresh
 
 Revia
 Munah
-Munah
+Munah, Paseq
 Telisha Gedola
 
 Qadma
@@ -416620,7 +416620,7 @@ Telisha Gedola
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -416637,8 +416637,8 @@ Tipeha
 
 
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -416736,7 +416736,7 @@ Zaqef Qatan
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -416790,9 +416790,9 @@ Merkha
 Gershayim
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -416856,7 +416856,7 @@ Merkha
 
 
 Munah
-Munah
+Munah, Paseq
 Telisha Gedola
 Qadma
 Geresh
@@ -416922,7 +416922,7 @@ Tipeha
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -417048,7 +417048,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -417066,7 +417066,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 Munah
 Revia
 Pashta
@@ -417075,7 +417075,7 @@ Zaqef Qatan
 Revia
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -417089,7 +417089,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -417141,7 +417141,7 @@ Munah
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -417202,7 +417202,7 @@ Tipeha
 
 Etnahta
 Qadma
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -417213,7 +417213,7 @@ Merkha
 
 Munah
 
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -417246,7 +417246,7 @@ Merkha
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -417257,12 +417257,12 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -417401,7 +417401,7 @@ Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -417516,7 +417516,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Tipeha
@@ -417552,9 +417552,9 @@ Pashta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tevir
@@ -417646,7 +417646,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -417687,7 +417687,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tevir
@@ -417868,7 +417868,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -417881,7 +417881,7 @@ Pashta
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -417906,7 +417906,7 @@ Mahapakh
 Pashta
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -417915,7 +417915,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -417974,9 +417974,9 @@ Qadma
 Geresh
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -417990,7 +417990,7 @@ Tipeha
 Etnahta
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -418005,14 +418005,14 @@ Geresh
 
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
 
 Mahapakh
 Pashta
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -418078,7 +418078,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -418138,7 +418138,7 @@ Merkha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 Munah
@@ -418168,7 +418168,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -418177,7 +418177,7 @@ Revia
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -418192,7 +418192,7 @@ Munah
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -418295,7 +418295,7 @@ Telisha Qetana
 Qadma
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -418326,7 +418326,7 @@ Segol
 
 Munah
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -418354,7 +418354,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -418456,14 +418456,14 @@ Revia
 Qadma
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -418476,7 +418476,7 @@ Etnahta
 Mahapakh
 Pashta
 
-Munah
+Munah, Paseq
 
 Zaqef Qatan
 
@@ -418492,7 +418492,7 @@ Geresh
 Revia
 
 Pashta
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -418620,7 +418620,7 @@ Tipeha
 
 Merkha
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 Munah
 Zaqef Qatan
@@ -418656,7 +418656,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -418694,7 +418694,7 @@ Etnahta
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -418735,7 +418735,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Qadma
 Geresh
 Mahapakh
@@ -418754,7 +418754,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -418768,7 +418768,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tevir
 
@@ -418789,7 +418789,7 @@ Telisha Qetana
 
 Qadma
 Geresh
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -418797,7 +418797,7 @@ Pashta
 Qadma
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -418838,7 +418838,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -418860,7 +418860,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -418898,7 +418898,7 @@ Zaqef Qatan
 
 Munah
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -418977,7 +418977,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -419082,7 +419082,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -419101,7 +419101,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -419143,7 +419143,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Pashta
@@ -419189,7 +419189,7 @@ Munah
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Mahapakh
 Pashta
@@ -419205,7 +419205,7 @@ Zaqef Qatan
 Tipeha
 
 
-Etnahta, Munah
+Munah, Etnahta
 
 Mahapakh
 Pashta
@@ -419219,7 +419219,7 @@ Merkha
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -419256,7 +419256,7 @@ Zaqef Qatan
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -419269,7 +419269,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -419281,7 +419281,7 @@ Pashta
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -419292,7 +419292,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Revia
 
 Mahapakh
@@ -419309,7 +419309,7 @@ Tipeha
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 Telisha Gedola
@@ -419377,7 +419377,7 @@ Tipeha
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -419394,7 +419394,7 @@ Pashta
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 Merkha
@@ -419431,7 +419431,7 @@ Munah
 
 Etnahta
 
-Tipeha, Merkha
+Merkha, Tipeha
 Merkha
 
 
@@ -419460,10 +419460,10 @@ Merkha
 
 Tipeha
 
-Etnahta, Munah
+Munah, Etnahta
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Gershayim
 
@@ -419471,7 +419471,7 @@ Munah
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -419498,7 +419498,7 @@ Qadma
 
 Geresh
 
-Revia, Munah
+Munah, Revia
 
 
 Pashta
@@ -419531,7 +419531,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -419554,7 +419554,7 @@ Tipeha
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -419630,7 +419630,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -419747,7 +419747,7 @@ Qadma
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Darga
 
@@ -419881,7 +419881,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -419891,7 +419891,7 @@ Etnahta
 Tipeha
 
 
-Munah
+Munah, Paseq
 
 Qadma
 Geresh
@@ -419962,7 +419962,7 @@ Munah
 Etnahta
 
 Gershayim
-Darga
+Darga, Paseq
 
 Tevir
 Tipeha
@@ -420077,7 +420077,7 @@ Telisha Qetana
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -420105,7 +420105,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -420415,7 +420415,7 @@ Qadma
 Zaqef Qatan
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -420459,11 +420459,11 @@ Merkha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -420551,7 +420551,7 @@ Telisha Gedola
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -420575,7 +420575,7 @@ Tipeha
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -420601,7 +420601,7 @@ Munah
 
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -420627,7 +420627,7 @@ Telisha Qetana
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -420766,7 +420766,7 @@ Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -420792,7 +420792,7 @@ Munah
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -420803,7 +420803,7 @@ Tipeha
 
 Munah
 Zaqef Qatan
-Tipeha, Merkha
+Merkha, Tipeha
 Munah
 Etnahta
 
@@ -420963,7 +420963,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Yetiv
 Munah
 Zaqef Qatan
@@ -420986,7 +420986,7 @@ Zaqef Qatan
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 Tipeha
 
@@ -421183,7 +421183,7 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Merkha
@@ -421220,7 +421220,7 @@ Etnahta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Pashta
 
 Zaqef Qatan
@@ -421231,7 +421231,7 @@ Tipeha
 
 
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -421353,13 +421353,13 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
 Zaqef Qatan
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -421452,7 +421452,7 @@ Revia
 Mahapakh
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -421494,7 +421494,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -421513,7 +421513,7 @@ Tipeha
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Mahapakh
 
@@ -421545,7 +421545,7 @@ Geresh
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -421585,7 +421585,7 @@ Tipeha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Merkha
@@ -421605,7 +421605,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Qadma
 Zaqef Qatan
@@ -421803,7 +421803,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 
@@ -422084,7 +422084,7 @@ Qadma
 Geresh
 Qadma
 
-Darga
+Darga, Paseq
 
 Tevir
 
@@ -422141,7 +422141,7 @@ Merkha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -422162,7 +422162,7 @@ Merkha
 
 Zaqef Gadol
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -422292,7 +422292,7 @@ Zaqef Qatan
 
 Tevir
 
-Merkha
+Merkha, Paseq
 Tipeha
 Munah
 Etnahta
@@ -422333,7 +422333,7 @@ Etnahta
 Munah
 Telisha Gedola
 
-Munah
+Munah, Paseq
 
 Gershayim
 
@@ -422372,7 +422372,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Merkha
@@ -422425,7 +422425,7 @@ Tipeha
 
 
 
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -422564,7 +422564,7 @@ Telisha Gedola
 
 
 Gershayim
-Munah
+Munah, Paseq
 
 Munah
 Revia
@@ -422706,7 +422706,7 @@ Merkha
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 Merkha
@@ -422722,7 +422722,7 @@ Merkha
 Tipeha
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -422946,7 +422946,7 @@ Munah
 
 Etnahta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -423020,7 +423020,7 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 
@@ -423055,7 +423055,7 @@ Merkha
 
 Gershayim
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -423096,7 +423096,7 @@ Munah
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -423163,7 +423163,7 @@ Tipeha
 
 Etnahta
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -423188,7 +423188,7 @@ Revia
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -423259,7 +423259,7 @@ Zaqef Qatan
 
 Geresh
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -423282,7 +423282,7 @@ Qadma
 
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Pashta
 
@@ -423292,7 +423292,7 @@ Zaqef Qatan
 Tipeha
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -423321,7 +423321,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -423359,7 +423359,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -423374,7 +423374,7 @@ Merkha
 Munah
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -423403,7 +423403,7 @@ Gershayim
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Munah
 Zaqef Qatan
@@ -423417,7 +423417,7 @@ Tipeha
 Etnahta
 Mahapakh
 Pashta
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -423443,7 +423443,7 @@ Segol
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -423519,7 +423519,7 @@ Geresh
 Revia
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -423574,7 +423574,7 @@ Zaqef Qatan
 Gershayim
 
 Merkha
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -423608,7 +423608,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -423631,9 +423631,9 @@ Mahapakh
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 Munah
@@ -423690,7 +423690,7 @@ Tipeha
 
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -423734,14 +423734,14 @@ Revia
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Tipeha
 Merkha
 
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Merkha
 Tipeha
@@ -423806,7 +423806,7 @@ Tipeha
 
 Gershayim
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -423825,7 +423825,7 @@ Tipeha
 
 Etnahta
 
-Zaqef Qatan, Qadma
+Qadma, Zaqef Qatan
 
 Tipeha
 
@@ -423916,7 +423916,7 @@ Merkha
 
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -423934,7 +423934,7 @@ Pashta
 Munah
 Zaqef Qatan
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Munah
@@ -424033,7 +424033,7 @@ Geresh
 
 Revia
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Pashta
 Munah
@@ -424059,7 +424059,7 @@ Merkha
 Tipeha
 
 Etnahta
-Munah
+Munah, Paseq
 
 Munah
 
@@ -424133,7 +424133,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -424184,7 +424184,7 @@ Merkha
 Pazer
 Munah
 Munah
-Munah
+Munah, Paseq
 
 
 Pazer
@@ -424230,7 +424230,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -424266,7 +424266,7 @@ Tipeha
 
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -424503,7 +424503,7 @@ Zaqef Qatan
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 
 Pashta
@@ -424650,7 +424650,7 @@ Merkha
 
 Geresh
 
-Munah
+Munah, Paseq
 
 Munah
 
@@ -424743,7 +424743,7 @@ Etnahta
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Merkha
 Tipeha
 Merkha
@@ -424758,7 +424758,7 @@ Geresh
 
 Revia
 
-Munah
+Munah, Paseq
 Telisha Gedola
 Munah
 
@@ -424834,7 +424834,7 @@ Tipeha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 
@@ -424859,7 +424859,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -424957,7 +424957,7 @@ Qadma
 
 Geresh
 
-Munah
+Munah, Paseq
 Munah
 
 Revia
@@ -425000,7 +425000,7 @@ Telisha Qetana
 Qadma
 
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -425026,7 +425026,7 @@ Revia
 Qadma
 
 Geresh
-Munah
+Munah, Paseq
 Munah
 
 
@@ -425093,7 +425093,7 @@ Zaqef Qatan
 Tipeha
 Merkha
 
-Munah
+Munah, Paseq
 Munah
 Revia
 
@@ -425101,7 +425101,7 @@ Revia
 
 Munah
 Zaqef Qatan
-Pashta, Qadma
+Shene Pashtim
 Zaqef Qatan
 
 Tipeha
@@ -425143,9 +425143,9 @@ Merkha
 
 Telisha Gedola
 
-Geresh, Qadma
+Qadma, Geresh
 
-Munah
+Munah, Paseq
 
 
 Munah
@@ -425161,7 +425161,7 @@ Mahapakh
 Pashta
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Munah
 
@@ -425422,7 +425422,7 @@ Mahapakh
 
 
 
-Pashta, Qadma
+Shene Pashtim
 Telisha Gedola
 
 
@@ -425570,7 +425570,7 @@ Munah
 
 
 Revia
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -425694,7 +425694,7 @@ Pashta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Tipeha
 
@@ -425709,7 +425709,7 @@ Pashta
 
 
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Mahapakh
 
 Pashta
@@ -425824,7 +425824,7 @@ Merkha
 
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 Zaqef Qatan
 
@@ -425835,7 +425835,7 @@ Etnahta
 
 
 Munah
-Munah
+Munah, Paseq
 
 Pazer
 
@@ -425877,7 +425877,7 @@ Munah
 Revia
 Qadma
 Mahapakh
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -425899,9 +425899,9 @@ Tipeha
 
 Munah
 Munah
-Munah
+Munah, Paseq
 
-Telisha Qetana
+Telisha Qetana, Paseq
 
 Qadma
 
@@ -425991,8 +425991,8 @@ Zinor
 
 Segol
 
-Pashta, Qadma
-Zaqef Qatan, Munah
+Shene Pashtim
+Munah, Zaqef Qatan
 
 Zaqef Gadol
 
@@ -426004,7 +426004,7 @@ Etnahta
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 Tipeha
 
 
@@ -426017,14 +426017,14 @@ Segol
 Munah
 
 
-Munah
+Munah, Paseq
 Telisha Gedola
 
 
 
-Mahapakh, Qadma
+Qadma, Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -426123,7 +426123,7 @@ Revia
 
 Pashta
 
-Zaqef Qatan, Munah
+Munah, Zaqef Qatan
 
 Merkha
 
@@ -426167,7 +426167,7 @@ Tipeha
 Munah
 Etnahta
 
-Pashta, Qadma
+Shene Pashtim
 
 
 Zaqef Qatan
@@ -426401,7 +426401,7 @@ Qadma
 Mahapakh
 
 
-Pashta, Qadma
+Shene Pashtim
 
 Munah
 Zaqef Qatan
@@ -426458,7 +426458,7 @@ Munah
 Etnahta
 
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 
@@ -426517,7 +426517,7 @@ Merkha
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Zaqef Qatan
 
@@ -426530,7 +426530,7 @@ Etnahta
 Munah
 Revia
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 
 Zaqef Qatan
@@ -426548,13 +426548,13 @@ Tipeha
 
 
 Gershayim
-Munah
+Munah, Paseq
 Munah
 Revia
 
 Mahapakh
 
-Pashta, Qadma
+Shene Pashtim
 Munah
 Revia
 Pashta
