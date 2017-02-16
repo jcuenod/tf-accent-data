@@ -13,7 +13,8 @@ unicode_accent_range = '[\u0591-\u05AE\u05C0]'
 
 composite_accents = {
 	"Shene Pashtim": ["Qadma", "Pashta"],
-	"Legarmeh": ['Mahapakh', 'Paseq']
+	"Mahapakh Legarmeh": ['Mahapakh', 'Paseq'],
+	"Legarmeh": ['Munah', 'Paseq']
 }
 composite_accent_values = list(composite_accents.values())
 
@@ -29,20 +30,27 @@ def whichMatch(word):
 	if ret in composite_accent_values:
 		newret = list(composite_accents.keys())[composite_accent_values.index(ret)]
 		ret = [newret]
-	return ret
+	return ", ".join(ret)
 
 print("\nBeginning nodes accent loop:")
 counter = 0
 node_data = []
+composites_list = {}
 for n in F.otype.s('word'):
 	word = F.g_word_utf8.v(n) + F.trailer_utf8.v(n)
 	if re.search(unicode_accent_range, word):
+		this_accent = whichMatch(word)
+		this_ref = T.sectionFromNode(n)
 		node_data.append({
 			'node': n,
 			'word': word,
-			'accent': whichMatch(word),
-			'ref': T.sectionFromNode(n)
+			'accent': this_accent,
+			'ref': this_ref
 		})
+		if this_accent not in composites_list:
+			composites_list[this_accent] = { "counter": 0, "refs": [] }
+		composites_list[this_accent]["counter"] += 1
+		composites_list[this_accent]["refs"].append("{} {}:{}".format(*this_ref))
 	else:
 		node_data.append({
 			'node': n,
@@ -54,11 +62,8 @@ for n in F.otype.s('word'):
 	if counter % 50000 == 0:
 		print(" |", counter)
 print(" -", counter)
-print("Complete\n\n")
+print("Complete\n")
 
-print("List of composites found:\n--\n\t","\n\t".join(list(set(map(lambda x: ", ".join(x), composite_list)))))
-
-print("")
 tf_accent_filename = "accents.tf"
 tf_accent_fileheader = '''@node
 @valueType=str
@@ -71,3 +76,14 @@ print("writing file:", tf_accent_filename)
 with open(tf_accent_filename, mode='wt', encoding='utf-8') as out:
 	out.write(tf_accent_fileheader)
 	out.write('\n'.join(map(lambda x: ", ".join(x['accent']), node_data)))
+
+composite_accent_log_filename = 'composite_accents.log'
+print("writing file:", composite_accent_log_filename)
+with open(composite_accent_log_filename, mode='wt', encoding='utf-8') as out:
+	sorted_list = list(sorted(composites_list, key=lambda k: composites_list[k]['counter'], reverse=True))
+	for k in sorted_list:
+		v = composites_list[k]
+		out.write("\n" + k + ": " + str(v["counter"]))
+		if v["counter"] < 50:
+			out.write("\n" + ", ".join(v["refs"]))
+		out.write("\n")
