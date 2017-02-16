@@ -30,7 +30,7 @@ def whichMatch(word):
 	if ret in composite_accent_values:
 		newret = list(composite_accents.keys())[composite_accent_values.index(ret)]
 		ret = [newret]
-	return ", ".join(ret)
+	return ret
 
 print("\nBeginning nodes accent loop:")
 counter = 0
@@ -40,17 +40,19 @@ for n in F.otype.s('word'):
 	word = F.g_word_utf8.v(n) + F.trailer_utf8.v(n)
 	if re.search(unicode_accent_range, word):
 		this_accent = whichMatch(word)
+		str_this_accent = ", ".join(this_accent)
 		this_ref = T.sectionFromNode(n)
 		node_data.append({
 			'node': n,
 			'word': word,
-			'accent': this_accent,
+			'accent': str_this_accent,
 			'ref': this_ref
 		})
-		if this_accent not in composites_list:
-			composites_list[this_accent] = { "counter": 0, "refs": [] }
-		composites_list[this_accent]["counter"] += 1
-		composites_list[this_accent]["refs"].append("{} {}:{}".format(*this_ref))
+		if len(this_accent) > 1:
+			if str_this_accent not in composites_list:
+				composites_list[str_this_accent] = { "counter": 0, "refs": [] }
+			composites_list[str_this_accent]["counter"] += 1
+			composites_list[str_this_accent]["refs"].append("{} {}:{}".format(*this_ref))
 	else:
 		node_data.append({
 			'node': n,
