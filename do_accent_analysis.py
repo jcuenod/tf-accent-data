@@ -10,22 +10,17 @@ api.makeAvailableIn(globals())
 
 # 0591-05AE	= normal accents
 # 05C0		= paseq
-unicode_accent_range = '[\u0591-\u05AE\u05C0]'
-
-# composite_accents = {
-# 	"Shene Pashtim": ["Qadma", "Pashta"],
-# 	"Mahapakh Legarmeh": ['Mahapakh', 'Paseq'],
-# 	"Legarmeh": ['Munah', 'Paseq']
-# }
-# composite_accent_values = list(composite_accents.values())
+# 05BE		= Maqqef
+# 05BD		= Meteg
+# 05C3		= Sof Pasuq
+unicode_accent_range = '[\u0591-\u05AE\u05C0\u05BE\u05BD\u05C3]'
 
 def normalisedUnicodeNameFromCharacter(character):
-	return re.sub(r'HEBREW (ACCENT|PUNCTUATION) ', "", unicodedata.name(character)).title()
+	return re.sub(r'HEBREW (ACCENT|PUNCTUATION|POINT) ', "", unicodedata.name(character)).title()
 
 composite_list = []
 def whichMatch(word, prose_or_poetry):
 	accent_matches = re.findall(unicode_accent_range, word)
-	# print("".join(map(lambda x: "0x{:04x}".format(ord(x)), accent_matches)))
 	accent_data = dataFromAccentCombo("".join(accent_matches), prose_or_poetry)
 	if not accent_data:
 		ret = {
