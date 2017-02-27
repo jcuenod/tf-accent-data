@@ -6,6 +6,7 @@
 accentCatalog = {
 	"prose": {
 		"\u05C3": {"name": "Sof Pasuq", "rank": "0", "final": "true", "type": "disjunctive"},
+		"\u05BD\u05C3": {"name": "Silluq with Sof Pasuq", "rank": "0", "final": "true", "type": "disjunctive"},
 		"\u0596\u05C3": {"name": "Mëayla with Sof Pasuq", "rank": "0", "final": "true", "type": "disjunctive"},
 		"\u05A5\u05C3": {"name": "Merkha with Sof Pasuq", "rank": "0", "final": "true", "type": "disjunctive"},
 		"\u0591": {"name": "Atnach", "rank": "0", "type": "disjunctive"},
