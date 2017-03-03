@@ -19,12 +19,12 @@ def normalisedUnicodeNameFromCharacter(character):
 	return re.sub(r'HEBREW (ACCENT|PUNCTUATION|POINT) ', "", unicodedata.name(character)).title()
 
 composite_list = []
-def whichMatch(word, prose_or_poetry):
+def whichMatch(word, ref_tuple):
 	accent_matches = re.findall(unicode_accent_range, word)
-	accent_data = dataFromAccentCombo("".join(accent_matches), prose_or_poetry)
+	accent_data = dataFromAccentCombo("".join(accent_matches), ref_tuple)
 	if not accent_data:
 		ret = {
-			"name": ", ".join(list(map(lambda x: normalisedUnicodeNameFromCharacter(x), accent_matches))),
+			"name": "[" + ", ".join(list(map(lambda x: normalisedUnicodeNameFromCharacter(x), accent_matches))) + "]",
 			"quality": "unknown"
 		}
 	else:
@@ -41,8 +41,7 @@ node_data = []
 for n in F.otype.s('word'):
 	word = F.g_word_utf8.v(n) + F.trailer_utf8.v(n)
 	if re.search(unicode_accent_range, word):
-		prose_or_poetry = "poetic" if T.sectionFromNode(n)[0] in ["Psalms","Job","Proverbs"] else "prose"
-		this_accent = whichMatch(word, prose_or_poetry)
+		this_accent = whichMatch(word, T.sectionFromNode(n))
 		this_ref = T.sectionFromNode(n)
 		node_data.append({
 			'node': n,
