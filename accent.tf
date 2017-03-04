@@ -1,7 +1,7 @@
 @node
 @valueType=str
-@writtenBy=James Cuénod & ETCBC4c
-@dateWritten=2017-03-03T04:56:47Z
+@writtenBy=James Cuénod
+@dateWritten=2017-03-04T15:13:34Z
 
 
 Tipcha
@@ -259759,7 +259759,7 @@ Munnach with Zaqef Qatan
 
 Tipcha
 
-[Merkha, Etnahta]
+Merkha with Atnach
 Pashta
 Meteg
 Zaqef Qatan

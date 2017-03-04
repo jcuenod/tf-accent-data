@@ -12,6 +12,7 @@ accentCatalog = {
 		"\u0591": {"name": "Atnach", "rank": "0", "type": "disjunctive"},
 		"\u0596\u0591": {"name": "Mëayla with Atnach", "rank": "0", "type": "disjunctive"},
 		"\u05A3\u0591": {"name": "Munnach with Atnach", "rank": "0", "type": "disjunctive"},
+		"\u05A5\u0591": {"name": "Merkha with Atnach", "rank": "0", "final": "true", "type": "disjunctive"},
 		"\u0592": {"name": "Segol", "rank": "1", "type": "disjunctive"},
 		"\u0593\u05C0": {"name": "Shalshelet", "rank": "1", "type": "disjunctive"},
 		"\u0594": {"name": "Zaqef Qatan", "rank": "1", "type": "disjunctive"},
@@ -153,15 +154,6 @@ accentCatalog = {
 
 # New stuff added from here:
 
-# accent_map = []
-# pp = "prose"
-# for dc in accentCatalog[pp]:
-# 	for k in accentCatalog[pp][dc]:
-# 		accent_map.append({
-# 			"accent": k,
-# 			"poetry-prose": pp,
-# 			"disjconj": dc
-# 		})
 
 def prose_or_poetry(ref_tuple):
 	if ref_tuple[0] in ["Psalms","Job","Proverbs"]:

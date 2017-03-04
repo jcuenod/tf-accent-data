@@ -69,10 +69,10 @@ for n in F.otype.s('word'):
 print(" -", counter)
 print("Complete\n")
 
-tf_accent_filename = "accents.tf"
+tf_accent_filename = "accent.tf"
 tf_accent_fileheader = '''@node
 @valueType=str
-@writtenBy=James Cuénod & ETCBC4c
+@writtenBy=James Cuénod
 @dateWritten={0}
 
 '''.format(datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"))
@@ -86,7 +86,7 @@ with open(tf_accent_filename, mode='wt', encoding='utf-8') as out:
 tf_accent_quality_filename = "accent_quality.tf"
 tf_accent_quality_fileheader = '''@node
 @valueType=str
-@writtenBy=James Cuénod & ETCBC4c
+@writtenBy=James Cuénod
 @dateWritten={0}
 
 '''.format(datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"))
