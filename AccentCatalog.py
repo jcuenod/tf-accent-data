@@ -148,7 +148,7 @@ accentCatalog = {
 		"\u05A4\u05A5": {"name": "Mahpakh with Merkha", "rank": "4", "type": "conjunctive"},
 		"\u05BE": {"name": "Maqqef", "rank": "4", "type": "conjunctive"},
 		"\u05BD": {"name": "Meteg", "rank": "4", "type": "conjunctive"},
-		"": {"name": "None", "rank": "5"}
+		# "": {"name": "None", "rank": "5"}
 	}
 }
 
@@ -162,7 +162,7 @@ def prose_or_poetry(ref_tuple):
 				return "prose"
 		return "poetic"
 	else:
-		 return "prose"
+		return "prose"
 
 def dataFromAccentCombo(accent_combo, ref_tuple):
 	accent_type = prose_or_poetry(ref_tuple)
