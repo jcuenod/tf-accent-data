@@ -2,7 +2,7 @@
 @author=James Cuénod
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-03-06T02:23:13Z
+@dateWritten=2017-03-07T04:02:07Z
 
 2	disjunctive
 conjunctive
@@ -11977,7 +11977,7 @@ conjunctive
 19743	disjunctive
 conjunctive
 19746	disjunctive
-unknown
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -16772,7 +16772,7 @@ disjunctive
 27420	disjunctive
 27422	conjunctive
 27424	disjunctive
-unknown
+conjunctive
 conjunctive
 disjunctive
 27429	conjunctive
@@ -31935,7 +31935,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-52561	unknown
+52561	disjunctive
 conjunctive
 disjunctive
 conjunctive
@@ -63554,7 +63554,7 @@ disjunctive
 105020	disjunctive
 105022	disjunctive
 105024	disjunctive
-105026	unknown
+105026	conjunctive
 105028	conjunctive
 disjunctive
 105031	disjunctive
@@ -97371,7 +97371,7 @@ disjunctive
 161815	disjunctive
 161817	conjunctive
 conjunctive
-unknown
+disjunctive
 conjunctive
 161822	disjunctive
 161824	conjunctive
@@ -123747,7 +123747,7 @@ disjunctive
 206086	conjunctive
 206088	disjunctive
 206090	disjunctive
-206093	unknown
+206093	disjunctive
 206096	conjunctive
 206099	disjunctive
 206101	disjunctive
@@ -146017,7 +146017,7 @@ disjunctive
 disjunctive
 240533	disjunctive
 disjunctive
-unknown
+conjunctive
 240537	conjunctive
 disjunctive
 240540	disjunctive
@@ -147300,7 +147300,7 @@ conjunctive
 disjunctive
 disjunctive
 242526	disjunctive
-unknown
+disjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -151064,7 +151064,7 @@ conjunctive
 248797	disjunctive
 248800	disjunctive
 248803	conjunctive
-248807	unknown
+248807	disjunctive
 248809	disjunctive
 conjunctive
 disjunctive
@@ -189694,53 +189694,53 @@ disjunctive
 disjunctive
 310651	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 310656	conjunctive
 disjunctive
 310660	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-310666	conjunctive/disjunctive
+310666	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
-310673	conjunctive/disjunctive
+conjunctive
+310673	conjunctive
 disjunctive
 disjunctive
-310678	conjunctive/disjunctive
+310678	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 310682	disjunctive
 310684	disjunctive
 310686	disjunctive
 conjunctive
-310689	disjunctive/conjunctive
-conjunctive/disjunctive
+310689	disjunctive
+conjunctive
 conjunctive
 disjunctive
 conjunctive
 310695	disjunctive
-310697	conjunctive/disjunctive
+310697	conjunctive
 310699	disjunctive
 310701	conjunctive
 310703	conjunctive
 disjunctive
-310706	conjunctive/disjunctive
+310706	conjunctive
 310708	disjunctive
-conjunctive/disjunctive
+conjunctive
 310713	disjunctive
-310715	conjunctive/disjunctive
+310715	conjunctive
 disjunctive
 310718	disjunctive
 310720	conjunctive
 disjunctive
 310724	disjunctive
 310726	disjunctive
-310728	conjunctive/disjunctive
+310728	conjunctive
 disjunctive
 310731	conjunctive
 disjunctive
@@ -189756,9 +189756,9 @@ disjunctive
 310745	disjunctive
 conjunctive
 310748	disjunctive
-310750	conjunctive/disjunctive
+310750	conjunctive
 310752	disjunctive
-310754	unknown
+310754	disjunctive
 310757	disjunctive
 disjunctive
 310760	disjunctive
@@ -189774,7 +189774,7 @@ conjunctive
 conjunctive
 conjunctive
 310777	disjunctive
-310780	conjunctive/disjunctive
+310780	conjunctive
 disjunctive
 310783	disjunctive
 conjunctive
@@ -189782,15 +189782,15 @@ disjunctive
 310787	disjunctive
 310789	disjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
+conjunctive
+conjunctive
 disjunctive
 disjunctive
-310800	conjunctive/disjunctive
+310800	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -189824,9 +189824,9 @@ disjunctive
 310846	conjunctive
 disjunctive
 disjunctive
-310850	conjunctive/disjunctive
+310850	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 310854	disjunctive
 310856	disjunctive
 310858	disjunctive
@@ -189836,7 +189836,7 @@ disjunctive
 310863	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -189851,7 +189851,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-310885	conjunctive/disjunctive
+310885	conjunctive
 disjunctive
 disjunctive
 310889	conjunctive
@@ -189860,7 +189860,7 @@ disjunctive
 310894	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 310900	disjunctive
 disjunctive
@@ -189868,9 +189868,9 @@ conjunctive
 conjunctive
 disjunctive
 310906	disjunctive
-310908	conjunctive/disjunctive
+310908	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -189884,14 +189884,14 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-310928	conjunctive/disjunctive
+310928	conjunctive
 310930	disjunctive
 310932	conjunctive
 conjunctive
 disjunctive
-310937	conjunctive/disjunctive
+310937	conjunctive
 310939	disjunctive
-conjunctive/disjunctive
+conjunctive
 310942	disjunctive
 310944	disjunctive
 disjunctive
@@ -189901,9 +189901,9 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-310955	conjunctive/disjunctive
+310955	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 310960	conjunctive
 conjunctive
@@ -189918,9 +189918,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-310979	conjunctive/disjunctive
+310979	conjunctive
 disjunctive
 disjunctive
 310984	disjunctive
@@ -189929,14 +189929,14 @@ conjunctive
 310989	disjunctive
 310991	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 310995	disjunctive
 310997	disjunctive
 310999	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311003	conjunctive
-conjunctive/disjunctive
+conjunctive
 311006	disjunctive
 conjunctive
 conjunctive
@@ -189957,9 +189957,9 @@ conjunctive
 311030	disjunctive
 311032	disjunctive
 disjunctive
-311036	conjunctive/disjunctive
+311036	conjunctive
 311039	disjunctive
-conjunctive/disjunctive
+conjunctive
 311042	disjunctive
 conjunctive
 conjunctive
@@ -189969,7 +189969,7 @@ disjunctive
 disjunctive
 311050	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311054	disjunctive
 311056	disjunctive
 disjunctive
@@ -189977,7 +189977,7 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311064	disjunctive
 311066	disjunctive
 disjunctive
@@ -189993,12 +189993,12 @@ disjunctive
 311080	conjunctive
 disjunctive
 disjunctive
-311084	conjunctive/disjunctive
+311084	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-311090	conjunctive/disjunctive
+311090	conjunctive
 311092	disjunctive
 conjunctive
 disjunctive
@@ -190007,13 +190007,13 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311105	disjunctive
 311107	disjunctive
 disjunctive
 conjunctive
 311111	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 
 311116	conjunctive
@@ -190024,7 +190024,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-311126	conjunctive/disjunctive
+311126	conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -190035,7 +190035,7 @@ disjunctive
 311136	conjunctive
 disjunctive
 disjunctive
-311140	conjunctive/disjunctive
+311140	conjunctive
 disjunctive
 311143	conjunctive
 311145	conjunctive
@@ -190044,33 +190044,33 @@ disjunctive
 disjunctive
 311151	conjunctive
 disjunctive
-311154	conjunctive/disjunctive
+311154	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311159	disjunctive
 conjunctive
 disjunctive
 disjunctive
 311165	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311170	conjunctive
 311172	disjunctive
 311175	disjunctive
-conjunctive/disjunctive
+conjunctive
 311178	disjunctive
 disjunctive
-311182	conjunctive/disjunctive
+311182	conjunctive
 disjunctive
-311187	conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
+311187	conjunctive
 disjunctive
 conjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
+disjunctive
+conjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -190101,7 +190101,7 @@ conjunctive
 311232	disjunctive
 disjunctive
 311235	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 311240	conjunctive
@@ -190112,7 +190112,7 @@ conjunctive
 disjunctive
 311249	conjunctive
 disjunctive
-311252	conjunctive/disjunctive
+311252	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -190120,18 +190120,18 @@ conjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 311264	conjunctive
 disjunctive
 311267	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 311273	disjunctive
-311275	conjunctive/disjunctive
+311275	conjunctive
 311277	disjunctive
 311280	disjunctive
 311282	disjunctive
@@ -190139,7 +190139,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311290	disjunctive
 311292	disjunctive
 311294	conjunctive
@@ -190152,15 +190152,15 @@ conjunctive
 disjunctive
 311305	conjunctive
 disjunctive
-311309	conjunctive/disjunctive
+311309	conjunctive
 311311	disjunctive
 311313	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311317	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 311324	disjunctive
@@ -190177,20 +190177,20 @@ disjunctive
 disjunctive
 311344	conjunctive
 disjunctive
-311347	conjunctive/disjunctive
+311347	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311352	conjunctive
 disjunctive
 disjunctive
 311356	disjunctive
-311359	conjunctive/disjunctive
+311359	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311367	conjunctive
 311370	conjunctive
@@ -190203,9 +190203,9 @@ disjunctive
 311380	conjunctive
 disjunctive
 311383	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311388	disjunctive
 disjunctive
 311391	disjunctive
@@ -190213,24 +190213,24 @@ disjunctive
 conjunctive
 disjunctive
 311396	disjunctive
-conjunctive/disjunctive
+conjunctive
 311400	disjunctive
 311402	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311409	disjunctive
 311411	disjunctive
 conjunctive
 311414	disjunctive
 disjunctive
-311417	conjunctive/disjunctive
+311417	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311421	disjunctive
-311423	conjunctive/disjunctive
+311423	conjunctive
 disjunctive
 311426	conjunctive
 disjunctive
@@ -190243,48 +190243,48 @@ disjunctive
 conjunctive
 conjunctive
 311440	disjunctive
-311442	conjunctive/disjunctive
+311442	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 311449	disjunctive
 311451	disjunctive
-311453	conjunctive/disjunctive
+311453	conjunctive
 disjunctive
-311457	conjunctive/disjunctive
+311457	conjunctive
 311460	disjunctive
-conjunctive/disjunctive
+conjunctive
 311463	disjunctive
 conjunctive
 disjunctive
 311467	conjunctive
 disjunctive
 311472	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
 311478	disjunctive
 311480	conjunctive
 disjunctive
 311483	disjunctive
 conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
-311489	conjunctive/disjunctive
+311489	conjunctive
 disjunctive
 311492	disjunctive
 311494	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311500	disjunctive
 conjunctive
 disjunctive
-311504	conjunctive/disjunctive
+311504	conjunctive
 311506	disjunctive
 311509	disjunctive
 conjunctive
@@ -190298,31 +190298,31 @@ disjunctive
 disjunctive
 311524	conjunctive
 disjunctive
-unknown
+disjunctive
 conjunctive
 311529	disjunctive
 conjunctive
 311532	conjunctive
 disjunctive
 311535	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 311541	conjunctive
 311543	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-311550	conjunctive/disjunctive
+311550	conjunctive
 disjunctive
 311555	disjunctive
 311558	disjunctive
-conjunctive/disjunctive
+conjunctive
 311562	disjunctive
-conjunctive/disjunctive
+conjunctive
 311565	disjunctive
 conjunctive
 disjunctive
@@ -190335,31 +190335,31 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-311583	conjunctive/disjunctive
+311583	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311587	disjunctive
 311589	disjunctive
 311591	disjunctive
 conjunctive
 311594	disjunctive
-conjunctive/disjunctive
+conjunctive
 311597	disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-disjunctive
-311607	conjunctive/disjunctive
+311607	conjunctive
 311609	disjunctive
 311611	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311615	disjunctive
-311617	conjunctive/disjunctive
+311617	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -190371,9 +190371,9 @@ conjunctive
 311630	conjunctive
 disjunctive
 311633	disjunctive
-311635	conjunctive/disjunctive
+311635	conjunctive
 311637	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311641	disjunctive
 311643	conjunctive
@@ -190381,7 +190381,7 @@ conjunctive
 conjunctive
 311648	disjunctive
 disjunctive
-311651	conjunctive/disjunctive
+311651	conjunctive
 311654	disjunctive
 311656	conjunctive
 disjunctive
@@ -190395,7 +190395,7 @@ disjunctive
 311667	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311673	disjunctive
 disjunctive
 311676	conjunctive
@@ -190403,7 +190403,7 @@ disjunctive
 conjunctive
 disjunctive
 311681	disjunctive
-conjunctive/disjunctive
+conjunctive
 
 conjunctive
 disjunctive
@@ -190411,12 +190411,12 @@ conjunctive
 disjunctive
 311689	disjunctive
 disjunctive
-311692	conjunctive/disjunctive
+311692	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311697	disjunctive
-311699	conjunctive/disjunctive
+311699	conjunctive
 311701	disjunctive
 disjunctive
 311704	disjunctive
@@ -190424,9 +190424,9 @@ conjunctive
 disjunctive
 311708	conjunctive
 disjunctive
-311712	conjunctive/disjunctive
+311712	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -190436,35 +190436,35 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 311730	disjunctive
 311732	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 311738	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 
-conjunctive/disjunctive
+conjunctive
 311745	disjunctive
 conjunctive
 disjunctive
 311749	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311754	disjunctive
 conjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -190474,7 +190474,7 @@ disjunctive
 conjunctive
 311768	disjunctive
 disjunctive
-311771	conjunctive/disjunctive
+311771	conjunctive
 311774	disjunctive
 311776	conjunctive
 disjunctive
@@ -190488,7 +190488,7 @@ disjunctive
 disjunctive
 311789	conjunctive
 disjunctive
-311792	conjunctive/disjunctive
+311792	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -190496,7 +190496,7 @@ disjunctive
 311798	conjunctive
 disjunctive
 311801	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311805	disjunctive
 conjunctive
@@ -190506,12 +190506,12 @@ conjunctive
 disjunctive
 311814	disjunctive
 311816	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 311821	disjunctive
 311823	disjunctive
-311825	conjunctive/disjunctive
+311825	conjunctive
 311827	disjunctive
 conjunctive
 311831	disjunctive
@@ -190520,9 +190520,9 @@ conjunctive
 disjunctive
 311836	conjunctive
 311838	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311843	disjunctive
 disjunctive
 311846	conjunctive
@@ -190531,7 +190531,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-311855	conjunctive/disjunctive
+311855	conjunctive
 disjunctive
 conjunctive
 311860	disjunctive
@@ -190540,35 +190540,35 @@ conjunctive
 disjunctive
 311867	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-311872	conjunctive/disjunctive
+311872	conjunctive
 311874	disjunctive
 
 disjunctive
-311878	conjunctive/disjunctive
+311878	conjunctive
 311880	disjunctive
 311882	
 conjunctive
 311885	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-311891	conjunctive/disjunctive
+311891	conjunctive
 311893	disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-311900	conjunctive/disjunctive
+311900	conjunctive
 
 311903	disjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 311909	disjunctive
 conjunctive
 disjunctive
@@ -190590,29 +190590,29 @@ disjunctive
 conjunctive
 disjunctive
 311934	disjunctive
-311936	conjunctive/disjunctive
+311936	conjunctive
 311938	disjunctive
 conjunctive
 disjunctive
 conjunctive
 311943	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 311947	disjunctive
 conjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-311957	conjunctive/disjunctive
+311957	conjunctive
 disjunctive
 311960	disjunctive
-311962	conjunctive/disjunctive
+311962	conjunctive
 disjunctive
-311965	conjunctive/disjunctive
+311965	conjunctive
 disjunctive
 311969	disjunctive
 311972	disjunctive
@@ -190623,7 +190623,7 @@ disjunctive
 conjunctive
 311981	disjunctive
 
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -190633,7 +190633,7 @@ disjunctive
 conjunctive
 conjunctive
 311994	disjunctive
-311996	conjunctive/disjunctive
+311996	conjunctive
 311998	disjunctive
 312001	disjunctive
 conjunctive
@@ -190647,9 +190647,9 @@ disjunctive
 disjunctive
 312016	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -190659,14 +190659,14 @@ disjunctive
 312028	disjunctive
 312030	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312036	disjunctive
 disjunctive
 conjunctive
 312040	disjunctive
-312042	conjunctive/disjunctive
+312042	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -190675,25 +190675,25 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-312056	conjunctive/disjunctive
+312056	conjunctive
 312059	disjunctive
-conjunctive/disjunctive
+conjunctive
 312062	disjunctive
 conjunctive
 disjunctive
 312066	conjunctive
 disjunctive
-312069	conjunctive/disjunctive
+312069	conjunctive
 disjunctive
-312072	conjunctive/disjunctive
+312072	conjunctive
 disjunctive
 disjunctive
 disjunctive
 conjunctive
 312078	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312082	conjunctive
 312084	conjunctive
@@ -190703,7 +190703,7 @@ disjunctive
 312089	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -190714,7 +190714,7 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-312105	conjunctive/disjunctive
+312105	conjunctive
 disjunctive
 312108	conjunctive
 disjunctive
@@ -190722,9 +190722,9 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312116	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -190736,21 +190736,21 @@ disjunctive
 312129	disjunctive
 disjunctive
 disjunctive
-312133	conjunctive/disjunctive
+312133	conjunctive
 disjunctive
 disjunctive
 312138	conjunctive
 conjunctive
 312141	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-312146	conjunctive/disjunctive
+312146	conjunctive
 disjunctive
-312149	conjunctive/disjunctive
+312149	conjunctive
 disjunctive
 312153	disjunctive
-conjunctive/disjunctive
+conjunctive
 312156	disjunctive
 312158	conjunctive
 disjunctive
@@ -190775,14 +190775,14 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-312190	conjunctive/disjunctive
+312190	conjunctive
 312192	disjunctive
 312194	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -190792,7 +190792,7 @@ disjunctive
 conjunctive
 disjunctive
 312209	disjunctive
-conjunctive/disjunctive
+conjunctive
 312212	disjunctive
 conjunctive
 conjunctive
@@ -190805,7 +190805,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 312232	disjunctive
@@ -190816,9 +190816,9 @@ conjunctive
 312241	disjunctive
 312243	conjunctive
 disjunctive
-unknown
+disjunctive
 312247	disjunctive
-312249	conjunctive/disjunctive
+312249	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -190826,10 +190826,10 @@ conjunctive
 312255	disjunctive
 disjunctive
 312258	disjunctive
-312260	conjunctive/disjunctive
+312260	conjunctive
 disjunctive
 312263	conjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 conjunctive
@@ -190843,12 +190843,12 @@ disjunctive
 312276	disjunctive
 312278	conjunctive
 disjunctive
-312281	conjunctive/disjunctive
+312281	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 312289	disjunctive
 conjunctive
@@ -190857,9 +190857,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 312303	disjunctive
@@ -190871,9 +190871,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-312317	conjunctive/disjunctive
+312317	conjunctive
 disjunctive
-312320	conjunctive/disjunctive
+312320	conjunctive
 disjunctive
 312323	disjunctive
 312325	disjunctive
@@ -190882,7 +190882,7 @@ disjunctive
 312331	conjunctive
 disjunctive
 312334	disjunctive
-312336	conjunctive/disjunctive
+312336	conjunctive
 312338	disjunctive
 disjunctive
 312341	conjunctive
@@ -190890,26 +190890,26 @@ disjunctive
 312345	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312350	disjunctive
 312352	conjunctive
 disjunctive
 disjunctive
 312356	conjunctive
 312358	disjunctive
-312360	conjunctive/disjunctive
+312360	conjunctive
 312362	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312366	disjunctive
 conjunctive
 conjunctive
 312370	disjunctive
-conjunctive/disjunctive
+conjunctive
 312373	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-312377	conjunctive/disjunctive
+312377	conjunctive
 disjunctive
 conjunctive
 312381	disjunctive
@@ -190922,40 +190922,40 @@ disjunctive
 disjunctive
 312395	disjunctive
 312398	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 312404	conjunctive
 conjunctive
 312407	disjunctive
-312410	conjunctive/disjunctive
+312410	conjunctive
 312412	disjunctive
 312414	disjunctive
 disjunctive
-312417	conjunctive/disjunctive
+312417	conjunctive
 312419	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 312425	disjunctive
 312428	disjunctive
 312430	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 312435	disjunctive
 conjunctive
 disjunctive
 312439	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 312445	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312449	disjunctive
 312451	disjunctive
 disjunctive
@@ -190964,15 +190964,15 @@ disjunctive
 312456	conjunctive
 disjunctive
 312459	disjunctive
-conjunctive/disjunctive
+conjunctive
 312462	disjunctive
 disjunctive
 312465	conjunctive
 conjunctive
 312468	disjunctive
-312470	conjunctive/disjunctive
+312470	conjunctive
 disjunctive
-312473	conjunctive/disjunctive
+312473	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -190988,24 +190988,24 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312497	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312502	disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+conjunctive
 312514	disjunctive
 disjunctive
 312518	disjunctive
@@ -191013,19 +191013,19 @@ disjunctive
 disjunctive
 312523	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 312532	disjunctive
-312534	conjunctive/disjunctive
+312534	conjunctive
 disjunctive
 312537	conjunctive
 312539	conjunctive
 disjunctive
-312542	conjunctive/disjunctive
+312542	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -191038,69 +191038,69 @@ disjunctive
 disjunctive
 312556	conjunctive
 312558	disjunctive
-312560	conjunctive/disjunctive
+312560	conjunctive
 disjunctive
 disjunctive
 312564	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312570	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312578	disjunctive
 disjunctive
 conjunctive
 
-conjunctive/disjunctive
+conjunctive
 disjunctive
-312585	conjunctive/disjunctive
+312585	conjunctive
 312588	disjunctive
 disjunctive
 312591	disjunctive
 conjunctive
 312594	disjunctive
 312597	disjunctive
-conjunctive/disjunctive
+conjunctive
 312600	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-312609	conjunctive/disjunctive
+312609	conjunctive
 disjunctive
-312612	conjunctive/disjunctive
+312612	conjunctive
 disjunctive
 disjunctive
 312616	conjunctive
 312618	disjunctive
-conjunctive/disjunctive
+conjunctive
 312622	disjunctive
 312624	
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-312630	conjunctive/disjunctive
+312630	conjunctive
 disjunctive
 312633	disjunctive
 disjunctive
 312636	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312641	disjunctive
 disjunctive
 312645	disjunctive
-312647	conjunctive/disjunctive
+312647	conjunctive
 disjunctive
 312650	disjunctive
 conjunctive
@@ -191111,23 +191111,23 @@ disjunctive
 312660	disjunctive
 312662	conjunctive
 312664	conjunctive
-conjunctive/disjunctive
-312667	conjunctive/disjunctive
+conjunctive
+312667	conjunctive
 312669	disjunctive
-312672	conjunctive/disjunctive
+312672	conjunctive
 disjunctive
 312675	disjunctive
 conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312682	disjunctive
 312684	disjunctive
 conjunctive
 disjunctive
 312688	disjunctive
-conjunctive/disjunctive
+conjunctive
 312692	disjunctive
 disjunctive
 disjunctive
@@ -191135,7 +191135,7 @@ conjunctive
 disjunctive
 312699	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312703	disjunctive
 312705	conjunctive
 conjunctive
@@ -191165,15 +191165,15 @@ conjunctive
 conjunctive
 disjunctive
 312746	disjunctive
-312748	conjunctive/disjunctive
+312748	conjunctive
 disjunctive
 conjunctive
 disjunctive
 312753	disjunctive
-312757	conjunctive/disjunctive
+312757	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312763	conjunctive
 disjunctive
@@ -191189,14 +191189,14 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312788	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312792	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 312799	disjunctive
@@ -191211,11 +191211,11 @@ disjunctive
 312815	conjunctive
 disjunctive
 312818	disjunctive
-312820	conjunctive/disjunctive
-unknown
+312820	conjunctive
+disjunctive
 312823	disjunctive
 312825	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312829	disjunctive
 conjunctive
@@ -191229,31 +191229,31 @@ conjunctive
 312841	disjunctive
 disjunctive
 disjunctive
-312845	conjunctive/disjunctive
+312845	conjunctive
 disjunctive
 disjunctive
-312849	conjunctive/disjunctive
+312849	conjunctive
 disjunctive
 312853	disjunctive
-312855	conjunctive/disjunctive
+312855	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 312860	disjunctive
 312863	conjunctive
 312865	conjunctive
 disjunctive
-312868	conjunctive/disjunctive
+312868	conjunctive
 312871	disjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 312879	disjunctive
-312881	conjunctive/disjunctive
+312881	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312886	disjunctive
 conjunctive
@@ -191264,7 +191264,7 @@ conjunctive
 312896	conjunctive
 312898	disjunctive
 312900	disjunctive
-312902	conjunctive/disjunctive
+312902	conjunctive
 disjunctive
 312905	conjunctive
 conjunctive
@@ -191274,16 +191274,16 @@ disjunctive
 312914	conjunctive
 conjunctive
 312917	disjunctive
-312919	conjunctive/disjunctive
+312919	conjunctive
 disjunctive
 312922	conjunctive
 disjunctive
-312925	conjunctive/disjunctive
+312925	conjunctive
 disjunctive
-312928	conjunctive/disjunctive
+312928	conjunctive
 disjunctive
 disjunctive
-312932	conjunctive/disjunctive
+312932	conjunctive
 disjunctive
 312936	disjunctive
 disjunctive
@@ -191296,9 +191296,9 @@ disjunctive
 312948	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312956	disjunctive
 conjunctive
@@ -191308,9 +191308,9 @@ disjunctive
 312965	disjunctive
 conjunctive
 disjunctive
-312969	conjunctive/disjunctive
+312969	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312974	disjunctive
 312976	conjunctive
@@ -191320,9 +191320,9 @@ conjunctive
 disjunctive
 312982	conjunctive
 disjunctive
-312985	conjunctive/disjunctive
+312985	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 312990	disjunctive
 312992	conjunctive
@@ -191333,32 +191333,32 @@ disjunctive
 conjunctive
 disjunctive
 313002	disjunctive
-313004	conjunctive/disjunctive
+313004	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 313011	disjunctive
-313013	conjunctive/disjunctive
+313013	conjunctive
 313015	disjunctive
 disjunctive
 313019	disjunctive
 conjunctive
 disjunctive
-313023	conjunctive/disjunctive
+313023	conjunctive
 disjunctive
-313026	conjunctive/disjunctive
+313026	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-313032	conjunctive/disjunctive
+313032	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 313038	disjunctive
-313041	unknown
+313041	disjunctive
 313043	disjunctive
 disjunctive
 313047	conjunctive
@@ -191378,20 +191378,20 @@ conjunctive
 disjunctive
 313067	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313072	disjunctive
 313074	disjunctive
 313076	conjunctive
 disjunctive
 313079	disjunctive
-313081	conjunctive/disjunctive
+313081	conjunctive
 313084	disjunctive
 313086	conjunctive
 conjunctive
 disjunctive
 disjunctive
 313091	conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313095	conjunctive
 disjunctive
@@ -191404,7 +191404,7 @@ conjunctive
 disjunctive
 313107	disjunctive
 313109	disjunctive
-313111	conjunctive/disjunctive
+313111	conjunctive
 disjunctive
 313114	disjunctive
 313116	disjunctive
@@ -191412,7 +191412,7 @@ disjunctive
 313120	conjunctive
 disjunctive
 313123	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313127	disjunctive
 313129	conjunctive
@@ -191426,14 +191426,14 @@ disjunctive
 conjunctive
 313141	disjunctive
 disjunctive
-313144	conjunctive/disjunctive
+313144	conjunctive
 disjunctive
 disjunctive
 313148	disjunctive
 conjunctive
 313152	conjunctive
 disjunctive
-313156	conjunctive/disjunctive
+313156	conjunctive
 disjunctive
 
 conjunctive
@@ -191441,31 +191441,31 @@ disjunctive
 313162	conjunctive
 disjunctive
 313165	disjunctive
-313167	conjunctive/disjunctive
+313167	conjunctive
 313170	disjunctive
 313172	disjunctive
 313175	disjunctive
-conjunctive/disjunctive
+conjunctive
 313178	disjunctive
 313180	disjunctive
-conjunctive/disjunctive
+conjunctive
 313183	disjunctive
-313185	conjunctive/disjunctive
+313185	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313189	disjunctive
 conjunctive
 313192	disjunctive
 conjunctive
 disjunctive
-313196	conjunctive/disjunctive
+313196	conjunctive
 313198	disjunctive
 313200	disjunctive
 313202	disjunctive
 313204	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313212	disjunctive
 conjunctive
@@ -191474,22 +191474,22 @@ disjunctive
 disjunctive
 disjunctive
 313222	disjunctive
-313224	conjunctive/disjunctive
+313224	conjunctive
 disjunctive
 313227	disjunctive
 313229	disjunctive
 conjunctive
 313232	disjunctive
-conjunctive/disjunctive
+conjunctive
 313235	disjunctive
-313237	conjunctive/disjunctive
+313237	conjunctive
 disjunctive
 313240	conjunctive
 313242	disjunctive
 disjunctive
-313245	conjunctive/disjunctive
+313245	conjunctive
 313247	disjunctive
-313249	conjunctive/disjunctive
+313249	conjunctive
 disjunctive
 313252	disjunctive
 conjunctive
@@ -191497,34 +191497,34 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 313267	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 313278	disjunctive
-313280	conjunctive/disjunctive
+313280	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313285	disjunctive
 313287	disjunctive
 313290	conjunctive
 disjunctive
-313293	conjunctive/disjunctive
+313293	conjunctive
 313295	disjunctive
 313297	conjunctive
 disjunctive
@@ -191534,9 +191534,9 @@ disjunctive
 313304	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313309	disjunctive
-313311	conjunctive/disjunctive
+313311	conjunctive
 disjunctive
 conjunctive
 313315	disjunctive
@@ -191546,19 +191546,19 @@ disjunctive
 conjunctive
 disjunctive
 313324	disjunctive
-313326	conjunctive/disjunctive
+313326	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313330	disjunctive
 313332	disjunctive
 313334	conjunctive
 conjunctive
 313337	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313341	disjunctive
 313344	disjunctive
-conjunctive/disjunctive
+conjunctive
 313347	disjunctive
 conjunctive
 disjunctive
@@ -191568,24 +191568,24 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-313358	conjunctive/disjunctive
+313358	conjunctive
 313360	disjunctive
 313363	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313367	disjunctive
 313369	conjunctive
 conjunctive
 disjunctive
-313373	conjunctive/disjunctive
+313373	conjunctive
 313375	disjunctive
-313378	conjunctive/disjunctive
+313378	conjunctive
 disjunctive
 disjunctive
 313382	disjunctive
-313386	conjunctive/disjunctive
+313386	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313391	disjunctive
 conjunctive
@@ -191611,35 +191611,35 @@ disjunctive
 disjunctive
 conjunctive
 313425	disjunctive
-313427	conjunctive/disjunctive
+313427	conjunctive
 disjunctive
 313430	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313434	disjunctive
-conjunctive/disjunctive
+conjunctive
 313438	disjunctive
 313441	disjunctive
-conjunctive/disjunctive
+conjunctive
 313444	disjunctive
 disjunctive
-313447	conjunctive/disjunctive
+313447	conjunctive
 313449	disjunctive
 313452	disjunctive
-313454	conjunctive/disjunctive
+313454	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-313461	conjunctive/disjunctive
+313461	conjunctive
 disjunctive
-313464	conjunctive/disjunctive
+313464	conjunctive
 disjunctive
 313467	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313472	disjunctive
 conjunctive
 disjunctive
@@ -191648,81 +191648,81 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313484	disjunctive
 conjunctive
 disjunctive
 313488	disjunctive
-conjunctive/disjunctive
-313491	unknown
-conjunctive/disjunctive
+conjunctive
+313491	disjunctive
+conjunctive
 disjunctive
 313495	conjunctive
 conjunctive
 313498	disjunctive
-conjunctive/disjunctive
+conjunctive
 313501	disjunctive
 313503	disjunctive
 313506	disjunctive
 conjunctive
 313509	disjunctive
-313512	conjunctive/disjunctive
+313512	conjunctive
 disjunctive
 313515	disjunctive
 conjunctive
 disjunctive
 313520	disjunctive
-unknown
-conjunctive/disjunctive
+disjunctive
+conjunctive
 disjunctive
 disjunctive
-313526	conjunctive/disjunctive
+313526	conjunctive
 disjunctive
 313529	conjunctive
 disjunctive
 disjunctive
 313533	conjunctive
 disjunctive
-313536	conjunctive/disjunctive
+313536	conjunctive
 disjunctive
 disjunctive
 313540	conjunctive
 disjunctive
 313543	disjunctive
-313545	conjunctive/disjunctive
+313545	conjunctive
 disjunctive
 313548	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313554	disjunctive
 disjunctive
 conjunctive
 disjunctive
 313559	disjunctive
-conjunctive/disjunctive
+conjunctive
 313562	disjunctive
 conjunctive
 conjunctive
 313566	disjunctive
-conjunctive/disjunctive
-313569	unknown
+conjunctive
+313569	disjunctive
 disjunctive
 313573	disjunctive
-313575	conjunctive/disjunctive
+313575	conjunctive
 313577	disjunctive
-conjunctive/disjunctive
+conjunctive
 313580	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313587	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -191730,12 +191730,12 @@ conjunctive
 313594	conjunctive
 disjunctive
 313597	disjunctive
-313600	conjunctive/disjunctive
+313600	conjunctive
 disjunctive
-313603	conjunctive/disjunctive
+313603	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -191751,34 +191751,34 @@ conjunctive
 313624	conjunctive
 conjunctive
 313628	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-313632	conjunctive/disjunctive
+313632	conjunctive
 disjunctive
 313635	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313640	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 313645	conjunctive
 disjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313652	conjunctive
 conjunctive
 313655	disjunctive
 disjunctive
-313658	conjunctive/disjunctive
+313658	conjunctive
 disjunctive
 disjunctive
 conjunctive
 313663	disjunctive
-313665	conjunctive/disjunctive
+313665	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -191786,7 +191786,7 @@ disjunctive
 disjunctive
 313673	conjunctive
 disjunctive
-313676	conjunctive/disjunctive
+313676	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -191798,9 +191798,9 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313690	disjunctive
-313693	conjunctive/disjunctive
+313693	conjunctive
 disjunctive
 313696	disjunctive
 313698	disjunctive
@@ -191816,33 +191816,33 @@ disjunctive
 313714	conjunctive
 conjunctive
 disjunctive
-313720	conjunctive/disjunctive
+313720	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 313730	disjunctive
-conjunctive/disjunctive
+conjunctive
 313733	disjunctive
-conjunctive/disjunctive
+conjunctive
 313736	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313740	disjunctive
 conjunctive
 conjunctive
 disjunctive
 313746	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313750	conjunctive
 disjunctive
 313753	disjunctive
 disjunctive
-313756	conjunctive/disjunctive
+313756	conjunctive
 disjunctive
 conjunctive
 313760	conjunctive
@@ -191867,9 +191867,9 @@ disjunctive
 313787	conjunctive
 conjunctive
 disjunctive
-313791	conjunctive/disjunctive
+313791	conjunctive
 disjunctive
-313794	conjunctive/disjunctive
+313794	conjunctive
 disjunctive
 conjunctive
 313798	conjunctive
@@ -191885,9 +191885,9 @@ conjunctive
 disjunctive
 313815	disjunctive
 disjunctive
-313818	conjunctive/disjunctive
+313818	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -191904,9 +191904,9 @@ disjunctive
 313837	conjunctive
 313839	disjunctive
 313842	disjunctive
-313844	conjunctive/disjunctive
+313844	conjunctive
 313846	disjunctive
-313848	conjunctive/disjunctive
+313848	conjunctive
 disjunctive
 conjunctive
 313852	disjunctive
@@ -191923,7 +191923,7 @@ disjunctive
 313873	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 313880	conjunctive
@@ -191931,13 +191931,13 @@ conjunctive
 disjunctive
 313886	conjunctive
 disjunctive
-313889	conjunctive/disjunctive
+313889	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313895	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -191947,9 +191947,9 @@ disjunctive
 313905	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313913	disjunctive
 conjunctive
 disjunctive
@@ -191959,21 +191959,21 @@ conjunctive
 disjunctive
 313923	conjunctive
 disjunctive
-313926	conjunctive/disjunctive
+313926	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 313930	disjunctive
 conjunctive
 disjunctive
 conjunctive
 313935	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
-313942	conjunctive/disjunctive
+313942	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -191981,7 +191981,7 @@ conjunctive
 disjunctive
 313952	conjunctive
 disjunctive
-313955	conjunctive/disjunctive
+313955	conjunctive
 313958	disjunctive
 313960	conjunctive
 disjunctive
@@ -191998,12 +191998,12 @@ disjunctive
 disjunctive
 313982	disjunctive
 disjunctive
-313985	conjunctive/disjunctive
+313985	conjunctive
 313988	disjunctive
-313991	unknown
-313993	conjunctive/disjunctive
+313991	disjunctive
+313993	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 313999	disjunctive
 disjunctive
@@ -192018,7 +192018,7 @@ disjunctive
 314015	conjunctive
 disjunctive
 314018	disjunctive
-314020	conjunctive/disjunctive
+314020	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -192036,7 +192036,7 @@ disjunctive
 314037	disjunctive
 conjunctive
 314040	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 314045	disjunctive
@@ -192044,7 +192044,7 @@ disjunctive
 conjunctive
 314049	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -192052,7 +192052,7 @@ disjunctive
 314057	disjunctive
 conjunctive
 disjunctive
-314061	unknown
+314061	disjunctive
 conjunctive
 314064	disjunctive
 conjunctive
@@ -192060,16 +192060,16 @@ conjunctive
 disjunctive
 conjunctive
 314070	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 314076	conjunctive
 disjunctive
 314079	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -192083,7 +192083,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-314100	conjunctive/disjunctive
+314100	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -192096,7 +192096,7 @@ conjunctive
 314113	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 314120	disjunctive
 314122	conjunctive
@@ -192109,12 +192109,12 @@ conjunctive
 disjunctive
 314133	disjunctive
 314135	disjunctive
-314137	conjunctive/disjunctive
+314137	conjunctive
 314140	disjunctive
 conjunctive
 conjunctive
 disjunctive
-314146	conjunctive/disjunctive
+314146	conjunctive
 disjunctive
 314149	conjunctive
 conjunctive
@@ -192130,12 +192130,12 @@ disjunctive
 disjunctive
 conjunctive
 314169	disjunctive
-314171	conjunctive/disjunctive
+314171	conjunctive
 disjunctive
 314174	disjunctive
-314176	conjunctive/disjunctive
+314176	conjunctive
 disjunctive
-314179	conjunctive/disjunctive
+314179	conjunctive
 314181	disjunctive
 conjunctive
 314184	disjunctive
@@ -192164,7 +192164,7 @@ conjunctive
 314217	conjunctive
 314219	conjunctive
 disjunctive
-314222	conjunctive/disjunctive
+314222	conjunctive
 314224	disjunctive
 314226	conjunctive
 314228	conjunctive
@@ -192179,7 +192179,7 @@ disjunctive
 314239	disjunctive
 314241	disjunctive
 314244	disjunctive
-314246	conjunctive/disjunctive
+314246	conjunctive
 314248	disjunctive
 314250	conjunctive
 conjunctive
@@ -192188,9 +192188,9 @@ conjunctive
 disjunctive
 314256	disjunctive
 314258	disjunctive
-314260	conjunctive/disjunctive
+314260	conjunctive
 disjunctive
-314264	conjunctive/disjunctive
+314264	conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -192205,7 +192205,7 @@ disjunctive
 314280	disjunctive
 314282	conjunctive
 disjunctive
-314286	conjunctive/disjunctive
+314286	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -192222,7 +192222,7 @@ disjunctive
 314306	disjunctive
 314308	disjunctive
 314311	disjunctive
-314313	conjunctive/disjunctive
+314313	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -192248,7 +192248,7 @@ disjunctive
 conjunctive
 disjunctive
 314349	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 314353	conjunctive
 314355	conjunctive
@@ -192256,13 +192256,13 @@ disjunctive
 314359	conjunctive
 conjunctive
 disjunctive
-314364	conjunctive/disjunctive
+314364	conjunctive
 disjunctive
 314367	disjunctive
 conjunctive
 disjunctive
 314371	disjunctive
-314373	conjunctive/disjunctive
+314373	conjunctive
 disjunctive
 conjunctive
 314377	disjunctive
@@ -192270,7 +192270,7 @@ disjunctive
 conjunctive
 314381	disjunctive
 314383	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 314387	disjunctive
 disjunctive
@@ -192278,9 +192278,9 @@ conjunctive
 314391	disjunctive
 314393	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 314397	disjunctive
-314399	conjunctive/disjunctive
+314399	conjunctive
 disjunctive
 314402	conjunctive
 disjunctive
@@ -192313,9 +192313,9 @@ conjunctive
 314442	disjunctive
 314444	conjunctive
 disjunctive
-314447	conjunctive/disjunctive
+314447	conjunctive
 314450	disjunctive
-314453	conjunctive/disjunctive
+314453	conjunctive
 314455	disjunctive
 conjunctive
 disjunctive
@@ -192337,13 +192337,13 @@ disjunctive
 314480	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 314485	disjunctive
 314487	disjunctive
 314489	conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-314493	conjunctive/disjunctive
+314493	conjunctive
 314495	disjunctive
 disjunctive
 conjunctive
@@ -192358,11 +192358,11 @@ disjunctive
 disjunctive
 314512	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-314517	conjunctive/disjunctive
+314517	conjunctive
 314520	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 314524	conjunctive
 314526	conjunctive
@@ -192380,14 +192380,14 @@ disjunctive
 314542	disjunctive
 314544	conjunctive
 disjunctive
-conjunctive/disjunctive
-314548	conjunctive/disjunctive
+conjunctive
+314548	conjunctive
 314550	disjunctive
-314552	conjunctive/disjunctive
+314552	conjunctive
 disjunctive
 disjunctive
 disjunctive
-314557	conjunctive/disjunctive
+314557	conjunctive
 314560	disjunctive
 314562	conjunctive
 disjunctive
@@ -192405,24 +192405,24 @@ disjunctive
 disjunctive
 314582	conjunctive
 disjunctive
-314585	conjunctive/disjunctive
+314585	conjunctive
 disjunctive
 314588	disjunctive
-314590	conjunctive/disjunctive
+314590	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 314596	conjunctive
 disjunctive
-314599	conjunctive/disjunctive
+314599	conjunctive
 disjunctive
-314602	conjunctive/disjunctive
+314602	conjunctive
 disjunctive
 314605	conjunctive
 314607	disjunctive
 314610	conjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 314615	disjunctive
@@ -192449,23 +192449,23 @@ disjunctive
 disjunctive
 314648	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-314653	unknown
+314653	disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 314659	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 314664	disjunctive
-314666	conjunctive/disjunctive
+314666	conjunctive
 disjunctive
-314670	conjunctive/disjunctive
+314670	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 314674	disjunctive
 314676	conjunctive
 conjunctive
@@ -192473,9 +192473,9 @@ conjunctive
 disjunctive
 disjunctive
 314682	disjunctive
-314684	conjunctive/disjunctive
+314684	conjunctive
 314686	disjunctive
-314688	conjunctive/disjunctive
+314688	conjunctive
 314690	disjunctive
 314693	disjunctive
 disjunctive
@@ -192484,55 +192484,55 @@ conjunctive
 314699	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 314704	disjunctive
-conjunctive/disjunctive
+conjunctive
 314707	disjunctive
 conjunctive
 314710	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 314715	disjunctive
 314718	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 314723	disjunctive
-314726	conjunctive/disjunctive
+314726	conjunctive
 disjunctive
 disjunctive
-314730	conjunctive/disjunctive
+314730	conjunctive
 disjunctive
-314733	conjunctive/disjunctive
+314733	conjunctive
 314736	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 314741	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-314747	conjunctive/disjunctive
+314747	conjunctive
 disjunctive
-314750	conjunctive/disjunctive
+314750	conjunctive
 314752	disjunctive
-314754	conjunctive/disjunctive
+314754	conjunctive
 314756	disjunctive
-conjunctive/disjunctive
+conjunctive
 314759	disjunctive
 conjunctive
 314762	disjunctive
-314764	conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
+314764	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -192542,12 +192542,12 @@ disjunctive
 disjunctive
 314785	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 314792	conjunctive
 disjunctive
-314795	conjunctive/disjunctive
+314795	conjunctive
 disjunctive
 conjunctive
 314799	disjunctive
@@ -192570,9 +192570,9 @@ disjunctive
 314825	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 314833	disjunctive
 disjunctive
@@ -192593,68 +192593,68 @@ disjunctive
 conjunctive
 314858	disjunctive
 314861	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-314867	conjunctive/disjunctive
+314867	conjunctive
 disjunctive
 314870	disjunctive
 conjunctive
 314873	disjunctive
-314875	conjunctive/disjunctive
+314875	conjunctive
 314877	disjunctive
 disjunctive
 314880	disjunctive
 conjunctive
-314883	disjunctive/conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+314883	disjunctive
+conjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 314894	disjunctive
 disjunctive
-314897	conjunctive/disjunctive
+314897	conjunctive
 314899	disjunctive
 314901	conjunctive
-314903	conjunctive/disjunctive
-314905	conjunctive/disjunctive
+314903	conjunctive
+314905	conjunctive
 disjunctive
-314908	conjunctive/disjunctive
+314908	conjunctive
 disjunctive
-314911	conjunctive/disjunctive
+314911	conjunctive
 314913	disjunctive
-unknown
-314916	conjunctive/disjunctive
+disjunctive
+314916	conjunctive
 disjunctive
 conjunctive
 disjunctive
 314921	conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
-314926	conjunctive/disjunctive
+314926	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 314932	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-314937	conjunctive/disjunctive
+314937	conjunctive
 disjunctive
 314941	disjunctive
-conjunctive/disjunctive
+conjunctive
 314944	disjunctive
 conjunctive
 conjunctive
 disjunctive
 314949	conjunctive
 314951	disjunctive
-314953	conjunctive/disjunctive
+314953	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -192664,45 +192664,45 @@ disjunctive
 conjunctive
 disjunctive
 314964	disjunctive
-314966	conjunctive/disjunctive
+314966	conjunctive
 disjunctive
 314969	disjunctive
 314971	conjunctive
 314973	conjunctive
 disjunctive
-314976	conjunctive/disjunctive
+314976	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 314980	disjunctive
 disjunctive
 314983	conjunctive
 disjunctive
 conjunctive
 disjunctive
-314988	unknown
+314988	disjunctive
 disjunctive
 314991	disjunctive
 conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-315001	conjunctive/disjunctive
+315001	conjunctive
 315003	disjunctive
 315005	disjunctive
-315007	conjunctive/disjunctive
+315007	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315011	disjunctive
 315013	disjunctive
 conjunctive
 disjunctive
 315017	disjunctive
 disjunctive
-315020	conjunctive/disjunctive
+315020	conjunctive
 disjunctive
 315023	conjunctive
 disjunctive
@@ -192710,14 +192710,14 @@ disjunctive
 conjunctive
 315031	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
-315037	conjunctive/disjunctive
+315037	conjunctive
 conjunctive
-315040	conjunctive/disjunctive
+315040	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315044	disjunctive
 conjunctive
 conjunctive
@@ -192728,7 +192728,7 @@ disjunctive
 conjunctive
 315056	conjunctive
 disjunctive
-315059	conjunctive/disjunctive
+315059	conjunctive
 disjunctive
 315063	conjunctive
 conjunctive
@@ -192737,19 +192737,19 @@ disjunctive
 disjunctive
 315071	conjunctive
 315073	disjunctive
-conjunctive/disjunctive
+conjunctive
 315077	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 315082	conjunctive
 315084	disjunctive
 disjunctive
-315087	conjunctive/disjunctive
+315087	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 315095	disjunctive
@@ -192764,9 +192764,9 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-315113	conjunctive/disjunctive
+315113	conjunctive
 disjunctive
 conjunctive
 315118	disjunctive
@@ -192780,17 +192780,17 @@ disjunctive
 315131	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315138	disjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
-315143	conjunctive
-315145	conjunctive/disjunctive
 disjunctive
-315148	conjunctive/disjunctive
+conjunctive
+315143	conjunctive
+315145	conjunctive
+disjunctive
+315148	conjunctive
 315150	disjunctive
 conjunctive
 315153	disjunctive
@@ -192803,19 +192803,19 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-315168	conjunctive/disjunctive
+315168	conjunctive
 disjunctive
-315171	disjunctive/conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
-315175	disjunctive
-315177	conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
+315171	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
+315175	disjunctive
+315177	conjunctive
+disjunctive
+conjunctive
+disjunctive
+conjunctive
+conjunctive
+conjunctive
 disjunctive
 315186	conjunctive
 disjunctive
@@ -192827,19 +192827,19 @@ disjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-315202	conjunctive/disjunctive
+315202	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315206	disjunctive
 315208	disjunctive
 disjunctive
 conjunctive
 disjunctive
-315213	conjunctive/disjunctive
+315213	conjunctive
 315215	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 315220	conjunctive
@@ -192848,11 +192848,11 @@ disjunctive
 315226	disjunctive
 315228	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315232	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -192870,10 +192870,10 @@ disjunctive
 disjunctive
 conjunctive
 315259	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 315266	conjunctive
 conjunctive
@@ -192906,23 +192906,23 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 315308	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 315316	disjunctive
-315319	conjunctive/disjunctive
+315319	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 315325	disjunctive
-315327	conjunctive/disjunctive
+315327	conjunctive
 315329	disjunctive
 conjunctive
 disjunctive
@@ -192932,10 +192932,10 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 315346	disjunctive
-315349	conjunctive/disjunctive
+315349	conjunctive
 315351	disjunctive
 disjunctive
 disjunctive
@@ -192949,36 +192949,36 @@ conjunctive
 disjunctive
 315368	disjunctive
 315371	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 315376	conjunctive
 315378	disjunctive
-315380	conjunctive/disjunctive
+315380	conjunctive
 disjunctive
 315383	disjunctive
 315385	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 315391	disjunctive
-315393	conjunctive/disjunctive
+315393	conjunctive
 315395	disjunctive
 315398	disjunctive
 315400	disjunctive
 disjunctive
 conjunctive
 315404	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315409	disjunctive
 315411	conjunctive
 disjunctive
 conjunctive
 disjunctive
-315417	conjunctive/disjunctive
+315417	conjunctive
 disjunctive
 315420	disjunctive
 conjunctive
@@ -192991,9 +192991,9 @@ disjunctive
 conjunctive
 315434	disjunctive
 315437	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-315441	conjunctive/disjunctive
+315441	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -193002,16 +193002,16 @@ conjunctive
 315449	disjunctive
 315451	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315455	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 315462	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 315467	conjunctive
 315469	disjunctive
@@ -193027,9 +193027,9 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-315489	conjunctive/disjunctive
+315489	conjunctive
 315491	disjunctive
-315494	conjunctive/disjunctive
+315494	conjunctive
 disjunctive
 conjunctive
 315498	conjunctive
@@ -193043,12 +193043,12 @@ disjunctive
 conjunctive
 315516	disjunctive
 disjunctive
-315519	conjunctive/disjunctive
+315519	conjunctive
 315522	disjunctive
 conjunctive
 315525	disjunctive
 315527	disjunctive
-315530	conjunctive/disjunctive
+315530	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -193056,7 +193056,7 @@ conjunctive
 conjunctive
 disjunctive
 315538	disjunctive
-315541	conjunctive/disjunctive
+315541	conjunctive
 315543	disjunctive
 315545	conjunctive
 315547	conjunctive
@@ -193080,7 +193080,7 @@ disjunctive
 conjunctive
 disjunctive
 315577	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 315581	disjunctive
 315583	conjunctive
@@ -193093,7 +193093,7 @@ conjunctive
 315595	conjunctive
 315598	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315602	disjunctive
 315604	disjunctive
 conjunctive
@@ -193133,39 +193133,39 @@ conjunctive
 315658	disjunctive
 315660	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315664	disjunctive
 315666	disjunctive
 conjunctive
 315669	conjunctive
 disjunctive
-315672	conjunctive/disjunctive
+315672	conjunctive
 disjunctive
 315675	disjunctive
 disjunctive
 conjunctive
 315679	disjunctive
-315681	conjunctive/disjunctive
+315681	conjunctive
 disjunctive
-315684	conjunctive/disjunctive
+315684	conjunctive
 315686	disjunctive
 315688	disjunctive
 315690	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 315696	disjunctive
 315698	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-315703	conjunctive/disjunctive
+315703	conjunctive
 disjunctive
 conjunctive
 conjunctive
 315708	disjunctive
 315710	disjunctive
-315712	conjunctive/disjunctive
+315712	conjunctive
 disjunctive
 conjunctive
 315716	disjunctive
@@ -193193,17 +193193,17 @@ disjunctive
 conjunctive
 disjunctive
 315755	disjunctive
-315759	conjunctive/disjunctive
+315759	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 315766	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315771	disjunctive
-conjunctive/disjunctive
+conjunctive
 315774	disjunctive
 conjunctive
 disjunctive
@@ -193217,9 +193217,9 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-315789	conjunctive/disjunctive
+315789	conjunctive
 disjunctive
-315793	conjunctive/disjunctive
+315793	conjunctive
 disjunctive
 315796	disjunctive
 conjunctive
@@ -193237,9 +193237,9 @@ conjunctive
 315816	disjunctive
 315818	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315822	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 315827	disjunctive
@@ -193251,15 +193251,15 @@ conjunctive
 disjunctive
 disjunctive
 disjunctive
-315838	conjunctive/disjunctive
+315838	conjunctive
 315841	disjunctive
 315843	conjunctive
 conjunctive
 disjunctive
 315847	disjunctive
-conjunctive/disjunctive
+conjunctive
 315850	disjunctive
-315852	conjunctive/disjunctive
+315852	conjunctive
 disjunctive
 disjunctive
 315856	conjunctive
@@ -193267,7 +193267,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315864	disjunctive
 conjunctive
 disjunctive
@@ -193280,30 +193280,30 @@ disjunctive
 315879	disjunctive
 conjunctive
 315882	disjunctive
-unknown
+disjunctive
 315885	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 315895	conjunctive
 disjunctive
-315898	conjunctive/disjunctive
+315898	conjunctive
 315900	disjunctive
 315902	disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315908	disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 315916	disjunctive
@@ -193315,13 +193315,13 @@ conjunctive
 315926	conjunctive
 disjunctive
 315929	disjunctive
-315931	conjunctive/disjunctive
+315931	conjunctive
 disjunctive
 315936	conjunctive
 disjunctive
 disjunctive
 315941	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 315946	disjunctive
 conjunctive
@@ -193331,7 +193331,7 @@ conjunctive
 disjunctive
 315954	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 315959	disjunctive
 315961	disjunctive
 conjunctive
@@ -193356,31 +193356,31 @@ disjunctive
 315988	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 315994	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-316000	conjunctive/disjunctive
+316000	conjunctive
 316002	disjunctive
-conjunctive/disjunctive
-unknown
+conjunctive
 disjunctive
-316007	conjunctive/disjunctive
+disjunctive
+316007	conjunctive
 disjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 316018	disjunctive
 disjunctive
-316021	conjunctive/disjunctive
+316021	conjunctive
 disjunctive
 conjunctive
 316025	disjunctive
@@ -193390,7 +193390,7 @@ conjunctive
 316032	disjunctive
 conjunctive
 316035	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 316041	disjunctive
 316043	conjunctive
@@ -193404,9 +193404,9 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-316058	conjunctive/disjunctive
+316058	conjunctive
 316060	disjunctive
-316062	conjunctive/disjunctive
+316062	conjunctive
 disjunctive
 conjunctive
 316066	disjunctive
@@ -193422,7 +193422,7 @@ disjunctive
 316079	disjunctive
 conjunctive
 disjunctive
-316084	unknown
+316084	disjunctive
 disjunctive
 316088	conjunctive
 316091	conjunctive
@@ -193431,7 +193431,7 @@ disjunctive
 316098	disjunctive
 316100	conjunctive
 disjunctive
-316103	conjunctive/disjunctive
+316103	conjunctive
 disjunctive
 316106	conjunctive
 disjunctive
@@ -193469,12 +193469,12 @@ disjunctive
 316157	conjunctive
 conjunctive
 disjunctive
-316161	conjunctive/disjunctive
+316161	conjunctive
 disjunctive
 disjunctive
-316165	conjunctive/disjunctive
+316165	conjunctive
 disjunctive
-316168	conjunctive/disjunctive
+316168	conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -193503,36 +193503,36 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-316212	conjunctive/disjunctive
+316212	conjunctive
 disjunctive
 316215	disjunctive
-316217	conjunctive/disjunctive
+316217	conjunctive
 316220	disjunctive
 316222	disjunctive
-316224	conjunctive/disjunctive
+316224	conjunctive
 disjunctive
 conjunctive
 316229	disjunctive
 conjunctive
 disjunctive
-316234	conjunctive/disjunctive
+316234	conjunctive
 disjunctive
 disjunctive
 conjunctive
 316239	disjunctive
 316242	disjunctive
 316244	disjunctive
-316246	conjunctive/disjunctive
+316246	conjunctive
 disjunctive
-316249	conjunctive/disjunctive
+316249	conjunctive
 316251	disjunctive
 316254	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 316259	conjunctive
 disjunctive
-316262	conjunctive/disjunctive
+316262	conjunctive
 disjunctive
 316265	conjunctive
 disjunctive
@@ -193544,12 +193544,12 @@ disjunctive
 disjunctive
 316280	disjunctive
 316282	conjunctive
-conjunctive/disjunctive
+conjunctive
 316285	disjunctive
 316287	conjunctive
 disjunctive
 316290	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 316295	disjunctive
@@ -193559,7 +193559,7 @@ disjunctive
 316303	disjunctive
 316305	disjunctive
 disjunctive
-316308	conjunctive/disjunctive
+316308	conjunctive
 disjunctive
 conjunctive
 316312	disjunctive
@@ -193570,10 +193570,10 @@ disjunctive
 316320	conjunctive
 316322	conjunctive
 316324	disjunctive
-316326	conjunctive/disjunctive
+316326	conjunctive
 316328	disjunctive
 316330	disjunctive
-316332	conjunctive/disjunctive
+316332	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -193581,10 +193581,10 @@ disjunctive
 316340	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 316345	disjunctive
 316347	disjunctive
-316349	conjunctive/disjunctive
+316349	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -193604,7 +193604,7 @@ disjunctive
 316374	disjunctive
 316377	disjunctive
 316379	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -193618,7 +193618,7 @@ disjunctive
 conjunctive
 disjunctive
 316395	disjunctive
-316397	conjunctive/disjunctive
+316397	conjunctive
 disjunctive
 316400	disjunctive
 316402	conjunctive
@@ -193641,7 +193641,7 @@ disjunctive
 316426	conjunctive
 disjunctive
 316429	disjunctive
-conjunctive/disjunctive
+conjunctive
 316432	disjunctive
 conjunctive
 disjunctive
@@ -193650,14 +193650,14 @@ disjunctive
 316438	disjunctive
 disjunctive
 316441	disjunctive
-316443	conjunctive/disjunctive
+316443	conjunctive
 disjunctive
-316446	conjunctive/disjunctive
+316446	conjunctive
 disjunctive
-316449	conjunctive/disjunctive
+316449	conjunctive
 316451	disjunctive
 316453	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -193675,7 +193675,7 @@ conjunctive
 conjunctive
 316481	disjunctive
 316484	disjunctive
-316486	conjunctive/disjunctive
+316486	conjunctive
 316488	disjunctive
 conjunctive
 disjunctive
@@ -193688,7 +193688,7 @@ disjunctive
 316502	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 316507	disjunctive
 316509	conjunctive
 316511	conjunctive
@@ -193697,7 +193697,7 @@ disjunctive
 conjunctive
 disjunctive
 316518	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -193713,7 +193713,7 @@ disjunctive
 disjunctive
 316539	conjunctive
 316541	disjunctive
-316543	conjunctive/disjunctive
+316543	conjunctive
 disjunctive
 316546	disjunctive
 conjunctive
@@ -193730,7 +193730,7 @@ disjunctive
 conjunctive
 disjunctive
 316566	disjunctive
-316568	conjunctive/disjunctive
+316568	conjunctive
 disjunctive
 316571	disjunctive
 316573	conjunctive
@@ -193756,21 +193756,21 @@ disjunctive
 disjunctive
 316604	conjunctive
 disjunctive
-316607	conjunctive/disjunctive
+316607	conjunctive
 disjunctive
 316610	disjunctive
 conjunctive
 316613	disjunctive
 316615	disjunctive
-316617	conjunctive/disjunctive
+316617	conjunctive
 disjunctive
 conjunctive
 316621	conjunctive
 316623	disjunctive
 disjunctive
-316627	conjunctive/disjunctive
+316627	conjunctive
 disjunctive
-316631	conjunctive/disjunctive
+316631	conjunctive
 disjunctive
 316634	disjunctive
 conjunctive
@@ -193782,17 +193782,17 @@ disjunctive
 316644	disjunctive
 316646	conjunctive
 disjunctive
-316649	conjunctive/disjunctive
+316649	conjunctive
 316651	disjunctive
-316653	conjunctive/disjunctive
+316653	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-316660	conjunctive/disjunctive
+316660	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -193803,31 +193803,31 @@ conjunctive
 conjunctive
 316673	disjunctive
 316676	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 316680	disjunctive
 conjunctive
 disjunctive
-316684	conjunctive/disjunctive
+316684	conjunctive
 disjunctive
 316687	disjunctive
 conjunctive
 316690	conjunctive
 316692	disjunctive
 disjunctive
-316695	conjunctive/disjunctive
+316695	conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 316700	disjunctive
 316702	disjunctive
-conjunctive/disjunctive
+conjunctive
 316705	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-316712	conjunctive/disjunctive
+316712	conjunctive
 316714	disjunctive
 conjunctive
 disjunctive
@@ -193837,7 +193837,7 @@ disjunctive
 conjunctive
 disjunctive
 316725	disjunctive
-316727	conjunctive/disjunctive
+316727	conjunctive
 disjunctive
 316730	disjunctive
 conjunctive
@@ -193847,7 +193847,7 @@ disjunctive
 conjunctive
 disjunctive
 316739	disjunctive
-316742	conjunctive/disjunctive
+316742	conjunctive
 disjunctive
 316745	conjunctive
 316747	disjunctive
@@ -193860,21 +193860,21 @@ conjunctive
 316759	disjunctive
 conjunctive
 316762	disjunctive
-316764	conjunctive/disjunctive
+316764	conjunctive
 316766	disjunctive
 disjunctive
 316769	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 316777	disjunctive
 316780	disjunctive
-316782	conjunctive/disjunctive
+316782	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 316787	disjunctive
 316789	conjunctive
@@ -193882,7 +193882,7 @@ disjunctive
 316792	conjunctive
 conjunctive
 disjunctive
-316796	conjunctive/disjunctive
+316796	conjunctive
 disjunctive
 disjunctive
 316800	disjunctive
@@ -193899,26 +193899,26 @@ disjunctive
 disjunctive
 conjunctive
 316817	disjunctive
-316819	conjunctive/disjunctive
+316819	conjunctive
 disjunctive
 disjunctive
-316823	conjunctive/disjunctive
+316823	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 316827	disjunctive
 disjunctive
 disjunctive
-316832	conjunctive/disjunctive
+316832	conjunctive
 316834	
-conjunctive/disjunctive
+conjunctive
 316837	disjunctive
 disjunctive
 conjunctive
 disjunctive
 316842	conjunctive
 316844	disjunctive
-conjunctive/disjunctive
-316847	conjunctive/disjunctive
+conjunctive
+316847	conjunctive
 disjunctive
 316850	conjunctive
 conjunctive
@@ -193927,11 +193927,11 @@ conjunctive
 disjunctive
 conjunctive
 316858	disjunctive
-316860	conjunctive/disjunctive
+316860	conjunctive
 disjunctive
 316863	disjunctive
 316865	disjunctive
-316867	conjunctive/disjunctive
+316867	conjunctive
 316869	disjunctive
 disjunctive
 316872	disjunctive
@@ -193942,7 +193942,7 @@ disjunctive
 conjunctive
 316880	disjunctive
 disjunctive
-316883	conjunctive/disjunctive
+316883	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -193951,17 +193951,17 @@ disjunctive
 316890	conjunctive
 316892	conjunctive
 disjunctive
-conjunctive/disjunctive
-316896	conjunctive/disjunctive
+conjunctive
+316896	conjunctive
 316898	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 316903	disjunctive
 316905	disjunctive
-316907	conjunctive/disjunctive
+316907	conjunctive
 disjunctive
 disjunctive
-316912	conjunctive/disjunctive
+316912	conjunctive
 316914	disjunctive
 316916	conjunctive
 316918	conjunctive
@@ -193969,9 +193969,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-316925	conjunctive/disjunctive
+316925	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 316930	disjunctive
 disjunctive
@@ -193983,7 +193983,7 @@ disjunctive
 conjunctive
 316940	conjunctive
 disjunctive
-316943	conjunctive/disjunctive
+316943	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -194017,28 +194017,28 @@ conjunctive
 conjunctive
 316990	disjunctive
 316993	disjunctive
-316995	conjunctive/disjunctive
+316995	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-317001	conjunctive/disjunctive
+317001	conjunctive
 disjunctive
-317004	conjunctive/disjunctive
+317004	conjunctive
 disjunctive
 317007	disjunctive
-317009	conjunctive/disjunctive
+317009	conjunctive
 disjunctive
 317012	conjunctive
 317014	disjunctive
 317016	conjunctive
-317018	conjunctive/disjunctive
+317018	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317023	conjunctive
 317025	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 317030	disjunctive
@@ -194047,27 +194047,27 @@ conjunctive
 317034	disjunctive
 317036	disjunctive
 317038	disjunctive
-conjunctive/disjunctive
+conjunctive
 317041	disjunctive
 317043	conjunctive
 disjunctive
 disjunctive
-317048	conjunctive/disjunctive
+317048	conjunctive
 317050	disjunctive
-317052	conjunctive/disjunctive
+317052	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 317061	disjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 317068	disjunctive
 disjunctive
 317071	disjunctive
@@ -194077,7 +194077,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 317082	disjunctive
 conjunctive
 disjunctive
@@ -194085,7 +194085,7 @@ conjunctive
 disjunctive
 317088	disjunctive
 317091	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317096	conjunctive
 conjunctive
@@ -194102,7 +194102,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 317118	disjunctive
@@ -194111,19 +194111,19 @@ disjunctive
 conjunctive
 317124	conjunctive
 disjunctive
-317127	conjunctive/disjunctive
-conjunctive/disjunctive
+317127	conjunctive
+conjunctive
 317130	disjunctive
-317132	conjunctive/disjunctive
+317132	conjunctive
 disjunctive
 conjunctive
 disjunctive
 317137	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 317142	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 317147	disjunctive
@@ -194134,21 +194134,21 @@ conjunctive
 disjunctive
 317156	conjunctive
 317158	disjunctive
-conjunctive/disjunctive
-317161	conjunctive/disjunctive
+conjunctive
+317161	conjunctive
 disjunctive
-317164	conjunctive/disjunctive
+317164	conjunctive
 disjunctive
 conjunctive
 disjunctive
 317169	disjunctive
 disjunctive
-317172	conjunctive/disjunctive
+317172	conjunctive
 disjunctive
 conjunctive
 317176	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317181	disjunctive
 conjunctive
@@ -194159,7 +194159,7 @@ disjunctive
 disjunctive
 317190	conjunctive
 disjunctive
-317193	conjunctive/disjunctive
+317193	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -194177,22 +194177,22 @@ disjunctive
 conjunctive
 317213	disjunctive
 conjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
 conjunctive
 317219	conjunctive
 disjunctive
 disjunctive
 317223	disjunctive
 317226	disjunctive
-conjunctive/disjunctive
+conjunctive
 317229	disjunctive
 disjunctive
 conjunctive
 317233	disjunctive
-317235	conjunctive/disjunctive
+317235	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -194207,29 +194207,29 @@ disjunctive
 317257	conjunctive
 disjunctive
 317260	disjunctive
-conjunctive/disjunctive
+conjunctive
 317263	disjunctive
 317265	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-317271	conjunctive/disjunctive
+317271	conjunctive
 disjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-317280	conjunctive/disjunctive
+317280	conjunctive
 disjunctive
 317284	conjunctive
 317286	disjunctive
 conjunctive
 disjunctive
 disjunctive
-317291	conjunctive/disjunctive
+317291	conjunctive
 disjunctive
 conjunctive
 317296	conjunctive
@@ -194245,9 +194245,9 @@ disjunctive
 317308	disjunctive
 conjunctive
 disjunctive
-317312	conjunctive/disjunctive
+317312	conjunctive
 disjunctive
-317315	conjunctive/disjunctive
+317315	conjunctive
 317317	disjunctive
 317319	conjunctive
 disjunctive
@@ -194260,9 +194260,9 @@ conjunctive
 disjunctive
 317330	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 317334	disjunctive
-317336	conjunctive/disjunctive
+317336	conjunctive
 disjunctive
 317339	conjunctive
 disjunctive
@@ -194284,15 +194284,15 @@ disjunctive
 conjunctive
 disjunctive
 317367	disjunctive
-317369	conjunctive/disjunctive
+317369	conjunctive
 317371	disjunctive
 conjunctive
 317374	disjunctive
 317377	disjunctive
-conjunctive/disjunctive
+conjunctive
 317381	disjunctive
 317383	disjunctive
-conjunctive/disjunctive
+conjunctive
 317387	disjunctive
 conjunctive
 conjunctive
@@ -194303,8 +194303,8 @@ conjunctive
 disjunctive
 317396	disjunctive
 317398	conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
 317403	disjunctive
 conjunctive
@@ -194314,10 +194314,10 @@ conjunctive
 disjunctive
 conjunctive
 317412	disjunctive
-317414	conjunctive/disjunctive
-conjunctive/disjunctive
+317414	conjunctive
+conjunctive
 317418	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -194328,11 +194328,11 @@ conjunctive
 disjunctive
 317431	disjunctive
 disjunctive
-317434	conjunctive/disjunctive
+317434	conjunctive
 disjunctive
-317438	conjunctive/disjunctive
+317438	conjunctive
 317440	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317444	conjunctive
 disjunctive
@@ -194340,9 +194340,9 @@ disjunctive
 disjunctive
 conjunctive
 317451	disjunctive
-317453	conjunctive/disjunctive
+317453	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -194353,15 +194353,15 @@ disjunctive
 317465	conjunctive
 disjunctive
 317468	disjunctive
-317470	conjunctive/disjunctive
+317470	conjunctive
 disjunctive
 317474	conjunctive
 disjunctive
 317477	conjunctive
 disjunctive
-317480	conjunctive/disjunctive
+317480	conjunctive
 317482	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -194374,22 +194374,22 @@ disjunctive
 317497	conjunctive
 disjunctive
 disjunctive
-317501	conjunctive/disjunctive
+317501	conjunctive
 disjunctive
 conjunctive
 disjunctive
-317506	conjunctive/disjunctive
+317506	conjunctive
 disjunctive
 317509	conjunctive
 disjunctive
 317512	disjunctive
 317514	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-317518	conjunctive/disjunctive
-conjunctive/disjunctive
+317518	conjunctive
+conjunctive
 317522	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317526	conjunctive
 disjunctive
@@ -194399,14 +194399,14 @@ conjunctive
 317534	disjunctive
 317536	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317541	disjunctive
 conjunctive
 disjunctive
 317545	conjunctive
 disjunctive
-317548	conjunctive/disjunctive
+317548	conjunctive
 317550	disjunctive
 317553	conjunctive
 317555	conjunctive
@@ -194416,7 +194416,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-317564	conjunctive/disjunctive
+317564	conjunctive
 disjunctive
 317567	conjunctive
 disjunctive
@@ -194424,7 +194424,7 @@ disjunctive
 317572	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 317578	disjunctive
 317581	disjunctive
 317583	disjunctive
@@ -194433,9 +194433,9 @@ disjunctive
 317588	disjunctive
 conjunctive
 disjunctive
-317592	conjunctive/disjunctive
+317592	conjunctive
 317594	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317598	conjunctive
 disjunctive
@@ -194445,7 +194445,7 @@ conjunctive
 317606	disjunctive
 317608	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317613	disjunctive
 317616	conjunctive
@@ -194454,10 +194454,10 @@ disjunctive
 disjunctive
 317623	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 317627	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 317631	disjunctive
 317633	conjunctive
 disjunctive
@@ -194466,20 +194466,20 @@ disjunctive
 conjunctive
 disjunctive
 317640	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317644	disjunctive
 conjunctive
 conjunctive
 317648	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317652	disjunctive
 317654	conjunctive
-conjunctive/disjunctive
+conjunctive
 317657	conjunctive
 317659	disjunctive
-317661	conjunctive/disjunctive
+317661	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -194487,13 +194487,13 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 317676	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -194505,7 +194505,7 @@ disjunctive
 conjunctive
 disjunctive
 317691	disjunctive
-317693	conjunctive/disjunctive
+317693	conjunctive
 disjunctive
 317696	disjunctive
 conjunctive
@@ -194529,14 +194529,14 @@ disjunctive
 disjunctive
 317731	disjunctive
 disjunctive
-317734	conjunctive/disjunctive
+317734	conjunctive
 317737	disjunctive
 317740	disjunctive
 317742	disjunctive
 conjunctive
 disjunctive
 317746	disjunctive
-conjunctive/disjunctive
+conjunctive
 317749	disjunctive
 317751	disjunctive
 conjunctive
@@ -194553,7 +194553,7 @@ disjunctive
 317771	disjunctive
 conjunctive
 317774	disjunctive
-317776	conjunctive/disjunctive
+317776	conjunctive
 disjunctive
 317779	disjunctive
 317781	conjunctive
@@ -194565,9 +194565,9 @@ disjunctive
 317792	conjunctive
 conjunctive
 disjunctive
-317796	conjunctive/disjunctive
+317796	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -194579,16 +194579,16 @@ conjunctive
 317811	disjunctive
 conjunctive
 disjunctive
-317815	conjunctive/disjunctive
+317815	conjunctive
 disjunctive
 317818	conjunctive
 disjunctive
 317821	conjunctive
 disjunctive
 317824	disjunctive
-317826	conjunctive/disjunctive
+317826	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317831	disjunctive
 conjunctive
@@ -194601,9 +194601,9 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-317846	conjunctive/disjunctive
+317846	conjunctive
 317848	disjunctive
-317850	conjunctive/disjunctive
+317850	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -194668,39 +194668,39 @@ disjunctive
 conjunctive
 disjunctive
 317940	disjunctive
-conjunctive/disjunctive
+conjunctive
 317943	disjunctive
 conjunctive
 disjunctive
 conjunctive
 317948	disjunctive
-conjunctive/disjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-317956	disjunctive/conjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+317956	disjunctive
+conjunctive
 317959	disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 317966	disjunctive
 317969	conjunctive
 disjunctive
 317972	disjunctive
-317974	conjunctive/disjunctive
+317974	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 317981	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 317985	disjunctive
 317987	conjunctive
 disjunctive
@@ -194708,19 +194708,19 @@ disjunctive
 317992	disjunctive
 317994	conjunctive
 disjunctive
-317997	conjunctive/disjunctive
+317997	conjunctive
 disjunctive
-318000	conjunctive/disjunctive
+318000	conjunctive
 disjunctive
 318003	conjunctive
 318005	conjunctive
 disjunctive
-318008	conjunctive/disjunctive
+318008	conjunctive
 disjunctive
 318012	disjunctive
 318015	disjunctive
 318017	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -194748,35 +194748,35 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318057	disjunctive
 318061	disjunctive
 conjunctive
 disjunctive
 318066	conjunctive
 318068	disjunctive
-318070	conjunctive/disjunctive
-conjunctive/disjunctive
+318070	conjunctive
+conjunctive
 disjunctive
-318074	conjunctive/disjunctive
+318074	conjunctive
 318076	disjunctive
-318079	conjunctive/disjunctive
+318079	conjunctive
 318082	disjunctive
-318084	conjunctive/disjunctive
+318084	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 318090	disjunctive
-conjunctive/disjunctive
+conjunctive
 318093	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 318097	conjunctive
 318099	disjunctive
 318101	conjunctive
 disjunctive
-318105	conjunctive/disjunctive
+318105	conjunctive
 disjunctive
 318108	conjunctive
 disjunctive
@@ -194788,30 +194788,30 @@ disjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318122	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 318128	disjunctive
 318130	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-318134	conjunctive/disjunctive
+318134	conjunctive
 disjunctive
 conjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318142	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-318149	unknown
+318149	disjunctive
 conjunctive
 conjunctive
 disjunctive
@@ -194821,7 +194821,7 @@ disjunctive
 318158	conjunctive
 conjunctive
 318162	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 318166	conjunctive
 318168	disjunctive
@@ -194830,20 +194830,20 @@ disjunctive
 318172	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318178	disjunctive
 conjunctive
 318181	disjunctive
 318183	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318188	disjunctive
-conjunctive/disjunctive
+conjunctive
 318192	disjunctive
 conjunctive
 conjunctive
 disjunctive
-318197	unknown
+318197	disjunctive
 conjunctive
 conjunctive
 disjunctive
@@ -194852,15 +194852,15 @@ disjunctive
 disjunctive
 318210	disjunctive
 318212	disjunctive
-conjunctive/disjunctive
+conjunctive
 318215	disjunctive
 318217	conjunctive
 disjunctive
 318220	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-unknown
+conjunctive
+disjunctive
 318228	disjunctive
 conjunctive
 conjunctive
@@ -194868,9 +194868,9 @@ disjunctive
 318233	disjunctive
 conjunctive
 disjunctive
-318237	conjunctive/disjunctive
+318237	conjunctive
 318239	disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 conjunctive
 318244	conjunctive
@@ -194889,9 +194889,9 @@ conjunctive
 disjunctive
 conjunctive
 conjunctive
-318265	conjunctive/disjunctive
+318265	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -194911,17 +194911,17 @@ conjunctive
 318288	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-unknown
+conjunctive
+disjunctive
 318295	disjunctive
 conjunctive
 conjunctive
 318299	conjunctive
 disjunctive
-318302	conjunctive/disjunctive
+318302	conjunctive
 disjunctive
 318305	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 318311	disjunctive
@@ -194931,30 +194931,30 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318321	disjunctive
-conjunctive/disjunctive
+conjunctive
 318324	disjunctive
 318326	conjunctive
 318328	disjunctive
 disjunctive
-conjunctive/disjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 318344	disjunctive
-318346	conjunctive/disjunctive
+318346	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 318352	conjunctive
 disjunctive
@@ -194979,7 +194979,7 @@ conjunctive
 disjunctive
 318381	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 318387	disjunctive
@@ -194996,9 +194996,9 @@ disjunctive
 conjunctive
 disjunctive
 318402	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 318408	conjunctive
 disjunctive
@@ -195017,13 +195017,13 @@ disjunctive
 318429	disjunctive
 318432	disjunctive
 disjunctive
-318435	conjunctive/disjunctive
+318435	conjunctive
 disjunctive
 318438	conjunctive
 disjunctive
 318442	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318446	disjunctive
 disjunctive
 conjunctive
@@ -195034,7 +195034,7 @@ disjunctive
 conjunctive
 318456	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318460	disjunctive
 disjunctive
 conjunctive
@@ -195044,9 +195044,9 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-318471	conjunctive/disjunctive
+318471	conjunctive
 318473	disjunctive
-318476	conjunctive/disjunctive
+318476	conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -195057,11 +195057,11 @@ disjunctive
 318487	conjunctive
 disjunctive
 318490	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-318494	conjunctive/disjunctive
+318494	conjunctive
 318496	disjunctive
-318499	conjunctive/disjunctive
+318499	conjunctive
 318501	disjunctive
 conjunctive
 conjunctive
@@ -195083,7 +195083,7 @@ disjunctive
 disjunctive
 318526	conjunctive
 318528	disjunctive
-conjunctive/disjunctive
+conjunctive
 318531	disjunctive
 conjunctive
 disjunctive
@@ -195111,9 +195111,9 @@ conjunctive
 disjunctive
 318569	disjunctive
 318571	
-318573	conjunctive/disjunctive
+318573	conjunctive
 disjunctive
-318576	conjunctive/disjunctive
+318576	conjunctive
 disjunctive
 318579	disjunctive
 conjunctive
@@ -195125,7 +195125,7 @@ disjunctive
 318589	disjunctive
 318591	conjunctive
 disjunctive
-318594	unknown
+318594	disjunctive
 conjunctive
 disjunctive
 conjunctive
@@ -195140,7 +195140,7 @@ disjunctive
 318611	conjunctive
 disjunctive
 318614	disjunctive
-318616	conjunctive/disjunctive
+318616	conjunctive
 disjunctive
 disjunctive
 318620	conjunctive
@@ -195160,29 +195160,29 @@ disjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318647	disjunctive
 318650	disjunctive
 318652	disjunctive
-318654	conjunctive/disjunctive
+318654	conjunctive
 318656	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 318663	disjunctive
-318666	conjunctive/disjunctive
+318666	conjunctive
 disjunctive
 318669	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 318675	conjunctive
 318677	disjunctive
 318681	disjunctive
-318683	conjunctive/disjunctive
+318683	conjunctive
 disjunctive
-318686	conjunctive/disjunctive
+318686	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -195214,20 +195214,20 @@ disjunctive
 disjunctive
 318727	disjunctive
 disjunctive
-318730	conjunctive/disjunctive
+318730	conjunctive
 318733	disjunctive
 disjunctive
 318737	disjunctive
 disjunctive
 318740	conjunctive
 disjunctive
-318743	conjunctive/disjunctive
+318743	conjunctive
 disjunctive
 disjunctive
 318747	disjunctive
 318749	conjunctive
 disjunctive
-318752	conjunctive/disjunctive
+318752	conjunctive
 disjunctive
 318755	disjunctive
 318757	disjunctive
@@ -195273,7 +195273,7 @@ disjunctive
 conjunctive
 318818	disjunctive
 318820	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 318825	conjunctive
@@ -195284,7 +195284,7 @@ conjunctive
 disjunctive
 318835	disjunctive
 disjunctive
-318838	conjunctive/disjunctive
+318838	conjunctive
 disjunctive
 conjunctive
 318842	conjunctive
@@ -195296,16 +195296,16 @@ disjunctive
 318851	disjunctive
 318853	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-318859	conjunctive/disjunctive
+318859	conjunctive
 disjunctive
 disjunctive
 318863	conjunctive
 disjunctive
 318867	disjunctive
-conjunctive/disjunctive
+conjunctive
 318870	disjunctive
 318873	disjunctive
 conjunctive
@@ -195315,14 +195315,14 @@ conjunctive
 conjunctive
 conjunctive
 318885	disjunctive
-318887	conjunctive/disjunctive
+318887	conjunctive
 disjunctive
 conjunctive
 disjunctive
 
 conjunctive
 318894	disjunctive
-318897	conjunctive/disjunctive
+318897	conjunctive
 disjunctive
 318900	disjunctive
 conjunctive
@@ -195333,36 +195333,36 @@ disjunctive
 conjunctive
 318909	disjunctive
 disjunctive
-318913	conjunctive/disjunctive
+318913	conjunctive
 318915	disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318920	disjunctive
-conjunctive/disjunctive
+conjunctive
 318923	disjunctive
-318926	conjunctive/disjunctive
+318926	conjunctive
 disjunctive
 318930	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 318934	disjunctive
 conjunctive
 318938	disjunctive
 318941	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 318946	conjunctive
 318948	disjunctive
 disjunctive
-318952	conjunctive/disjunctive
+318952	conjunctive
 disjunctive
 disjunctive
 conjunctive
 318957	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -195373,15 +195373,15 @@ conjunctive
 disjunctive
 318972	conjunctive
 disjunctive
-318975	conjunctive/disjunctive
+318975	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 318979	disjunctive
-318981	conjunctive/disjunctive
+318981	conjunctive
 318984	disjunctive
-318986	conjunctive/disjunctive
+318986	conjunctive
 disjunctive
-318989	conjunctive/disjunctive
+318989	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -195394,21 +195394,21 @@ conjunctive
 conjunctive
 disjunctive
 319003	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 319008	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 319019	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 319024	conjunctive
@@ -195421,7 +195421,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-319036	conjunctive/disjunctive
+319036	conjunctive
 319038	disjunctive
 disjunctive
 conjunctive
@@ -195430,7 +195430,7 @@ conjunctive
 319044	disjunctive
 319046	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -195442,31 +195442,31 @@ conjunctive
 319060	conjunctive
 disjunctive
 319064	disjunctive
-conjunctive/disjunctive
+conjunctive
 319067	disjunctive
 319069	disjunctive
 conjunctive
 319072	disjunctive
 319074	conjunctive
 319076	disjunctive
-319078	conjunctive/disjunctive
+319078	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-319083	conjunctive/disjunctive
+319083	conjunctive
 disjunctive
 319086	conjunctive
 319088	disjunctive
 319090	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 319095	disjunctive
 disjunctive
 conjunctive
 disjunctive
-319100	conjunctive/disjunctive
+319100	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -195475,7 +195475,7 @@ disjunctive
 319110	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 319116	disjunctive
 conjunctive
 disjunctive
@@ -195490,14 +195490,14 @@ conjunctive
 conjunctive
 disjunctive
 319136	conjunctive
-conjunctive/disjunctive
+conjunctive
 319139	disjunctive
-319141	conjunctive/disjunctive
+319141	conjunctive
 disjunctive
 conjunctive
 319145	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 319151	disjunctive
@@ -195510,22 +195510,22 @@ disjunctive
 disjunctive
 319164	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 319169	disjunctive
-conjunctive/disjunctive
+conjunctive
 319172	disjunctive
 conjunctive
 319175	disjunctive
 conjunctive
 disjunctive
 319179	conjunctive
-conjunctive/disjunctive
+conjunctive
 319182	disjunctive
 conjunctive
 disjunctive
-319187	conjunctive/disjunctive
+319187	conjunctive
 319189	disjunctive
-conjunctive/disjunctive
+conjunctive
 319192	disjunctive
 conjunctive
 conjunctive
@@ -195533,21 +195533,21 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-319201	conjunctive/disjunctive
+319201	conjunctive
 disjunctive
 conjunctive
 319205	disjunctive
 disjunctive
 319208	disjunctive
 conjunctive
-319211	disjunctive/conjunctive
-conjunctive/disjunctive
+319211	disjunctive
+conjunctive
 319214	disjunctive
 319216	conjunctive
 disjunctive
 disjunctive
 319220	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -195555,10 +195555,10 @@ conjunctive
 319227	disjunctive
 disjunctive
 319230	disjunctive
-319232	conjunctive/disjunctive
+319232	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 conjunctive
@@ -195569,15 +195569,15 @@ disjunctive
 disjunctive
 319245	disjunctive
 319247	conjunctive
-conjunctive/disjunctive
+conjunctive
 319250	disjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-319256	conjunctive/disjunctive
+319256	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 319261	disjunctive
 conjunctive
@@ -195586,26 +195586,26 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-319275	conjunctive/disjunctive
+319275	conjunctive
 319277	disjunctive
-conjunctive/disjunctive
+conjunctive
 319280	disjunctive
 319282	conjunctive
 319284	disjunctive
 319286	conjunctive
 319288	disjunctive
-319290	conjunctive/disjunctive
+319290	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 319296	conjunctive
 disjunctive
-319300	conjunctive/disjunctive
+319300	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -195629,14 +195629,14 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-319329	conjunctive/disjunctive
+319329	conjunctive
 disjunctive
 
 319333	disjunctive
 319335	disjunctive
 319337	disjunctive
 disjunctive
-319340	conjunctive/disjunctive
+319340	conjunctive
 319342	disjunctive
 conjunctive
 conjunctive
@@ -195646,11 +195646,11 @@ conjunctive
 319351	disjunctive
 disjunctive
 319355	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-319360	conjunctive/disjunctive
+319360	conjunctive
 319362	disjunctive
-conjunctive/disjunctive
+conjunctive
 319365	disjunctive
 conjunctive
 disjunctive
@@ -195668,17 +195668,17 @@ disjunctive
 319387	conjunctive
 conjunctive
 disjunctive
-319391	conjunctive/disjunctive
-conjunctive/disjunctive
+319391	conjunctive
+conjunctive
 disjunctive
-319396	conjunctive/disjunctive
+319396	conjunctive
 disjunctive
 disjunctive
 conjunctive
 319401	disjunctive
-319403	conjunctive/disjunctive
+319403	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 319409	disjunctive
@@ -195690,7 +195690,7 @@ disjunctive
 319419	conjunctive
 disjunctive
 319423	disjunctive
-conjunctive/disjunctive
+conjunctive
 319426	disjunctive
 disjunctive
 conjunctive
@@ -195714,25 +195714,25 @@ conjunctive
 319454	disjunctive
 conjunctive
 319457	disjunctive
-conjunctive/disjunctive
+conjunctive
 319460	disjunctive
 319462	conjunctive
 319464	conjunctive
 319466	disjunctive
-conjunctive/disjunctive
+conjunctive
 319469	disjunctive
-319472	conjunctive/disjunctive
+319472	conjunctive
 319474	disjunctive
 conjunctive
 319477	disjunctive
 conjunctive
-319480	conjunctive/disjunctive
+319480	conjunctive
 disjunctive
 319483	disjunctive
 319485	disjunctive
 conjunctive
 disjunctive
-319489	conjunctive/disjunctive
+319489	conjunctive
 disjunctive
 319492	conjunctive
 conjunctive
@@ -195743,9 +195743,9 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-319504	conjunctive/disjunctive
+319504	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 319508	disjunctive
 319510	
 disjunctive
@@ -195765,21 +195765,21 @@ conjunctive
 319532	disjunctive
 conjunctive
 319535	disjunctive
-319537	conjunctive/disjunctive
+319537	conjunctive
 disjunctive
 conjunctive
 319541	conjunctive
 disjunctive
 319545	disjunctive
 319548	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
 319554	disjunctive
 319556	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 conjunctive
 conjunctive
@@ -195790,14 +195790,14 @@ disjunctive
 conjunctive
 disjunctive
 319570	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 319578	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 319582	disjunctive
 319584	conjunctive
 disjunctive
@@ -195807,7 +195807,7 @@ disjunctive
 319591	conjunctive
 disjunctive
 319594	conjunctive
-319596	conjunctive/disjunctive
+319596	conjunctive
 disjunctive
 319600	disjunctive
 319602	conjunctive
@@ -195837,7 +195837,7 @@ disjunctive
 319638	conjunctive
 disjunctive
 319642	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -195846,10 +195846,10 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 319661	disjunctive
 conjunctive
@@ -195873,9 +195873,9 @@ disjunctive
 conjunctive
 disjunctive
 319690	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-319694	conjunctive/disjunctive
+319694	conjunctive
 319696	disjunctive
 319698	disjunctive
 disjunctive
@@ -195883,7 +195883,7 @@ conjunctive
 disjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 conjunctive
 319708	disjunctive
@@ -195896,13 +195896,13 @@ disjunctive
 319718	conjunctive
 disjunctive
 319721	disjunctive
-319723	conjunctive/disjunctive
+319723	conjunctive
 disjunctive
 319726	disjunctive
 conjunctive
 disjunctive
 319730	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 319734	conjunctive
 disjunctive
@@ -195921,7 +195921,7 @@ conjunctive
 conjunctive
 disjunctive
 319752	disjunctive
-319754	conjunctive/disjunctive
+319754	conjunctive
 disjunctive
 319757	disjunctive
 319759	disjunctive
@@ -195933,26 +195933,26 @@ disjunctive
 319771	disjunctive
 319773	conjunctive
 disjunctive
-319776	conjunctive/disjunctive
+319776	conjunctive
 319779	disjunctive
 319782	disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
-319793	conjunctive/disjunctive
+319793	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 319800	conjunctive
 disjunctive
 319804	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 319809	disjunctive
@@ -195960,12 +195960,12 @@ conjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 319819	disjunctive
 disjunctive
-319822	conjunctive/disjunctive
+319822	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -196003,9 +196003,9 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-319872	conjunctive/disjunctive
+319872	conjunctive
 319874	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 319880	conjunctive
@@ -196015,7 +196015,7 @@ disjunctive
 319886	conjunctive
 319888	conjunctive
 disjunctive
-319892	conjunctive/disjunctive
+319892	conjunctive
 disjunctive
 conjunctive
 319896	conjunctive
@@ -196023,15 +196023,15 @@ disjunctive
 conjunctive
 319901	conjunctive
 disjunctive
-319905	conjunctive/disjunctive
+319905	conjunctive
 319907	disjunctive
-319909	conjunctive/disjunctive
+319909	conjunctive
 disjunctive
 319912	disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -196039,22 +196039,22 @@ disjunctive
 conjunctive
 disjunctive
 319927	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 conjunctive
 319934	disjunctive
-conjunctive/disjunctive
+conjunctive
 319937	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 319941	disjunctive
-319943	conjunctive/disjunctive
+319943	conjunctive
 319945	disjunctive
-319947	conjunctive/disjunctive
+319947	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 319953	disjunctive
@@ -196064,16 +196064,16 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-319962	conjunctive/disjunctive
+319962	conjunctive
 319964	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 319971	disjunctive
 319973	disjunctive
-conjunctive/disjunctive
+conjunctive
 
 conjunctive
 disjunctive
@@ -196081,22 +196081,22 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-319985	conjunctive/disjunctive
+319985	conjunctive
 disjunctive
 319988	conjunctive
 conjunctive
 conjunctive
 disjunctive
-319993	conjunctive/disjunctive
+319993	conjunctive
 319995	disjunctive
 disjunctive
 conjunctive
 disjunctive
 320000	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 320005	conjunctive
 320007	disjunctive
@@ -196104,28 +196104,28 @@ disjunctive
 disjunctive
 320012	conjunctive
 320015	disjunctive
-conjunctive/disjunctive
+conjunctive
 320018	disjunctive
-conjunctive/disjunctive
+conjunctive
 320022	disjunctive
 320025	conjunctive
 320027	disjunctive
 320029	conjunctive
 disjunctive
-320032	conjunctive/disjunctive
+320032	conjunctive
 disjunctive
-320035	conjunctive/disjunctive
+320035	conjunctive
 320038	disjunctive
 320040	disjunctive
 conjunctive
 320043	conjunctive
 disjunctive
-320046	conjunctive/disjunctive
+320046	conjunctive
 disjunctive
 disjunctive
 320050	conjunctive
 disjunctive
-320054	conjunctive/disjunctive
+320054	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -196150,7 +196150,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-320090	conjunctive/disjunctive
+320090	conjunctive
 320093	disjunctive
 320095	conjunctive
 320097	conjunctive
@@ -196158,16 +196158,16 @@ conjunctive
 disjunctive
 conjunctive
 320103	disjunctive
-conjunctive/disjunctive
+conjunctive
 320107	disjunctive
-320109	conjunctive/disjunctive
+320109	conjunctive
 disjunctive
 disjunctive
 conjunctive
 320114	disjunctive
 disjunctive
 320117	disjunctive
-320119	conjunctive/disjunctive
+320119	conjunctive
 disjunctive
 320122	conjunctive
 disjunctive
@@ -196183,7 +196183,7 @@ conjunctive
 
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 320142	disjunctive
 320144	disjunctive
 320146	conjunctive
@@ -196195,12 +196195,12 @@ conjunctive
 disjunctive
 320156	disjunctive
 320158	disjunctive
-320160	conjunctive/disjunctive
+320160	conjunctive
 320162	disjunctive
 320165	conjunctive
 320168	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 320172	disjunctive
 conjunctive
 320175	disjunctive
@@ -196213,20 +196213,20 @@ conjunctive
 disjunctive
 320189	conjunctive
 320192	disjunctive
-conjunctive/disjunctive
+conjunctive
 320196	disjunctive
-320198	conjunctive/disjunctive
+320198	conjunctive
 disjunctive
 disjunctive
 
 320203	disjunctive
-320205	conjunctive/disjunctive
+320205	conjunctive
 disjunctive
 320208	disjunctive
 320210	disjunctive
 conjunctive
 disjunctive
-320214	conjunctive/disjunctive
+320214	conjunctive
 320217	disjunctive
 disjunctive
 320220	conjunctive
@@ -196238,9 +196238,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-320233	conjunctive/disjunctive
+320233	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 320239	disjunctive
 320241	conjunctive
@@ -196249,7 +196249,7 @@ conjunctive
 320245	conjunctive
 320247	disjunctive
 320249	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 320254	conjunctive
 disjunctive
@@ -196265,7 +196265,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-unknown
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -196293,10 +196293,10 @@ conjunctive
 conjunctive
 320303	
 disjunctive
-conjunctive/disjunctive
+conjunctive
 320307	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 320312	conjunctive
 conjunctive
@@ -196329,19 +196329,19 @@ conjunctive
 320346	conjunctive
 conjunctive
 disjunctive
-320351	conjunctive/disjunctive
+320351	conjunctive
 disjunctive
 320354	disjunctive
 320356	conjunctive
 conjunctive
 320359	disjunctive
 320361	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-320365	conjunctive/disjunctive
+320365	conjunctive
 320367	disjunctive
 320369	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 320374	conjunctive
 320376	conjunctive
@@ -196364,7 +196364,7 @@ disjunctive
 conjunctive
 disjunctive
 320403	disjunctive
-320405	conjunctive/disjunctive
+320405	conjunctive
 disjunctive
 conjunctive
 320409	disjunctive
@@ -196377,21 +196377,21 @@ disjunctive
 disjunctive
 conjunctive
 320421	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 320429	conjunctive
 disjunctive
 disjunctive
-320433	conjunctive/disjunctive
+320433	conjunctive
 320435	disjunctive
 conjunctive
 disjunctive
 320439	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 320443	disjunctive
 conjunctive
 disjunctive
@@ -196399,13 +196399,13 @@ conjunctive
 conjunctive
 conjunctive
 320450	disjunctive
-320452	conjunctive/disjunctive
+320452	conjunctive
 disjunctive
 conjunctive
 disjunctive
-320458	conjunctive/disjunctive
+320458	conjunctive
 320460	disjunctive
-conjunctive/disjunctive
+conjunctive
 320463	disjunctive
 conjunctive
 320466	disjunctive
@@ -196417,7 +196417,7 @@ disjunctive
 disjunctive
 320475	disjunctive
 disjunctive
-320478	conjunctive/disjunctive
+320478	conjunctive
 disjunctive
 320481	disjunctive
 conjunctive
@@ -196425,7 +196425,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-320488	conjunctive/disjunctive
+320488	conjunctive
 disjunctive
 disjunctive
 320492	disjunctive
@@ -196435,7 +196435,7 @@ conjunctive
 320498	disjunctive
 conjunctive
 disjunctive
-320502	conjunctive/disjunctive
+320502	conjunctive
 disjunctive
 320506	disjunctive
 320508	disjunctive
@@ -196454,28 +196454,28 @@ disjunctive
 320526	disjunctive
 conjunctive
 320529	disjunctive
-320531	conjunctive/disjunctive
+320531	conjunctive
 disjunctive
 320534	disjunctive
 conjunctive
 conjunctive
 320539	disjunctive
 disjunctive
-320543	conjunctive/disjunctive
+320543	conjunctive
 disjunctive
 conjunctive
 320547	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 320552	disjunctive
 conjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
-320557	conjunctive/disjunctive
+disjunctive
+conjunctive
+320557	conjunctive
 320559	disjunctive
 disjunctive
-320562	conjunctive/disjunctive
+320562	conjunctive
 disjunctive
 320565	conjunctive
 320567	disjunctive
@@ -196483,29 +196483,29 @@ disjunctive
 320572	disjunctive
 disjunctive
 320575	disjunctive
-320577	conjunctive/disjunctive
+320577	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-320583	conjunctive/disjunctive
+320583	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 320588	disjunctive
-320591	conjunctive/disjunctive
+320591	conjunctive
 disjunctive
 320594	conjunctive
 conjunctive
 320597	conjunctive
 320599	disjunctive
-conjunctive/disjunctive
+conjunctive
 320602	disjunctive
 320604	disjunctive
-320606	conjunctive/disjunctive
+320606	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -196520,29 +196520,29 @@ disjunctive
 disjunctive
 320628	conjunctive
 disjunctive
-320631	conjunctive/disjunctive
+320631	conjunctive
 disjunctive
 320634	disjunctive
 320636	conjunctive
 disjunctive
 320639	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 320645	disjunctive
-320647	unknown
-conjunctive/disjunctive
+320647	disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 320653	disjunctive
 conjunctive
 disjunctive
-320657	conjunctive/disjunctive
+320657	conjunctive
 disjunctive
 320660	disjunctive
-320662	conjunctive/disjunctive
+320662	conjunctive
 320664	disjunctive
 320666	disjunctive
 320668	disjunctive
@@ -196556,16 +196556,16 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 320685	disjunctive
 320687	disjunctive
 conjunctive
 disjunctive
 disjunctive
-320692	conjunctive/disjunctive
+320692	conjunctive
 320694	disjunctive
-conjunctive/disjunctive
+conjunctive
 320698	disjunctive
 conjunctive
 conjunctive
@@ -196576,19 +196576,19 @@ conjunctive
 disjunctive
 320711	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 320717	disjunctive
 320720	disjunctive
-conjunctive/disjunctive
+conjunctive
 320723	disjunctive
 320725	conjunctive
 conjunctive
 320728	disjunctive
-320730	conjunctive/disjunctive
+320730	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 320736	conjunctive
@@ -196600,14 +196600,14 @@ conjunctive
 conjunctive
 320746	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 320753	conjunctive
 320756	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 320761	conjunctive
 disjunctive
@@ -196624,13 +196624,13 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-320781	conjunctive/disjunctive
+320781	conjunctive
 disjunctive
 320784	conjunctive
 disjunctive
 320787	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -196638,14 +196638,14 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-320799	conjunctive/disjunctive
+320799	conjunctive
 disjunctive
 320802	disjunctive
 320804	disjunctive
 320806	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-320810	conjunctive/disjunctive
+320810	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -196654,9 +196654,9 @@ conjunctive
 disjunctive
 320820	disjunctive
 320823	disjunctive
-320826	conjunctive/disjunctive
+320826	conjunctive
 disjunctive
-320829	conjunctive/disjunctive
+320829	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -196665,17 +196665,17 @@ conjunctive
 320836	disjunctive
 320838	disjunctive
 320840	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-320845	conjunctive/disjunctive
+320845	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -196692,7 +196692,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 320875	disjunctive
 320877	conjunctive
 disjunctive
@@ -196704,9 +196704,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-320892	conjunctive/disjunctive
+320892	conjunctive
 disjunctive
 320895	disjunctive
 conjunctive
@@ -196715,7 +196715,7 @@ disjunctive
 320901	conjunctive
 320903	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 320907	disjunctive
 320909	disjunctive
 conjunctive
@@ -196724,53 +196724,53 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-320919	conjunctive/disjunctive
+320919	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-320926	conjunctive/disjunctive
+320926	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 320934	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 320941	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 320947	disjunctive
-320949	conjunctive/disjunctive
+320949	conjunctive
 320951	disjunctive
 disjunctive
 320954	disjunctive
 320957	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-320962	unknown
+conjunctive
+320962	disjunctive
 320965	disjunctive
-conjunctive/disjunctive
+conjunctive
 320968	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 320974	disjunctive
 320976	conjunctive
 disjunctive
-320979	conjunctive/disjunctive
+320979	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -196786,9 +196786,9 @@ conjunctive
 320997	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-321003	conjunctive/disjunctive
+321003	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -196820,19 +196820,19 @@ disjunctive
 321048	conjunctive
 321051	conjunctive
 disjunctive
-321054	conjunctive/disjunctive
+321054	conjunctive
 disjunctive
 disjunctive
 321059	disjunctive
-conjunctive/disjunctive
+conjunctive
 321063	disjunctive
 conjunctive
 conjunctive
 321067	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321071	disjunctive
-321075	conjunctive/disjunctive
+321075	conjunctive
 321079	disjunctive
 321081	disjunctive
 321084	disjunctive
@@ -196842,7 +196842,7 @@ conjunctive
 conjunctive
 conjunctive
 disjunctive
-321093	conjunctive/disjunctive
+321093	conjunctive
 disjunctive
 321097	disjunctive
 321101	disjunctive
@@ -196851,7 +196851,7 @@ conjunctive
 321105	disjunctive
 321107	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 321112	conjunctive
 disjunctive
@@ -196862,7 +196862,7 @@ disjunctive
 conjunctive
 conjunctive
 321124	disjunctive
-conjunctive/disjunctive
+conjunctive
 321127	disjunctive
 321129	disjunctive
 conjunctive
@@ -196879,19 +196879,19 @@ disjunctive
 disjunctive
 321145	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321151	conjunctive
-conjunctive/disjunctive
+conjunctive
 321154	disjunctive
 321156	disjunctive
-321159	conjunctive/disjunctive
+321159	conjunctive
 321161	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321167	disjunctive
 conjunctive
 conjunctive
@@ -196906,9 +196906,9 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321190	disjunctive
 disjunctive
 321193	conjunctive
@@ -196922,46 +196922,46 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-321218	conjunctive/disjunctive
+321218	conjunctive
 disjunctive
 321222	disjunctive
-321225	conjunctive/disjunctive
+321225	conjunctive
 321227	disjunctive
-conjunctive/disjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-321235	conjunctive/disjunctive
+conjunctive
+disjunctive
+321235	conjunctive
 disjunctive
 321238	disjunctive
-321240	conjunctive/disjunctive
+321240	conjunctive
 disjunctive
 disjunctive
 321244	conjunctive
 disjunctive
 321248	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-321252	conjunctive/disjunctive
+321252	conjunctive
 disjunctive
 321255	disjunctive
 conjunctive
 disjunctive
-321259	conjunctive/disjunctive
+321259	conjunctive
 disjunctive
-321262	conjunctive/disjunctive
+321262	conjunctive
 321264	disjunctive
 disjunctive
 321267	disjunctive
@@ -196970,16 +196970,16 @@ disjunctive
 disjunctive
 321273	conjunctive
 321276	disjunctive
-321278	conjunctive/disjunctive
+321278	conjunctive
 disjunctive
-321281	conjunctive/disjunctive
+321281	conjunctive
 321283	disjunctive
 conjunctive
 disjunctive
 321287	conjunctive
 disjunctive
 disjunctive
-321291	conjunctive/disjunctive
+321291	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -196988,9 +196988,9 @@ disjunctive
 conjunctive
 disjunctive
 321301	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 321308	disjunctive
@@ -197005,30 +197005,30 @@ disjunctive
 disjunctive
 321323	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-321328	conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
+321328	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+conjunctive
 321338	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321343	disjunctive
 conjunctive
 321346	conjunctive
 321349	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321353	disjunctive
 321355	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -197036,7 +197036,7 @@ conjunctive
 disjunctive
 321363	
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321368	disjunctive
 conjunctive
@@ -197046,17 +197046,17 @@ disjunctive
 conjunctive
 321376	disjunctive
 321378	disjunctive
-321380	conjunctive/disjunctive
+321380	conjunctive
 disjunctive
 321383	conjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321389	disjunctive
 321391	disjunctive
 321393	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321397	disjunctive
 disjunctive
@@ -197068,16 +197068,16 @@ conjunctive
 conjunctive
 321407	disjunctive
 321409	disjunctive
-conjunctive/disjunctive
+conjunctive
 321412	disjunctive
 conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321423	disjunctive
 conjunctive
 321427	disjunctive
@@ -197086,7 +197086,7 @@ disjunctive
 conjunctive
 disjunctive
 321434	disjunctive
-321436	conjunctive/disjunctive
+321436	conjunctive
 disjunctive
 321439	disjunctive
 conjunctive
@@ -197094,7 +197094,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321447	disjunctive
 321449	conjunctive
 conjunctive
@@ -197103,7 +197103,7 @@ disjunctive
 disjunctive
 conjunctive
 321457	disjunctive
-321460	conjunctive/disjunctive
+321460	conjunctive
 disjunctive
 321464	disjunctive
 disjunctive
@@ -197111,7 +197111,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 321475	disjunctive
@@ -197120,15 +197120,15 @@ disjunctive
 321479	conjunctive
 disjunctive
 disjunctive
-321483	conjunctive/disjunctive
+321483	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321489	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-321493	conjunctive/disjunctive
+321493	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -197141,14 +197141,14 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-321509	conjunctive/disjunctive
+321509	conjunctive
 disjunctive
 disjunctive
 321513	disjunctive
 conjunctive
 disjunctive
 disjunctive
-321518	conjunctive/disjunctive
+321518	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -197157,17 +197157,17 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
-disjunctive
-disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+disjunctive
+conjunctive
 disjunctive
 321540	disjunctive
 321542	disjunctive
@@ -197182,18 +197182,18 @@ conjunctive
 disjunctive
 321553	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321558	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
 321571	disjunctive
 conjunctive
@@ -197206,15 +197206,15 @@ disjunctive
 321583	disjunctive
 321585	conjunctive
 321587	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
-321591	unknown
+conjunctive
+conjunctive
+321591	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321597	disjunctive
-321599	conjunctive/disjunctive
+321599	conjunctive
 disjunctive
 321602	disjunctive
 321605	disjunctive
@@ -197226,14 +197226,14 @@ disjunctive
 conjunctive
 disjunctive
 conjunctive
-321616	conjunctive/disjunctive
+321616	conjunctive
 321619	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321624	conjunctive
 321626	conjunctive
 321628	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -197244,15 +197244,15 @@ disjunctive
 disjunctive
 321641	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321646	disjunctive
-321648	conjunctive/disjunctive
+321648	conjunctive
 disjunctive
 conjunctive
 321652	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 321659	disjunctive
@@ -197265,7 +197265,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321672	disjunctive
 conjunctive
 disjunctive
@@ -197274,12 +197274,12 @@ conjunctive
 disjunctive
 321679	disjunctive
 321681	disjunctive
-conjunctive/disjunctive
+conjunctive
 321684	disjunctive
 321686	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 321693	conjunctive
@@ -197297,14 +197297,14 @@ conjunctive
 conjunctive
 321708	disjunctive
 321710	disjunctive
-321712	conjunctive/disjunctive
+321712	conjunctive
 disjunctive
 321715	conjunctive
 conjunctive
 disjunctive
-321719	conjunctive/disjunctive
+321719	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321724	conjunctive
 321727	conjunctive
@@ -197323,22 +197323,22 @@ disjunctive
 conjunctive
 disjunctive
 321748	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321752	conjunctive
 321754	disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 321761	disjunctive
 disjunctive
-321764	conjunctive/disjunctive
+321764	conjunctive
 disjunctive
 conjunctive
 321768	disjunctive
 321771	disjunctive
-conjunctive/disjunctive
+conjunctive
 321774	disjunctive
 321778	disjunctive
 321780	disjunctive
@@ -197353,7 +197353,7 @@ conjunctive
 disjunctive
 321796	conjunctive
 disjunctive
-321799	conjunctive/disjunctive
+321799	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -197361,7 +197361,7 @@ disjunctive
 disjunctive
 321808	disjunctive
 321811	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 321816	conjunctive
@@ -197377,7 +197377,7 @@ conjunctive
 disjunctive
 321830	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321835	disjunctive
 321837	conjunctive
@@ -197390,28 +197390,28 @@ disjunctive
 321852	conjunctive
 disjunctive
 321856	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 321860	conjunctive
 321862	conjunctive
 321864	disjunctive
-321867	conjunctive/disjunctive
+321867	conjunctive
 321869	disjunctive
 conjunctive
 disjunctive
 321873	disjunctive
 321875	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-321879	conjunctive/disjunctive
+321879	conjunctive
 disjunctive
-321882	conjunctive/disjunctive
+321882	conjunctive
 disjunctive
 disjunctive
-321886	conjunctive/disjunctive
+321886	conjunctive
 disjunctive
 321889	disjunctive
-321891	conjunctive/disjunctive
+321891	conjunctive
 disjunctive
 321894	conjunctive
 321896	conjunctive
@@ -197426,7 +197426,7 @@ disjunctive
 disjunctive
 321914	conjunctive
 disjunctive
-321917	conjunctive/disjunctive
+321917	conjunctive
 disjunctive
 321920	disjunctive
 321922	disjunctive
@@ -197438,20 +197438,20 @@ disjunctive
 conjunctive
 321931	conjunctive
 321933	disjunctive
-321935	conjunctive/disjunctive
+321935	conjunctive
 321937	disjunctive
 321939	conjunctive
 321941	disjunctive
-321943	conjunctive/disjunctive
+321943	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-321953	conjunctive/disjunctive
+321953	conjunctive
 disjunctive
 321956	conjunctive
 321958	conjunctive
@@ -197463,7 +197463,7 @@ disjunctive
 conjunctive
 321968	disjunctive
 disjunctive
-321972	conjunctive/disjunctive
+321972	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -197472,22 +197472,22 @@ disjunctive
 321979	disjunctive
 conjunctive
 disjunctive
-321983	conjunctive/disjunctive
+321983	conjunctive
 disjunctive
 321986	disjunctive
 321988	conjunctive
 disjunctive
 disjunctive
-321992	conjunctive/disjunctive
+321992	conjunctive
 disjunctive
 321995	disjunctive
 321998	disjunctive
-322000	conjunctive/disjunctive
+322000	conjunctive
 322002	disjunctive
-conjunctive/disjunctive
+conjunctive
 322005	disjunctive
 disjunctive
-322008	conjunctive/disjunctive
+322008	conjunctive
 disjunctive
 conjunctive
 322012	disjunctive
@@ -197518,29 +197518,29 @@ disjunctive
 conjunctive
 322046	disjunctive
 conjunctive
-322049	conjunctive/disjunctive
+322049	conjunctive
 conjunctive
 322052	conjunctive
 disjunctive
 disjunctive
 322056	disjunctive
-322058	conjunctive/disjunctive
+322058	conjunctive
 disjunctive
-322061	conjunctive/disjunctive
+322061	conjunctive
 322063	disjunctive
 322065	disjunctive
-conjunctive/disjunctive
+conjunctive
 322068	disjunctive
-322070	conjunctive/disjunctive
+322070	conjunctive
 disjunctive
 322073	disjunctive
 conjunctive
 disjunctive
-322077	conjunctive/disjunctive
+322077	conjunctive
 disjunctive
 322080	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 322084	disjunctive
 322086	conjunctive
 322088	conjunctive
@@ -197552,11 +197552,11 @@ disjunctive
 322096	conjunctive
 conjunctive
 322099	disjunctive
-322101	conjunctive/disjunctive
+322101	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 322107	disjunctive
 disjunctive
 conjunctive
@@ -197581,28 +197581,28 @@ disjunctive
 322137	disjunctive
 322139	conjunctive
 disjunctive
-322142	conjunctive/disjunctive
+322142	conjunctive
 disjunctive
 322145	disjunctive
 322147	conjunctive
 conjunctive
 disjunctive
-322151	conjunctive/disjunctive
+322151	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322156	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 322161	disjunctive
-322163	conjunctive/disjunctive
+322163	conjunctive
 disjunctive
 disjunctive
 322167	conjunctive
 disjunctive
 disjunctive
-322171	conjunctive/disjunctive
+322171	conjunctive
 
 conjunctive
 disjunctive
@@ -197621,7 +197621,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-322197	conjunctive/disjunctive
+322197	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -197635,10 +197635,10 @@ conjunctive
 conjunctive
 322211	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 322215	disjunctive
 322218	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322222	conjunctive
 322224	disjunctive
@@ -197650,28 +197650,28 @@ conjunctive
 322234	disjunctive
 322237	disjunctive
 disjunctive
-322240	conjunctive/disjunctive
+322240	conjunctive
 disjunctive
 322243	disjunctive
-322245	conjunctive/disjunctive
+322245	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322255	disjunctive
-conjunctive/disjunctive
+conjunctive
 
-322260	conjunctive/disjunctive
+322260	conjunctive
 322262	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
-322268	conjunctive/disjunctive
+322268	conjunctive
 disjunctive
 322271	disjunctive
 conjunctive
@@ -197694,21 +197694,21 @@ disjunctive
 322297	disjunctive
 conjunctive
 disjunctive
-322301	conjunctive/disjunctive
+322301	conjunctive
 322303	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322307	disjunctive
 disjunctive
 disjunctive
 322311	conjunctive
 disjunctive
-322314	conjunctive/disjunctive
+322314	conjunctive
 322317	disjunctive
 conjunctive
 conjunctive
 322321	disjunctive
-322323	conjunctive/disjunctive
+322323	conjunctive
 322325	disjunctive
 conjunctive
 conjunctive
@@ -197723,9 +197723,9 @@ disjunctive
 disjunctive
 322344	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 322348	disjunctive
-322351	conjunctive/disjunctive
+322351	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -197733,13 +197733,13 @@ disjunctive
 322357	conjunctive
 322359	disjunctive
 322361	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-322366	conjunctive/disjunctive
+322366	conjunctive
 disjunctive
-322369	conjunctive/disjunctive
+322369	conjunctive
 disjunctive
-322372	conjunctive/disjunctive
+322372	conjunctive
 disjunctive
 322375	disjunctive
 322377	conjunctive
@@ -197750,27 +197750,27 @@ disjunctive
 conjunctive
 disjunctive
 322391	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 322397	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 322403	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-322408	conjunctive/disjunctive
+322408	conjunctive
 322410	disjunctive
-322412	conjunctive/disjunctive
+322412	conjunctive
 disjunctive
 322415	disjunctive
 conjunctive
 disjunctive
 322419	disjunctive
-322422	conjunctive/disjunctive
+322422	conjunctive
 disjunctive
 disjunctive
 322426	conjunctive
@@ -197802,7 +197802,7 @@ disjunctive
 conjunctive
 322473	conjunctive
 disjunctive
-322476	conjunctive/disjunctive
+322476	conjunctive
 322478	disjunctive
 322480	conjunctive
 322482	disjunctive
@@ -197812,9 +197812,9 @@ conjunctive
 322489	disjunctive
 
 disjunctive
-322493	conjunctive/disjunctive
+322493	conjunctive
 disjunctive
-322496	conjunctive/disjunctive
+322496	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -197825,16 +197825,16 @@ conjunctive
 conjunctive
 322506	disjunctive
 322508	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322512	disjunctive
 322514	conjunctive
 disjunctive
-322517	conjunctive/disjunctive
+322517	conjunctive
 322519	disjunctive
 conjunctive
 322522	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 322527	disjunctive
@@ -197842,9 +197842,9 @@ disjunctive
 322530	disjunctive
 conjunctive
 disjunctive
-322534	conjunctive/disjunctive
+322534	conjunctive
 disjunctive
-322537	conjunctive/disjunctive
+322537	conjunctive
 disjunctive
 322540	disjunctive
 322542	disjunctive
@@ -197860,9 +197860,9 @@ conjunctive
 disjunctive
 conjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 322561	disjunctive
-322563	conjunctive/disjunctive
+322563	conjunctive
 disjunctive
 322566	conjunctive
 conjunctive
@@ -197874,43 +197874,43 @@ disjunctive
 conjunctive
 disjunctive
 322578	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 322583	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 322590	conjunctive
 322592	conjunctive
 disjunctive
-322595	conjunctive/disjunctive
+322595	conjunctive
 disjunctive
 conjunctive
 322600	conjunctive
 disjunctive
 322603	disjunctive
-conjunctive/disjunctive
+conjunctive
 322607	disjunctive
 disjunctive
 
 conjunctive
 disjunctive
-322613	conjunctive/disjunctive
+322613	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322618	disjunctive
-conjunctive/disjunctive
+conjunctive
 322621	disjunctive
 322623	conjunctive
 conjunctive
 322626	disjunctive
-322628	conjunctive/disjunctive
+322628	conjunctive
 disjunctive
-322631	conjunctive/disjunctive
+322631	conjunctive
 disjunctive
 322634	disjunctive
 322636	disjunctive
@@ -197925,7 +197925,7 @@ disjunctive
 322651	disjunctive
 322654	disjunctive
 322656	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -197951,12 +197951,12 @@ conjunctive
 conjunctive
 322691	conjunctive
 322693	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322697	disjunctive
-322699	conjunctive/disjunctive
+322699	conjunctive
 322701	disjunctive
-unknown
+disjunctive
 322704	disjunctive
 conjunctive
 disjunctive
@@ -197969,40 +197969,40 @@ disjunctive
 322717	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322723	conjunctive
 conjunctive
 disjunctive
 disjunctive
 322729	disjunctive
-322731	conjunctive/disjunctive
+322731	conjunctive
 disjunctive
 322734	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-322738	conjunctive/disjunctive
+322738	conjunctive
 322741	disjunctive
 322743	disjunctive
-322745	conjunctive/disjunctive
+322745	conjunctive
 322748	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322752	disjunctive
-322754	conjunctive/disjunctive
+322754	conjunctive
 322756	disjunctive
-conjunctive/disjunctive
+conjunctive
 322759	disjunctive
 322761	conjunctive
 conjunctive
 disjunctive
 disjunctive
-322766	conjunctive/disjunctive
+322766	conjunctive
 disjunctive
 322769	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-322773	conjunctive/disjunctive
+322773	conjunctive
 disjunctive
 322776	conjunctive
 conjunctive
@@ -198015,7 +198015,7 @@ conjunctive
 disjunctive
 conjunctive
 322790	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322794	conjunctive
 disjunctive
@@ -198052,14 +198052,14 @@ disjunctive
 322837	
 conjunctive
 disjunctive
-322841	conjunctive/disjunctive
+322841	conjunctive
 322843	disjunctive
 disjunctive
 conjunctive
 322848	disjunctive
 disjunctive
 322852	disjunctive
-conjunctive/disjunctive
+conjunctive
 322855	disjunctive
 conjunctive
 322858	disjunctive
@@ -198069,12 +198069,12 @@ conjunctive
 322864	conjunctive
 322867	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-322872	conjunctive/disjunctive
+322872	conjunctive
 disjunctive
 322876	disjunctive
-conjunctive/disjunctive
+conjunctive
 322879	disjunctive
 322881	conjunctive
 disjunctive
@@ -198094,7 +198094,7 @@ disjunctive
 322900	disjunctive
 conjunctive
 322903	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322907	conjunctive
 322909	disjunctive
@@ -198103,14 +198103,14 @@ conjunctive
 322913	conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322920	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322928	conjunctive
 322930	disjunctive
@@ -198118,72 +198118,72 @@ conjunctive
 disjunctive
 conjunctive
 322935	disjunctive
-conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
-322943	conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+322943	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+conjunctive
 322949	disjunctive
 conjunctive
 disjunctive
 322953	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 322957	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322961	disjunctive
 disjunctive
 conjunctive
 disjunctive
-322966	conjunctive/disjunctive
+322966	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 322971	conjunctive
 322973	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-322979	conjunctive/disjunctive
+322979	conjunctive
 322981	disjunctive
-conjunctive/disjunctive
+conjunctive
 322985	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 322989	disjunctive
 conjunctive
 disjunctive
 322993	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 322998	disjunctive
-conjunctive/disjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+conjunctive
+conjunctive
 323008	disjunctive
 323011	disjunctive
 323013	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-323022	conjunctive/disjunctive
+323022	conjunctive
 323024	disjunctive
 conjunctive
 323027	conjunctive
@@ -198200,10 +198200,10 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 323048	disjunctive
 conjunctive
 conjunctive
@@ -198213,7 +198213,7 @@ conjunctive
 323056	disjunctive
 323058	disjunctive
 323062	disjunctive
-323064	conjunctive/disjunctive
+323064	conjunctive
 disjunctive
 323067	conjunctive
 323070	conjunctive
@@ -198226,11 +198226,11 @@ conjunctive
 323079	disjunctive
 323082	disjunctive
 323084	disjunctive
-323086	conjunctive/disjunctive
+323086	conjunctive
 disjunctive
-323089	conjunctive/disjunctive
+323089	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323094	conjunctive
 disjunctive
@@ -198239,7 +198239,7 @@ conjunctive
 323100	disjunctive
 323102	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323107	conjunctive
 323109	disjunctive
@@ -198252,15 +198252,15 @@ disjunctive
 conjunctive
 323121	disjunctive
 disjunctive
-323124	conjunctive/disjunctive
+323124	conjunctive
 disjunctive
 323128	conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-323136	conjunctive/disjunctive
+323136	conjunctive
 323138	disjunctive
 conjunctive
 323141	conjunctive
@@ -198269,7 +198269,7 @@ conjunctive
 323145	conjunctive
 disjunctive
 323148	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323152	conjunctive
 323154	conjunctive
@@ -198284,7 +198284,7 @@ conjunctive
 323168	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323175	disjunctive
 disjunctive
@@ -198302,11 +198302,11 @@ disjunctive
 323194	conjunctive
 323196	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-323202	conjunctive/disjunctive
+323202	conjunctive
 323204	disjunctive
-323206	conjunctive/disjunctive
+323206	conjunctive
 disjunctive
 323209	disjunctive
 conjunctive
@@ -198314,7 +198314,7 @@ disjunctive
 conjunctive
 conjunctive
 323215	disjunctive
-323220	conjunctive/disjunctive
+323220	conjunctive
 disjunctive
 323223	conjunctive
 323226	conjunctive
@@ -198330,7 +198330,7 @@ conjunctive
 323239	conjunctive
 disjunctive
 323242	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323247	disjunctive
 disjunctive
@@ -198338,18 +198338,18 @@ conjunctive
 disjunctive
 disjunctive
 323254	disjunctive
-323257	conjunctive/disjunctive
+323257	conjunctive
 323259	
-323261	conjunctive/disjunctive
+323261	conjunctive
 disjunctive
 conjunctive
 323265	conjunctive
 323267	disjunctive
-conjunctive/disjunctive
+conjunctive
 323270	disjunctive
-323272	conjunctive/disjunctive
+323272	conjunctive
 disjunctive
-323275	conjunctive/disjunctive
+323275	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -198379,12 +198379,12 @@ conjunctive
 323307	disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323314	disjunctive
-323316	conjunctive/disjunctive
+323316	conjunctive
 disjunctive
-323319	conjunctive/disjunctive
+323319	conjunctive
 disjunctive
 323323	disjunctive
 conjunctive
@@ -198395,16 +198395,16 @@ disjunctive
 323333	conjunctive
 323335	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323340	conjunctive
 323342	disjunctive
 323344	conjunctive
 conjunctive
 disjunctive
-323348	conjunctive/disjunctive
+323348	conjunctive
 323350	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323354	disjunctive
 conjunctive
@@ -198417,14 +198417,14 @@ disjunctive
 323364	conjunctive
 323366	conjunctive
 disjunctive
-323369	conjunctive/disjunctive
+323369	conjunctive
 323372	disjunctive
 323375	conjunctive
 disjunctive
 disjunctive
 323380	conjunctive
 disjunctive
-323383	conjunctive/disjunctive
+323383	conjunctive
 disjunctive
 323386	disjunctive
 conjunctive
@@ -198447,7 +198447,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -198477,20 +198477,20 @@ disjunctive
 conjunctive
 323453	conjunctive
 disjunctive
-323457	conjunctive/disjunctive
+323457	conjunctive
 323459	disjunctive
 disjunctive
 323462	disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323470	disjunctive
 conjunctive
 323473	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323478	disjunctive
 conjunctive
@@ -198501,12 +198501,12 @@ disjunctive
 conjunctive
 disjunctive
 323490	disjunctive
-323492	conjunctive/disjunctive
+323492	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-323498	conjunctive/disjunctive
+323498	conjunctive
 323500	disjunctive
 conjunctive
 disjunctive
@@ -198528,15 +198528,15 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-323529	conjunctive/disjunctive
+323529	conjunctive
 323531	disjunctive
-323533	conjunctive/disjunctive
+323533	conjunctive
 323535	disjunctive
 disjunctive
 323538	conjunctive
 disjunctive
 323541	disjunctive
-323543	conjunctive/disjunctive
+323543	conjunctive
 disjunctive
 323546	conjunctive
 disjunctive
@@ -198551,7 +198551,7 @@ disjunctive
 323562	conjunctive
 disjunctive
 323565	disjunctive
-conjunctive/disjunctive
+conjunctive
 323568	disjunctive
 disjunctive
 323571	conjunctive
@@ -198561,9 +198561,9 @@ disjunctive
 conjunctive
 disjunctive
 323579	disjunctive
-conjunctive/disjunctive
+conjunctive
 323582	disjunctive
-323584	conjunctive/disjunctive
+323584	conjunctive
 disjunctive
 323587	disjunctive
 conjunctive
@@ -198578,7 +198578,7 @@ conjunctive
 conjunctive
 disjunctive
 323602	disjunctive
-323605	conjunctive/disjunctive
+323605	conjunctive
 323607	disjunctive
 323609	conjunctive
 323612	conjunctive
@@ -198590,7 +198590,7 @@ conjunctive
 disjunctive
 323625	disjunctive
 323627	disjunctive
-323629	conjunctive/disjunctive
+323629	conjunctive
 disjunctive
 323632	conjunctive
 conjunctive
@@ -198601,19 +198601,19 @@ disjunctive
 323643	conjunctive
 conjunctive
 323647	disjunctive
-323649	conjunctive/disjunctive
+323649	conjunctive
 disjunctive
 323653	disjunctive
-323656	conjunctive/disjunctive
+323656	conjunctive
 323658	disjunctive
-323661	conjunctive/disjunctive
+323661	conjunctive
 323663	disjunctive
 323665	disjunctive
 323667	disjunctive
 disjunctive
 323670	conjunctive
 disjunctive
-323673	conjunctive/disjunctive
+323673	conjunctive
 disjunctive
 323677	disjunctive
 conjunctive
@@ -198629,20 +198629,20 @@ disjunctive
 conjunctive
 323696	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-323701	conjunctive/disjunctive
+323701	conjunctive
 323703	disjunctive
 conjunctive
 323706	disjunctive
 323709	disjunctive
-conjunctive/disjunctive
+conjunctive
 323712	disjunctive
 conjunctive
 conjunctive
 disjunctive
 323717	disjunctive
-323719	conjunctive/disjunctive
+323719	conjunctive
 disjunctive
 323722	disjunctive
 323724	conjunctive
@@ -198676,7 +198676,7 @@ disjunctive
 conjunctive
 323767	conjunctive
 disjunctive
-323771	conjunctive/disjunctive
+323771	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -198689,12 +198689,12 @@ disjunctive
 323786	conjunctive
 disjunctive
 323789	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-323793	conjunctive/disjunctive
+323793	conjunctive
 323795	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 323799	disjunctive
 323801	conjunctive
 disjunctive
@@ -198709,44 +198709,44 @@ disjunctive
 323817	disjunctive
 323820	disjunctive
 323822	disjunctive
-323827	conjunctive/disjunctive
+323827	conjunctive
 disjunctive
 323830	disjunctive
 323833	disjunctive
-323835	conjunctive/disjunctive
+323835	conjunctive
 323837	disjunctive
 323839	disjunctive
 323842	disjunctive
 323844	disjunctive
 323846	conjunctive
 disjunctive
-323849	conjunctive/disjunctive
-unknown
+323849	conjunctive
 disjunctive
-323853	conjunctive/disjunctive
+disjunctive
+323853	conjunctive
 323855	disjunctive
 323858	disjunctive
 323860	disjunctive
 323862	disjunctive
 323864	conjunctive
 disjunctive
-323867	conjunctive/disjunctive
+323867	conjunctive
 disjunctive
 323870	disjunctive
 323872	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323878	disjunctive
 323880	disjunctive
 323882	conjunctive
 disjunctive
-323886	unknown
+323886	disjunctive
 323888	disjunctive
 323890	disjunctive
 323892	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 323897	conjunctive
 disjunctive
@@ -198761,10 +198761,10 @@ disjunctive
 323914	conjunctive
 conjunctive
 disjunctive
-323918	conjunctive/disjunctive
+323918	conjunctive
 323920	disjunctive
 disjunctive
-323923	conjunctive/disjunctive
+323923	conjunctive
 323925	disjunctive
 323927	conjunctive
 323929	disjunctive
@@ -198804,27 +198804,27 @@ conjunctive
 323992	conjunctive
 323994	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 324001	disjunctive
 324003	conjunctive
 324005	conjunctive
 disjunctive
 324008	disjunctive
-324011	conjunctive/disjunctive
+324011	conjunctive
 disjunctive
 324014	conjunctive
 324016	conjunctive
 324018	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 324023	disjunctive
 324025	conjunctive
 324028	conjunctive
 disjunctive
-324031	conjunctive/disjunctive
+324031	conjunctive
 324034	disjunctive
 324037	disjunctive
 324039	conjunctive
@@ -198832,13 +198832,13 @@ disjunctive
 324043	conjunctive
 disjunctive
 324047	disjunctive
-conjunctive/disjunctive
+conjunctive
 324050	disjunctive
 324052	disjunctive
 324054	conjunctive
 disjunctive
 324057	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 324061	conjunctive
 324063	disjunctive
@@ -198846,9 +198846,9 @@ disjunctive
 324066	disjunctive
 324068	conjunctive
 disjunctive
-324071	conjunctive/disjunctive
+324071	conjunctive
 324073	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 324077	conjunctive
 324079	disjunctive
@@ -198863,33 +198863,33 @@ disjunctive
 disjunctive
 324095	conjunctive
 disjunctive
-324098	conjunctive/disjunctive
+324098	conjunctive
 324100	disjunctive
 324103	disjunctive
 disjunctive
 conjunctive
 disjunctive
 324108	disjunctive
-324110	conjunctive/disjunctive
+324110	conjunctive
 disjunctive
 324113	disjunctive
 324115	disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 324122	disjunctive
 324124	conjunctive
 324127	conjunctive
 disjunctive
-324130	conjunctive/disjunctive
+324130	conjunctive
 324133	disjunctive
 324135	conjunctive
 324138	conjunctive
 disjunctive
 324142	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 324146	disjunctive
 324148	disjunctive
 conjunctive
@@ -198904,25 +198904,25 @@ disjunctive
 324163	conjunctive
 disjunctive
 324166	disjunctive
-conjunctive/disjunctive
+conjunctive
 324169	disjunctive
-324172	conjunctive/disjunctive
+324172	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 324179	disjunctive
 324181	conjunctive
 disjunctive
-324185	conjunctive/disjunctive
+324185	conjunctive
 disjunctive
 conjunctive
 disjunctive
 324190	disjunctive
 324192	conjunctive
 disjunctive
-324195	conjunctive/disjunctive
+324195	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -198930,15 +198930,15 @@ disjunctive
 324202	disjunctive
 disjunctive
 324205	disjunctive
-conjunctive/disjunctive
+conjunctive
 324208	disjunctive
 324210	disjunctive
 324212	conjunctive
 disjunctive
 324215	disjunctive
-324217	conjunctive/disjunctive
+324217	conjunctive
 disjunctive
-324220	conjunctive/disjunctive
+324220	conjunctive
 disjunctive
 disjunctive
 324224	disjunctive
@@ -198970,7 +198970,7 @@ disjunctive
 disjunctive
 324265	conjunctive
 324267	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 324272	disjunctive
 conjunctive
@@ -198983,14 +198983,14 @@ disjunctive
 conjunctive
 disjunctive
 324286	disjunctive
-conjunctive/disjunctive
+conjunctive
 324289	disjunctive
 324291	disjunctive
 324293	conjunctive
 disjunctive
 conjunctive
 324297	disjunctive
-conjunctive/disjunctive
+conjunctive
 324300	disjunctive
 disjunctive
 conjunctive
@@ -198998,16 +198998,16 @@ conjunctive
 324306	disjunctive
 conjunctive
 324309	disjunctive
-324311	conjunctive/disjunctive
+324311	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 324315	disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 324321	disjunctive
-324324	conjunctive/disjunctive
+324324	conjunctive
 disjunctive
 324328	disjunctive
 conjunctive
@@ -199021,10 +199021,10 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-324341	conjunctive/disjunctive
+324341	conjunctive
 324343	disjunctive
-324345	conjunctive/disjunctive
-324347	conjunctive/disjunctive
+324345	conjunctive
+324347	conjunctive
 324349	disjunctive
 conjunctive
 disjunctive
@@ -199037,13 +199037,13 @@ conjunctive
 324361	
 324363	disjunctive
 disjunctive
-324366	conjunctive/disjunctive
+324366	conjunctive
 324368	disjunctive
 conjunctive
 324371	disjunctive
 conjunctive
 disjunctive
-324375	conjunctive/disjunctive
+324375	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -199058,16 +199058,16 @@ conjunctive
 disjunctive
 324392	conjunctive
 disjunctive
-324395	conjunctive/disjunctive
+324395	conjunctive
 disjunctive
 conjunctive
 disjunctive
 324400	disjunctive
-324402	conjunctive/disjunctive
+324402	conjunctive
 324404	disjunctive
 disjunctive
 disjunctive
-324409	conjunctive/disjunctive
+324409	conjunctive
 324411	disjunctive
 conjunctive
 324414	conjunctive
@@ -199085,28 +199085,28 @@ disjunctive
 disjunctive
 324432	conjunctive
 324434	disjunctive
-conjunctive/disjunctive
+conjunctive
 324437	disjunctive
 324439	conjunctive
 324441	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-324446	conjunctive/disjunctive
+324446	conjunctive
 disjunctive
 324449	disjunctive
 conjunctive
 conjunctive
 disjunctive
-324454	conjunctive/disjunctive
+324454	conjunctive
 disjunctive
-324457	conjunctive/disjunctive
+324457	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 324463	disjunctive
-324465	conjunctive/disjunctive
+324465	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -199116,18 +199116,18 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-324479	conjunctive/disjunctive
+324479	conjunctive
 disjunctive
 324482	disjunctive
 disjunctive
 324485	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 324490	disjunctive
-conjunctive/disjunctive
+conjunctive
 324493	disjunctive
-324495	conjunctive/disjunctive
+324495	conjunctive
 disjunctive
 324499	disjunctive
 conjunctive
@@ -199144,7 +199144,7 @@ disjunctive
 conjunctive
 disjunctive
 324519	disjunctive
-324521	conjunctive/disjunctive
+324521	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -199154,7 +199154,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-324534	conjunctive/disjunctive
+324534	conjunctive
 conjunctive
 324537	conjunctive
 324539	disjunctive
@@ -199165,7 +199165,7 @@ disjunctive
 324547	conjunctive
 disjunctive
 324551	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 324557	conjunctive
@@ -199177,18 +199177,18 @@ disjunctive
 324566	conjunctive
 disjunctive
 324570	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-324575	conjunctive/disjunctive
+324575	conjunctive
 disjunctive
 disjunctive
-324580	conjunctive/disjunctive
+324580	conjunctive
 disjunctive
 conjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 324589	disjunctive
 324592	conjunctive
@@ -199198,7 +199198,7 @@ disjunctive
 324600	conjunctive
 disjunctive
 disjunctive
-324604	conjunctive/disjunctive
+324604	conjunctive
 disjunctive
 324607	disjunctive
 324610	disjunctive
@@ -199216,7 +199216,7 @@ conjunctive
 324629	conjunctive
 disjunctive
 disjunctive
-324633	conjunctive/disjunctive
+324633	conjunctive
 disjunctive
 disjunctive
 324637	conjunctive
@@ -199231,9 +199231,9 @@ conjunctive
 324650	conjunctive
 disjunctive
 disjunctive
-324654	conjunctive/disjunctive
+324654	conjunctive
 disjunctive
-324658	conjunctive/disjunctive
+324658	conjunctive
 disjunctive
 324661	disjunctive
 disjunctive
@@ -199253,7 +199253,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-324686	conjunctive/disjunctive
+324686	conjunctive
 disjunctive
 324689	conjunctive
 disjunctive
@@ -199269,7 +199269,7 @@ disjunctive
 conjunctive
 324708	disjunctive
 324710	disjunctive
-324712	conjunctive/disjunctive
+324712	conjunctive
 disjunctive
 324715	disjunctive
 324717	conjunctive
@@ -199281,14 +199281,14 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-324728	conjunctive/disjunctive
+324728	conjunctive
 disjunctive
 324731	disjunctive
 conjunctive
 disjunctive
-324735	conjunctive/disjunctive
+324735	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -199305,34 +199305,34 @@ disjunctive
 disjunctive
 324760	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 324765	disjunctive
 324767	conjunctive
 conjunctive
 disjunctive
-324771	conjunctive/disjunctive
+324771	conjunctive
 324773	disjunctive
-324775	conjunctive/disjunctive
+324775	conjunctive
 disjunctive
 324778	disjunctive
-324780	conjunctive/disjunctive
+324780	conjunctive
 324782	disjunctive
 conjunctive
 324785	conjunctive
 disjunctive
-324788	conjunctive/disjunctive
+324788	conjunctive
 324790	disjunctive
 324792	conjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-324798	conjunctive/disjunctive
+324798	conjunctive
 disjunctive
-324801	conjunctive/disjunctive
+324801	conjunctive
 disjunctive
 disjunctive
-324805	conjunctive/disjunctive
+324805	conjunctive
 disjunctive
 324808	disjunctive
 conjunctive
@@ -199350,13 +199350,13 @@ conjunctive
 disjunctive
 conjunctive
 324829	disjunctive
-324831	conjunctive/disjunctive
+324831	conjunctive
 disjunctive
 324836	disjunctive
 conjunctive
 conjunctive
 324840	disjunctive
-conjunctive/disjunctive
+conjunctive
 324844	disjunctive
 324846	conjunctive
 324849	conjunctive
@@ -199389,13 +199389,13 @@ disjunctive
 conjunctive
 disjunctive
 324889	disjunctive
-conjunctive/disjunctive
+conjunctive
 324892	disjunctive
 conjunctive
 324895	disjunctive
 324897	disjunctive
 disjunctive
-324900	conjunctive/disjunctive
+324900	conjunctive
 disjunctive
 324903	disjunctive
 conjunctive
@@ -199404,22 +199404,22 @@ conjunctive
 conjunctive
 324910	conjunctive
 disjunctive
-324913	conjunctive/disjunctive
+324913	conjunctive
 324915	disjunctive
-324917	conjunctive/disjunctive
+324917	conjunctive
 324919	disjunctive
 324921	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 324925	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 324930	disjunctive
 conjunctive
 disjunctive
 324934	conjunctive
 324937	disjunctive
-324940	conjunctive/disjunctive
+324940	conjunctive
 324943	disjunctive
 324945	disjunctive
 conjunctive
@@ -199430,19 +199430,19 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 324957	disjunctive
 324959	disjunctive
 324962	disjunctive
-324964	conjunctive/disjunctive
+324964	conjunctive
 324966	disjunctive
 324969	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 324975	disjunctive
-324978	conjunctive/disjunctive
+324978	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -199451,9 +199451,9 @@ disjunctive
 conjunctive
 disjunctive
 conjunctive
-324989	conjunctive/disjunctive
+324989	conjunctive
 324991	disjunctive
-324993	conjunctive/disjunctive
+324993	conjunctive
 324995	disjunctive
 324997	disjunctive
 324999	conjunctive
@@ -199462,20 +199462,20 @@ conjunctive
 325003	disjunctive
 disjunctive
 325008	disjunctive
-325011	conjunctive/disjunctive
+325011	conjunctive
 325014	disjunctive
-325017	conjunctive/disjunctive
+325017	conjunctive
 disjunctive
-325020	conjunctive/disjunctive
+325020	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 325027	disjunctive
 disjunctive
 325030	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 325034	disjunctive
 disjunctive
 conjunctive
@@ -199484,7 +199484,7 @@ conjunctive
 conjunctive
 disjunctive
 325044	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 325048	conjunctive
 disjunctive
@@ -199497,11 +199497,11 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
-325066	conjunctive/disjunctive
+325066	conjunctive
 disjunctive
 disjunctive
 325070	disjunctive
@@ -199511,7 +199511,7 @@ disjunctive
 conjunctive
 disjunctive
 325079	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 325084	conjunctive
@@ -199535,7 +199535,7 @@ disjunctive
 conjunctive
 disjunctive
 conjunctive
-325110	conjunctive/disjunctive
+325110	conjunctive
 325112	disjunctive
 325114	disjunctive
 disjunctive
@@ -199553,15 +199553,15 @@ conjunctive
 325133	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 325138	disjunctive
-325141	conjunctive/disjunctive
+325141	conjunctive
 325143	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 325152	conjunctive
 325155	conjunctive
@@ -199578,10 +199578,10 @@ disjunctive
 conjunctive
 325168	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 325172	disjunctive
 disjunctive
-325175	conjunctive/disjunctive
+325175	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -199589,9 +199589,9 @@ disjunctive
 325181	conjunctive
 conjunctive
 disjunctive
-325186	conjunctive/disjunctive
+325186	conjunctive
 325188	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 325192	conjunctive
 325194	disjunctive
@@ -199612,9 +199612,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-325221	conjunctive/disjunctive
+325221	conjunctive
 325224	disjunctive
-325227	conjunctive/disjunctive
+325227	conjunctive
 325229	disjunctive
 disjunctive
 conjunctive
@@ -199623,7 +199623,7 @@ disjunctive
 325236	conjunctive
 conjunctive
 325239	disjunctive
-325242	conjunctive/disjunctive
+325242	conjunctive
 disjunctive
 conjunctive
 325246	conjunctive
@@ -199632,13 +199632,13 @@ disjunctive
 325250	conjunctive
 disjunctive
 325253	disjunctive
-325255	conjunctive/disjunctive
+325255	conjunctive
 disjunctive
 325258	disjunctive
 conjunctive
 325261	disjunctive
 325263	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 325268	conjunctive
@@ -199657,26 +199657,26 @@ disjunctive
 conjunctive
 disjunctive
 325290	conjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-325297	conjunctive/disjunctive
+325297	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
 325306	disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 325316	conjunctive
 disjunctive
@@ -199701,7 +199701,7 @@ disjunctive
 325348	conjunctive
 325350	disjunctive
 325352	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 325357	conjunctive
@@ -199719,11 +199719,11 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 325380	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-325384	conjunctive/disjunctive
+325384	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -199735,9 +199735,9 @@ conjunctive
 325398	disjunctive
 conjunctive
 disjunctive
-325402	conjunctive/disjunctive
+325402	conjunctive
 disjunctive
-325405	conjunctive/disjunctive
+325405	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -199753,26 +199753,26 @@ conjunctive
 disjunctive
 325425	conjunctive
 325427	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-325432	conjunctive/disjunctive
+325432	conjunctive
 325434	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 325438	disjunctive
-325440	conjunctive/disjunctive
+325440	conjunctive
 325442	disjunctive
 325444	disjunctive
 325447	disjunctive
-325449	conjunctive/disjunctive
+325449	conjunctive
 disjunctive
 325452	disjunctive
 325454	conjunctive
 conjunctive
 325457	disjunctive
-325459	conjunctive/disjunctive
+325459	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 325463	disjunctive
 325466	conjunctive
 conjunctive
@@ -199784,7 +199784,7 @@ disjunctive
 conjunctive
 disjunctive
 325478	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -199793,7 +199793,7 @@ conjunctive
 325486	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 325491	disjunctive
 325493	disjunctive
 conjunctive
@@ -199817,19 +199817,19 @@ disjunctive
 conjunctive
 325523	conjunctive
 disjunctive
-325526	conjunctive/disjunctive
+325526	conjunctive
 325528	disjunctive
-325530	conjunctive/disjunctive
+325530	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-325535	disjunctive/conjunctive
-conjunctive/disjunctive
+325535	disjunctive
+conjunctive
 325539	conjunctive
 325541	conjunctive
 325543	disjunctive
 disjunctive
-325546	conjunctive/disjunctive
+325546	conjunctive
 325548	disjunctive
 disjunctive
 conjunctive
@@ -199846,7 +199846,7 @@ disjunctive
 325569	conjunctive
 disjunctive
 325572	disjunctive
-325574	conjunctive/disjunctive
+325574	conjunctive
 disjunctive
 disjunctive
 325578	conjunctive
@@ -199858,14 +199858,14 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 conjunctive
 disjunctive
 325598	disjunctive
-325600	conjunctive/disjunctive
+325600	conjunctive
 disjunctive
 disjunctive
 325604	conjunctive
@@ -199876,9 +199876,9 @@ disjunctive
 conjunctive
 disjunctive
 325615	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -199887,17 +199887,17 @@ disjunctive
 disjunctive
 325626	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
 conjunctive
 conjunctive
 325636	disjunctive
 conjunctive
 conjunctive
 disjunctive
-325643	conjunctive/disjunctive
+325643	conjunctive
 325645	disjunctive
 325647	disjunctive
 disjunctive
@@ -199919,7 +199919,7 @@ conjunctive
 conjunctive
 disjunctive
 325680	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -199950,16 +199950,16 @@ conjunctive
 disjunctive
 conjunctive
 325718	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-325723	conjunctive/disjunctive
+325723	conjunctive
 325725	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-325731	conjunctive/disjunctive
+325731	conjunctive
 325733	disjunctive
 conjunctive
 conjunctive
@@ -199976,7 +199976,7 @@ conjunctive
 disjunctive
 325750	disjunctive
 disjunctive
-325753	conjunctive/disjunctive
+325753	conjunctive
 disjunctive
 325756	disjunctive
 conjunctive
@@ -199990,16 +199990,16 @@ conjunctive
 conjunctive
 disjunctive
 325773	disjunctive
-325775	conjunctive/disjunctive
+325775	conjunctive
 disjunctive
 conjunctive
 conjunctive
 325781	disjunctive
 conjunctive
 325784	disjunctive
-conjunctive/disjunctive
+conjunctive
 325787	disjunctive
-325789	conjunctive/disjunctive
+325789	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -200019,60 +200019,60 @@ conjunctive
 disjunctive
 325815	conjunctive
 325817	disjunctive
-325819	conjunctive/disjunctive
+325819	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 325827	conjunctive
 disjunctive
-325830	conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
+325830	conjunctive
 disjunctive
 conjunctive
 disjunctive
-325837	conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+325837	conjunctive
+disjunctive
+conjunctive
 325841	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 325846	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 325851	disjunctive
-325853	conjunctive/disjunctive
+325853	conjunctive
 disjunctive
 conjunctive
 disjunctive
 325858	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 325865	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 325870	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 325875	disjunctive
 conjunctive
 disjunctive
 disjunctive
-325881	conjunctive/disjunctive
+325881	conjunctive
 disjunctive
 325884	disjunctive
 conjunctive
 325888	disjunctive
-325891	conjunctive/disjunctive
+325891	conjunctive
 disjunctive
 325894	conjunctive
 conjunctive
@@ -200106,7 +200106,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-325939	conjunctive/disjunctive
+325939	conjunctive
 disjunctive
 325942	conjunctive
 conjunctive
@@ -200117,18 +200117,18 @@ disjunctive
 325951	conjunctive
 325953	conjunctive
 disjunctive
-325956	conjunctive/disjunctive
+325956	conjunctive
 disjunctive
 325959	conjunctive
 325961	conjunctive
 disjunctive
 325965	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 325969	conjunctive
 325972	conjunctive
 disjunctive
-325977	conjunctive/disjunctive
+325977	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -200146,13 +200146,13 @@ disjunctive
 325998	conjunctive
 disjunctive
 326001	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326005	conjunctive
 326007	conjunctive
 disjunctive
 326010	disjunctive
-326012	conjunctive/disjunctive
+326012	conjunctive
 disjunctive
 326015	conjunctive
 disjunctive
@@ -200160,7 +200160,7 @@ disjunctive
 326020	disjunctive
 conjunctive
 disjunctive
-326024	conjunctive/disjunctive
+326024	conjunctive
 disjunctive
 326027	disjunctive
 conjunctive
@@ -200168,23 +200168,23 @@ disjunctive
 326031	conjunctive
 326033	conjunctive
 disjunctive
-326037	conjunctive/disjunctive
+326037	conjunctive
 disjunctive
 326040	disjunctive
 326042	conjunctive
 326044	disjunctive
 326047	disjunctive
 326049	disjunctive
-326051	conjunctive/disjunctive
+326051	conjunctive
 disjunctive
-326054	conjunctive/disjunctive
+326054	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 326061	disjunctive
-326064	conjunctive/disjunctive
+326064	conjunctive
 disjunctive
 disjunctive
 326068	conjunctive
@@ -200195,9 +200195,9 @@ disjunctive
 326077	disjunctive
 conjunctive
 disjunctive
-326081	conjunctive/disjunctive
+326081	conjunctive
 326084	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326088	conjunctive
 disjunctive
@@ -200210,7 +200210,7 @@ disjunctive
 conjunctive
 326101	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 326105	disjunctive
 conjunctive
 conjunctive
@@ -200218,7 +200218,7 @@ disjunctive
 disjunctive
 326111	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326116	disjunctive
 disjunctive
@@ -200229,13 +200229,13 @@ disjunctive
 326124	disjunctive
 conjunctive
 disjunctive
-326128	conjunctive/disjunctive
+326128	conjunctive
 disjunctive
 326132	disjunctive
-conjunctive/disjunctive
+conjunctive
 326135	disjunctive
 326137	disjunctive
-326140	conjunctive/disjunctive
+326140	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -200251,10 +200251,10 @@ conjunctive
 conjunctive
 326157	conjunctive
 disjunctive
-326160	conjunctive/disjunctive
+326160	conjunctive
 326162	disjunctive
 326165	disjunctive
-conjunctive/disjunctive
+conjunctive
 326169	disjunctive
 conjunctive
 conjunctive
@@ -200269,27 +200269,27 @@ disjunctive
 conjunctive
 326186	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 326190	disjunctive
 326192	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 326199	disjunctive
-326201	conjunctive/disjunctive
+326201	conjunctive
 disjunctive
 conjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
+conjunctive
 326214	disjunctive
 conjunctive
 326217	disjunctive
@@ -200299,7 +200299,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326230	conjunctive
 326232	disjunctive
@@ -200309,9 +200309,9 @@ disjunctive
 326238	conjunctive
 conjunctive
 326241	disjunctive
-326244	conjunctive/disjunctive
+326244	conjunctive
 326246	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -200327,29 +200327,29 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-326269	conjunctive/disjunctive
+326269	conjunctive
 326272	disjunctive
 disjunctive
 conjunctive
 disjunctive
 326278	disjunctive
-326281	conjunctive/disjunctive
+326281	conjunctive
 disjunctive
 326285	disjunctive
 conjunctive
 326288	disjunctive
 326291	disjunctive
-conjunctive/disjunctive
+conjunctive
 326294	disjunctive
-326296	conjunctive/disjunctive
+326296	conjunctive
 326298	disjunctive
-326301	conjunctive/disjunctive
+326301	conjunctive
 disjunctive
 
 conjunctive
 326306	disjunctive
 disjunctive
-326309	conjunctive/disjunctive
+326309	conjunctive
 disjunctive
 conjunctive
 326313	disjunctive
@@ -200359,7 +200359,7 @@ conjunctive
 conjunctive
 326320	disjunctive
 326322	conjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 326327	conjunctive
@@ -200369,7 +200369,7 @@ disjunctive
 326333	disjunctive
 conjunctive
 326336	disjunctive
-326338	conjunctive/disjunctive
+326338	conjunctive
 disjunctive
 326341	disjunctive
 326343	disjunctive
@@ -200392,14 +200392,14 @@ disjunctive
 conjunctive
 326370	conjunctive
 disjunctive
-326373	conjunctive/disjunctive
+326373	conjunctive
 326375	disjunctive
 326378	disjunctive
 disjunctive
 326381	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 326388	conjunctive
@@ -200408,20 +200408,20 @@ disjunctive
 326393	disjunctive
 326395	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 326401	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-326406	conjunctive/disjunctive
+326406	conjunctive
 disjunctive
 disjunctive
 disjunctive
 326411	conjunctive
 disjunctive
-326414	conjunctive/disjunctive
+326414	conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -200433,9 +200433,9 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-326430	conjunctive/disjunctive
+326430	conjunctive
 disjunctive
-326433	conjunctive/disjunctive
+326433	conjunctive
 disjunctive
 326436	disjunctive
 conjunctive
@@ -200449,18 +200449,18 @@ disjunctive
 326450	conjunctive
 disjunctive
 326453	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326457	disjunctive
 326460	conjunctive
 disjunctive
 326463	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 326468	disjunctive
 disjunctive
-326471	conjunctive/disjunctive
+326471	conjunctive
 326473	disjunctive
 disjunctive
 conjunctive
@@ -200481,14 +200481,14 @@ disjunctive
 conjunctive
 disjunctive
 326497	disjunctive
-326499	conjunctive/disjunctive
+326499	conjunctive
 326501	disjunctive
 conjunctive
 disjunctive
 326505	disjunctive
 326507	disjunctive
 326510	disjunctive
-326512	conjunctive/disjunctive
+326512	conjunctive
 disjunctive
 326515	conjunctive
 326518	conjunctive
@@ -200504,11 +200504,11 @@ conjunctive
 disjunctive
 326533	disjunctive
 disjunctive
-326536	conjunctive/disjunctive
+326536	conjunctive
 disjunctive
 disjunctive
 326540	disjunctive
-326542	conjunctive/disjunctive
+326542	conjunctive
 326544	disjunctive
 disjunctive
 326547	disjunctive
@@ -200517,12 +200517,12 @@ disjunctive
 disjunctive
 326552	disjunctive
 326554	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326558	conjunctive
 326560	disjunctive
 disjunctive
-326563	conjunctive/disjunctive
+326563	conjunctive
 326565	disjunctive
 326568	conjunctive
 326570	conjunctive
@@ -200548,26 +200548,26 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326609	disjunctive
 conjunctive
 disjunctive
 326613	disjunctive
-326615	conjunctive/disjunctive
+326615	conjunctive
 326617	disjunctive
 326619	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326624	disjunctive
 326626	conjunctive
 disjunctive
-326629	conjunctive/disjunctive
+326629	conjunctive
 326631	disjunctive
-326633	conjunctive/disjunctive
+326633	conjunctive
 disjunctive
-326636	conjunctive/disjunctive
+326636	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -200577,7 +200577,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-326648	conjunctive/disjunctive
+326648	conjunctive
 disjunctive
 326651	conjunctive
 326653	conjunctive
@@ -200585,13 +200585,13 @@ disjunctive
 disjunctive
 326657	conjunctive
 disjunctive
-326660	conjunctive/disjunctive
+326660	conjunctive
 disjunctive
 326663	disjunctive
 326666	conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 326674	conjunctive
@@ -200625,7 +200625,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-326717	conjunctive/disjunctive
+326717	conjunctive
 disjunctive
 326720	disjunctive
 conjunctive
@@ -200653,12 +200653,12 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-326753	conjunctive/disjunctive
+326753	conjunctive
 326755	disjunctive
 disjunctive
 326758	conjunctive
 disjunctive
-326761	conjunctive/disjunctive
+326761	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -200666,25 +200666,25 @@ disjunctive
 disjunctive
 conjunctive
 326769	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326773	disjunctive
 326775	conjunctive
 conjunctive
 disjunctive
 326779	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 disjunctive
-326787	conjunctive/disjunctive
+326787	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-326793	conjunctive/disjunctive
+326793	conjunctive
 disjunctive
 disjunctive
 326797	conjunctive
@@ -200695,19 +200695,19 @@ disjunctive
 conjunctive
 326806	disjunctive
 326809	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 326816	disjunctive
 326818	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326822	conjunctive
 conjunctive
 326825	conjunctive
 disjunctive
-326828	conjunctive/disjunctive
+326828	conjunctive
 disjunctive
 326831	conjunctive
 disjunctive
@@ -200722,13 +200722,13 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-326848	conjunctive/disjunctive
+326848	conjunctive
 disjunctive
 disjunctive
 326852	conjunctive
 326854	conjunctive
 disjunctive
-326858	conjunctive/disjunctive
+326858	conjunctive
 disjunctive
 326861	conjunctive
 conjunctive
@@ -200753,9 +200753,9 @@ disjunctive
 326892	conjunctive
 disjunctive
 326895	disjunctive
-326897	conjunctive/disjunctive
-unknown
-326900	conjunctive/disjunctive
+326897	conjunctive
+disjunctive
+326900	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -200768,14 +200768,14 @@ disjunctive
 326912	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 326919	conjunctive
 conjunctive
 326922	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 326927	disjunctive
 conjunctive
@@ -200799,10 +200799,10 @@ disjunctive
 326954	conjunctive
 disjunctive
 326957	disjunctive
-326960	conjunctive/disjunctive
+326960	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -200814,13 +200814,13 @@ conjunctive
 conjunctive
 326976	disjunctive
 326978	disjunctive
-conjunctive/disjunctive
-disjunctive
-conjunctive
-conjunctive
 conjunctive
 disjunctive
-326986	conjunctive/disjunctive
+conjunctive
+conjunctive
+conjunctive
+disjunctive
+326986	conjunctive
 disjunctive
 326990	disjunctive
 conjunctive
@@ -200834,13 +200834,13 @@ disjunctive
 327005	conjunctive
 disjunctive
 327008	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 327014	disjunctive
 disjunctive
-327018	conjunctive/disjunctive
+327018	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -200851,19 +200851,19 @@ disjunctive
 327028	conjunctive
 disjunctive
 327031	disjunctive
-327034	conjunctive/disjunctive
+327034	conjunctive
 disjunctive
 327037	conjunctive
 disjunctive
 327040	disjunctive
-327042	conjunctive/disjunctive
+327042	conjunctive
 disjunctive
 327046	disjunctive
 conjunctive
 disjunctive
 disjunctive
 disjunctive
-327052	conjunctive/disjunctive
+327052	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -200875,9 +200875,9 @@ conjunctive
 conjunctive
 disjunctive
 327066	disjunctive
-327068	conjunctive/disjunctive
+327068	conjunctive
 disjunctive
-327071	conjunctive/disjunctive
+327071	conjunctive
 327073	disjunctive
 327075	disjunctive
 327077	disjunctive
@@ -200885,14 +200885,14 @@ conjunctive
 327080	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327085	disjunctive
 327088	disjunctive
 conjunctive
 327091	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327098	disjunctive
 disjunctive
 conjunctive
@@ -200900,12 +200900,12 @@ conjunctive
 disjunctive
 327108	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 conjunctive
 327114	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327120	disjunctive
 disjunctive
@@ -200913,32 +200913,32 @@ disjunctive
 327125	conjunctive
 disjunctive
 327128	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-327133	conjunctive/disjunctive
+327133	conjunctive
 327135	disjunctive
-conjunctive/disjunctive
+conjunctive
 327138	disjunctive
 327140	disjunctive
 conjunctive
 327143	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327148	disjunctive
-conjunctive/disjunctive
+conjunctive
 327151	disjunctive
 conjunctive
 327154	disjunctive
 conjunctive
 disjunctive
 327158	disjunctive
-327160	conjunctive/disjunctive
+327160	conjunctive
 327162	disjunctive
 conjunctive
 327165	disjunctive
 327168	disjunctive
-conjunctive/disjunctive
+conjunctive
 327171	disjunctive
 327174	disjunctive
 conjunctive
@@ -200948,31 +200948,31 @@ disjunctive
 327182	conjunctive
 disjunctive
 327185	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327189	disjunctive
 conjunctive
 327192	disjunctive
 327194	conjunctive
 327196	disjunctive
-conjunctive/disjunctive
+conjunctive
 327199	disjunctive
 327201	disjunctive
 conjunctive
 disjunctive
 327207	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327212	disjunctive
 327214	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327221	conjunctive
 327223	disjunctive
-327225	conjunctive/disjunctive
+327225	conjunctive
 327227	disjunctive
 327229	disjunctive
 327231	disjunctive
@@ -200981,12 +200981,12 @@ disjunctive
 conjunctive
 327236	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 327242	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327246	disjunctive
 conjunctive
 disjunctive
@@ -201019,9 +201019,9 @@ disjunctive
 disjunctive
 327293	conjunctive
 disjunctive
-327296	conjunctive/disjunctive
+327296	conjunctive
 327299	disjunctive
-327301	unknown
+327301	disjunctive
 327303	disjunctive
 conjunctive
 327306	disjunctive
@@ -201034,25 +201034,25 @@ conjunctive
 disjunctive
 327316	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327322	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327327	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
 disjunctive
 conjunctive
 disjunctive
-327336	conjunctive/disjunctive
+conjunctive
+disjunctive
+327336	conjunctive
 disjunctive
 disjunctive
 conjunctive
 conjunctive
 327343	disjunctive
-327347	conjunctive/disjunctive
+327347	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -201067,26 +201067,26 @@ conjunctive
 disjunctive
 327365	conjunctive
 disjunctive
-327368	conjunctive/disjunctive
+327368	conjunctive
 disjunctive
-327371	conjunctive/disjunctive
+327371	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-327377	conjunctive/disjunctive
+327377	conjunctive
 327379	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 327385	disjunctive
 327387	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327392	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 327398	disjunctive
@@ -201113,17 +201113,17 @@ conjunctive
 disjunctive
 327435	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327439	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327445	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327449	conjunctive
 327451	disjunctive
-327453	conjunctive/disjunctive
+327453	conjunctive
 327455	disjunctive
 327457	disjunctive
 327459	disjunctive
@@ -201131,30 +201131,30 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327468	disjunctive
 disjunctive
 327471	conjunctive
 disjunctive
-327474	conjunctive/disjunctive
+327474	conjunctive
 disjunctive
 327479	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327484	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-327488	conjunctive/disjunctive
+327488	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327497	disjunctive
 327499	disjunctive
 conjunctive
@@ -201163,9 +201163,9 @@ disjunctive
 conjunctive
 disjunctive
 327506	disjunctive
-327508	conjunctive/disjunctive
+327508	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 327514	disjunctive
@@ -201173,7 +201173,7 @@ conjunctive
 327518	disjunctive
 327520	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327524	disjunctive
 327526	conjunctive
 disjunctive
@@ -201181,7 +201181,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327536	conjunctive
 327538	disjunctive
@@ -201202,17 +201202,17 @@ disjunctive
 327557	conjunctive
 disjunctive
 327560	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327565	disjunctive
-conjunctive/disjunctive
+conjunctive
 327568	disjunctive
 327571	disjunctive
 conjunctive
 327574	conjunctive
 327576	disjunctive
-conjunctive/disjunctive
+conjunctive
 327579	disjunctive
 327581	disjunctive
 disjunctive
@@ -201228,21 +201228,21 @@ disjunctive
 conjunctive
 disjunctive
 327599	disjunctive
-conjunctive/disjunctive
+conjunctive
 327602	disjunctive
 327604	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327608	conjunctive
 disjunctive
 327611	conjunctive
 disjunctive
-327615	conjunctive/disjunctive
+327615	conjunctive
 327617	disjunctive
 disjunctive
 327620	disjunctive
 disjunctive
-327624	conjunctive/disjunctive
+327624	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -201253,15 +201253,15 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327639	disjunctive
 327641	conjunctive
 disjunctive
 327644	disjunctive
-327646	conjunctive/disjunctive
+327646	conjunctive
 disjunctive
 327649	disjunctive
-327651	conjunctive/disjunctive
+327651	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -201294,62 +201294,62 @@ disjunctive
 disjunctive
 disjunctive
 327692	disjunctive
-327694	conjunctive/disjunctive
+327694	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327701	disjunctive
 327703	conjunctive
 disjunctive
 327707	disjunctive
-conjunctive/disjunctive
+conjunctive
 327711	disjunctive
-327713	conjunctive/disjunctive
+327713	conjunctive
 327716	disjunctive
-327718	conjunctive/disjunctive
+327718	conjunctive
 disjunctive
 disjunctive
 327722	conjunctive
 327724	disjunctive
-327727	conjunctive/disjunctive
+327727	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 327735	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327739	conjunctive
 disjunctive
 disjunctive
 327743	conjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
-327747	conjunctive/disjunctive
 disjunctive
-327750	conjunctive/disjunctive
+conjunctive
+327747	conjunctive
 disjunctive
-conjunctive/disjunctive
+327750	conjunctive
+disjunctive
+conjunctive
 disjunctive
 327755	conjunctive
 327757	conjunctive
 disjunctive
 327760	disjunctive
-327762	conjunctive/disjunctive
+327762	conjunctive
 disjunctive
 327767	disjunctive
 327769	conjunctive
 disjunctive
 327772	disjunctive
-327774	conjunctive/disjunctive
+327774	conjunctive
 disjunctive
-327777	conjunctive/disjunctive
+327777	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327782	disjunctive
 disjunctive
@@ -201358,10 +201358,10 @@ disjunctive
 disjunctive
 327789	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 327793	disjunctive
 327795	disjunctive
-conjunctive/disjunctive
+conjunctive
 327798	disjunctive
 327801	disjunctive
 conjunctive
@@ -201373,18 +201373,18 @@ disjunctive
 327811	conjunctive
 disjunctive
 327814	disjunctive
-327816	conjunctive/disjunctive
+327816	conjunctive
 disjunctive
-327820	conjunctive/disjunctive
+327820	conjunctive
 327822	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 327826	disjunctive
 disjunctive
 327829	conjunctive
 disjunctive
 327832	disjunctive
-327835	conjunctive/disjunctive
+327835	conjunctive
 disjunctive
 327838	conjunctive
 disjunctive
@@ -201397,20 +201397,20 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-327854	conjunctive/disjunctive
+327854	conjunctive
 327856	disjunctive
-327858	conjunctive/disjunctive
+327858	conjunctive
 disjunctive
 327861	conjunctive
 disjunctive
 327864	disjunctive
-327867	conjunctive/disjunctive
+327867	conjunctive
 disjunctive
 327870	conjunctive
 disjunctive
 327873	conjunctive
 disjunctive
-327877	conjunctive/disjunctive
+327877	conjunctive
 327879	disjunctive
 327881	disjunctive
 327883	conjunctive
@@ -201427,7 +201427,7 @@ conjunctive
 disjunctive
 327902	conjunctive
 disjunctive
-327905	conjunctive/disjunctive
+327905	conjunctive
 disjunctive
 327908	disjunctive
 327910	disjunctive
@@ -201453,12 +201453,12 @@ disjunctive
 conjunctive
 disjunctive
 327943	disjunctive
-327945	conjunctive/disjunctive
+327945	conjunctive
 327947	disjunctive
 conjunctive
-327951	conjunctive/disjunctive
+327951	conjunctive
 
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -201488,24 +201488,24 @@ conjunctive
 327996	disjunctive
 conjunctive
 disjunctive
-328000	conjunctive/disjunctive
+328000	conjunctive
 disjunctive
 328003	disjunctive
-328005	conjunctive/disjunctive
+328005	conjunctive
 disjunctive
 328008	disjunctive
 conjunctive
 disjunctive
 328012	disjunctive
 328015	disjunctive
-328017	conjunctive/disjunctive
+328017	conjunctive
 disjunctive
 conjunctive
 disjunctive
 328022	disjunctive
 328025	disjunctive
 328027	disjunctive
-328029	conjunctive/disjunctive
+328029	conjunctive
 328032	disjunctive
 328034	disjunctive
 328037	disjunctive
@@ -201529,7 +201529,7 @@ disjunctive
 conjunctive
 conjunctive
 328070	disjunctive
-328072	conjunctive/disjunctive
+328072	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -201538,7 +201538,7 @@ disjunctive
 conjunctive
 conjunctive
 328083	disjunctive
-328086	conjunctive/disjunctive
+328086	conjunctive
 disjunctive
 328089	conjunctive
 328091	conjunctive
@@ -201547,39 +201547,39 @@ conjunctive
 328095	disjunctive
 conjunctive
 disjunctive
-328099	conjunctive/disjunctive
+328099	conjunctive
 328101	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 328106	conjunctive
 disjunctive
 328110	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328114	disjunctive
 328116	conjunctive
 disjunctive
 328119	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328123	disjunctive
 328125	conjunctive
 disjunctive
 328128	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328132	disjunctive
 328134	conjunctive
 conjunctive
 disjunctive
 disjunctive
-328139	conjunctive/disjunctive
+328139	conjunctive
 disjunctive
 disjunctive
 328144	conjunctive
 disjunctive
-328147	conjunctive/disjunctive
+328147	conjunctive
 328149	disjunctive
 conjunctive
 disjunctive
@@ -201596,11 +201596,11 @@ disjunctive
 328170	disjunctive
 328172	disjunctive
 328174	disjunctive
-328176	conjunctive/disjunctive
+328176	conjunctive
 disjunctive
-328179	conjunctive/disjunctive
+328179	conjunctive
 disjunctive
-328183	conjunctive/disjunctive
+328183	conjunctive
 disjunctive
 328186	disjunctive
 disjunctive
@@ -201608,9 +201608,9 @@ disjunctive
 conjunctive
 disjunctive
 328194	disjunctive
-328197	conjunctive/disjunctive
+328197	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -201624,17 +201624,17 @@ conjunctive
 disjunctive
 328214	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 328221	disjunctive
-328224	conjunctive/disjunctive
+328224	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328229	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328233	disjunctive
 conjunctive
@@ -201646,13 +201646,13 @@ disjunctive
 disjunctive
 328243	disjunctive
 328246	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328251	disjunctive
-328253	conjunctive/disjunctive
+328253	conjunctive
 328256	disjunctive
 disjunctive
-328260	conjunctive/disjunctive
+328260	conjunctive
 disjunctive
 328263	disjunctive
 328266	disjunctive
@@ -201665,7 +201665,7 @@ disjunctive
 328274	disjunctive
 328276	disjunctive
 328278	disjunctive
-conjunctive/disjunctive
+conjunctive
 328281	disjunctive
 disjunctive
 328285	conjunctive
@@ -201674,7 +201674,7 @@ disjunctive
 328290	disjunctive
 328292	conjunctive
 disjunctive
-328295	conjunctive/disjunctive
+328295	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -201688,12 +201688,12 @@ disjunctive
 328308	disjunctive
 328310	disjunctive
 328312	disjunctive
-328314	conjunctive/disjunctive
+328314	conjunctive
 328316	disjunctive
 328318	conjunctive
 disjunctive
 328322	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -201705,15 +201705,15 @@ disjunctive
 disjunctive
 328336	conjunctive
 disjunctive
-328339	conjunctive/disjunctive
+328339	conjunctive
 disjunctive
 328342	disjunctive
 conjunctive
 disjunctive
 328346	disjunctive
-328348	conjunctive/disjunctive
+328348	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 328352	disjunctive
 conjunctive
 disjunctive
@@ -201721,7 +201721,7 @@ disjunctive
 328359	disjunctive
 328361	conjunctive
 328363	disjunctive
-328365	conjunctive/disjunctive
+328365	conjunctive
 disjunctive
 328369	disjunctive
 328371	disjunctive
@@ -201731,12 +201731,12 @@ conjunctive
 conjunctive
 328379	disjunctive
 328381	disjunctive
-328383	conjunctive/disjunctive
+328383	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -201744,19 +201744,19 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 328401	disjunctive
 328404	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 328409	disjunctive
 conjunctive
 disjunctive
 328413	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328418	disjunctive
 328420	conjunctive
@@ -201785,25 +201785,25 @@ disjunctive
 disjunctive
 328462	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 328466	disjunctive
 disjunctive
 disjunctive
-328470	conjunctive/disjunctive
+328470	conjunctive
 disjunctive
 328473	conjunctive
 disjunctive
 328476	disjunctive
 328478	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328483	disjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-328489	conjunctive/disjunctive
+328489	conjunctive
 328492	disjunctive
 disjunctive
 conjunctive
@@ -201814,17 +201814,17 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-328516	conjunctive/disjunctive
+328516	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -201855,7 +201855,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 328563	disjunctive
 conjunctive
 disjunctive
@@ -201871,7 +201871,7 @@ conjunctive
 328581	disjunctive
 conjunctive
 328584	disjunctive
-conjunctive/disjunctive
+conjunctive
 328588	disjunctive
 disjunctive
 328591	conjunctive
@@ -201892,7 +201892,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 328616	disjunctive
 disjunctive
 328620	disjunctive
@@ -201910,7 +201910,7 @@ disjunctive
 conjunctive
 328637	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328642	conjunctive
 disjunctive
@@ -201927,7 +201927,7 @@ conjunctive
 disjunctive
 328663	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 328668	disjunctive
 disjunctive
 disjunctive
@@ -201935,13 +201935,13 @@ disjunctive
 conjunctive
 disjunctive
 328676	disjunctive
-328678	conjunctive/disjunctive
+328678	conjunctive
 disjunctive
 328681	disjunctive
 328683	conjunctive
 328685	disjunctive
 328687	disjunctive
-328689	conjunctive/disjunctive
+328689	conjunctive
 disjunctive
 328692	conjunctive
 conjunctive
@@ -201949,20 +201949,20 @@ conjunctive
 328697	conjunctive
 conjunctive
 disjunctive
-328701	conjunctive/disjunctive
+328701	conjunctive
 328703	disjunctive
-328706	unknown
+328706	disjunctive
 328708	disjunctive
 328710	conjunctive
 disjunctive
 328714	disjunctive
-328717	conjunctive/disjunctive
+328717	conjunctive
 disjunctive
 conjunctive
 328721	conjunctive
 disjunctive
 328724	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 328730	conjunctive
@@ -201970,7 +201970,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-328736	conjunctive/disjunctive
+328736	conjunctive
 328738	disjunctive
 conjunctive
 conjunctive
@@ -201978,7 +201978,7 @@ disjunctive
 conjunctive
 disjunctive
 328745	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 328749	disjunctive
 conjunctive
@@ -201989,7 +201989,7 @@ conjunctive
 328760	conjunctive
 conjunctive
 328763	disjunctive
-328765	conjunctive/disjunctive
+328765	conjunctive
 disjunctive
 328768	conjunctive
 conjunctive
@@ -202000,7 +202000,7 @@ conjunctive
 328778	conjunctive
 328780	conjunctive
 disjunctive
-328783	unknown
+328783	disjunctive
 328785	disjunctive
 conjunctive
 disjunctive
@@ -202085,12 +202085,12 @@ conjunctive
 conjunctive
 328910	disjunctive
 328912	disjunctive
-328914	conjunctive/disjunctive
+328914	conjunctive
 disjunctive
 conjunctive
 328918	conjunctive
 disjunctive
-328921	conjunctive/disjunctive
+328921	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -202098,12 +202098,12 @@ disjunctive
 328927	conjunctive
 disjunctive
 disjunctive
-328932	conjunctive/disjunctive
+328932	conjunctive
 disjunctive
 328935	disjunctive
 328937	conjunctive
 disjunctive
-328940	conjunctive/disjunctive
+328940	conjunctive
 disjunctive
 328943	conjunctive
 conjunctive
@@ -202120,7 +202120,7 @@ disjunctive
 328961	disjunctive
 conjunctive
 disjunctive
-328965	conjunctive/disjunctive
+328965	conjunctive
 disjunctive
 328968	disjunctive
 328970	disjunctive
@@ -202156,9 +202156,9 @@ disjunctive
 disjunctive
 329014	disjunctive
 329016	disjunctive
-conjunctive/disjunctive
+conjunctive
 329019	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 329024	disjunctive
@@ -202179,22 +202179,22 @@ disjunctive
 329049	conjunctive
 329052	disjunctive
 329054	disjunctive
-329056	conjunctive/disjunctive
+329056	conjunctive
 329059	disjunctive
 329062	disjunctive
 329064	disjunctive
 329066	conjunctive
 disjunctive
 329069	disjunctive
-329071	conjunctive/disjunctive
+329071	conjunctive
 disjunctive
-329075	conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
+329075	conjunctive
 disjunctive
 conjunctive
 disjunctive
-329082	conjunctive/disjunctive
+conjunctive
+disjunctive
+329082	conjunctive
 329084	disjunctive
 disjunctive
 disjunctive
@@ -202224,22 +202224,22 @@ disjunctive
 329128	conjunctive
 disjunctive
 329131	disjunctive
-329133	conjunctive/disjunctive
+329133	conjunctive
 disjunctive
-329137	conjunctive/disjunctive
+329137	conjunctive
 329139	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-329144	conjunctive/disjunctive
+329144	conjunctive
 329146	disjunctive
 329148	disjunctive
 329150	disjunctive
-329152	conjunctive/disjunctive
+329152	conjunctive
 329154	disjunctive
-329156	conjunctive/disjunctive
+329156	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -202260,7 +202260,7 @@ disjunctive
 conjunctive
 329185	conjunctive
 329187	disjunctive
-329189	conjunctive/disjunctive
+329189	conjunctive
 disjunctive
 329192	disjunctive
 329194	disjunctive
@@ -202268,16 +202268,16 @@ disjunctive
 disjunctive
 329199	disjunctive
 329201	disjunctive
-329203	conjunctive/disjunctive
+329203	conjunctive
 329205	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 329209	conjunctive
 disjunctive
 329212	conjunctive
 conjunctive
 disjunctive
-329216	conjunctive/disjunctive
+329216	conjunctive
 disjunctive
 329220	disjunctive
 329223	conjunctive
@@ -202288,7 +202288,7 @@ disjunctive
 329235	conjunctive
 329237	disjunctive
 329239	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 329243	disjunctive
 329245	disjunctive
@@ -202302,16 +202302,16 @@ disjunctive
 329260	conjunctive
 disjunctive
 329263	disjunctive
-329265	conjunctive/disjunctive
+329265	conjunctive
 329267	disjunctive
 329269	disjunctive
 329271	disjunctive
-329273	conjunctive/disjunctive
+329273	conjunctive
 disjunctive
-329276	conjunctive/disjunctive
+329276	conjunctive
 329278	disjunctive
 329280	disjunctive
-329282	conjunctive/disjunctive
+329282	conjunctive
 329284	disjunctive
 329286	disjunctive
 329288	disjunctive
@@ -202321,11 +202321,11 @@ conjunctive
 conjunctive
 conjunctive
 disjunctive
-329299	conjunctive/disjunctive
+329299	conjunctive
 329302	disjunctive
 329304	disjunctive
 disjunctive
-329307	conjunctive/disjunctive
+329307	conjunctive
 329309	disjunctive
 329311	conjunctive
 conjunctive
@@ -202343,10 +202343,10 @@ conjunctive
 disjunctive
 329336	conjunctive
 disjunctive
-329339	conjunctive/disjunctive
+329339	conjunctive
 329341	disjunctive
 329344	disjunctive
-329346	conjunctive/disjunctive
+329346	conjunctive
 329348	disjunctive
 329350	disjunctive
 329352	disjunctive
@@ -202355,17 +202355,17 @@ conjunctive
 329358	disjunctive
 329360	disjunctive
 329362	disjunctive
-329364	conjunctive/disjunctive
+329364	conjunctive
 329367	disjunctive
-329369	conjunctive/disjunctive
+329369	conjunctive
 disjunctive
 disjunctive
-329373	conjunctive/disjunctive
+329373	conjunctive
 disjunctive
 329376	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 329383	disjunctive
@@ -202406,7 +202406,7 @@ disjunctive
 329444	conjunctive
 329446	disjunctive
 329448	conjunctive
-329451	conjunctive/disjunctive
+329451	conjunctive
 disjunctive
 329454	disjunctive
 conjunctive
@@ -202418,27 +202418,27 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 329471	disjunctive
 329474	disjunctive
 disjunctive
-329477	conjunctive/disjunctive
+329477	conjunctive
 329480	disjunctive
-329482	conjunctive/disjunctive
+329482	conjunctive
 329485	disjunctive
 conjunctive
 329489	disjunctive
 329491	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 329499	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 329504	conjunctive
 329506	disjunctive
@@ -202450,19 +202450,19 @@ disjunctive
 329517	conjunctive
 disjunctive
 329520	disjunctive
-329522	conjunctive/disjunctive
+329522	conjunctive
 disjunctive
 conjunctive
 329526	conjunctive
 disjunctive
 329529	disjunctive
-329531	conjunctive/disjunctive
+329531	conjunctive
 disjunctive
 329534	disjunctive
 conjunctive
 disjunctive
-329538	conjunctive/disjunctive
-unknown
+329538	conjunctive
+disjunctive
 329541	disjunctive
 disjunctive
 conjunctive
@@ -202470,7 +202470,7 @@ conjunctive
 conjunctive
 conjunctive
 329549	disjunctive
-329551	conjunctive/disjunctive
+329551	conjunctive
 329553	disjunctive
 329555	conjunctive
 conjunctive
@@ -202496,7 +202496,7 @@ conjunctive
 329589	conjunctive
 disjunctive
 329592	disjunctive
-329594	conjunctive/disjunctive
+329594	conjunctive
 disjunctive
 329597	disjunctive
 conjunctive
@@ -202513,7 +202513,7 @@ disjunctive
 conjunctive
 disjunctive
 329617	disjunctive
-329619	conjunctive/disjunctive
+329619	conjunctive
 disjunctive
 329622	conjunctive
 329624	disjunctive
@@ -202530,7 +202530,7 @@ conjunctive
 329642	conjunctive
 disjunctive
 329645	disjunctive
-329647	conjunctive/disjunctive
+329647	conjunctive
 
 329650	disjunctive
 conjunctive
@@ -202541,7 +202541,7 @@ conjunctive
 conjunctive
 329660	disjunctive
 329662	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 329666	conjunctive
 
@@ -202555,14 +202555,14 @@ disjunctive
 329679	disjunctive
 conjunctive
 disjunctive
-329683	conjunctive/disjunctive
+329683	conjunctive
 
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-329691	conjunctive/disjunctive
+329691	conjunctive
 disjunctive
 conjunctive
 329695	disjunctive
@@ -202580,16 +202580,16 @@ disjunctive
 329718	disjunctive
 329720	disjunctive
 disjunctive
-329723	conjunctive/disjunctive
+329723	conjunctive
 329725	disjunctive
 329727	disjunctive
-329729	conjunctive/disjunctive
+329729	conjunctive
 disjunctive
 conjunctive
 329733	conjunctive
 disjunctive
 329736	disjunctive
-329738	conjunctive/disjunctive
+329738	conjunctive
 disjunctive
 329741	disjunctive
 329744	disjunctive
@@ -202599,7 +202599,7 @@ disjunctive
 conjunctive
 conjunctive
 329753	disjunctive
-329755	conjunctive/disjunctive
+329755	conjunctive
 disjunctive
 329758	disjunctive
 conjunctive
@@ -202611,9 +202611,9 @@ disjunctive
 conjunctive
 disjunctive
 329771	disjunctive
-329773	conjunctive/disjunctive
+329773	conjunctive
 disjunctive
-329776	conjunctive/disjunctive
+329776	conjunctive
 disjunctive
 329779	conjunctive
 conjunctive
@@ -202634,7 +202634,7 @@ disjunctive
 329802	disjunctive
 conjunctive
 disjunctive
-329806	conjunctive/disjunctive
+329806	conjunctive
 329808	disjunctive
 329810	conjunctive
 conjunctive
@@ -202648,7 +202648,7 @@ disjunctive
 329825	conjunctive
 conjunctive
 329828	disjunctive
-329830	conjunctive/disjunctive
+329830	conjunctive
 329833	disjunctive
 disjunctive
 conjunctive
@@ -202657,10 +202657,10 @@ conjunctive
 329841	disjunctive
 conjunctive
 disjunctive
-329845	conjunctive/disjunctive
+329845	conjunctive
 329848	disjunctive
 329850	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -202668,13 +202668,13 @@ conjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 329862	disjunctive
 329864	disjunctive
 disjunctive
-329867	conjunctive/disjunctive
+329867	conjunctive
 329869	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 329875	conjunctive
@@ -202684,7 +202684,7 @@ disjunctive
 329882	conjunctive
 329885	conjunctive
 disjunctive
-329889	conjunctive/disjunctive
+329889	conjunctive
 disjunctive
 conjunctive
 329893	conjunctive
@@ -202699,10 +202699,10 @@ conjunctive
 conjunctive
 329907	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 329911	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
 329916	conjunctive
 conjunctive
@@ -202731,26 +202731,26 @@ disjunctive
 conjunctive
 conjunctive
 329946	disjunctive
-329949	conjunctive/disjunctive
+329949	conjunctive
 disjunctive
-329953	conjunctive/disjunctive
+329953	conjunctive
 disjunctive
 329956	disjunctive
 329958	conjunctive
 conjunctive
 329961	disjunctive
 329963	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-329967	conjunctive/disjunctive
+329967	conjunctive
 329969	disjunctive
 329971	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 329976	disjunctive
 329978	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 329983	disjunctive
 conjunctive
@@ -202759,18 +202759,18 @@ disjunctive
 329989	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 329997	conjunctive
 conjunctive
 disjunctive
-330001	conjunctive/disjunctive
+330001	conjunctive
 disjunctive
-330004	conjunctive/disjunctive
+330004	conjunctive
 disjunctive
-330007	conjunctive/disjunctive
+330007	conjunctive
 disjunctive
 330010	conjunctive
 conjunctive
@@ -202784,22 +202784,22 @@ conjunctive
 conjunctive
 disjunctive
 330023	disjunctive
-conjunctive/disjunctive
+conjunctive
 330026	disjunctive
 330028	conjunctive
 conjunctive
 disjunctive
 330032	disjunctive
-conjunctive/disjunctive
+conjunctive
 330035	disjunctive
-330037	conjunctive/disjunctive
+330037	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-330043	conjunctive/disjunctive
+330043	conjunctive
 disjunctive
-330046	unknown
+330046	disjunctive
 disjunctive
 330049	conjunctive
 conjunctive
@@ -202816,20 +202816,20 @@ disjunctive
 330070	conjunctive
 conjunctive
 disjunctive
-330075	conjunctive/disjunctive
+330075	conjunctive
 disjunctive
 330078	disjunctive
-330080	conjunctive/disjunctive
+330080	conjunctive
 330082	disjunctive
-330084	conjunctive/disjunctive
+330084	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 330092	disjunctive
-330094	conjunctive/disjunctive
+330094	conjunctive
 disjunctive
 330097	disjunctive
 conjunctive
@@ -202840,10 +202840,10 @@ disjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 330114	disjunctive
 330116	conjunctive
 330118	disjunctive
@@ -202853,11 +202853,11 @@ conjunctive
 330125	conjunctive
 disjunctive
 330128	disjunctive
-330131	conjunctive/disjunctive
+330131	conjunctive
 330133	disjunctive
-330135	conjunctive/disjunctive
+330135	conjunctive
 disjunctive
-330138	conjunctive/disjunctive
+330138	conjunctive
 disjunctive
 330141	disjunctive
 330143	conjunctive
@@ -202869,14 +202869,14 @@ disjunctive
 330158	conjunctive
 disjunctive
 330162	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 330169	conjunctive
 disjunctive
-330173	conjunctive/disjunctive
+330173	conjunctive
 disjunctive
 330176	disjunctive
 330178	disjunctive
@@ -202885,16 +202885,16 @@ disjunctive
 330182	disjunctive
 conjunctive
 disjunctive
-330186	conjunctive/disjunctive
+330186	conjunctive
 disjunctive
 disjunctive
 330190	conjunctive
 330192	conjunctive
 disjunctive
 330195	disjunctive
-conjunctive/disjunctive
+conjunctive
 330198	disjunctive
-330202	conjunctive/disjunctive
+330202	conjunctive
 disjunctive
 disjunctive
 330207	disjunctive
@@ -202902,14 +202902,14 @@ disjunctive
 conjunctive
 330211	disjunctive
 330213	disjunctive
-conjunctive/disjunctive
+conjunctive
 330216	disjunctive
 330218	disjunctive
 conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -202927,7 +202927,7 @@ disjunctive
 disjunctive
 disjunctive
 330246	disjunctive
-330248	conjunctive/disjunctive
+330248	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -202946,16 +202946,16 @@ disjunctive
 330272	conjunctive
 disjunctive
 330275	disjunctive
-330277	conjunctive/disjunctive
+330277	conjunctive
 disjunctive
 330280	disjunctive
 disjunctive
 conjunctive
 disjunctive
 330285	disjunctive
-conjunctive/disjunctive
+conjunctive
 330288	disjunctive
-330290	conjunctive/disjunctive
+330290	conjunctive
 disjunctive
 conjunctive
 330294	disjunctive
@@ -202978,13 +202978,13 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-330322	conjunctive/disjunctive
+330322	conjunctive
 disjunctive
-330325	conjunctive/disjunctive
+330325	conjunctive
 330327	disjunctive
 330329	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 330333	disjunctive
 conjunctive
 330337	conjunctive
@@ -202993,17 +202993,17 @@ conjunctive
 330342	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-330348	conjunctive/disjunctive
+330348	conjunctive
 disjunctive
 330351	disjunctive
 330354	conjunctive
 disjunctive
 330357	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -203016,10 +203016,10 @@ conjunctive
 disjunctive
 disjunctive
 330378	disjunctive
-330381	conjunctive/disjunctive
+330381	conjunctive
 disjunctive
 330384	disjunctive
-conjunctive/disjunctive
+conjunctive
 330387	disjunctive
 conjunctive
 disjunctive
@@ -203037,9 +203037,9 @@ conjunctive
 disjunctive
 conjunctive
 330408	disjunctive
-330410	conjunctive/disjunctive
+330410	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -203051,12 +203051,12 @@ conjunctive
 330424	conjunctive
 330426	disjunctive
 disjunctive
-330429	conjunctive/disjunctive
+330429	conjunctive
 330431	disjunctive
 disjunctive
 conjunctive
 330435	disjunctive
-330438	conjunctive/disjunctive
+330438	conjunctive
 disjunctive
 conjunctive
 330442	conjunctive
@@ -203069,15 +203069,15 @@ conjunctive
 conjunctive
 330452	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 330456	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 330460	disjunctive
 conjunctive
 330463	disjunctive
 330465	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 330471	disjunctive
@@ -203086,10 +203086,10 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-330479	conjunctive/disjunctive
+330479	conjunctive
 330481	disjunctive
 330483	disjunctive
-conjunctive/disjunctive
+conjunctive
 330486	disjunctive
 conjunctive
 330490	conjunctive
@@ -203104,19 +203104,19 @@ conjunctive
 conjunctive
 conjunctive
 330508	disjunctive
-330511	conjunctive/disjunctive
+330511	conjunctive
 330513	disjunctive
-330515	conjunctive/disjunctive
+330515	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 330520	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 330528	disjunctive
 conjunctive
 disjunctive
@@ -203132,7 +203132,7 @@ disjunctive
 conjunctive
 330546	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 330550	disjunctive
 conjunctive
 disjunctive
@@ -203143,13 +203143,13 @@ conjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-unknown
-330569	conjunctive/disjunctive
+disjunctive
+330569	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -203157,7 +203157,7 @@ conjunctive
 disjunctive
 330576	disjunctive
 330579	disjunctive
-330582	conjunctive/disjunctive
+330582	conjunctive
 330584	disjunctive
 disjunctive
 conjunctive
@@ -203171,35 +203171,35 @@ disjunctive
 disjunctive
 330599	conjunctive
 disjunctive
-330602	conjunctive/disjunctive
+330602	conjunctive
 330604	disjunctive
-330606	conjunctive/disjunctive
+330606	conjunctive
 330608	disjunctive
-330611	conjunctive/disjunctive
+330611	conjunctive
 330615	disjunctive
 conjunctive
 330618	conjunctive
 disjunctive
 330621	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-330625	conjunctive/disjunctive
+330625	conjunctive
 330627	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 330634	disjunctive
-330637	conjunctive/disjunctive
+330637	conjunctive
 disjunctive
 330640	disjunctive
 330642	conjunctive
 disjunctive
 330645	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-330649	conjunctive/disjunctive
+330649	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -203210,7 +203210,7 @@ disjunctive
 disjunctive
 330661	disjunctive
 330663	disjunctive
-conjunctive/disjunctive
+conjunctive
 330666	disjunctive
 330668	disjunctive
 conjunctive
@@ -203222,7 +203222,7 @@ disjunctive
 conjunctive
 disjunctive
 330683	disjunctive
-conjunctive/disjunctive
+conjunctive
 330686	disjunctive
 330688	disjunctive
 conjunctive
@@ -203242,10 +203242,10 @@ disjunctive
 disjunctive
 330716	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
 330724	disjunctive
 conjunctive
 disjunctive
@@ -203256,7 +203256,7 @@ conjunctive
 330734	disjunctive
 330736	disjunctive
 disjunctive
-330739	conjunctive/disjunctive
+330739	conjunctive
 330742	disjunctive
 disjunctive
 330745	conjunctive
@@ -203270,7 +203270,7 @@ disjunctive
 330755	disjunctive
 330757	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 330762	conjunctive
 disjunctive
@@ -203278,7 +203278,7 @@ conjunctive
 disjunctive
 330767	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 330772	conjunctive
 disjunctive
@@ -203323,7 +203323,7 @@ disjunctive
 330824	conjunctive
 disjunctive
 disjunctive
-330828	conjunctive/disjunctive
+330828	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -203339,24 +203339,24 @@ conjunctive
 disjunctive
 330848	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 330852	disjunctive
 330854	conjunctive
 disjunctive
 330857	disjunctive
 330860	disjunctive
-conjunctive/disjunctive
+conjunctive
 330864	disjunctive
 conjunctive
 330867	disjunctive
 330869	disjunctive
 330871	disjunctive
-330873	conjunctive/disjunctive
+330873	conjunctive
 disjunctive
 330876	disjunctive
 conjunctive
 disjunctive
-330880	conjunctive/disjunctive
+330880	conjunctive
 330883	disjunctive
 330885	disjunctive
 disjunctive
@@ -203367,7 +203367,7 @@ disjunctive
 330894	conjunctive
 conjunctive
 disjunctive
-330899	conjunctive/disjunctive
+330899	conjunctive
 disjunctive
 disjunctive
 330903	disjunctive
@@ -203377,11 +203377,11 @@ disjunctive
 conjunctive
 330910	conjunctive
 disjunctive
-330915	conjunctive/disjunctive
+330915	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -203398,15 +203398,15 @@ conjunctive
 disjunctive
 330938	disjunctive
 330940	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 330947	disjunctive
-330949	conjunctive/disjunctive
+330949	conjunctive
 330951	disjunctive
-330953	conjunctive/disjunctive
+330953	conjunctive
 330955	disjunctive
 disjunctive
 330958	conjunctive
@@ -203417,18 +203417,18 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 330973	disjunctive
-330976	conjunctive/disjunctive
+330976	conjunctive
 disjunctive
-330979	conjunctive/disjunctive
+330979	conjunctive
 330981	disjunctive
-330983	conjunctive/disjunctive
+330983	conjunctive
 disjunctive
-330986	conjunctive/disjunctive
+330986	conjunctive
 disjunctive
 330990	conjunctive
 conjunctive
@@ -203473,11 +203473,11 @@ conjunctive
 331053	disjunctive
 disjunctive
 331057	disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 disjunctive
-331064	conjunctive/disjunctive
+331064	conjunctive
 331066	disjunctive
 331068	disjunctive
 conjunctive
@@ -203486,12 +203486,12 @@ conjunctive
 conjunctive
 331076	conjunctive
 disjunctive
-331079	conjunctive/disjunctive
+331079	conjunctive
 disjunctive
 conjunctive
 331083	conjunctive
 disjunctive
-331086	conjunctive/disjunctive
+331086	conjunctive
 331088	disjunctive
 conjunctive
 331091	conjunctive
@@ -203519,27 +203519,27 @@ conjunctive
 disjunctive
 331122	disjunctive
 331124	disjunctive
-conjunctive/disjunctive
+conjunctive
 331127	disjunctive
 disjunctive
-331130	conjunctive/disjunctive
+331130	conjunctive
 331132	disjunctive
 331134	disjunctive
 331137	disjunctive
 disjunctive
-331140	conjunctive/disjunctive
+331140	conjunctive
 331142	disjunctive
 331144	disjunctive
 331146	disjunctive
-331148	conjunctive/disjunctive
+331148	conjunctive
 disjunctive
-331151	conjunctive/disjunctive
+331151	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 331157	disjunctive
-331159	conjunctive/disjunctive
+331159	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -203548,7 +203548,7 @@ conjunctive
 disjunctive
 331168	conjunctive
 disjunctive
-331171	conjunctive/disjunctive
+331171	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -203565,24 +203565,24 @@ disjunctive
 disjunctive
 conjunctive
 331194	disjunctive
-331196	conjunctive/disjunctive
+331196	conjunctive
 disjunctive
-conjunctive/disjunctive
-unknown
+conjunctive
+disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
-unknown
 conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
+conjunctive
 331212	disjunctive
 331214	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -203590,15 +203590,15 @@ disjunctive
 331223	disjunctive
 conjunctive
 disjunctive
-331227	conjunctive/disjunctive
+331227	conjunctive
 331229	disjunctive
-331231	unknown
-conjunctive/disjunctive
+331231	disjunctive
+conjunctive
 disjunctive
-331236	conjunctive/disjunctive
+331236	conjunctive
 331238	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -203628,7 +203628,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -203637,13 +203637,13 @@ conjunctive
 331288	conjunctive
 disjunctive
 disjunctive
-331292	conjunctive/disjunctive
+331292	conjunctive
 disjunctive
 disjunctive
 disjunctive
 331297	conjunctive
-conjunctive/disjunctive
-331300	conjunctive/disjunctive
+conjunctive
+331300	conjunctive
 331302	disjunctive
 331304	disjunctive
 331306	disjunctive
@@ -203658,32 +203658,32 @@ conjunctive
 conjunctive
 331320	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 331324	disjunctive
 331326	disjunctive
-331328	conjunctive/disjunctive
+331328	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331335	conjunctive/disjunctive
+331335	conjunctive
 disjunctive
 disjunctive
 331339	conjunctive
 disjunctive
-331342	conjunctive/disjunctive
+331342	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331348	conjunctive/disjunctive
+331348	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331354	conjunctive/disjunctive
+331354	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 331358	disjunctive
 331360	disjunctive
 331363	disjunctive
@@ -203691,18 +203691,18 @@ disjunctive
 331366	conjunctive
 disjunctive
 331369	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331373	conjunctive/disjunctive
+331373	conjunctive
 disjunctive
-331376	conjunctive/disjunctive
+331376	conjunctive
 331378	disjunctive
 331380	conjunctive
 331382	disjunctive
 331384	disjunctive
 331386	disjunctive
 331388	disjunctive
-331391	conjunctive/disjunctive
+331391	conjunctive
 disjunctive
 331394	disjunctive
 331396	disjunctive
@@ -203713,52 +203713,52 @@ disjunctive
 conjunctive
 331404	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331411	conjunctive/disjunctive
+331411	conjunctive
 disjunctive
 disjunctive
 331415	disjunctive
 331417	conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 331421	conjunctive
 331423	disjunctive
-331425	conjunctive/disjunctive
+331425	conjunctive
 disjunctive
 331428	disjunctive
 disjunctive
-331431	conjunctive/disjunctive
+331431	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
-331438	conjunctive/disjunctive
+331438	conjunctive
 disjunctive
-331441	conjunctive/disjunctive
+331441	conjunctive
 disjunctive
-331444	conjunctive/disjunctive
+331444	conjunctive
 331446	disjunctive
 disjunctive
 331449	disjunctive
 conjunctive
 conjunctive
 331454	disjunctive
-331456	conjunctive/disjunctive
+331456	conjunctive
 disjunctive
 disjunctive
 conjunctive
 conjunctive
 331462	disjunctive
-331464	conjunctive/disjunctive
+331464	conjunctive
 331467	disjunctive
 disjunctive
 conjunctive
 disjunctive
-331472	unknown
+331472	disjunctive
 331474	disjunctive
 conjunctive
 331477	disjunctive
@@ -203773,11 +203773,11 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 331492	disjunctive
 331494	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 331501	conjunctive
@@ -203787,9 +203787,9 @@ disjunctive
 conjunctive
 disjunctive
 331509	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331513	conjunctive/disjunctive
+331513	conjunctive
 disjunctive
 331516	disjunctive
 331518	disjunctive
@@ -203801,36 +203801,36 @@ disjunctive
 331527	disjunctive
 conjunctive
 disjunctive
-331531	conjunctive/disjunctive
+331531	conjunctive
 disjunctive
-331534	conjunctive/disjunctive
+331534	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 331540	disjunctive
 disjunctive
 331543	disjunctive
-331545	conjunctive/disjunctive
+331545	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331555	conjunctive/disjunctive
+331555	conjunctive
 disjunctive
 disjunctive
-331559	conjunctive/disjunctive
+331559	conjunctive
 disjunctive
-331562	conjunctive/disjunctive
+331562	conjunctive
 331565	disjunctive
 disjunctive
 331568	conjunctive
 disjunctive
-331571	conjunctive/disjunctive
+331571	conjunctive
 disjunctive
 331574	disjunctive
 331576	disjunctive
@@ -203840,7 +203840,7 @@ conjunctive
 disjunctive
 331584	conjunctive
 disjunctive
-331587	conjunctive/disjunctive
+331587	conjunctive
 disjunctive
 conjunctive
 331591	disjunctive
@@ -203857,7 +203857,7 @@ disjunctive
 disjunctive
 conjunctive
 331606	disjunctive
-331608	conjunctive/disjunctive
+331608	conjunctive
 disjunctive
 331611	conjunctive
 conjunctive
@@ -203867,7 +203867,7 @@ disjunctive
 331618	conjunctive
 conjunctive
 disjunctive
-331622	unknown
+331622	disjunctive
 331624	disjunctive
 331627	conjunctive
 331629	conjunctive
@@ -203877,32 +203877,32 @@ conjunctive
 331636	conjunctive
 disjunctive
 331639	conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331643	conjunctive/disjunctive
+331643	conjunctive
 331645	disjunctive
-331647	conjunctive/disjunctive
+331647	conjunctive
 331650	disjunctive
 conjunctive
 conjunctive
 disjunctive
 331655	conjunctive
 331657	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 331661	conjunctive
 disjunctive
-331664	conjunctive/disjunctive
+331664	conjunctive
 331666	disjunctive
 conjunctive
 disjunctive
 331671	disjunctive
 331673	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331677	conjunctive/disjunctive
+331677	conjunctive
 331679	disjunctive
-331681	conjunctive/disjunctive
+331681	conjunctive
 331683	disjunctive
 disjunctive
 conjunctive
@@ -203930,7 +203930,7 @@ disjunctive
 disjunctive
 disjunctive
 disjunctive
-331717	conjunctive/disjunctive
+331717	conjunctive
 disjunctive
 331720	conjunctive
 disjunctive
@@ -203940,24 +203940,24 @@ conjunctive
 disjunctive
 331729	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 331733	disjunctive
 conjunctive
 conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331741	conjunctive/disjunctive
+331741	conjunctive
 disjunctive
 conjunctive
 conjunctive
 331747	disjunctive
 disjunctive
 331750	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331754	conjunctive/disjunctive
+331754	conjunctive
 disjunctive
 331757	disjunctive
 disjunctive
@@ -203976,7 +203976,7 @@ disjunctive
 331775	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -203986,9 +203986,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 331794	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -204007,11 +204007,11 @@ disjunctive
 conjunctive
 disjunctive
 331818	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331822	conjunctive/disjunctive
+331822	conjunctive
 331824	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -204025,23 +204025,23 @@ conjunctive
 331840	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331846	conjunctive/disjunctive
+331846	conjunctive
 331848	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331853	conjunctive/disjunctive
+331853	conjunctive
 331855	disjunctive
 331857	disjunctive
-conjunctive/disjunctive
+conjunctive
 331860	disjunctive
 conjunctive
 disjunctive
 331864	disjunctive
 disjunctive
-331867	conjunctive/disjunctive
+331867	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -204058,7 +204058,7 @@ disjunctive
 331886	conjunctive
 conjunctive
 331889	disjunctive
-331891	conjunctive/disjunctive
+331891	conjunctive
 331893	disjunctive
 conjunctive
 conjunctive
@@ -204070,7 +204070,7 @@ disjunctive
 331904	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 331909	disjunctive
 conjunctive
 conjunctive
@@ -204086,13 +204086,13 @@ disjunctive
 conjunctive
 331926	conjunctive
 disjunctive
-331929	conjunctive/disjunctive
+331929	conjunctive
 disjunctive
 conjunctive
 disjunctive
 331934	disjunctive
 331936	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 331940	disjunctive
 331942	conjunctive
@@ -204100,7 +204100,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-331949	conjunctive/disjunctive
+331949	conjunctive
 331951	disjunctive
 conjunctive
 conjunctive
@@ -204112,7 +204112,7 @@ disjunctive
 disjunctive
 conjunctive
 331964	disjunctive
-331966	conjunctive/disjunctive
+331966	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -204121,22 +204121,22 @@ disjunctive
 conjunctive
 331976	disjunctive
 331978	disjunctive
-331980	conjunctive/disjunctive
+331980	conjunctive
 disjunctive
-331983	conjunctive/disjunctive
+331983	conjunctive
 disjunctive
 331986	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-331990	conjunctive/disjunctive
+331990	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 331996	disjunctive
 331998	conjunctive
 332000	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 332005	disjunctive
 332007	disjunctive
@@ -204149,12 +204149,12 @@ conjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 332021	disjunctive
 332023	disjunctive
 332025	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 332031	disjunctive
@@ -204175,7 +204175,7 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-332052	conjunctive/disjunctive
+332052	conjunctive
 disjunctive
 332056	disjunctive
 conjunctive
@@ -204186,13 +204186,13 @@ disjunctive
 conjunctive
 332065	conjunctive
 332067	disjunctive
-332070	conjunctive/disjunctive
-disjunctive
-conjunctive/disjunctive
+332070	conjunctive
 disjunctive
 conjunctive
 disjunctive
-332077	conjunctive/disjunctive
+conjunctive
+disjunctive
+332077	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -204202,42 +204202,42 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-332092	conjunctive/disjunctive
+332092	conjunctive
 332094	disjunctive
 332096	disjunctive
 disjunctive
 332099	conjunctive
 332101	disjunctive
 disjunctive
-332104	conjunctive/disjunctive
+332104	conjunctive
 332106	disjunctive
-332108	conjunctive/disjunctive
+332108	conjunctive
 disjunctive
 332111	disjunctive
 disjunctive
 332114	conjunctive
 disjunctive
-332118	conjunctive/disjunctive
+332118	conjunctive
 disjunctive
 332121	disjunctive
 332123	disjunctive
-conjunctive/disjunctive
+conjunctive
 332126	disjunctive
 332128	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 332133	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 332137	disjunctive
 conjunctive
 disjunctive
 332141	conjunctive
 disjunctive
-332144	conjunctive/disjunctive
+332144	conjunctive
 disjunctive
 conjunctive
 332148	conjunctive
@@ -204260,30 +204260,30 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-332174	conjunctive/disjunctive
+332174	conjunctive
 disjunctive
-332177	conjunctive/disjunctive
+332177	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-332182	conjunctive/disjunctive
+332182	conjunctive
 disjunctive
 conjunctive
 332186	conjunctive
 disjunctive
-332189	conjunctive/disjunctive
+332189	conjunctive
 disjunctive
-332192	conjunctive/disjunctive
+332192	conjunctive
 disjunctive
 332195	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 332200	conjunctive
 332202	disjunctive
 332205	disjunctive
 332207	disjunctive
-conjunctive/disjunctive
+conjunctive
 332210	disjunctive
 332212	conjunctive
 332214	conjunctive
@@ -204294,15 +204294,15 @@ disjunctive
 332222	disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 332228	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 332234	conjunctive
 disjunctive
-332238	conjunctive/disjunctive
+332238	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -204312,19 +204312,19 @@ conjunctive
 conjunctive
 conjunctive
 332251	disjunctive
-332253	conjunctive/disjunctive
+332253	conjunctive
 disjunctive
 disjunctive
 conjunctive
 332258	disjunctive
-332261	conjunctive/disjunctive
+332261	conjunctive
 disjunctive
 conjunctive
-332265	conjunctive/disjunctive
+332265	conjunctive
 332267	disjunctive
-332269	conjunctive/disjunctive
+332269	conjunctive
 disjunctive
-332272	conjunctive/disjunctive
+332272	conjunctive
 disjunctive
 332275	disjunctive
 disjunctive
@@ -204336,7 +204336,7 @@ disjunctive
 332285	disjunctive
 conjunctive
 disjunctive
-332289	conjunctive/disjunctive
+332289	conjunctive
 332292	disjunctive
 332294	disjunctive
 332296	conjunctive
@@ -204345,30 +204345,30 @@ disjunctive
 332300	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 332306	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 332315	disjunctive
 332317	disjunctive
 conjunctive
 332320	conjunctive
 disjunctive
-332323	conjunctive/disjunctive
+332323	conjunctive
 332325	disjunctive
 332327	disjunctive
-332329	conjunctive/disjunctive
+332329	conjunctive
 disjunctive
 disjunctive
 conjunctive
 332334	disjunctive
-332338	conjunctive/disjunctive
+332338	conjunctive
 332340	disjunctive
 disjunctive
 332343	conjunctive
@@ -204384,7 +204384,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-332362	conjunctive/disjunctive
+332362	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -204394,17 +204394,17 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-332374	conjunctive/disjunctive
+332374	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 332379	conjunctive
 conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-332386	conjunctive/disjunctive
+332386	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -204415,24 +204415,24 @@ disjunctive
 conjunctive
 conjunctive
 332398	disjunctive
-332400	conjunctive/disjunctive
+332400	conjunctive
 disjunctive
-332404	conjunctive/disjunctive
+332404	conjunctive
 disjunctive
 disjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 332411	disjunctive
-conjunctive/disjunctive
+conjunctive
 332414	disjunctive
 conjunctive
 332418	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 332426	disjunctive
 disjunctive
@@ -204450,17 +204450,17 @@ disjunctive
 conjunctive
 332447	disjunctive
 disjunctive
-332450	conjunctive/disjunctive
+332450	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-332456	conjunctive/disjunctive
+332456	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-332463	conjunctive/disjunctive
+332463	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -204468,7 +204468,7 @@ disjunctive
 conjunctive
 332471	conjunctive
 disjunctive
-332474	conjunctive/disjunctive
+332474	conjunctive
 332476	disjunctive
 332478	disjunctive
 conjunctive
@@ -204476,18 +204476,18 @@ disjunctive
 conjunctive
 disjunctive
 332484	disjunctive
-332486	conjunctive/disjunctive
+332486	conjunctive
 disjunctive
 conjunctive
 332490	conjunctive
 disjunctive
-332493	unknown
+332493	disjunctive
 conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-332500	conjunctive/disjunctive
+332500	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -204498,7 +204498,7 @@ disjunctive
 conjunctive
 disjunctive
 332513	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -204506,51 +204506,51 @@ disjunctive
 332520	conjunctive
 disjunctive
 disjunctive
-332524	conjunctive/disjunctive
+332524	conjunctive
 disjunctive
-332527	conjunctive/disjunctive
+332527	conjunctive
 disjunctive
 332531	disjunctive
-332533	conjunctive/disjunctive
+332533	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 332540	
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 332546	disjunctive
 332548	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 332554	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 332560	disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 332568	conjunctive
 disjunctive
-332572	conjunctive/disjunctive
+332572	conjunctive
 disjunctive
 conjunctive
 332576	conjunctive
 disjunctive
-332579	conjunctive/disjunctive
+332579	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-332585	conjunctive/disjunctive
+332585	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -204562,7 +204562,7 @@ conjunctive
 conjunctive
 332598	conjunctive
 disjunctive
-332601	conjunctive/disjunctive
+332601	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -204581,7 +204581,7 @@ disjunctive
 conjunctive
 332621	conjunctive
 disjunctive
-332624	conjunctive/disjunctive
+332624	conjunctive
 332626	disjunctive
 conjunctive
 conjunctive
@@ -204593,14 +204593,14 @@ disjunctive
 disjunctive
 332638	disjunctive
 332640	disjunctive
-332642	conjunctive/disjunctive
+332642	conjunctive
 disjunctive
 disjunctive
 332646	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -204615,31 +204615,31 @@ disjunctive
 conjunctive
 disjunctive
 332671	disjunctive
-332673	conjunctive/disjunctive
+332673	conjunctive
 disjunctive
 332676	conjunctive
 disjunctive
-332680	conjunctive/disjunctive
+332680	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 332691	disjunctive
 332693	conjunctive
 disjunctive
 disjunctive
-332697	conjunctive/disjunctive
+332697	conjunctive
 disjunctive
 disjunctive
 332701	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 332707	disjunctive
 332709	conjunctive
@@ -204652,13 +204652,13 @@ conjunctive
 disjunctive
 332723	disjunctive
 332725	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 332730	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 332735	disjunctive
 332737	conjunctive
 332740	conjunctive
@@ -204671,28 +204671,28 @@ conjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-332758	conjunctive/disjunctive
+332758	conjunctive
 disjunctive
 disjunctive
-332762	conjunctive/disjunctive
+332762	conjunctive
 332764	disjunctive
-332766	conjunctive/disjunctive
+332766	conjunctive
 332769	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 332774	disjunctive
 disjunctive
 332777	disjunctive
 disjunctive
-332780	conjunctive/disjunctive
+332780	conjunctive
 332782	disjunctive
 332784	disjunctive
 332787	disjunctive
-conjunctive/disjunctive
+conjunctive
 332790	disjunctive
 332792	disjunctive
 disjunctive
@@ -204706,10 +204706,10 @@ conjunctive
 disjunctive
 332804	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 332808	disjunctive
 332810	disjunctive
-332813	conjunctive/disjunctive
+332813	conjunctive
 disjunctive
 332816	conjunctive
 conjunctive
@@ -204733,7 +204733,7 @@ conjunctive
 disjunctive
 disjunctive
 disjunctive
-332845	conjunctive/disjunctive
+332845	conjunctive
 332847	disjunctive
 disjunctive
 332850	disjunctive
@@ -204775,23 +204775,23 @@ conjunctive
 conjunctive
 disjunctive
 332903	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 332908	conjunctive
 disjunctive
-332911	conjunctive/disjunctive
+332911	conjunctive
 332913	disjunctive
 332915	disjunctive
 332918	
-conjunctive/disjunctive
+conjunctive
 332921	disjunctive
 332923	disjunctive
 conjunctive
 disjunctive
 332927	conjunctive
 disjunctive
-332930	unknown
+332930	disjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -204810,46 +204810,46 @@ disjunctive
 332950	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 332955	disjunctive
 disjunctive
 conjunctive
 332959	disjunctive
 332961	disjunctive
 332963	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-332967	conjunctive/disjunctive
-conjunctive/disjunctive
+332967	conjunctive
+conjunctive
 disjunctive
 332971	disjunctive
 disjunctive
-332974	conjunctive/disjunctive
+332974	conjunctive
 disjunctive
 332977	conjunctive
 disjunctive
-332980	conjunctive/disjunctive
+332980	conjunctive
 disjunctive
-332983	conjunctive/disjunctive
+332983	conjunctive
 disjunctive
 disjunctive
 332987	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 332992	disjunctive
 disjunctive
 332995	disjunctive
-332997	conjunctive/disjunctive
+332997	conjunctive
 332999	disjunctive
-333002	conjunctive/disjunctive
+333002	conjunctive
 333004	disjunctive
-333006	conjunctive/disjunctive
+333006	conjunctive
 disjunctive
 disjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 333013	disjunctive
 conjunctive
 333016	disjunctive
@@ -204898,35 +204898,35 @@ disjunctive
 disjunctive
 conjunctive
 333086	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-333090	conjunctive/disjunctive
+333090	conjunctive
 333092	disjunctive
 conjunctive
 disjunctive
-333096	conjunctive/disjunctive
+333096	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 333103	
-333105	conjunctive/disjunctive
+333105	conjunctive
 333108	disjunctive
-333110	conjunctive/disjunctive
+333110	conjunctive
 333112	disjunctive
-333114	conjunctive/disjunctive
+333114	conjunctive
 disjunctive
 conjunctive
 disjunctive
 333119	disjunctive
 conjunctive
 333123	disjunctive
-333125	conjunctive/disjunctive
+333125	conjunctive
 333127	disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333132	disjunctive
 333134	disjunctive
 333136	disjunctive
@@ -204936,7 +204936,7 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-333145	conjunctive/disjunctive
+333145	conjunctive
 333148	disjunctive
 disjunctive
 conjunctive
@@ -204960,7 +204960,7 @@ disjunctive
 disjunctive
 conjunctive
 333174	disjunctive
-333176	conjunctive/disjunctive
+333176	conjunctive
 333179	disjunctive
 disjunctive
 conjunctive
@@ -204968,7 +204968,7 @@ conjunctive
 conjunctive
 333186	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 333190	disjunctive
 disjunctive
 333193	disjunctive
@@ -204990,7 +204990,7 @@ disjunctive
 333218	conjunctive
 disjunctive
 disjunctive
-333222	conjunctive/disjunctive
+333222	conjunctive
 disjunctive
 333225	conjunctive
 disjunctive
@@ -205001,11 +205001,11 @@ disjunctive
 333233	disjunctive
 conjunctive
 333236	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 333244	disjunctive
 333246	disjunctive
@@ -205014,7 +205014,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-333255	conjunctive/disjunctive
+333255	conjunctive
 333257	disjunctive
 disjunctive
 333260	disjunctive
@@ -205023,20 +205023,20 @@ disjunctive
 disjunctive
 conjunctive
 333267	disjunctive
-333269	unknown
+333269	disjunctive
 disjunctive
 disjunctive
 conjunctive
 333274	disjunctive
-unknown
-333277	conjunctive/disjunctive
+disjunctive
+333277	conjunctive
 disjunctive
 333280	disjunctive
 conjunctive
 disjunctive
 disjunctive
 333285	
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -205045,7 +205045,7 @@ disjunctive
 333293	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 333300	conjunctive
@@ -205055,20 +205055,20 @@ conjunctive
 disjunctive
 333307	conjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-333312	conjunctive/disjunctive
+333312	conjunctive
 disjunctive
 333315	conjunctive
 disjunctive
 333318	disjunctive
-333320	conjunctive/disjunctive
+333320	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 333325	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333329	disjunctive
 333331	conjunctive
 conjunctive
@@ -205081,12 +205081,12 @@ disjunctive
 disjunctive
 333342	disjunctive
 disjunctive
-333345	conjunctive/disjunctive
+333345	conjunctive
 333347	disjunctive
 disjunctive
 conjunctive
 disjunctive
-333352	conjunctive/disjunctive
+333352	conjunctive
 333354	disjunctive
 disjunctive
 disjunctive
@@ -205094,18 +205094,18 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-333363	conjunctive/disjunctive
+333363	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333367	disjunctive
-333369	conjunctive/disjunctive
+333369	conjunctive
 333372	disjunctive
-conjunctive/disjunctive
+conjunctive
 333376	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-333380	disjunctive/conjunctive
-333383	conjunctive/disjunctive
+333380	disjunctive
+333383	conjunctive
 333385	disjunctive
 333387	conjunctive
 conjunctive
@@ -205115,7 +205115,7 @@ conjunctive
 333394	disjunctive
 333396	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333400	disjunctive
 333402	disjunctive
 disjunctive
@@ -205138,57 +205138,57 @@ disjunctive
 conjunctive
 disjunctive
 conjunctive
-unknown
+disjunctive
 333438	disjunctive
 333440	disjunctive
 333443	disjunctive
 disjunctive
 333446	disjunctive
-333448	conjunctive/disjunctive
+333448	conjunctive
 333450	disjunctive
-unknown
+disjunctive
 333453	disjunctive
 conjunctive
 disjunctive
 333457	disjunctive
 disjunctive
-333460	conjunctive/disjunctive
+333460	conjunctive
 disjunctive
 333463	disjunctive
 333465	conjunctive
 disjunctive
 333468	disjunctive
-333470	conjunctive/disjunctive
+333470	conjunctive
 disjunctive
 333473	conjunctive
 conjunctive
 333476	disjunctive
-333478	conjunctive/disjunctive
+333478	conjunctive
 disjunctive
 333481	conjunctive
 disjunctive
 333484	disjunctive
 disjunctive
-333487	conjunctive/disjunctive
+333487	conjunctive
 disjunctive
-333490	conjunctive/disjunctive
+333490	conjunctive
 333492	disjunctive
 disjunctive
 333496	disjunctive
-conjunctive/disjunctive
+conjunctive
 333499	disjunctive
 disjunctive
-333502	conjunctive/disjunctive
+333502	conjunctive
 disjunctive
 conjunctive
 disjunctive
 333507	disjunctive
 disjunctive
-333510	conjunctive/disjunctive
+333510	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333514	disjunctive
-333516	conjunctive/disjunctive
+333516	conjunctive
 disjunctive
 333519	disjunctive
 conjunctive
@@ -205201,17 +205201,17 @@ disjunctive
 disjunctive
 333532	conjunctive
 disjunctive
-333535	conjunctive/disjunctive
+333535	conjunctive
 disjunctive
 disjunctive
 333540	disjunctive
 333542	conjunctive
 disjunctive
 disjunctive
-333546	conjunctive/disjunctive
+333546	conjunctive
 disjunctive
 disjunctive
-333550	conjunctive/disjunctive
+333550	conjunctive
 333552	disjunctive
 disjunctive
 333556	disjunctive
@@ -205219,9 +205219,9 @@ disjunctive
 conjunctive
 333561	disjunctive
 disjunctive
-333564	conjunctive/disjunctive
+333564	conjunctive
 disjunctive
-333567	conjunctive/disjunctive
+333567	conjunctive
 333569	disjunctive
 333571	disjunctive
 conjunctive
@@ -205230,28 +205230,28 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 333581	disjunctive
 conjunctive
 disjunctive
 333585	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 conjunctive
 333592	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 333596	disjunctive
 disjunctive
 conjunctive
 disjunctive
 333601	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333606	disjunctive
 333608	disjunctive
 conjunctive
@@ -205264,10 +205264,10 @@ conjunctive
 333623	disjunctive
 333626	disjunctive
 disjunctive
-333630	conjunctive/disjunctive
+333630	conjunctive
 333632	disjunctive
 333634	disjunctive
-333636	conjunctive/disjunctive
+333636	conjunctive
 disjunctive
 333640	disjunctive
 333642	disjunctive
@@ -205287,26 +205287,26 @@ conjunctive
 333663	disjunctive
 333665	conjunctive
 disjunctive
-333668	conjunctive/disjunctive
+333668	conjunctive
 333671	disjunctive
 333674	disjunctive
-333676	conjunctive/disjunctive
+333676	conjunctive
 disjunctive
-333679	unknown
+333679	disjunctive
 333681	disjunctive
 conjunctive
 disjunctive
 333685	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333689	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 333694	conjunctive
 disjunctive
-unknown
-conjunctive/disjunctive
+disjunctive
+conjunctive
 disjunctive
 333700	conjunctive
 333702	conjunctive
@@ -205317,7 +205317,7 @@ disjunctive
 333709	
 333711	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333715	disjunctive
 conjunctive
 disjunctive
@@ -205335,10 +205335,10 @@ disjunctive
 333733	disjunctive
 333736	disjunctive
 conjunctive
-333739	conjunctive/disjunctive
+333739	conjunctive
 disjunctive
 disjunctive
-333744	conjunctive/disjunctive
+333744	conjunctive
 333748	disjunctive
 333751	disjunctive
 333754	disjunctive
@@ -205349,7 +205349,7 @@ disjunctive
 conjunctive
 333764	conjunctive
 disjunctive
-333767	unknown
+333767	disjunctive
 333769	disjunctive
 333771	disjunctive
 conjunctive
@@ -205367,7 +205367,7 @@ disjunctive
 conjunctive
 disjunctive
 333796	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 333800	disjunctive
 conjunctive
@@ -205376,19 +205376,19 @@ conjunctive
 conjunctive
 333809	disjunctive
 333812	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 333816	conjunctive
 conjunctive
 disjunctive
 disjunctive
-333821	conjunctive/disjunctive
+333821	conjunctive
 disjunctive
 disjunctive
 conjunctive
 333826	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333832	disjunctive
 333834	conjunctive
 conjunctive
@@ -205405,7 +205405,7 @@ disjunctive
 333851	disjunctive
 333853	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 333858	conjunctive
 disjunctive
@@ -205414,7 +205414,7 @@ disjunctive
 333863	conjunctive
 disjunctive
 disjunctive
-333868	conjunctive/disjunctive
+333868	conjunctive
 333870	disjunctive
 disjunctive
 conjunctive
@@ -205426,17 +205426,17 @@ conjunctive
 disjunctive
 conjunctive
 333882	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333887	disjunctive
 conjunctive
 333890	disjunctive
 conjunctive
 333893	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 333898	disjunctive
 conjunctive
 disjunctive
@@ -205586,7 +205586,7 @@ disjunctive
 conjunctive
 334128	conjunctive
 disjunctive
-334131	conjunctive/disjunctive
+334131	conjunctive
 334133	disjunctive
 conjunctive
 334136	conjunctive
@@ -205603,7 +205603,7 @@ disjunctive
 conjunctive
 334154	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -205611,7 +205611,7 @@ disjunctive
 334162	disjunctive
 334164	disjunctive
 334166	disjunctive
-334168	conjunctive/disjunctive
+334168	conjunctive
 334170	disjunctive
 disjunctive
 disjunctive
@@ -205622,19 +205622,19 @@ disjunctive
 334178	disjunctive
 334180	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-334185	conjunctive/disjunctive
+334185	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 334191	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-334196	conjunctive/disjunctive
+334196	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334201	disjunctive
 334203	disjunctive
@@ -205657,14 +205657,14 @@ disjunctive
 disjunctive
 disjunctive
 disjunctive
-334229	conjunctive/disjunctive
+334229	conjunctive
 disjunctive
 334232	disjunctive
 334234	disjunctive
-conjunctive/disjunctive
+conjunctive
 334238	disjunctive
 334240	disjunctive
-334242	conjunctive/disjunctive
+334242	conjunctive
 disjunctive
 disjunctive
 334246	conjunctive
@@ -205672,7 +205672,7 @@ disjunctive
 334250	disjunctive
 334253	disjunctive
 334255	disjunctive
-conjunctive/disjunctive
+conjunctive
 334259	disjunctive
 conjunctive
 conjunctive
@@ -205682,9 +205682,9 @@ conjunctive
 disjunctive
 334268	conjunctive
 334270	disjunctive
-334272	conjunctive/disjunctive
+334272	conjunctive
 334275	disjunctive
-334277	conjunctive/disjunctive
+334277	conjunctive
 334280	disjunctive
 disjunctive
 334283	conjunctive
@@ -205696,13 +205696,13 @@ disjunctive
 conjunctive
 disjunctive
 334295	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334299	disjunctive
 334301	disjunctive
 334303	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -205711,10 +205711,10 @@ disjunctive
 334313	conjunctive
 disjunctive
 334316	disjunctive
-334318	conjunctive/disjunctive
+334318	conjunctive
 disjunctive
 334321	disjunctive
-334323	conjunctive/disjunctive
+334323	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -205736,28 +205736,28 @@ conjunctive
 334347	disjunctive
 334349	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334354	disjunctive
 conjunctive
 disjunctive
 conjunctive
 334359	disjunctive
-conjunctive/disjunctive
+conjunctive
 334362	disjunctive
 334364	disjunctive
 conjunctive
 334367	conjunctive
 disjunctive
-334371	conjunctive/disjunctive
+334371	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 334377	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 334384	conjunctive
@@ -205769,13 +205769,13 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-334395	conjunctive/disjunctive
+334395	conjunctive
 disjunctive
 conjunctive
 conjunctive
 334400	disjunctive
 334402	disjunctive
-334404	conjunctive/disjunctive
+334404	conjunctive
 disjunctive
 334407	conjunctive
 disjunctive
@@ -205784,15 +205784,15 @@ disjunctive
 334412	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 334417	disjunctive
 disjunctive
-334420	conjunctive/disjunctive
+334420	conjunctive
 disjunctive
 334423	disjunctive
 conjunctive
 disjunctive
-334427	conjunctive/disjunctive
+334427	conjunctive
 disjunctive
 334430	disjunctive
 334432	conjunctive
@@ -205816,21 +205816,21 @@ disjunctive
 disjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334471	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-334475	conjunctive/disjunctive
+334475	conjunctive
 disjunctive
 disjunctive
-334479	conjunctive/disjunctive
+334479	conjunctive
 334482	disjunctive
 disjunctive
-334485	conjunctive/disjunctive
+334485	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -205838,7 +205838,7 @@ disjunctive
 334492	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334498	
 conjunctive
@@ -205847,19 +205847,19 @@ disjunctive
 334504	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-unknown
+conjunctive
+disjunctive
 disjunctive
 disjunctive
 334512	conjunctive
 disjunctive
 disjunctive
-334516	conjunctive/disjunctive
+334516	conjunctive
 disjunctive
 334519	conjunctive
 conjunctive
 disjunctive
-334523	conjunctive/disjunctive
+334523	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -205888,13 +205888,13 @@ disjunctive
 334559	conjunctive
 disjunctive
 334562	disjunctive
-334565	conjunctive/disjunctive
+334565	conjunctive
 disjunctive
 334568	disjunctive
 334570	conjunctive
 disjunctive
 334574	disjunctive
-conjunctive/disjunctive
+conjunctive
 334577	disjunctive
 conjunctive
 disjunctive
@@ -205908,12 +205908,12 @@ conjunctive
 conjunctive
 334591	disjunctive
 334593	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 334599	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -205925,9 +205925,9 @@ disjunctive
 334611	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-334617	conjunctive/disjunctive
+334617	conjunctive
 disjunctive
 334620	disjunctive
 disjunctive
@@ -205943,15 +205943,15 @@ conjunctive
 334636	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+conjunctive
 334649	disjunctive
 334651	conjunctive
 disjunctive
@@ -205959,11 +205959,11 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 334660	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -205971,15 +205971,15 @@ conjunctive
 
 disjunctive
 disjunctive
-334673	conjunctive/disjunctive
+334673	conjunctive
 disjunctive
 334676	disjunctive
 334678	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334682	conjunctive
 334685	disjunctive
-334687	conjunctive/disjunctive
+334687	conjunctive
 disjunctive
 disjunctive
 334691	disjunctive
@@ -205994,7 +205994,7 @@ conjunctive
 disjunctive
 conjunctive
 334704	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334708	disjunctive
 disjunctive
@@ -206003,14 +206003,14 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334720	disjunctive
 conjunctive
 conjunctive
 conjunctive
 334725	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334729	disjunctive
 conjunctive
@@ -206018,7 +206018,7 @@ disjunctive
 conjunctive
 334734	disjunctive
 disjunctive
-334737	conjunctive/disjunctive
+334737	conjunctive
 disjunctive
 334741	conjunctive
 334743	conjunctive
@@ -206026,7 +206026,7 @@ disjunctive
 334746	conjunctive
 disjunctive
 334749	disjunctive
-334751	conjunctive/disjunctive
+334751	conjunctive
 334753	disjunctive
 334756	disjunctive
 334758	disjunctive
@@ -206037,13 +206037,13 @@ conjunctive
 disjunctive
 334767	conjunctive
 disjunctive
-334770	conjunctive/disjunctive
+334770	conjunctive
 334772	disjunctive
 334774	disjunctive
 conjunctive
 334778	disjunctive
 disjunctive
-334781	conjunctive/disjunctive
+334781	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -206051,7 +206051,7 @@ conjunctive
 conjunctive
 334788	conjunctive
 334791	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334795	conjunctive
 disjunctive
@@ -206060,9 +206060,9 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-334805	conjunctive/disjunctive
+334805	conjunctive
 disjunctive
 disjunctive
 334809	conjunctive
@@ -206075,10 +206075,10 @@ disjunctive
 conjunctive
 334819	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 334824	disjunctive
-conjunctive/disjunctive
+conjunctive
 334827	disjunctive
 334829	conjunctive
 334832	conjunctive
@@ -206087,13 +206087,13 @@ disjunctive
 334836	conjunctive
 disjunctive
 disjunctive
-334840	conjunctive/disjunctive
+334840	conjunctive
 disjunctive
 conjunctive
 334844	conjunctive
 disjunctive
 disjunctive
-334848	conjunctive/disjunctive
+334848	conjunctive
 disjunctive
 334851	conjunctive
 disjunctive
@@ -206101,7 +206101,7 @@ disjunctive
 334855	disjunctive
 conjunctive
 disjunctive
-334860	conjunctive/disjunctive
+334860	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -206117,7 +206117,7 @@ disjunctive
 conjunctive
 conjunctive
 334879	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -206129,8 +206129,8 @@ disjunctive
 disjunctive
 334893	disjunctive
 334895	conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 334899	disjunctive
 conjunctive
 conjunctive
@@ -206151,9 +206151,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 334925	disjunctive
-334927	conjunctive/disjunctive
+334927	conjunctive
 disjunctive
 334930	disjunctive
 334933	conjunctive
@@ -206163,27 +206163,27 @@ conjunctive
 334940	conjunctive
 334942	conjunctive
 334944	disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 334952	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 334956	disjunctive
-334958	conjunctive/disjunctive
+334958	conjunctive
 disjunctive
 334961	conjunctive
 conjunctive
 disjunctive
 334965	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 334971	disjunctive
-conjunctive/disjunctive
+conjunctive
 334975	disjunctive
 334977	conjunctive
 conjunctive
@@ -206204,7 +206204,7 @@ disjunctive
 conjunctive
 disjunctive
 334999	disjunctive
-335001	conjunctive/disjunctive
+335001	conjunctive
 disjunctive
 conjunctive
 335006	disjunctive
@@ -206212,22 +206212,22 @@ disjunctive
 335009	conjunctive
 disjunctive
 disjunctive
-335013	conjunctive/disjunctive
+335013	conjunctive
 disjunctive
-335016	unknown
-conjunctive/disjunctive
+335016	disjunctive
+conjunctive
 disjunctive
 conjunctive
 335021	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 335027	conjunctive
 disjunctive
 335030	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 335036	conjunctive
@@ -206257,11 +206257,11 @@ conjunctive
 335071	disjunctive
 disjunctive
 335075	disjunctive
-conjunctive/disjunctive
+conjunctive
 335078	disjunctive
 conjunctive
-335081	disjunctive/conjunctive
-conjunctive/disjunctive
+335081	disjunctive
+conjunctive
 disjunctive
 335085	conjunctive
 disjunctive
@@ -206288,10 +206288,10 @@ conjunctive
 conjunctive
 disjunctive
 335123	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 335127	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 335131	disjunctive
 conjunctive
@@ -206312,18 +206312,18 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-335156	conjunctive/disjunctive
+335156	conjunctive
 disjunctive
 335159	disjunctive
-335161	conjunctive/disjunctive
+335161	conjunctive
 disjunctive
 335165	disjunctive
 335167	disjunctive
-335169	conjunctive/disjunctive
+335169	conjunctive
 disjunctive
-335172	conjunctive/disjunctive
+335172	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 335176	disjunctive
 335178	conjunctive
 335180	disjunctive
@@ -206338,16 +206338,16 @@ disjunctive
 335192	disjunctive
 conjunctive
 335195	disjunctive
-conjunctive/disjunctive
+conjunctive
 335198	disjunctive
-disjunctive
-conjunctive/disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+conjunctive
 335206	disjunctive
-335208	conjunctive/disjunctive
+335208	conjunctive
 conjunctive
 disjunctive
 disjunctive
@@ -206357,31 +206357,31 @@ disjunctive
 335217	disjunctive
 335219	conjunctive
 disjunctive
-335222	conjunctive/disjunctive
+335222	conjunctive
 disjunctive
 335225	disjunctive
 conjunctive
 335228	disjunctive
 335230	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 335234	disjunctive
-335236	conjunctive/disjunctive
+335236	conjunctive
 disjunctive
 disjunctive
 335240	disjunctive
 conjunctive
 conjunctive
 335244	disjunctive
-335246	conjunctive/disjunctive
+335246	conjunctive
 disjunctive
-335249	conjunctive/disjunctive
+335249	conjunctive
 335251	disjunctive
-335254	conjunctive/disjunctive
+335254	conjunctive
 disjunctive
-335257	conjunctive/disjunctive
+335257	conjunctive
 disjunctive
-335260	conjunctive/disjunctive
+335260	conjunctive
 335262	disjunctive
 conjunctive
 conjunctive
@@ -206410,15 +206410,15 @@ disjunctive
 conjunctive
 335297	conjunctive
 disjunctive
-335300	conjunctive/disjunctive
+335300	conjunctive
 disjunctive
 conjunctive
 335304	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 335310	disjunctive
-335312	conjunctive/disjunctive
+335312	conjunctive
 335315	disjunctive
 335317	disjunctive
 335320	disjunctive
@@ -206430,7 +206430,7 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-335332	conjunctive/disjunctive
+335332	conjunctive
 disjunctive
 335335	disjunctive
 335337	conjunctive
@@ -206440,10 +206440,10 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 335348	disjunctive
 335350	disjunctive
-335353	conjunctive/disjunctive
+335353	conjunctive
 335355	disjunctive
 conjunctive
 disjunctive
@@ -206457,7 +206457,7 @@ disjunctive
 335375	conjunctive
 335377	conjunctive
 335379	disjunctive
-conjunctive/disjunctive
+conjunctive
 335382	disjunctive
 335384	conjunctive
 335387	conjunctive
@@ -206474,9 +206474,9 @@ disjunctive
 conjunctive
 conjunctive
 335409	disjunctive
-335411	conjunctive/disjunctive
+335411	conjunctive
 disjunctive
-335415	conjunctive/disjunctive
+335415	conjunctive
 disjunctive
 335418	disjunctive
 conjunctive
@@ -206485,17 +206485,17 @@ disjunctive
 335425	conjunctive
 335428	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-335433	conjunctive/disjunctive
+335433	conjunctive
 335435	conjunctive
 335437	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-335441	conjunctive/disjunctive
+335441	conjunctive
 335443	disjunctive
 335445	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 335449	disjunctive
 conjunctive
@@ -206504,31 +206504,31 @@ conjunctive
 conjunctive
 335456	conjunctive
 335458	disjunctive
-335460	conjunctive/disjunctive
+335460	conjunctive
 335462	disjunctive
 335465	disjunctive
 335467	conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 335474	disjunctive
-335477	conjunctive/disjunctive
+335477	conjunctive
 335479	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 335484	conjunctive
 conjunctive
 335487	disjunctive
 disjunctive
-335490	conjunctive/disjunctive
+335490	conjunctive
 disjunctive
 disjunctive
 conjunctive
 335495	disjunctive
-335498	conjunctive/disjunctive
+335498	conjunctive
 335503	disjunctive
 335505	conjunctive
 conjunctive
@@ -206540,16 +206540,16 @@ conjunctive
 disjunctive
 335518	disjunctive
 disjunctive
-conjunctive/disjunctive
-disjunctive
-disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
+disjunctive
+disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -206565,16 +206565,16 @@ disjunctive
 335546	disjunctive
 conjunctive
 disjunctive
-335550	conjunctive/disjunctive
+335550	conjunctive
 335552	disjunctive
 335554	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 335558	conjunctive
 conjunctive
 disjunctive
-335562	unknown
-conjunctive/disjunctive
+335562	disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -206591,7 +206591,7 @@ conjunctive
 disjunctive
 335584	disjunctive
 335586	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -206623,7 +206623,7 @@ disjunctive
 conjunctive
 335632	conjunctive
 disjunctive
-335635	conjunctive/disjunctive
+335635	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -206637,7 +206637,7 @@ disjunctive
 conjunctive
 disjunctive
 335654	disjunctive
-335657	conjunctive/disjunctive
+335657	conjunctive
 335659	disjunctive
 conjunctive
 disjunctive
@@ -206651,57 +206651,57 @@ disjunctive
 conjunctive
 conjunctive
 335674	disjunctive
-335677	conjunctive/disjunctive
+335677	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 335683	conjunctive
 conjunctive
 disjunctive
 335687	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 335691	conjunctive
 conjunctive
 335695	disjunctive
 disjunctive
-335699	conjunctive/disjunctive
+335699	conjunctive
 disjunctive
 conjunctive
 conjunctive
 335704	disjunctive
-335706	conjunctive/disjunctive
+335706	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 conjunctive
 335713	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 335717	disjunctive
 conjunctive
 
 335721	disjunctive
-conjunctive/disjunctive
+conjunctive
 335724	disjunctive
 335726	disjunctive
 conjunctive
 conjunctive
 disjunctive
 335732	disjunctive
-335734	conjunctive/disjunctive
+335734	conjunctive
 335736	disjunctive
 335738	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 335743	disjunctive
 335746	disjunctive
 disjunctive
 335750	disjunctive
-conjunctive/disjunctive
+conjunctive
 335753	disjunctive
 disjunctive
 335756	
@@ -206709,7 +206709,7 @@ disjunctive
 conjunctive
 335760	disjunctive
 disjunctive
-335763	conjunctive/disjunctive
+335763	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -206740,26 +206740,26 @@ conjunctive
 335809	disjunctive
 conjunctive
 335812	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-335818	conjunctive/disjunctive
+335818	conjunctive
 335821	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 335826	disjunctive
-335828	conjunctive/disjunctive
+335828	conjunctive
 335831	disjunctive
 disjunctive
-335834	conjunctive/disjunctive
+335834	conjunctive
 disjunctive
 335837	disjunctive
 335840	disjunctive
 disjunctive
-335844	conjunctive/disjunctive
+335844	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 335849	disjunctive
 disjunctive
 335852	disjunctive
@@ -206770,7 +206770,7 @@ disjunctive
 conjunctive
 335861	disjunctive
 disjunctive
-335864	conjunctive/disjunctive
+335864	conjunctive
 335866	disjunctive
 335868	conjunctive
 disjunctive
@@ -206781,31 +206781,31 @@ conjunctive
 disjunctive
 335880	disjunctive
 335882	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 335887	disjunctive
 conjunctive
 disjunctive
 disjunctive
-335892	conjunctive/disjunctive
+335892	conjunctive
 disjunctive
 conjunctive
 conjunctive
 335897	disjunctive
 335899	disjunctive
-conjunctive/disjunctive
+conjunctive
 335902	disjunctive
 conjunctive
 conjunctive
 335906	disjunctive
-335908	conjunctive/disjunctive
+335908	conjunctive
 335910	disjunctive
 335912	disjunctive
 335914	conjunctive
 conjunctive
 335917	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 335921	disjunctive
 conjunctive
@@ -206828,7 +206828,7 @@ disjunctive
 conjunctive
 335951	disjunctive
 335953	disjunctive
-335955	conjunctive/disjunctive
+335955	conjunctive
 disjunctive
 335958	conjunctive
 disjunctive
@@ -206838,14 +206838,14 @@ conjunctive
 disjunctive
 335966	disjunctive
 335968	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-335972	conjunctive/disjunctive
+335972	conjunctive
 335974	disjunctive
 disjunctive
-335977	conjunctive/disjunctive
+335977	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 335981	disjunctive
 disjunctive
 335984	conjunctive
@@ -206860,16 +206860,16 @@ disjunctive
 335997	conjunctive
 335999	disjunctive
 disjunctive
-336002	conjunctive/disjunctive
+336002	conjunctive
 336004	disjunctive
-conjunctive/disjunctive
+conjunctive
 336008	disjunctive
 disjunctive
-336011	conjunctive/disjunctive
+336011	conjunctive
 disjunctive
 conjunctive
 336015	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 336019	disjunctive
 disjunctive
@@ -207359,21 +207359,21 @@ disjunctive
 336836	disjunctive
 336838	disjunctive
 336840	
-336842	conjunctive/disjunctive
+336842	conjunctive
 disjunctive
 336845	disjunctive
 conjunctive
 conjunctive
 conjunctive
 disjunctive
-336852	conjunctive/disjunctive
+336852	conjunctive
 disjunctive
 conjunctive
 disjunctive
-336857	conjunctive/disjunctive
+336857	conjunctive
 336859	disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
 336863	conjunctive
 conjunctive
 336866	disjunctive
@@ -207386,16 +207386,16 @@ conjunctive
 336877	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-336883	conjunctive/disjunctive
+336883	conjunctive
 336885	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 336889	disjunctive
 336891	conjunctive
 disjunctive
-336894	conjunctive/disjunctive
+336894	conjunctive
 disjunctive
 336897	disjunctive
 conjunctive
@@ -207406,15 +207406,15 @@ disjunctive
 336906	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 336911	disjunctive
 336913	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-336921	conjunctive/disjunctive
+336921	conjunctive
 336923	disjunctive
 336926	disjunctive
 336929	disjunctive
@@ -207423,7 +207423,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-336936	conjunctive/disjunctive
+336936	conjunctive
 disjunctive
 336939	disjunctive
 conjunctive
@@ -207465,20 +207465,20 @@ disjunctive
 conjunctive
 disjunctive
 336992	disjunctive
-336994	conjunctive/disjunctive
+336994	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-337001	conjunctive/disjunctive
+337001	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -207487,7 +207487,7 @@ conjunctive
 conjunctive
 disjunctive
 337018	disjunctive
-conjunctive/disjunctive
+conjunctive
 337021	disjunctive
 conjunctive
 conjunctive
@@ -207501,7 +207501,7 @@ disjunctive
 337038	disjunctive
 337040	disjunctive
 337042	disjunctive
-337044	conjunctive/disjunctive
+337044	conjunctive
 337046	disjunctive
 disjunctive
 conjunctive
@@ -207516,33 +207516,33 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-337067	conjunctive/disjunctive
+337067	conjunctive
 337070	disjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 337076	disjunctive
-337078	conjunctive/disjunctive
+337078	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 337085	conjunctive
-conjunctive/disjunctive
+conjunctive
 337089	disjunctive
-337091	conjunctive/disjunctive
+337091	conjunctive
 
 337094	disjunctive
-conjunctive/disjunctive
+conjunctive
 337097	disjunctive
 337099	disjunctive
 337101	conjunctive
 conjunctive
 conjunctive
 disjunctive
-337106	conjunctive/disjunctive
+337106	conjunctive
 337108	disjunctive
 conjunctive
 disjunctive
@@ -207563,7 +207563,7 @@ disjunctive
 conjunctive
 conjunctive
 337130	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337134	disjunctive
 337136	conjunctive
@@ -207578,7 +207578,7 @@ conjunctive
 conjunctive
 disjunctive
 337150	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337154	conjunctive
 disjunctive
@@ -207603,20 +207603,20 @@ disjunctive
 disjunctive
 conjunctive
 337184	disjunctive
-337186	conjunctive/disjunctive
+337186	conjunctive
 disjunctive
 disjunctive
 337190	disjunctive
 conjunctive
 disjunctive
-337194	conjunctive/disjunctive
+337194	conjunctive
 disjunctive
 conjunctive
 disjunctive
 337199	disjunctive
 337201	conjunctive
 disjunctive
-337204	conjunctive/disjunctive
+337204	conjunctive
 disjunctive
 337207	disjunctive
 conjunctive
@@ -207629,7 +207629,7 @@ disjunctive
 337219	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 337227	conjunctive
@@ -207643,7 +207643,7 @@ disjunctive
 337238	disjunctive
 337240	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 337244	disjunctive
 337246	disjunctive
 conjunctive
@@ -207651,21 +207651,21 @@ conjunctive
 conjunctive
 disjunctive
 337254	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 337260	disjunctive
-337264	conjunctive/disjunctive
+337264	conjunctive
 disjunctive
 disjunctive
 337269	disjunctive
 337271	conjunctive
 337274	conjunctive
 disjunctive
-337277	conjunctive/disjunctive
+337277	conjunctive
 disjunctive
-337280	conjunctive/disjunctive
+337280	conjunctive
 disjunctive
 337284	conjunctive
 conjunctive
@@ -207682,7 +207682,7 @@ disjunctive
 337305	disjunctive
 337307	disjunctive
 337309	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337313	disjunctive
 conjunctive
@@ -207693,7 +207693,7 @@ disjunctive
 conjunctive
 conjunctive
 337323	disjunctive
-337325	conjunctive/disjunctive
+337325	conjunctive
 337328	disjunctive
 337330	conjunctive
 disjunctive
@@ -207701,7 +207701,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-337339	conjunctive/disjunctive
+337339	conjunctive
 disjunctive
 337342	conjunctive
 conjunctive
@@ -207711,34 +207711,34 @@ disjunctive
 337349	conjunctive
 disjunctive
 337353	disjunctive
-337355	conjunctive/disjunctive
+337355	conjunctive
 disjunctive
 337358	disjunctive
 337360	conjunctive
 disjunctive
 337364	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
 conjunctive
 337371	disjunctive
 337374	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 337380	conjunctive
 disjunctive
 disjunctive
-337384	conjunctive/disjunctive
+337384	conjunctive
 disjunctive
 337387	conjunctive
 disjunctive
 337391	disjunctive
-337393	conjunctive/disjunctive
-unknown
-337396	conjunctive/disjunctive
+337393	conjunctive
+disjunctive
+337396	conjunctive
 disjunctive
 337399	conjunctive
 conjunctive
@@ -207749,7 +207749,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-337412	conjunctive/disjunctive
+337412	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -207758,10 +207758,10 @@ conjunctive
 337420	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 337425	disjunctive
 337429	disjunctive
-conjunctive/disjunctive
+conjunctive
 337433	disjunctive
 337435	conjunctive
 337437	disjunctive
@@ -207780,7 +207780,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-337461	conjunctive/disjunctive
+337461	conjunctive
 disjunctive
 337464	disjunctive
 conjunctive
@@ -207806,28 +207806,28 @@ disjunctive
 337497	conjunctive
 disjunctive
 disjunctive
-337502	conjunctive/disjunctive
+337502	conjunctive
 337504	disjunctive
 conjunctive
 disjunctive
 337508	conjunctive
 337511	conjunctive
 disjunctive
-337515	conjunctive/disjunctive
+337515	conjunctive
 337517	disjunctive
 337519	disjunctive
 conjunctive
 337522	conjunctive
 337524	conjunctive
 disjunctive
-337527	conjunctive/disjunctive
+337527	conjunctive
 337529	disjunctive
 337531	disjunctive
 337533	disjunctive
 337535	conjunctive
 disjunctive
-337538	conjunctive/disjunctive
-unknown
+337538	conjunctive
+disjunctive
 337541	conjunctive
 disjunctive
 337544	disjunctive
@@ -207843,12 +207843,12 @@ conjunctive
 conjunctive
 337563	disjunctive
 337565	disjunctive
-conjunctive/disjunctive
+conjunctive
 337568	disjunctive
 disjunctive
-337571	conjunctive/disjunctive
+337571	conjunctive
 337573	
-337575	conjunctive/disjunctive
+337575	conjunctive
 disjunctive
 337578	disjunctive
 disjunctive
@@ -207856,29 +207856,29 @@ conjunctive
 conjunctive
 disjunctive
 337584	
-337586	conjunctive/disjunctive
+337586	conjunctive
 337588	disjunctive
 337590	disjunctive
 337592	conjunctive
 conjunctive
 disjunctive
 337596	disjunctive
-conjunctive/disjunctive
-disjunctive
-conjunctive
-conjunctive
-disjunctive
-disjunctive
-conjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-337612	conjunctive/disjunctive
+disjunctive
+conjunctive
+disjunctive
+conjunctive
+disjunctive
+conjunctive
+conjunctive
+disjunctive
+337612	conjunctive
 337614	disjunctive
-conjunctive/disjunctive
+conjunctive
 337617	disjunctive
 337619	disjunctive
 337621	conjunctive
@@ -207891,47 +207891,47 @@ conjunctive
 337634	conjunctive
 disjunctive
 disjunctive
-337638	conjunctive/disjunctive
+337638	conjunctive
 disjunctive
 337641	disjunctive
 conjunctive
 disjunctive
 337645	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337649	conjunctive
 disjunctive
 337652	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337656	disjunctive
-337658	conjunctive/disjunctive
+337658	conjunctive
 disjunctive
 disjunctive
 337662	conjunctive
 337664	disjunctive
 conjunctive
 disjunctive
-337668	conjunctive/disjunctive
+337668	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-337673	conjunctive/disjunctive
+337673	conjunctive
 337675	disjunctive
 337678	disjunctive
-337680	conjunctive/disjunctive
+337680	conjunctive
 disjunctive
 337683	conjunctive
 conjunctive
 disjunctive
-337687	conjunctive/disjunctive
+337687	conjunctive
 disjunctive
 337690	conjunctive
 conjunctive
 conjunctive
 disjunctive
 337695	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337700	conjunctive
 337702	conjunctive
@@ -207945,7 +207945,7 @@ conjunctive
 337713	conjunctive
 conjunctive
 disjunctive
-337717	conjunctive/disjunctive
+337717	conjunctive
 337719	disjunctive
 disjunctive
 337722	disjunctive
@@ -207953,7 +207953,7 @@ disjunctive
 conjunctive
 disjunctive
 337728	disjunctive
-conjunctive/disjunctive
+conjunctive
 337731	disjunctive
 conjunctive
 conjunctive
@@ -207964,27 +207964,27 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337747	disjunctive
-conjunctive/disjunctive
+conjunctive
 337750	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337754	disjunctive
 337756	disjunctive
 conjunctive
 
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337762	disjunctive
 337765	disjunctive
 conjunctive
 disjunctive
 337770	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-337774	conjunctive/disjunctive
+337774	conjunctive
 337777	disjunctive
 337780	conjunctive
 conjunctive
@@ -207993,9 +207993,9 @@ disjunctive
 337785	conjunctive
 disjunctive
 337789	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-337793	conjunctive/disjunctive
+337793	conjunctive
 337795	disjunctive
 337798	conjunctive
 conjunctive
@@ -208004,9 +208004,9 @@ disjunctive
 conjunctive
 disjunctive
 337808	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-337813	conjunctive/disjunctive
+337813	conjunctive
 disjunctive
 337816	disjunctive
 337818	disjunctive
@@ -208019,12 +208019,12 @@ conjunctive
 337832	conjunctive
 disjunctive
 337835	
-unknown
+disjunctive
 337838	disjunctive
-337842	conjunctive/disjunctive
+337842	conjunctive
 disjunctive
 337845	disjunctive
-337847	conjunctive/disjunctive
+337847	conjunctive
 disjunctive
 337851	conjunctive
 337853	conjunctive
@@ -208032,16 +208032,16 @@ disjunctive
 337858	conjunctive
 conjunctive
 disjunctive
-337862	conjunctive/disjunctive
+337862	conjunctive
 337864	disjunctive
 337867	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 337874	disjunctive
-337876	conjunctive/disjunctive
+337876	conjunctive
 disjunctive
 337879	disjunctive
 337881	disjunctive
@@ -208057,7 +208057,7 @@ conjunctive
 disjunctive
 337898	
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 337903	disjunctive
 conjunctive
@@ -208069,9 +208069,9 @@ disjunctive
 disjunctive
 337915	conjunctive
 disjunctive
-337918	conjunctive/disjunctive
+337918	conjunctive
 disjunctive
-337921	conjunctive/disjunctive
+337921	conjunctive
 disjunctive
 337924	disjunctive
 conjunctive
@@ -208082,8 +208082,8 @@ conjunctive
 conjunctive
 disjunctive
 337934	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -208095,8 +208095,8 @@ conjunctive
 disjunctive
 337951	disjunctive
 conjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
 disjunctive
 337957	conjunctive
 disjunctive
@@ -208111,12 +208111,12 @@ disjunctive
 337973	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 337978	disjunctive
 disjunctive
-337981	conjunctive/disjunctive
+337981	conjunctive
 337983	disjunctive
-337986	conjunctive/disjunctive
+337986	conjunctive
 disjunctive
 337989	conjunctive
 conjunctive
@@ -208126,9 +208126,9 @@ disjunctive
 disjunctive
 337998	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-338003	conjunctive/disjunctive
+338003	conjunctive
 disjunctive
 338006	disjunctive
 conjunctive
@@ -208136,7 +208136,7 @@ disjunctive
 338011	conjunctive
 conjunctive
 disjunctive
-338015	conjunctive/disjunctive
+338015	conjunctive
 338017	disjunctive
 338019	disjunctive
 disjunctive
@@ -208144,7 +208144,7 @@ disjunctive
 338024	conjunctive
 disjunctive
 338027	disjunctive
-338029	conjunctive/disjunctive
+338029	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -208170,20 +208170,20 @@ disjunctive
 338064	conjunctive
 338066	
 338068	disjunctive
-conjunctive/disjunctive
+conjunctive
 338071	disjunctive
 338073	disjunctive
-338075	conjunctive/disjunctive
+338075	conjunctive
 338077	disjunctive
-338079	conjunctive/disjunctive
-unknown
+338079	conjunctive
+disjunctive
 338082	disjunctive
 338084	disjunctive
 conjunctive
 disjunctive
 338089	disjunctive
 338091	disjunctive
-338093	conjunctive/disjunctive
+338093	conjunctive
 338095	disjunctive
 338097	disjunctive
 338100	disjunctive
@@ -208192,9 +208192,9 @@ conjunctive
 338105	disjunctive
 338108	disjunctive
 disjunctive
-338111	conjunctive/disjunctive
+338111	conjunctive
 338113	disjunctive
-conjunctive/disjunctive
+conjunctive
 338116	disjunctive
 conjunctive
 disjunctive
@@ -208205,7 +208205,7 @@ disjunctive
 conjunctive
 disjunctive
 338128	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338133	disjunctive
 338135	conjunctive
@@ -208226,12 +208226,12 @@ disjunctive
 conjunctive
 disjunctive
 338161	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338166	disjunctive
 338168	conjunctive
 disjunctive
-338171	conjunctive/disjunctive
+338171	conjunctive
 338173	disjunctive
 conjunctive
 338176	disjunctive
@@ -208247,23 +208247,23 @@ disjunctive
 338191	conjunctive
 conjunctive
 disjunctive
-338195	conjunctive/disjunctive
+338195	conjunctive
 disjunctive
-338198	conjunctive/disjunctive
+338198	conjunctive
 disjunctive
 disjunctive
 conjunctive
 338203	disjunctive
 338205	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338210	conjunctive
 disjunctive
 conjunctive
 conjunctive
 338216	disjunctive
-338218	conjunctive/disjunctive
+338218	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -208273,9 +208273,9 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-338230	conjunctive/disjunctive
+338230	conjunctive
 338232	disjunctive
-338234	conjunctive/disjunctive
+338234	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -208283,7 +208283,7 @@ disjunctive
 conjunctive
 disjunctive
 338244	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338248	disjunctive
 conjunctive
@@ -208293,14 +208293,14 @@ conjunctive
 338259	conjunctive
 conjunctive
 disjunctive
-338263	conjunctive/disjunctive
+338263	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 338267	disjunctive
 338269	conjunctive
 conjunctive
 
-338273	conjunctive/disjunctive
+338273	conjunctive
 disjunctive
 338276	disjunctive
 disjunctive
@@ -208313,13 +208313,13 @@ conjunctive
 338290	conjunctive
 disjunctive
 338293	disjunctive
-conjunctive/disjunctive
+conjunctive
 338296	disjunctive
 conjunctive
 disjunctive
 338300	conjunctive
 disjunctive
-338303	conjunctive/disjunctive
+338303	conjunctive
 disjunctive
 338306	disjunctive
 338308	conjunctive
@@ -208345,19 +208345,19 @@ conjunctive
 conjunctive
 338340	disjunctive
 338342	disjunctive
-338344	conjunctive/disjunctive
+338344	conjunctive
 disjunctive
 338347	disjunctive
-conjunctive/disjunctive
+conjunctive
 338350	disjunctive
-338352	conjunctive/disjunctive
+338352	conjunctive
 disjunctive
 conjunctive
 disjunctive
 338357	conjunctive
 disjunctive
 338360	disjunctive
-338362	conjunctive/disjunctive
+338362	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -208365,13 +208365,13 @@ disjunctive
 338368	conjunctive
 disjunctive
 338371	disjunctive
-338374	conjunctive/disjunctive
+338374	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-338381	conjunctive/disjunctive
+338381	conjunctive
 disjunctive
 338384	disjunctive
 disjunctive
@@ -208393,12 +208393,12 @@ conjunctive
 disjunctive
 338406	disjunctive
 disjunctive
-338409	conjunctive/disjunctive
+338409	conjunctive
 338411	disjunctive
 338413	disjunctive
-338415	conjunctive/disjunctive
+338415	conjunctive
 disjunctive
-338419	conjunctive/disjunctive
+338419	conjunctive
 disjunctive
 338422	conjunctive
 conjunctive
@@ -208406,7 +208406,7 @@ disjunctive
 338426	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 338434	conjunctive
@@ -208421,15 +208421,15 @@ disjunctive
 338448	disjunctive
 338450	disjunctive
 338452	disjunctive
-338454	conjunctive/disjunctive
+338454	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
-338461	conjunctive/disjunctive
+conjunctive
+338461	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 338465	disjunctive
 conjunctive
 disjunctive
@@ -208442,7 +208442,7 @@ disjunctive
 disjunctive
 conjunctive
 338480	disjunctive
-338482	conjunctive/disjunctive
+338482	conjunctive
 disjunctive
 338485	conjunctive
 conjunctive
@@ -208451,13 +208451,13 @@ conjunctive
 disjunctive
 338493	disjunctive
 disjunctive
-338496	conjunctive/disjunctive
+338496	conjunctive
 disjunctive
 disjunctive
 338500	conjunctive
 disjunctive
 338503	disjunctive
-conjunctive/disjunctive
+conjunctive
 338506	disjunctive
 338508	disjunctive
 conjunctive
@@ -208465,17 +208465,17 @@ disjunctive
 conjunctive
 conjunctive
 338514	disjunctive
-conjunctive/disjunctive
+conjunctive
 338517	disjunctive
 disjunctive
-338520	conjunctive/disjunctive
+338520	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338525	disjunctive
 conjunctive
 disjunctive
-338529	conjunctive/disjunctive
+338529	conjunctive
 338532	disjunctive
 338534	disjunctive
 338536	conjunctive
@@ -208488,7 +208488,7 @@ disjunctive
 338548	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338555	disjunctive
 conjunctive
@@ -208505,11 +208505,11 @@ disjunctive
 disjunctive
 338574	conjunctive
 disjunctive
-conjunctive/disjunctive
-338578	conjunctive/disjunctive
+conjunctive
+338578	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338584	disjunctive
 conjunctive
@@ -208545,7 +208545,7 @@ disjunctive
 338630	disjunctive
 338632	conjunctive
 disjunctive
-338635	conjunctive/disjunctive
+338635	conjunctive
 338637	disjunctive
 338640	conjunctive
 disjunctive
@@ -208558,13 +208558,13 @@ disjunctive
 conjunctive
 disjunctive
 338655	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338659	disjunctive
 338661	disjunctive
 338665	conjunctive
 disjunctive
-338669	conjunctive/disjunctive
+338669	conjunctive
 disjunctive
 338672	conjunctive
 338675	disjunctive
@@ -208574,7 +208574,7 @@ disjunctive
 conjunctive
 338684	disjunctive
 disjunctive
-338688	conjunctive/disjunctive
+338688	conjunctive
 338690	disjunctive
 disjunctive
 conjunctive
@@ -208582,15 +208582,15 @@ conjunctive
 conjunctive
 disjunctive
 338698	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338702	disjunctive
 conjunctive
 338705	disjunctive
 disjunctive
-338708	conjunctive/disjunctive
+338708	conjunctive
 disjunctive
-338711	conjunctive/disjunctive
+338711	conjunctive
 338713	disjunctive
 338716	disjunctive
 conjunctive
@@ -208601,9 +208601,9 @@ disjunctive
 338724	disjunctive
 338726	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-338731	conjunctive/disjunctive
+338731	conjunctive
 disjunctive
 338734	disjunctive
 338737	conjunctive
@@ -208629,14 +208629,14 @@ disjunctive
 338767	conjunctive
 disjunctive
 338770	disjunctive
-338773	conjunctive/disjunctive
+338773	conjunctive
 disjunctive
 338777	conjunctive
 conjunctive
 338780	
 338782	
 disjunctive
-338785	conjunctive/disjunctive
+338785	conjunctive
 disjunctive
 338788	conjunctive
 disjunctive
@@ -208647,15 +208647,15 @@ conjunctive
 338797	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-338804	conjunctive/disjunctive
+338804	conjunctive
 disjunctive
-338807	conjunctive/disjunctive
+338807	conjunctive
 338809	
 338811	disjunctive
-conjunctive/disjunctive
+conjunctive
 338814	disjunctive
 338816	disjunctive
 338818	conjunctive
@@ -208675,7 +208675,7 @@ disjunctive
 conjunctive
 disjunctive
 338840	disjunctive
-conjunctive/disjunctive
+conjunctive
 338843	disjunctive
 338845	disjunctive
 338847	conjunctive
@@ -208690,8 +208690,8 @@ disjunctive
 338860	conjunctive
 338862	disjunctive
 338864	disjunctive
-338866	conjunctive/disjunctive
-conjunctive/disjunctive
+338866	conjunctive
+conjunctive
 disjunctive
 338870	disjunctive
 338872	conjunctive
@@ -208704,7 +208704,7 @@ disjunctive
 conjunctive
 disjunctive
 338883	disjunctive
-conjunctive/disjunctive
+conjunctive
 338886	disjunctive
 338888	disjunctive
 conjunctive
@@ -208712,7 +208712,7 @@ conjunctive
 disjunctive
 338894	disjunctive
 338896	disjunctive
-338898	conjunctive/disjunctive
+338898	conjunctive
 338900	disjunctive
 338902	disjunctive
 338904	conjunctive
@@ -208726,9 +208726,9 @@ disjunctive
 338918	conjunctive
 disjunctive
 disjunctive
-338922	conjunctive/disjunctive
+338922	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 338927	disjunctive
 conjunctive
@@ -208746,7 +208746,7 @@ disjunctive
 conjunctive
 conjunctive
 338950	disjunctive
-338952	conjunctive/disjunctive
+338952	conjunctive
 disjunctive
 338955	conjunctive
 disjunctive
@@ -208760,13 +208760,13 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-338973	conjunctive/disjunctive
+338973	conjunctive
 disjunctive
 338976	disjunctive
 338978	conjunctive
 disjunctive
 338981	disjunctive
-338983	conjunctive/disjunctive
+338983	conjunctive
 disjunctive
 338986	disjunctive
 338988	conjunctive
@@ -208774,7 +208774,7 @@ disjunctive
 338991	conjunctive
 conjunctive
 disjunctive
-338995	conjunctive/disjunctive
+338995	conjunctive
 disjunctive
 disjunctive
 338999	disjunctive
@@ -208782,14 +208782,14 @@ conjunctive
 disjunctive
 339003	disjunctive
 339005	
-339007	conjunctive/disjunctive
+339007	conjunctive
 disjunctive
 339010	disjunctive
 disjunctive
 conjunctive
 339014	disjunctive
 339016	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 339020	conjunctive
 disjunctive
@@ -208797,7 +208797,7 @@ disjunctive
 339024	conjunctive
 conjunctive
 disjunctive
-339030	conjunctive/disjunctive
+339030	conjunctive
 339032	disjunctive
 conjunctive
 339035	disjunctive
@@ -208806,7 +208806,7 @@ conjunctive
 339039	disjunctive
 339041	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 339047	conjunctive
 disjunctive
@@ -208829,22 +208829,22 @@ conjunctive
 339074	conjunctive
 conjunctive
 339077	disjunctive
-339079	conjunctive/disjunctive
+339079	conjunctive
 339081	disjunctive
 339084	disjunctive
 conjunctive
 conjunctive
 339089	conjunctive
 339091	disjunctive
-339093	conjunctive/disjunctive
+339093	conjunctive
 disjunctive
 conjunctive
 339097	disjunctive
 disjunctive
 339100	conjunctive
 339103	disjunctive
-conjunctive/disjunctive
-339106	unknown
+conjunctive
+339106	disjunctive
 conjunctive
 disjunctive
 conjunctive
@@ -208859,7 +208859,7 @@ disjunctive
 339126	disjunctive
 conjunctive
 339129	disjunctive
-339131	conjunctive/disjunctive
+339131	conjunctive
 disjunctive
 339134	conjunctive
 conjunctive
@@ -208868,13 +208868,13 @@ disjunctive
 conjunctive
 339140	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 339144	disjunctive
 conjunctive
 disjunctive
 339148	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 339152	disjunctive
 339154	conjunctive
 disjunctive
@@ -208889,17 +208889,17 @@ disjunctive
 conjunctive
 339171	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 339175	disjunctive
 conjunctive
 conjunctive
 disjunctive
-339180	conjunctive/disjunctive
+339180	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-339186	conjunctive/disjunctive
+339186	conjunctive
 disjunctive
 339189	disjunctive
 conjunctive
@@ -208928,7 +208928,7 @@ disjunctive
 conjunctive
 339225	disjunctive
 339227	disjunctive
-conjunctive/disjunctive
+conjunctive
 339231	disjunctive
 339233	disjunctive
 disjunctive
@@ -208938,16 +208938,16 @@ conjunctive
 339241	disjunctive
 339243	conjunctive
 339245	disjunctive
-339247	conjunctive/disjunctive
+339247	conjunctive
 339250	disjunctive
 339252	disjunctive
 339255	disjunctive
 339257	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-339263	conjunctive/disjunctive
+339263	conjunctive
 disjunctive
 339266	disjunctive
 conjunctive
@@ -208963,7 +208963,7 @@ disjunctive
 339282	conjunctive
 disjunctive
 339285	disjunctive
-conjunctive/disjunctive
+conjunctive
 339288	disjunctive
 conjunctive
 conjunctive
@@ -208974,7 +208974,7 @@ disjunctive
 339297	conjunctive
 conjunctive
 339300	disjunctive
-339302	conjunctive/disjunctive
+339302	conjunctive
 disjunctive
 339305	conjunctive
 conjunctive
@@ -208983,31 +208983,31 @@ disjunctive
 conjunctive
 disjunctive
 339314	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-339318	conjunctive/disjunctive
+339318	conjunctive
 disjunctive
-339323	conjunctive/disjunctive
+339323	conjunctive
 disjunctive
 339326	disjunctive
 339328	conjunctive
 disjunctive
-339332	conjunctive/disjunctive
+339332	conjunctive
 339334	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 339343	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 339347	conjunctive
 disjunctive
 conjunctive
 disjunctive
 339352	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 339357	disjunctive
@@ -209024,20 +209024,20 @@ conjunctive
 conjunctive
 339376	disjunctive
 339378	disjunctive
-conjunctive/disjunctive
+conjunctive
 339381	disjunctive
 conjunctive
 disjunctive
 
 disjunctive
 339387	disjunctive
-339389	conjunctive/disjunctive
+339389	conjunctive
 disjunctive
-339393	conjunctive/disjunctive
+339393	conjunctive
 339395	disjunctive
-339397	conjunctive/disjunctive
+339397	conjunctive
 339399	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -209048,7 +209048,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-339415	conjunctive/disjunctive
+339415	conjunctive
 disjunctive
 339418	disjunctive
 conjunctive
@@ -209059,7 +209059,7 @@ conjunctive
 339427	disjunctive
 339429	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 339433	disjunctive
 conjunctive
 disjunctive
@@ -209077,10 +209077,10 @@ disjunctive
 disjunctive
 conjunctive
 339458	disjunctive
-conjunctive/disjunctive
+conjunctive
 339461	disjunctive
 disjunctive
-339464	conjunctive/disjunctive
+339464	conjunctive
 disjunctive
 339467	conjunctive
 339469	conjunctive
@@ -209095,14 +209095,14 @@ disjunctive
 conjunctive
 disjunctive
 339485	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 339489	conjunctive
 339492	disjunctive
 disjunctive
-339495	conjunctive/disjunctive
+339495	conjunctive
 339497	disjunctive
-339499	conjunctive/disjunctive
+339499	conjunctive
 disjunctive
 disjunctive
 339503	disjunctive
@@ -209114,13 +209114,13 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 339518	disjunctive
 339520	conjunctive
 disjunctive
 339523	disjunctive
-339525	conjunctive/disjunctive
+339525	conjunctive
 339528	disjunctive
 339530	conjunctive
 disjunctive
@@ -209136,10 +209136,10 @@ disjunctive
 339547	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-339554	conjunctive/disjunctive
+339554	conjunctive
 disjunctive
 
 disjunctive
@@ -209149,10 +209149,10 @@ conjunctive
 339563	conjunctive
 339565	disjunctive
 339567	disjunctive
-339569	conjunctive/disjunctive
+339569	conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 339575	disjunctive
 disjunctive
 339578	disjunctive
@@ -209165,7 +209165,7 @@ disjunctive
 339590	conjunctive
 disjunctive
 339595	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 339599	conjunctive
 conjunctive
@@ -209182,9 +209182,9 @@ conjunctive
 339618	disjunctive
 339620	disjunctive
 339622	disjunctive
-conjunctive/disjunctive
+conjunctive
 339625	disjunctive
-339627	conjunctive/disjunctive
+339627	conjunctive
 disjunctive
 339631	disjunctive
 339633	conjunctive
@@ -209204,7 +209204,7 @@ conjunctive
 conjunctive
 conjunctive
 339655	disjunctive
-339657	conjunctive/disjunctive
+339657	conjunctive
 disjunctive
 339660	disjunctive
 339662	conjunctive
@@ -209232,12 +209232,12 @@ disjunctive
 339695	conjunctive
 disjunctive
 339698	disjunctive
-conjunctive/disjunctive
+conjunctive
 339701	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-339706	conjunctive/disjunctive
+339706	conjunctive
 339708	disjunctive
 339710	conjunctive
 conjunctive
@@ -209245,7 +209245,7 @@ disjunctive
 conjunctive
 339715	disjunctive
 339717	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 339721	disjunctive
 conjunctive
@@ -209253,20 +209253,20 @@ disjunctive
 339725	conjunctive
 disjunctive
 339728	disjunctive
-339731	conjunctive/disjunctive
+339731	conjunctive
 disjunctive
 339734	disjunctive
 conjunctive
 disjunctive
 339738	disjunctive
-conjunctive/disjunctive
+conjunctive
 
 339742	disjunctive
-conjunctive/disjunctive
+conjunctive
 339745	disjunctive
 339747	disjunctive
 339749	disjunctive
-conjunctive/disjunctive
+conjunctive
 339752	disjunctive
 339754	conjunctive
 conjunctive
@@ -209276,12 +209276,12 @@ conjunctive
 conjunctive
 disjunctive
 339763	disjunctive
-339765	conjunctive/disjunctive
+339765	conjunctive
 disjunctive
 339768	disjunctive
 conjunctive
 disjunctive
-339772	conjunctive/disjunctive
+339772	conjunctive
 disjunctive
 339776	disjunctive
 conjunctive
@@ -209312,7 +209312,7 @@ disjunctive
 339815	conjunctive
 disjunctive
 disjunctive
-339820	conjunctive/disjunctive
+339820	conjunctive
 disjunctive
 339823	conjunctive
 339825	conjunctive
@@ -209325,11 +209325,11 @@ disjunctive
 conjunctive
 disjunctive
 339837	disjunctive
-339840	conjunctive/disjunctive
+339840	conjunctive
 disjunctive
-339843	conjunctive/disjunctive
+339843	conjunctive
 disjunctive
-339847	conjunctive/disjunctive
+339847	conjunctive
 disjunctive
 339850	conjunctive
 339852	conjunctive
@@ -209337,7 +209337,7 @@ disjunctive
 339855	conjunctive
 339857	conjunctive
 disjunctive
-339860	conjunctive/disjunctive
+339860	conjunctive
 339862	disjunctive
 339865	disjunctive
 conjunctive
@@ -209347,21 +209347,21 @@ conjunctive
 conjunctive
 disjunctive
 339874	disjunctive
-339876	conjunctive/disjunctive
+339876	conjunctive
 339878	disjunctive
 disjunctive
-339881	conjunctive/disjunctive
+339881	conjunctive
 339883	disjunctive
 339885	conjunctive
 339888	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 339892	disjunctive
 339895	disjunctive
 339897	disjunctive
-339899	conjunctive/disjunctive
+339899	conjunctive
 disjunctive
-339902	conjunctive/disjunctive
+339902	conjunctive
 disjunctive
 339905	disjunctive
 conjunctive
@@ -209375,14 +209375,14 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-339924	conjunctive/disjunctive
+339924	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 339929	disjunctive
-339931	conjunctive/disjunctive
+339931	conjunctive
 339933	disjunctive
 339936	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 339940	conjunctive
 disjunctive
@@ -209414,7 +209414,7 @@ conjunctive
 conjunctive
 339985	disjunctive
 339987	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 339991	conjunctive
 conjunctive
@@ -209449,7 +209449,7 @@ disjunctive
 340041	
 disjunctive
 340044	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340049	disjunctive
 disjunctive
@@ -209459,23 +209459,23 @@ disjunctive
 conjunctive
 340058	conjunctive
 disjunctive
-340061	conjunctive/disjunctive
+340061	conjunctive
 340064	disjunctive
 disjunctive
 340067	conjunctive
 conjunctive
 disjunctive
 340071	disjunctive
-conjunctive/disjunctive
+conjunctive
 340074	disjunctive
 conjunctive
 disjunctive
 340078	conjunctive
 disjunctive
 340081	disjunctive
-conjunctive/disjunctive
+conjunctive
 
-340085	conjunctive/disjunctive
+340085	conjunctive
 disjunctive
 340088	disjunctive
 conjunctive
@@ -209484,9 +209484,9 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-340097	conjunctive/disjunctive
+340097	conjunctive
 340100	disjunctive
-conjunctive/disjunctive
+conjunctive
 340103	disjunctive
 conjunctive
 disjunctive
@@ -209501,11 +209501,11 @@ disjunctive
 conjunctive
 conjunctive
 340118	disjunctive
-340120	conjunctive/disjunctive
+340120	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 340126	disjunctive
 340128	conjunctive
 conjunctive
@@ -209514,19 +209514,19 @@ disjunctive
 340134	conjunctive
 disjunctive
 340137	disjunctive
-340139	conjunctive/disjunctive
+340139	conjunctive
 disjunctive
-340142	conjunctive/disjunctive
+340142	conjunctive
 disjunctive
 disjunctive
 340146	disjunctive
 340148	disjunctive
 340150	conjunctive
 disjunctive
-340153	conjunctive/disjunctive
-conjunctive/disjunctive
+340153	conjunctive
+conjunctive
 disjunctive
-340157	conjunctive/disjunctive
+340157	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -209545,7 +209545,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -209560,7 +209560,7 @@ disjunctive
 340196	conjunctive
 340198	disjunctive
 340200	disjunctive
-340202	conjunctive/disjunctive
+340202	conjunctive
 disjunctive
 340205	disjunctive
 conjunctive
@@ -209570,7 +209570,7 @@ conjunctive
 disjunctive
 340212	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 340217	disjunctive
 disjunctive
 conjunctive
@@ -209595,12 +209595,12 @@ disjunctive
 disjunctive
 340248	conjunctive
 340250	disjunctive
-340252	conjunctive/disjunctive
+340252	conjunctive
 disjunctive
 disjunctive
 340256	conjunctive
 disjunctive
-340260	conjunctive/disjunctive
+340260	conjunctive
 disjunctive
 340263	disjunctive
 340265	disjunctive
@@ -209608,15 +209608,15 @@ disjunctive
 disjunctive
 340272	disjunctive
 340275	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340279	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340283	conjunctive
 340285	conjunctive
 340287	disjunctive
-340290	conjunctive/disjunctive
+340290	conjunctive
 340292	disjunctive
 340294	conjunctive
 conjunctive
@@ -209626,22 +209626,22 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340309	conjunctive
 disjunctive
 disjunctive
 340314	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340318	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-340324	conjunctive/disjunctive
+340324	conjunctive
 disjunctive
 340327	disjunctive
 conjunctive
@@ -209671,13 +209671,13 @@ conjunctive
 conjunctive
 340367	disjunctive
 340369	disjunctive
-340371	conjunctive/disjunctive
+340371	conjunctive
 disjunctive
 340374	conjunctive
 conjunctive
 disjunctive
 340379	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340383	disjunctive
 conjunctive
@@ -209697,19 +209697,19 @@ disjunctive
 340402	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 340408	disjunctive
 340410	disjunctive
 conjunctive
 disjunctive
 340415	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340420	conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 340426	disjunctive
 340429	disjunctive
 340431	disjunctive
@@ -209725,7 +209725,7 @@ disjunctive
 340444	conjunctive
 
 340447	disjunctive
-conjunctive/disjunctive
+conjunctive
 340450	disjunctive
 340452	disjunctive
 340454	disjunctive
@@ -209733,14 +209733,14 @@ conjunctive
 conjunctive
 340458	disjunctive
 disjunctive
-340461	conjunctive/disjunctive
+340461	conjunctive
 disjunctive
 disjunctive
 conjunctive
 340467	disjunctive
 disjunctive
 340470	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340474	disjunctive
 340476	disjunctive
@@ -209759,12 +209759,12 @@ conjunctive
 conjunctive
 340496	disjunctive
 340498	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-340505	conjunctive/disjunctive
+340505	conjunctive
 disjunctive
 340508	conjunctive
 340510	conjunctive
@@ -209786,17 +209786,17 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-340537	conjunctive/disjunctive
+340537	conjunctive
 340539	disjunctive
-340541	conjunctive/disjunctive
+340541	conjunctive
 disjunctive
 340544	disjunctive
-conjunctive/disjunctive
+conjunctive
 340547	disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -209816,24 +209816,24 @@ disjunctive
 conjunctive
 disjunctive
 340580	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340584	disjunctive
 340586	disjunctive
-340589	conjunctive/disjunctive
+340589	conjunctive
 disjunctive
 340593	disjunctive
 disjunctive
 340596	conjunctive
 340598	disjunctive
-340601	conjunctive/disjunctive
+340601	conjunctive
 disjunctive
 conjunctive
 conjunctive
 conjunctive
 340608	conjunctive
 340610	disjunctive
-340612	conjunctive/disjunctive
+340612	conjunctive
 disjunctive
 340615	disjunctive
 340617	conjunctive
@@ -209848,13 +209848,13 @@ disjunctive
 340629	disjunctive
 conjunctive
 340633	
-340635	conjunctive/disjunctive
+340635	conjunctive
 disjunctive
 340638	disjunctive
 340640	disjunctive
 conjunctive
 disjunctive
-340644	conjunctive/disjunctive
+340644	conjunctive
 340646	disjunctive
 conjunctive
 conjunctive
@@ -209862,22 +209862,22 @@ disjunctive
 disjunctive
 340652	disjunctive
 340654	disjunctive
-340657	conjunctive/disjunctive
+340657	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340663	disjunctive
 conjunctive
 disjunctive
-340667	conjunctive/disjunctive
+340667	conjunctive
 disjunctive
 disjunctive
 340671	disjunctive
 340673	conjunctive
 disjunctive
 340676	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -209891,7 +209891,7 @@ conjunctive
 disjunctive
 340692	conjunctive
 disjunctive
-340695	conjunctive/disjunctive
+340695	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -209904,7 +209904,7 @@ disjunctive
 conjunctive
 disjunctive
 340710	disjunctive
-340712	conjunctive/disjunctive
+340712	conjunctive
 340715	disjunctive
 disjunctive
 340718	conjunctive
@@ -209926,11 +209926,11 @@ disjunctive
 340740	conjunctive
 disjunctive
 340743	disjunctive
-340745	conjunctive/disjunctive
+340745	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-340750	conjunctive/disjunctive
+340750	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -209938,7 +209938,7 @@ conjunctive
 340757	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 340762	disjunctive
 340764	conjunctive
 disjunctive
@@ -209950,7 +209950,7 @@ disjunctive
 conjunctive
 340776	disjunctive
 340778	disjunctive
-340780	conjunctive/disjunctive
+340780	conjunctive
 disjunctive
 340783	disjunctive
 conjunctive
@@ -209973,7 +209973,7 @@ conjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 340817	disjunctive
 conjunctive
 disjunctive
@@ -209990,23 +209990,23 @@ disjunctive
 340836	conjunctive
 340839	conjunctive
 340841	disjunctive
-340844	conjunctive/disjunctive
+340844	conjunctive
 340846	disjunctive
 340848	disjunctive
-340851	conjunctive/disjunctive
+340851	conjunctive
 disjunctive
 340854	conjunctive
 disjunctive
 conjunctive
 disjunctive
 340859	disjunctive
-340861	conjunctive/disjunctive
+340861	conjunctive
 disjunctive
 340864	conjunctive
 conjunctive
 340867	disjunctive
 340870	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -210020,7 +210020,7 @@ conjunctive
 conjunctive
 conjunctive
 340891	disjunctive
-340893	conjunctive/disjunctive
+340893	conjunctive
 disjunctive
 340896	disjunctive
 conjunctive
@@ -210033,7 +210033,7 @@ conjunctive
 conjunctive
 
 340910	disjunctive
-conjunctive/disjunctive
+conjunctive
 340913	disjunctive
 340915	disjunctive
 disjunctive
@@ -210046,7 +210046,7 @@ conjunctive
 conjunctive
 disjunctive
 340928	disjunctive
-340930	conjunctive/disjunctive
+340930	conjunctive
 disjunctive
 340933	conjunctive
 disjunctive
@@ -210066,39 +210066,39 @@ conjunctive
 340956	conjunctive
 disjunctive
 340959	disjunctive
-340962	conjunctive/disjunctive
+340962	conjunctive
 disjunctive
 340965	disjunctive
 340967	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 340973	conjunctive
 disjunctive
 340976	conjunctive
 disjunctive
 340979	disjunctive
-340981	conjunctive/disjunctive
+340981	conjunctive
 disjunctive
 conjunctive
 disjunctive
 340986	conjunctive
 disjunctive
 340990	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 340997	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 
 341004	disjunctive
-341006	conjunctive/disjunctive
+341006	conjunctive
 disjunctive
 341009	conjunctive
 341011	conjunctive
@@ -210123,16 +210123,16 @@ conjunctive
 disjunctive
 341037	disjunctive
 341039	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-341043	conjunctive/disjunctive
+341043	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-341049	conjunctive/disjunctive
+341049	conjunctive
 341051	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 341056	disjunctive
@@ -210140,14 +210140,14 @@ conjunctive
 disjunctive
 341060	conjunctive
 disjunctive
-341063	conjunctive/disjunctive
+341063	conjunctive
 disjunctive
 341066	conjunctive
 disjunctive
 341069	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341075	conjunctive
 disjunctive
@@ -210158,10 +210158,10 @@ conjunctive
 341084	disjunctive
 conjunctive
 disjunctive
-341088	conjunctive/disjunctive
+341088	conjunctive
 341090	disjunctive
 341092	disjunctive
-341094	conjunctive/disjunctive
+341094	conjunctive
 disjunctive
 341097	conjunctive
 disjunctive
@@ -210176,7 +210176,7 @@ disjunctive
 341110	conjunctive
 conjunctive
 disjunctive
-341114	conjunctive/disjunctive
+341114	conjunctive
 disjunctive
 341117	disjunctive
 disjunctive
@@ -210189,9 +210189,9 @@ disjunctive
 341127	conjunctive
 341129	disjunctive
 341131	disjunctive
-341133	conjunctive/disjunctive
+341133	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341138	disjunctive
 conjunctive
@@ -210221,7 +210221,7 @@ disjunctive
 341171	conjunctive
 conjunctive
 341174	
-341176	conjunctive/disjunctive
+341176	conjunctive
 disjunctive
 341179	disjunctive
 conjunctive
@@ -210239,23 +210239,23 @@ disjunctive
 341198	conjunctive
 disjunctive
 341202	disjunctive
-341204	conjunctive/disjunctive
+341204	conjunctive
 disjunctive
-341207	conjunctive/disjunctive
+341207	conjunctive
 341209	disjunctive
 341211	conjunctive
 conjunctive
 341214	disjunctive
-341217	conjunctive/disjunctive
+341217	conjunctive
 341219	disjunctive
-341221	conjunctive/disjunctive
+341221	conjunctive
 disjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 disjunctive
-341229	conjunctive/disjunctive
+341229	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -210274,7 +210274,7 @@ conjunctive
 disjunctive
 341252	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341257	conjunctive
 disjunctive
@@ -210299,11 +210299,11 @@ disjunctive
 341291	disjunctive
 conjunctive
 disjunctive
-341295	conjunctive/disjunctive
+341295	conjunctive
 disjunctive
 conjunctive
 disjunctive
-341300	conjunctive/disjunctive
+341300	conjunctive
 341302	disjunctive
 341305	disjunctive
 conjunctive
@@ -210312,7 +210312,7 @@ conjunctive
 conjunctive
 341312	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -210323,16 +210323,16 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 341330	disjunctive
 disjunctive
-341333	conjunctive/disjunctive
+341333	conjunctive
 341336	disjunctive
 341339	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-341345	conjunctive/disjunctive
+341345	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -210350,17 +210350,17 @@ disjunctive
 341366	conjunctive
 conjunctive
 disjunctive
-341371	conjunctive/disjunctive
+341371	conjunctive
 341373	disjunctive
 341375	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
 341381	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 341386	disjunctive
 disjunctive
 conjunctive
@@ -210378,17 +210378,17 @@ disjunctive
 341408	conjunctive
 disjunctive
 341411	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 341418	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 341425	disjunctive
 341427	disjunctive
 disjunctive
@@ -210418,11 +210418,11 @@ conjunctive
 341462	disjunctive
 341464	conjunctive
 disjunctive
-341468	conjunctive/disjunctive
+341468	conjunctive
 disjunctive
 341471	disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
 341475	disjunctive
 341477	conjunctive
 disjunctive
@@ -210435,10 +210435,10 @@ disjunctive
 341489	disjunctive
 341491	
 341493	disjunctive
-conjunctive/disjunctive
+conjunctive
 341496	disjunctive
 341498	disjunctive
-341501	conjunctive/disjunctive
+341501	conjunctive
 341503	disjunctive
 341505	conjunctive
 conjunctive
@@ -210448,11 +210448,11 @@ disjunctive
 conjunctive
 disjunctive
 341516	disjunctive
-341518	conjunctive/disjunctive
+341518	conjunctive
 disjunctive
 341522	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341528	disjunctive
 341530	conjunctive
@@ -210475,7 +210475,7 @@ disjunctive
 disjunctive
 conjunctive
 341560	disjunctive
-341562	conjunctive/disjunctive
+341562	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -210488,12 +210488,12 @@ disjunctive
 341574	disjunctive
 conjunctive
 disjunctive
-341578	unknown
+341578	disjunctive
 conjunctive
 disjunctive
-341582	conjunctive/disjunctive
+341582	conjunctive
 341584	disjunctive
-341587	conjunctive/disjunctive
+341587	conjunctive
 disjunctive
 341591	disjunctive
 conjunctive
@@ -210512,7 +210512,7 @@ conjunctive
 341611	conjunctive
 341613	conjunctive
 disjunctive
-341616	conjunctive/disjunctive
+341616	conjunctive
 disjunctive
 disjunctive
 341620	conjunctive
@@ -210521,10 +210521,10 @@ disjunctive
 conjunctive
 conjunctive
 341626	disjunctive
-341628	conjunctive/disjunctive
+341628	conjunctive
 341631	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341636	conjunctive
 341639	disjunctive
@@ -210537,7 +210537,7 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-341653	conjunctive/disjunctive
+341653	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -210556,21 +210556,21 @@ disjunctive
 disjunctive
 341677	
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341682	conjunctive
 341684	conjunctive
 disjunctive
-341687	conjunctive/disjunctive
+341687	conjunctive
 disjunctive
 341690	disjunctive
 341692	conjunctive
 341694	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341699	disjunctive
-341703	conjunctive/disjunctive
+341703	conjunctive
 disjunctive
 341707	conjunctive
 conjunctive
@@ -210590,7 +210590,7 @@ disjunctive
 conjunctive
 disjunctive
 341731	disjunctive
-341733	conjunctive/disjunctive
+341733	conjunctive
 disjunctive
 341737	conjunctive
 341739	conjunctive
@@ -210604,19 +210604,19 @@ disjunctive
 341752	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 341757	disjunctive
 341759	disjunctive
 341761	conjunctive
 
-341764	conjunctive/disjunctive
+341764	conjunctive
 disjunctive
 341767	disjunctive
 341770	disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 341776	disjunctive
 341778	conjunctive
 disjunctive
@@ -210627,26 +210627,26 @@ conjunctive
 341787	conjunctive
 disjunctive
 341790	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 341797	disjunctive
-341799	conjunctive/disjunctive
+341799	conjunctive
 disjunctive
 341804	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 341809	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-341817	conjunctive/disjunctive
+341817	conjunctive
 341819	disjunctive
 341821	disjunctive
 conjunctive
@@ -210654,12 +210654,12 @@ conjunctive
 conjunctive
 341826	disjunctive
 341828	disjunctive
-341831	conjunctive/disjunctive
+341831	conjunctive
 disjunctive
 conjunctive
 341835	conjunctive
 341838	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341842	conjunctive
 disjunctive
@@ -210667,7 +210667,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-341851	conjunctive/disjunctive
+341851	conjunctive
 disjunctive
 341854	disjunctive
 conjunctive
@@ -210680,7 +210680,7 @@ disjunctive
 341865	conjunctive
 disjunctive
 341868	disjunctive
-conjunctive/disjunctive
+conjunctive
 341871	disjunctive
 341873	conjunctive
 341875	disjunctive
@@ -210699,7 +210699,7 @@ disjunctive
 341895	conjunctive
 disjunctive
 disjunctive
-341899	conjunctive/disjunctive
+341899	conjunctive
 disjunctive
 341902	disjunctive
 conjunctive
@@ -210716,11 +210716,11 @@ disjunctive
 341923	conjunctive
 disjunctive
 341926	
-341928	conjunctive/disjunctive
+341928	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341935	disjunctive
 conjunctive
@@ -210732,7 +210732,7 @@ disjunctive
 conjunctive
 conjunctive
 341945	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 341949	disjunctive
 conjunctive
@@ -210742,8 +210742,8 @@ conjunctive
 341957	disjunctive
 conjunctive
 341961	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
 341967	disjunctive
 341970	disjunctive
@@ -210756,19 +210756,19 @@ conjunctive
 disjunctive
 341980	conjunctive
 disjunctive
-341983	conjunctive/disjunctive
+341983	conjunctive
 disjunctive
 341987	disjunctive
 341989	conjunctive
 conjunctive
 disjunctive
-341994	conjunctive/disjunctive
+341994	conjunctive
 disjunctive
 341997	disjunctive
 disjunctive
 342000	conjunctive
 disjunctive
-342004	conjunctive/disjunctive
+342004	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -210777,31 +210777,31 @@ disjunctive
 342011	disjunctive
 conjunctive
 disjunctive
-342015	conjunctive/disjunctive
+342015	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 342020	disjunctive
 342022	conjunctive
 disjunctive
 disjunctive
-342027	conjunctive/disjunctive
+342027	conjunctive
 disjunctive
 342030	disjunctive
-342032	conjunctive/disjunctive
+342032	conjunctive
 disjunctive
 disjunctive
 disjunctive
-342038	conjunctive/disjunctive
-342040	conjunctive/disjunctive
+342038	conjunctive
+342040	conjunctive
 disjunctive
-342043	conjunctive/disjunctive
+342043	conjunctive
 disjunctive
 342046	disjunctive
 342049	disjunctive
 conjunctive
 disjunctive
-342053	conjunctive/disjunctive
+342053	conjunctive
 342055	disjunctive
 342059	disjunctive
 conjunctive
@@ -210816,12 +210816,12 @@ disjunctive
 342075	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 342081	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 342085	disjunctive
-342087	conjunctive/disjunctive
+342087	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -210829,19 +210829,19 @@ conjunctive
 conjunctive
 disjunctive
 342095	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 342099	disjunctive
 342102	disjunctive
 conjunctive
 conjunctive
 342107	disjunctive
-342109	unknown
+342109	disjunctive
 conjunctive
 disjunctive
 conjunctive
 342114	disjunctive
-conjunctive/disjunctive
+conjunctive
 342117	disjunctive
 conjunctive
 disjunctive
@@ -210849,7 +210849,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 342126	disjunctive
 342128	conjunctive
 342131	conjunctive
@@ -210865,7 +210865,7 @@ disjunctive
 conjunctive
 342145	disjunctive
 disjunctive
-342149	conjunctive/disjunctive
+342149	conjunctive
 342152	disjunctive
 342154	conjunctive
 342156	disjunctive
@@ -210876,7 +210876,7 @@ conjunctive
 disjunctive
 342166	disjunctive
 342168	disjunctive
-342171	conjunctive/disjunctive
+342171	conjunctive
 disjunctive
 342175	conjunctive
 conjunctive
@@ -210885,24 +210885,24 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-342185	conjunctive/disjunctive
+342185	conjunctive
 342187	disjunctive
 
 342190	disjunctive
-conjunctive/disjunctive
+conjunctive
 342193	disjunctive
 342195	disjunctive
 conjunctive
 342198	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 342203	disjunctive
 342205	conjunctive
 disjunctive
 342208	disjunctive
 342211	disjunctive
-342213	conjunctive/disjunctive
+342213	conjunctive
 disjunctive
 342217	conjunctive
 conjunctive
@@ -210915,17 +210915,17 @@ conjunctive
 342230	conjunctive
 disjunctive
 342233	disjunctive
-342235	conjunctive/disjunctive
+342235	conjunctive
 342237	disjunctive
 disjunctive
 342240	conjunctive
 disjunctive
 342244	disjunctive
 
-342247	conjunctive/disjunctive
+342247	conjunctive
 disjunctive
 342250	disjunctive
-342252	conjunctive/disjunctive
+342252	conjunctive
 342255	disjunctive
 disjunctive
 conjunctive
@@ -210934,37 +210934,37 @@ conjunctive
 342263	conjunctive
 disjunctive
 342266	disjunctive
-342268	conjunctive/disjunctive
+342268	conjunctive
 disjunctive
 342271	disjunctive
 conjunctive
 disjunctive
-342276	unknown
-conjunctive/disjunctive
+342276	disjunctive
+conjunctive
 disjunctive
-342280	conjunctive/disjunctive
+342280	conjunctive
 disjunctive
-342283	conjunctive/disjunctive
+342283	conjunctive
 disjunctive
 342286	disjunctive
 conjunctive
 conjunctive
 disjunctive
-342291	conjunctive/disjunctive
+342291	conjunctive
 disjunctive
 342295	disjunctive
 conjunctive
 conjunctive
 342299	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 342304	disjunctive
-342306	conjunctive/disjunctive
+342306	conjunctive
 342308	disjunctive
 342311	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 342316	disjunctive
 conjunctive
 conjunctive
@@ -210988,9 +210988,9 @@ disjunctive
 342348	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 342356	disjunctive
 conjunctive
@@ -210998,20 +210998,20 @@ conjunctive
 342361	conjunctive
 disjunctive
 342364	disjunctive
-342366	conjunctive/disjunctive
+342366	conjunctive
 
 conjunctive
 
 342371	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 342376	disjunctive
 342378	disjunctive
 conjunctive
 disjunctive
 342382	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 342387	conjunctive
 conjunctive
@@ -211023,7 +211023,7 @@ conjunctive
 conjunctive
 disjunctive
 342400	disjunctive
-342402	conjunctive/disjunctive
+342402	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -211037,13 +211037,13 @@ disjunctive
 disjunctive
 342419	conjunctive
 disjunctive
-342422	conjunctive/disjunctive
+342422	conjunctive
 disjunctive
 342425	disjunctive
 conjunctive
 342428	disjunctive
 disjunctive
-342431	conjunctive/disjunctive
+342431	conjunctive
 342433	disjunctive
 conjunctive
 342436	conjunctive
@@ -211060,7 +211060,7 @@ disjunctive
 342449	conjunctive
 conjunctive
 disjunctive
-342454	conjunctive/disjunctive
+342454	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -211068,7 +211068,7 @@ conjunctive
 conjunctive
 conjunctive
 342465	disjunctive
-conjunctive/disjunctive
+conjunctive
 342468	disjunctive
 conjunctive
 disjunctive
@@ -211082,9 +211082,9 @@ disjunctive
 342482	conjunctive
 conjunctive
 342485	disjunctive
-342487	conjunctive/disjunctive
+342487	conjunctive
 disjunctive
-342490	conjunctive/disjunctive
+342490	conjunctive
 disjunctive
 342493	conjunctive
 conjunctive
@@ -211102,19 +211102,19 @@ disjunctive
 342515	conjunctive
 disjunctive
 342520	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 342525	conjunctive
 disjunctive
 342528	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 342534	conjunctive
 disjunctive
 342538	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -211127,7 +211127,7 @@ conjunctive
 342553	disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -211139,12 +211139,12 @@ disjunctive
 342570	conjunctive
 disjunctive
 342573	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-342580	conjunctive/disjunctive
+342580	conjunctive
 disjunctive
 342583	disjunctive
 conjunctive
@@ -211152,13 +211152,13 @@ conjunctive
 342588	conjunctive
 disjunctive
 342591	disjunctive
-342594	conjunctive/disjunctive
+342594	conjunctive
 disjunctive
 disjunctive
 342598	conjunctive
 disjunctive
 342601	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -211172,18 +211172,18 @@ conjunctive
 conjunctive
 disjunctive
 342623	disjunctive
-342625	conjunctive/disjunctive
+342625	conjunctive
 342627	disjunctive
 conjunctive
 342630	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 342635	disjunctive
 342637	disjunctive
-conjunctive/disjunctive
+conjunctive
 342640	disjunctive
-342642	conjunctive/disjunctive
+342642	conjunctive
 disjunctive
 342645	conjunctive
 conjunctive
@@ -211191,11 +211191,11 @@ disjunctive
 disjunctive
 342650	conjunctive
 disjunctive
-342653	conjunctive/disjunctive
+342653	conjunctive
 disjunctive
 conjunctive
 disjunctive
-342658	conjunctive/disjunctive
+342658	conjunctive
 342660	disjunctive
 342662	conjunctive
 conjunctive
@@ -211210,7 +211210,7 @@ disjunctive
 conjunctive
 disjunctive
 342681	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 342685	disjunctive
 conjunctive
@@ -211221,14 +211221,14 @@ conjunctive
 342694	disjunctive
 342696	conjunctive
 disjunctive
-342699	conjunctive/disjunctive
-unknown
+342699	conjunctive
+disjunctive
 conjunctive
 disjunctive
 342704	conjunctive
 conjunctive
 disjunctive
-342708	conjunctive/disjunctive
+342708	conjunctive
 disjunctive
 342711	conjunctive
 342713	disjunctive
@@ -211236,14 +211236,14 @@ conjunctive
 disjunctive
 conjunctive
 342718	disjunctive
-342720	conjunctive/disjunctive
+342720	conjunctive
 disjunctive
 conjunctive
 disjunctive
 342725	conjunctive
 conjunctive
 disjunctive
-342729	conjunctive/disjunctive
+342729	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -211262,19 +211262,19 @@ conjunctive
 342754	disjunctive
 conjunctive
 disjunctive
-342758	conjunctive/disjunctive
+342758	conjunctive
 disjunctive
 342761	disjunctive
 342763	disjunctive
 342765	disjunctive
-342767	conjunctive/disjunctive
+342767	conjunctive
 disjunctive
 conjunctive
 
 342773	disjunctive
 342775	conjunctive
 disjunctive
-342778	conjunctive/disjunctive
+342778	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -211288,13 +211288,13 @@ conjunctive
 342796	disjunctive
 disjunctive
 342799	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 342806	disjunctive
-conjunctive/disjunctive
+conjunctive
 342809	disjunctive
 342811	conjunctive
 342815	conjunctive
@@ -211306,13 +211306,13 @@ disjunctive
 342826	conjunctive
 disjunctive
 342829	disjunctive
-conjunctive/disjunctive
+conjunctive
 342832	disjunctive
 342834	conjunctive
 342837	conjunctive
 disjunctive
 342840	disjunctive
-342842	conjunctive/disjunctive
+342842	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -211331,10 +211331,10 @@ disjunctive
 
 342868	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 342873	disjunctive
-342875	conjunctive/disjunctive
+342875	conjunctive
 342878	disjunctive
 342880	disjunctive
 conjunctive
@@ -211343,14 +211343,14 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-342889	unknown
+342889	disjunctive
 conjunctive
 disjunctive
 342893	conjunctive
 disjunctive
 342896	conjunctive
 disjunctive
-342899	conjunctive/disjunctive
+342899	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -211362,45 +211362,45 @@ disjunctive
 342910	conjunctive
 conjunctive
 342913	disjunctive
-342915	conjunctive/disjunctive
-conjunctive/disjunctive
+342915	conjunctive
+conjunctive
 disjunctive
 342919	disjunctive
 342921	conjunctive
 conjunctive
 342924	disjunctive
 342927	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 342933	disjunctive
-342935	unknown
+342935	disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 342941	disjunctive
 342943	disjunctive
-conjunctive/disjunctive
+conjunctive
 342946	disjunctive
-342948	conjunctive/disjunctive
+342948	conjunctive
 disjunctive
 342951	disjunctive
-342953	conjunctive/disjunctive
+342953	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 342959	disjunctive
-342961	conjunctive/disjunctive
+342961	conjunctive
 disjunctive
 342964	disjunctive
 342966	disjunctive
 conjunctive
 disjunctive
 342970	disjunctive
-342973	conjunctive/disjunctive
+342973	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -211412,7 +211412,7 @@ disjunctive
 conjunctive
 disjunctive
 342986	disjunctive
-342988	conjunctive/disjunctive
+342988	conjunctive
 342990	disjunctive
 disjunctive
 conjunctive
@@ -211431,27 +211431,27 @@ disjunctive
 conjunctive
 disjunctive
 343019	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343023	disjunctive
 343025	conjunctive
 disjunctive
 343030	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 343036	disjunctive
 343038	disjunctive
-conjunctive/disjunctive
+conjunctive
 343041	disjunctive
 disjunctive
 conjunctive
 disjunctive
 343046	disjunctive
-343048	conjunctive/disjunctive
+343048	conjunctive
 disjunctive
-343051	conjunctive/disjunctive
+343051	conjunctive
 343053	disjunctive
 343055	disjunctive
 conjunctive
@@ -211461,26 +211461,26 @@ disjunctive
 conjunctive
 disjunctive
 343063	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343067	conjunctive
 343070	conjunctive
 disjunctive
 343073	disjunctive
-conjunctive/disjunctive
+conjunctive
 343076	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-343082	conjunctive/disjunctive
+343082	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 343089	conjunctive
-conjunctive/disjunctive
+conjunctive
 343092	disjunctive
 343094	conjunctive
 343097	disjunctive
@@ -211490,13 +211490,13 @@ disjunctive
 343103	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343109	disjunctive
-343111	conjunctive/disjunctive
+343111	conjunctive
 disjunctive
 343114	disjunctive
-343116	conjunctive/disjunctive
+343116	conjunctive
 disjunctive
 343119	conjunctive
 disjunctive
@@ -211505,13 +211505,13 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-343127	conjunctive/disjunctive
+343127	conjunctive
 343130	disjunctive
 disjunctive
-343133	conjunctive/disjunctive
+343133	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 343138	disjunctive
 343140	conjunctive
 conjunctive
@@ -211519,9 +211519,9 @@ conjunctive
 343145	conjunctive
 conjunctive
 disjunctive
-343149	conjunctive/disjunctive
+343149	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343155	disjunctive
 343157	conjunctive
@@ -211530,7 +211530,7 @@ conjunctive
 conjunctive
 conjunctive
 343164	disjunctive
-343166	conjunctive/disjunctive
+343166	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -211550,26 +211550,26 @@ disjunctive
 conjunctive
 disjunctive
 343195	disjunctive
-343197	conjunctive/disjunctive
+343197	conjunctive
 disjunctive
 343200	
 disjunctive
 343203	disjunctive
 343205	disjunctive
-343207	conjunctive/disjunctive
+343207	conjunctive
 disjunctive
 343210	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-343216	conjunctive/disjunctive
+343216	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
-343223	conjunctive/disjunctive
+343223	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -211577,17 +211577,17 @@ disjunctive
 343229	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 343241	disjunctive
 disjunctive
 343245	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343249	disjunctive
 disjunctive
@@ -211608,17 +211608,17 @@ disjunctive
 343271	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 343277	disjunctive
 343279	disjunctive
-343282	conjunctive/disjunctive
+343282	conjunctive
 343284	disjunctive
 conjunctive
 disjunctive
 343288	conjunctive
 disjunctive
 disjunctive
-343292	conjunctive/disjunctive
+343292	conjunctive
 disjunctive
 conjunctive
 343296	conjunctive
@@ -211641,12 +211641,12 @@ conjunctive
 343322	disjunctive
 343324	disjunctive
 343327	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343331	conjunctive
 disjunctive
 343335	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343340	disjunctive
 conjunctive
@@ -211654,14 +211654,14 @@ conjunctive
 disjunctive
 343345	conjunctive
 disjunctive
-343348	conjunctive/disjunctive
+343348	conjunctive
 343350	disjunctive
-343352	conjunctive/disjunctive
+343352	conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 343358	disjunctive
-conjunctive/disjunctive
+conjunctive
 343361	disjunctive
 conjunctive
 disjunctive
@@ -211674,7 +211674,7 @@ disjunctive
 conjunctive
 343375	disjunctive
 343377	disjunctive
-343379	conjunctive/disjunctive
+343379	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -211690,17 +211690,17 @@ disjunctive
 disjunctive
 conjunctive
 343403	disjunctive
-343405	conjunctive/disjunctive
+343405	conjunctive
 disjunctive
 343408	disjunctive
 343410	disjunctive
 conjunctive
 conjunctive
 343414	disjunctive
-343416	conjunctive/disjunctive
+343416	conjunctive
 disjunctive
 343419	disjunctive
-343422	conjunctive/disjunctive
+343422	conjunctive
 343424	disjunctive
 343426	disjunctive
 343428	conjunctive
@@ -211708,19 +211708,19 @@ disjunctive
 343432	conjunctive
 conjunctive
 disjunctive
-343437	conjunctive/disjunctive
+343437	conjunctive
 disjunctive
-343440	conjunctive/disjunctive
+343440	conjunctive
 343442	disjunctive
 343444	conjunctive
 343446	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 343451	disjunctive
-343453	conjunctive/disjunctive
+343453	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 conjunctive
@@ -211735,7 +211735,7 @@ conjunctive
 disjunctive
 343474	conjunctive
 disjunctive
-343477	conjunctive/disjunctive
+343477	conjunctive
 disjunctive
 343480	conjunctive
 disjunctive
@@ -211747,12 +211747,12 @@ conjunctive
 343491	conjunctive
 disjunctive
 343494	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343498	
 disjunctive
 343501	
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -211778,7 +211778,7 @@ disjunctive
 conjunctive
 disjunctive
 343543	disjunctive
-343546	conjunctive/disjunctive
+343546	conjunctive
 disjunctive
 343549	disjunctive
 343551	conjunctive
@@ -211803,26 +211803,26 @@ disjunctive
 conjunctive
 343582	conjunctive
 disjunctive
-343585	conjunctive/disjunctive
+343585	conjunctive
 disjunctive
 343589	disjunctive
 343591	conjunctive
 conjunctive
 
-343596	conjunctive/disjunctive
-unknown
+343596	conjunctive
+disjunctive
 disjunctive
 343600	conjunctive
 343602	conjunctive
 disjunctive
-343605	conjunctive/disjunctive
+343605	conjunctive
 343608	disjunctive
 disjunctive
 disjunctive
 343612	conjunctive
 disjunctive
 343615	disjunctive
-343617	conjunctive/disjunctive
+343617	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -211836,20 +211836,20 @@ disjunctive
 conjunctive
 disjunctive
 343636	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343640	disjunctive
 343642	conjunctive
 disjunctive
 343646	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343650	conjunctive
 conjunctive
 conjunctive
 disjunctive
 343655	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343659	conjunctive
 343662	conjunctive
@@ -211867,7 +211867,7 @@ disjunctive
 343683	conjunctive
 disjunctive
 343686	disjunctive
-343688	conjunctive/disjunctive
+343688	conjunctive
 disjunctive
 343692	conjunctive
 343694	conjunctive
@@ -211879,7 +211879,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-343707	conjunctive/disjunctive
+343707	conjunctive
 343709	disjunctive
 conjunctive
 disjunctive
@@ -211887,7 +211887,7 @@ disjunctive
 343716	conjunctive
 disjunctive
 disjunctive
-343721	conjunctive/disjunctive
+343721	conjunctive
 disjunctive
 343724	conjunctive
 343726	conjunctive
@@ -211899,10 +211899,10 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-343739	conjunctive/disjunctive
+343739	conjunctive
 disjunctive
 343742	disjunctive
-343744	conjunctive/disjunctive
+343744	conjunctive
 disjunctive
 conjunctive
 343748	disjunctive
@@ -211911,7 +211911,7 @@ disjunctive
 343752	disjunctive
 conjunctive
 disjunctive
-343756	conjunctive/disjunctive
+343756	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -211930,7 +211930,7 @@ disjunctive
 conjunctive
 disjunctive
 343779	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 343783	conjunctive
 conjunctive
@@ -211940,12 +211940,12 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-343797	conjunctive/disjunctive
+343797	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 
 343803	disjunctive
 conjunctive
@@ -211963,11 +211963,11 @@ conjunctive
 343823	conjunctive
 343825	disjunctive
 343827	conjunctive
-conjunctive/disjunctive
+conjunctive
 343830	disjunctive
 conjunctive
 disjunctive
-343834	conjunctive/disjunctive
+343834	conjunctive
 disjunctive
 343837	disjunctive
 343840	conjunctive
@@ -211994,13 +211994,13 @@ conjunctive
 conjunctive
 disjunctive
 343873	disjunctive
-conjunctive/disjunctive
+conjunctive
 343876	disjunctive
-343878	conjunctive/disjunctive
+343878	conjunctive
 
 343881	disjunctive
 conjunctive
-343884	conjunctive/disjunctive
+343884	conjunctive
 343886	disjunctive
 343888	disjunctive
 conjunctive
@@ -212009,7 +212009,7 @@ conjunctive
 343894	conjunctive
 disjunctive
 343897	conjunctive
-conjunctive/disjunctive
+conjunctive
 343900	disjunctive
 343902	conjunctive
 conjunctive
@@ -212017,9 +212017,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-343909	conjunctive/disjunctive
+343909	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 343915	conjunctive
@@ -212027,10 +212027,10 @@ disjunctive
 343919	conjunctive
 conjunctive
 disjunctive
-343923	conjunctive/disjunctive
+343923	conjunctive
 disjunctive
 343926	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -212043,7 +212043,7 @@ conjunctive
 343940	disjunctive
 disjunctive
 343943	disjunctive
-343945	conjunctive/disjunctive
+343945	conjunctive
 disjunctive
 343948	disjunctive
 disjunctive
@@ -212075,9 +212075,9 @@ disjunctive
 343985	disjunctive
 343987	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-343992	conjunctive/disjunctive
+343992	conjunctive
 disjunctive
 conjunctive
 343996	conjunctive
@@ -212092,12 +212092,12 @@ disjunctive
 conjunctive
 disjunctive
 344009	disjunctive
-344011	conjunctive/disjunctive
+344011	conjunctive
 344013	disjunctive
-344015	conjunctive/disjunctive
+344015	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 344021	disjunctive
 conjunctive
 conjunctive
@@ -212113,13 +212113,13 @@ conjunctive
 conjunctive
 disjunctive
 344041	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 344045	disjunctive
 344047	conjunctive
 conjunctive
 disjunctive
-344052	conjunctive/disjunctive
+344052	conjunctive
 disjunctive
 344055	disjunctive
 conjunctive
@@ -212127,34 +212127,34 @@ disjunctive
 conjunctive
 conjunctive
 344061	disjunctive
-344063	conjunctive/disjunctive
+344063	conjunctive
 disjunctive
-344066	conjunctive/disjunctive
+344066	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-344071	conjunctive/disjunctive
+344071	conjunctive
 disjunctive
 344074	conjunctive
 conjunctive
 disjunctive
-344078	conjunctive/disjunctive
+344078	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 344082	disjunctive
 disjunctive
 344085	conjunctive
 344087	conjunctive
 344090	disjunctive
 344092	disjunctive
-conjunctive/disjunctive
+conjunctive
 344095	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 344101	disjunctive
-conjunctive/disjunctive
+conjunctive
 344104	disjunctive
 disjunctive
 conjunctive
@@ -212162,11 +212162,11 @@ conjunctive
 344110	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
+conjunctive
 disjunctive
 344120	conjunctive
 conjunctive
@@ -212186,16 +212186,16 @@ disjunctive
 344140	conjunctive
 344142	conjunctive
 disjunctive
-344145	conjunctive/disjunctive
+344145	conjunctive
 disjunctive
 344148	disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 344154	disjunctive
 344156	disjunctive
-344159	conjunctive/disjunctive
+344159	conjunctive
 344161	disjunctive
 344164	disjunctive
 conjunctive
@@ -212225,7 +212225,7 @@ conjunctive
 disjunctive
 344200	disjunctive
 344202	disjunctive
-344204	conjunctive/disjunctive
+344204	conjunctive
 344207	disjunctive
 344209	conjunctive
 344211	disjunctive
@@ -212237,7 +212237,7 @@ disjunctive
 conjunctive
 disjunctive
 344223	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -212255,7 +212255,7 @@ disjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 344253	disjunctive
 344255	conjunctive
 344257	conjunctive
@@ -212263,15 +212263,15 @@ disjunctive
 344260	disjunctive
 344262	disjunctive
 disjunctive
-344265	conjunctive/disjunctive
+344265	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 344272	disjunctive
 disjunctive
-344275	conjunctive/disjunctive
+344275	conjunctive
 disjunctive
 conjunctive
 344279	disjunctive
@@ -212279,23 +212279,23 @@ conjunctive
 344283	conjunctive
 disjunctive
 344286	disjunctive
-344288	conjunctive/disjunctive
+344288	conjunctive
 344290	disjunctive
 disjunctive
 disjunctive
 344294	disjunctive
 344296	disjunctive
 disjunctive
-344299	conjunctive/disjunctive
+344299	conjunctive
 disjunctive
-344303	conjunctive/disjunctive
+344303	conjunctive
 disjunctive
 conjunctive
 
 344308	conjunctive
 344311	disjunctive
 344313	
-344316	conjunctive/disjunctive
+344316	conjunctive
 disjunctive
 344320	disjunctive
 344322	disjunctive
@@ -212309,38 +212309,38 @@ disjunctive
 344335	conjunctive
 344337	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 344341	disjunctive
 disjunctive
-344344	conjunctive/disjunctive
+344344	conjunctive
 disjunctive
-344348	conjunctive/disjunctive
+344348	conjunctive
 disjunctive
 disjunctive
-344352	conjunctive/disjunctive
+344352	conjunctive
 disjunctive
 344355	disjunctive
-conjunctive/disjunctive
+conjunctive
 344358	disjunctive
 disjunctive
-344361	conjunctive/disjunctive
+344361	conjunctive
 
-344364	conjunctive/disjunctive
+344364	conjunctive
 disjunctive
 344367	disjunctive
 conjunctive
 conjunctive
 disjunctive
 344372	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 344376	disjunctive
 conjunctive
 disjunctive
 344380	disjunctive
-conjunctive/disjunctive
+conjunctive
 344383	disjunctive
-conjunctive/disjunctive
+conjunctive
 344386	disjunctive
 conjunctive
 conjunctive
@@ -212349,16 +212349,16 @@ conjunctive
 conjunctive
 disjunctive
 344396	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-344400	conjunctive/disjunctive
+344400	conjunctive
 disjunctive
 conjunctive
 conjunctive
 344405	disjunctive
-344407	conjunctive/disjunctive
+344407	conjunctive
 344409	disjunctive
-344411	conjunctive/disjunctive
+344411	conjunctive
 344414	disjunctive
 344416	conjunctive
 344418	disjunctive
@@ -212372,49 +212372,49 @@ conjunctive
 344434	disjunctive
 344436	disjunctive
 disjunctive
-conjunctive/disjunctive
-disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
 conjunctive
-344445	conjunctive/disjunctive
+disjunctive
+disjunctive
+conjunctive
+conjunctive
+344445	conjunctive
 344447	disjunctive
-344449	conjunctive/disjunctive
+344449	conjunctive
 344451	disjunctive
 conjunctive
 conjunctive
 disjunctive
 344456	disjunctive
-344459	conjunctive/disjunctive
+344459	conjunctive
 disjunctive
 disjunctive
 344463	disjunctive
-conjunctive/disjunctive
+conjunctive
 344466	disjunctive
 344468	disjunctive
-344470	conjunctive/disjunctive
+344470	conjunctive
 disjunctive
 344473	conjunctive
 conjunctive
 disjunctive
-344477	conjunctive/disjunctive
+344477	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 344482	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 344487	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 344492	conjunctive
 disjunctive
 344495	disjunctive
-344497	conjunctive/disjunctive
+344497	conjunctive
 disjunctive
-344501	conjunctive/disjunctive
+344501	conjunctive
 344503	disjunctive
 disjunctive
 344506	conjunctive
@@ -212433,7 +212433,7 @@ disjunctive
 344525	disjunctive
 conjunctive
 344528	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 344532	conjunctive
 344534	conjunctive
@@ -212444,22 +212444,22 @@ disjunctive
 disjunctive
 disjunctive
 344545	conjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 conjunctive
 344550	disjunctive
-344552	conjunctive/disjunctive
+344552	conjunctive
 disjunctive
 conjunctive
 344556	disjunctive
 344558	disjunctive
 344561	disjunctive
-344564	conjunctive/disjunctive
+344564	conjunctive
 disjunctive
 344567	conjunctive
 344569	conjunctive
 disjunctive
-344572	conjunctive/disjunctive
+344572	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -212468,7 +212468,7 @@ conjunctive
 344579	disjunctive
 conjunctive
 disjunctive
-344583	conjunctive/disjunctive
+344583	conjunctive
 344585	disjunctive
 344588	disjunctive
 conjunctive
@@ -212480,12 +212480,12 @@ disjunctive
 disjunctive
 disjunctive
 disjunctive
-344601	conjunctive/disjunctive
+344601	conjunctive
 disjunctive
 344604	disjunctive
-344606	conjunctive/disjunctive
+344606	conjunctive
 disjunctive
-344609	conjunctive/disjunctive
+344609	conjunctive
 disjunctive
 conjunctive
 344613	disjunctive
@@ -212502,7 +212502,7 @@ conjunctive
 disjunctive
 344632	conjunctive
 disjunctive
-344635	conjunctive/disjunctive
+344635	conjunctive
 disjunctive
 344638	conjunctive
 disjunctive
@@ -212512,12 +212512,12 @@ disjunctive
 344648	conjunctive
 disjunctive
 344651	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-344655	conjunctive/disjunctive
+344655	conjunctive
 disjunctive
 344659	disjunctive
-344661	conjunctive/disjunctive
+344661	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -212525,7 +212525,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-344670	conjunctive/disjunctive
+344670	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -212535,15 +212535,15 @@ conjunctive
 344681	conjunctive
 conjunctive
 344685	disjunctive
-344688	conjunctive/disjunctive
+344688	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-344695	conjunctive/disjunctive
+344695	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 344702	conjunctive
@@ -212557,7 +212557,7 @@ conjunctive
 344713	disjunctive
 344715	disjunctive
 344718	disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 344722	conjunctive
 disjunctive
@@ -212566,14 +212566,14 @@ disjunctive
 344727	conjunctive
 conjunctive
 344731	
-344733	conjunctive/disjunctive
+344733	conjunctive
 disjunctive
 344736	disjunctive
 344738	disjunctive
 conjunctive
 344741	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 344745	disjunctive
 344747	disjunctive
 344750	disjunctive
@@ -212582,26 +212582,26 @@ conjunctive/disjunctive
 disjunctive
 conjunctive
 disjunctive
-344760	conjunctive/disjunctive
+344760	conjunctive
 disjunctive
 conjunctive
 conjunctive
 344765	disjunctive
-344767	conjunctive/disjunctive
+344767	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 344772	disjunctive
 344775	disjunctive
-344777	conjunctive/disjunctive
+344777	conjunctive
 disjunctive
 344781	disjunctive
 344783	disjunctive
 344786	disjunctive
-conjunctive/disjunctive
-344790	conjunctive/disjunctive
+conjunctive
+344790	conjunctive
 disjunctive
-344794	conjunctive/disjunctive
+344794	conjunctive
 disjunctive
 344799	disjunctive
 disjunctive
@@ -212641,9 +212641,9 @@ conjunctive
 344850	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 344855	disjunctive
-344857	conjunctive/disjunctive
+344857	conjunctive
 disjunctive
 344860	disjunctive
 344862	disjunctive
@@ -212656,9 +212656,9 @@ disjunctive
 conjunctive
 344876	disjunctive
 344879	disjunctive
-conjunctive/disjunctive
+conjunctive
 
-344883	conjunctive/disjunctive
+344883	conjunctive
 disjunctive
 344886	disjunctive
 344888	conjunctive
@@ -212686,20 +212686,20 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-344925	conjunctive/disjunctive
+344925	conjunctive
 disjunctive
 344928	conjunctive
 conjunctive
 disjunctive
-344932	conjunctive/disjunctive
+344932	conjunctive
 344934	disjunctive
 disjunctive
-344938	conjunctive/disjunctive
+344938	conjunctive
 344941	disjunctive
-344943	conjunctive/disjunctive
+344943	conjunctive
 344945	disjunctive
 344947	disjunctive
-344950	conjunctive/disjunctive
+344950	conjunctive
 344953	disjunctive
 disjunctive
 344957	disjunctive
@@ -212713,7 +212713,7 @@ disjunctive
 disjunctive
 344971	disjunctive
 344973	disjunctive
-344975	conjunctive/disjunctive
+344975	conjunctive
 344977	disjunctive
 344979	disjunctive
 344981	disjunctive
@@ -212731,7 +212731,7 @@ disjunctive
 345006	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -212752,11 +212752,11 @@ disjunctive
 disjunctive
 345041	conjunctive
 disjunctive
-345044	conjunctive/disjunctive
+345044	conjunctive
 disjunctive
 conjunctive
 disjunctive
-345050	conjunctive/disjunctive
+345050	conjunctive
 disjunctive
 conjunctive
 345054	conjunctive
@@ -212772,7 +212772,7 @@ conjunctive
 345072	disjunctive
 345074	disjunctive
 345076	disjunctive
-345078	conjunctive/disjunctive
+345078	conjunctive
 345080	disjunctive
 345082	conjunctive
 conjunctive
@@ -212781,7 +212781,7 @@ disjunctive
 345087	conjunctive
 345089	disjunctive
 345092	disjunctive
-conjunctive/disjunctive
+conjunctive
 345095	disjunctive
 345097	disjunctive
 conjunctive
@@ -212793,7 +212793,7 @@ disjunctive
 conjunctive
 disjunctive
 345110	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 345115	conjunctive
@@ -212801,10 +212801,10 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-345121	conjunctive/disjunctive
+345121	conjunctive
 345123	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 345127	disjunctive
 345129	conjunctive
 disjunctive
@@ -212819,7 +212819,7 @@ conjunctive
 conjunctive
 conjunctive
 345146	disjunctive
-345148	conjunctive/disjunctive
+345148	conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -212839,9 +212839,9 @@ disjunctive
 345171	disjunctive
 conjunctive
 disjunctive
-345175	conjunctive/disjunctive
+345175	conjunctive
 345177	disjunctive
-345179	conjunctive/disjunctive
+345179	conjunctive
 345181	disjunctive
 345183	conjunctive
 conjunctive
@@ -212862,44 +212862,44 @@ conjunctive
 345206	conjunctive
 disjunctive
 345209	disjunctive
-345211	conjunctive/disjunctive
+345211	conjunctive
 disjunctive
-345216	conjunctive/disjunctive
+345216	conjunctive
 disjunctive
 345219	disjunctive
-345221	conjunctive/disjunctive
+345221	conjunctive
 345223	disjunctive
 disjunctive
 345226	disjunctive
 disjunctive
 345229	conjunctive
 disjunctive
-345232	conjunctive/disjunctive
+345232	conjunctive
 disjunctive
-345235	conjunctive/disjunctive
+345235	conjunctive
 disjunctive
 conjunctive
 conjunctive
 345240	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 345245	conjunctive
 disjunctive
 conjunctive
 345250	disjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
-345255	conjunctive/disjunctive
+disjunctive
+conjunctive
+345255	conjunctive
 disjunctive
 345258	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-345264	conjunctive/disjunctive
+345264	conjunctive
 disjunctive
 345267	disjunctive
-345269	conjunctive/disjunctive
+345269	conjunctive
 disjunctive
 345272	conjunctive
 conjunctive
@@ -212909,9 +212909,9 @@ disjunctive
 345282	disjunctive
 conjunctive
 disjunctive
-345287	conjunctive/disjunctive
+345287	conjunctive
 disjunctive
-345291	conjunctive/disjunctive
+345291	conjunctive
 345293	disjunctive
 345295	conjunctive
 conjunctive
@@ -212928,12 +212928,12 @@ conjunctive
 345312	
 345314	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 345319	conjunctive
 conjunctive
 disjunctive
-345324	conjunctive/disjunctive
+345324	conjunctive
 345327	disjunctive
 345330	disjunctive
 disjunctive
@@ -212955,16 +212955,16 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-345359	conjunctive/disjunctive
+345359	conjunctive
 disjunctive
-345362	conjunctive/disjunctive
+345362	conjunctive
 disjunctive
 345365	disjunctive
 conjunctive
 disjunctive
 345369	disjunctive
 disjunctive
-345372	conjunctive/disjunctive
+345372	conjunctive
 disjunctive
 conjunctive
 345376	conjunctive
@@ -212974,7 +212974,7 @@ disjunctive
 345385	conjunctive
 conjunctive
 disjunctive
-345389	conjunctive/disjunctive
+345389	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -212985,7 +212985,7 @@ disjunctive
 conjunctive
 disjunctive
 345402	disjunctive
-345404	conjunctive/disjunctive
+345404	conjunctive
 disjunctive
 345407	disjunctive
 345409	disjunctive
@@ -212997,7 +212997,7 @@ disjunctive
 conjunctive
 345418	disjunctive
 345420	disjunctive
-345422	conjunctive/disjunctive
+345422	conjunctive
 345425	disjunctive
 conjunctive
 disjunctive
@@ -213014,7 +213014,7 @@ disjunctive
 conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 345451	disjunctive
 345453	disjunctive
 345455	conjunctive
@@ -213026,7 +213026,7 @@ conjunctive
 disjunctive
 345467	disjunctive
 disjunctive
-345470	conjunctive/disjunctive
+345470	conjunctive
 disjunctive
 345473	conjunctive
 disjunctive
@@ -213039,7 +213039,7 @@ disjunctive
 345483	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 345488	disjunctive
 conjunctive
 disjunctive
@@ -213047,13 +213047,13 @@ disjunctive
 conjunctive
 disjunctive
 345497	disjunctive
-345499	conjunctive/disjunctive
+345499	conjunctive
 disjunctive
 345502	conjunctive
 345504	conjunctive
 disjunctive
 345507	disjunctive
-345509	conjunctive/disjunctive
+345509	conjunctive
 disjunctive
 345512	conjunctive
 conjunctive
@@ -213072,7 +213072,7 @@ disjunctive
 345533	conjunctive
 disjunctive
 345537	disjunctive
-345539	conjunctive/disjunctive
+345539	conjunctive
 disjunctive
 345543	disjunctive
 conjunctive
@@ -213095,12 +213095,12 @@ disjunctive
 345569	conjunctive
 345571	conjunctive
 disjunctive
-345574	conjunctive/disjunctive
+345574	conjunctive
 disjunctive
 disjunctive
 345578	disjunctive
 345581	disjunctive
-345584	conjunctive/disjunctive
+345584	conjunctive
 disjunctive
 disjunctive
 345588	conjunctive
@@ -213112,19 +213112,19 @@ disjunctive
 disjunctive
 345599	disjunctive
 disjunctive
-345602	conjunctive/disjunctive
+345602	conjunctive
 disjunctive
 345605	conjunctive
 345607	disjunctive
 345609	disjunctive
 345611	disjunctive
-345613	conjunctive/disjunctive
+345613	conjunctive
 disjunctive
 conjunctive
 disjunctive
 345618	disjunctive
 345621	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 345626	conjunctive
@@ -213138,9 +213138,9 @@ disjunctive
 345638	conjunctive
 conjunctive
 disjunctive
-345642	conjunctive/disjunctive
+345642	conjunctive
 345645	disjunctive
-345647	conjunctive/disjunctive
+345647	conjunctive
 disjunctive
 345650	disjunctive
 345652	conjunctive
@@ -213154,13 +213154,13 @@ conjunctive
 345665	conjunctive
 disjunctive
 345668	disjunctive
-345670	conjunctive/disjunctive
+345670	conjunctive
 disjunctive
 345673	disjunctive
 345675	conjunctive
 345677	disjunctive
 disjunctive
-345680	conjunctive/disjunctive
+345680	conjunctive
 disjunctive
 345683	conjunctive
 conjunctive
@@ -213168,23 +213168,23 @@ conjunctive
 345689	disjunctive
 conjunctive
 disjunctive
-345696	conjunctive/disjunctive
+345696	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 345700	disjunctive
 345702	disjunctive
 345704	conjunctive
 disjunctive
 conjunctive
 345708	disjunctive
-345710	conjunctive/disjunctive
-unknown
+345710	conjunctive
+disjunctive
 conjunctive
 disjunctive
 345716	disjunctive
 conjunctive
 disjunctive
-345720	conjunctive/disjunctive
+345720	conjunctive
 disjunctive
 disjunctive
 345724	disjunctive
@@ -213197,7 +213197,7 @@ disjunctive
 conjunctive
 345735	disjunctive
 345737	disjunctive
-345739	conjunctive/disjunctive
+345739	conjunctive
 disjunctive
 345742	disjunctive
 conjunctive
@@ -213208,7 +213208,7 @@ conjunctive
 345752	conjunctive
 345755	conjunctive
 disjunctive
-345759	conjunctive/disjunctive
+345759	conjunctive
 disjunctive
 345762	conjunctive
 conjunctive
@@ -213226,14 +213226,14 @@ disjunctive
 345784	conjunctive
 conjunctive
 345787	disjunctive
-345789	conjunctive/disjunctive
+345789	conjunctive
 disjunctive
 conjunctive
 disjunctive
 345794	conjunctive
 disjunctive
 345798	disjunctive
-345800	conjunctive/disjunctive
+345800	conjunctive
 disjunctive
 345803	conjunctive
 345805	conjunctive
@@ -213241,13 +213241,13 @@ disjunctive
 345808	conjunctive
 conjunctive
 disjunctive
-345812	conjunctive/disjunctive
+345812	conjunctive
 345815	disjunctive
 conjunctive
 345819	conjunctive
 345821	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 345826	disjunctive
 disjunctive
 345829	
@@ -213271,31 +213271,31 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 345863	disjunctive
 disjunctive
-345867	conjunctive/disjunctive
+345867	conjunctive
 disjunctive
 345870	conjunctive
 conjunctive
 disjunctive
-345874	conjunctive/disjunctive
+345874	conjunctive
 disjunctive
 conjunctive
 disjunctive
 345879	conjunctive
 conjunctive
 disjunctive
-345883	conjunctive/disjunctive
+345883	conjunctive
 disjunctive
 disjunctive
 345887	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -213326,17 +213326,17 @@ disjunctive
 conjunctive
 345933	
 disjunctive
-345936	conjunctive/disjunctive
+345936	conjunctive
 disjunctive
-345939	conjunctive/disjunctive
+345939	conjunctive
 disjunctive
 345942	disjunctive
-conjunctive/disjunctive
+conjunctive
 345945	disjunctive
 345947	conjunctive
 345950	conjunctive
 disjunctive
-345954	conjunctive/disjunctive
+345954	conjunctive
 disjunctive
 345957	disjunctive
 345959	conjunctive
@@ -213353,13 +213353,13 @@ conjunctive
 345977	conjunctive
 conjunctive
 disjunctive
-345982	conjunctive/disjunctive
+345982	conjunctive
 disjunctive
 345986	disjunctive
 345989	disjunctive
 345992	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 345997	disjunctive
 346000	disjunctive
 346002	conjunctive
@@ -213395,7 +213395,7 @@ conjunctive
 346053	disjunctive
 346055	disjunctive
 346058	disjunctive
-346060	conjunctive/disjunctive
+346060	conjunctive
 disjunctive
 346063	conjunctive
 disjunctive
@@ -213404,8 +213404,8 @@ disjunctive
 346069	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
-unknown
+conjunctive
+disjunctive
 346075	disjunctive
 346078	conjunctive
 346080	disjunctive
@@ -213416,26 +213416,26 @@ conjunctive
 conjunctive
 disjunctive
 346091	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 346097	disjunctive
 346100	disjunctive
 346102	disjunctive
-346104	conjunctive/disjunctive
+346104	conjunctive
 346106	disjunctive
 346109	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 346113	
 346115	disjunctive
-346118	conjunctive/disjunctive
+346118	conjunctive
 disjunctive
 conjunctive
 
 346123	conjunctive
-conjunctive/disjunctive
+conjunctive
 346126	disjunctive
 346128	disjunctive
 346130	disjunctive
@@ -213445,7 +213445,7 @@ conjunctive
 conjunctive
 
 346138	conjunctive
-conjunctive/disjunctive
+conjunctive
 346141	disjunctive
 346143	disjunctive
 conjunctive
@@ -213482,9 +213482,9 @@ disjunctive
 346191	conjunctive
 disjunctive
 346195	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 conjunctive
 346202	disjunctive
@@ -213494,7 +213494,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-346212	conjunctive/disjunctive
+346212	conjunctive
 346214	disjunctive
 346216	disjunctive
 conjunctive
@@ -213509,7 +213509,7 @@ disjunctive
 disjunctive
 conjunctive
 346234	disjunctive
-346237	conjunctive/disjunctive
+346237	conjunctive
 disjunctive
 346240	conjunctive
 conjunctive
@@ -213519,13 +213519,13 @@ disjunctive
 346247	conjunctive
 disjunctive
 disjunctive
-346252	conjunctive/disjunctive
+346252	conjunctive
 disjunctive
 346255	conjunctive
 conjunctive
 346258	disjunctive
 346260	disjunctive
-346262	conjunctive/disjunctive
+346262	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -213537,21 +213537,21 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-346276	conjunctive/disjunctive
+346276	conjunctive
 disjunctive
 conjunctive
 conjunctive
 346281	disjunctive
-346283	unknown
-conjunctive/disjunctive
+346283	disjunctive
+conjunctive
 disjunctive
 346287	disjunctive
 conjunctive
 346290	disjunctive
-346293	conjunctive/disjunctive
+346293	conjunctive
 346295	disjunctive
 346297	disjunctive
-346299	conjunctive/disjunctive
+346299	conjunctive
 disjunctive
 346302	conjunctive
 conjunctive
@@ -213570,7 +213570,7 @@ disjunctive
 346319	conjunctive
 conjunctive
 346322	disjunctive
-346324	conjunctive/disjunctive
+346324	conjunctive
 disjunctive
 346327	disjunctive
 346329	disjunctive
@@ -213578,13 +213578,13 @@ conjunctive
 conjunctive
 346333	disjunctive
 346336	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 346340	conjunctive
 conjunctive
 346343	disjunctive
 346346	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 346350	conjunctive
 disjunctive
@@ -213614,12 +213614,12 @@ disjunctive
 346388	conjunctive
 conjunctive
 disjunctive
-346392	conjunctive/disjunctive
+346392	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 346397	disjunctive
-346399	conjunctive/disjunctive
+346399	conjunctive
 disjunctive
 346402	conjunctive
 346404	conjunctive
@@ -213627,9 +213627,9 @@ disjunctive
 346407	disjunctive
 conjunctive
 disjunctive
-346411	conjunctive/disjunctive
+346411	conjunctive
 disjunctive
-346414	conjunctive/disjunctive
+346414	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -213637,7 +213637,7 @@ disjunctive
 conjunctive
 346423	conjunctive
 346425	disjunctive
-346427	conjunctive/disjunctive
+346427	conjunctive
 disjunctive
 346431	disjunctive
 346433	conjunctive
@@ -213645,7 +213645,7 @@ disjunctive
 346436	disjunctive
 conjunctive
 disjunctive
-346440	conjunctive/disjunctive
+346440	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -213660,15 +213660,15 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 346459	conjunctive
 disjunctive
 346462	disjunctive
-346464	conjunctive/disjunctive
+346464	conjunctive
 disjunctive
-346468	conjunctive/disjunctive
+346468	conjunctive
 disjunctive
 disjunctive
 346472	conjunctive
@@ -213681,7 +213681,7 @@ disjunctive
 346483	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 346490	disjunctive
@@ -213694,18 +213694,18 @@ disjunctive
 conjunctive
 disjunctive
 346502	disjunctive
-346504	conjunctive/disjunctive
+346504	conjunctive
 disjunctive
 346507	disjunctive
 conjunctive
 disjunctive
 346512	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 346521	disjunctive
 disjunctive
@@ -213732,10 +213732,10 @@ disjunctive
 346551	conjunctive
 conjunctive
 disjunctive
-346555	conjunctive/disjunctive
+346555	conjunctive
 346557	disjunctive
 346559	disjunctive
-346561	conjunctive/disjunctive
+346561	conjunctive
 346563	disjunctive
 346565	disjunctive
 conjunctive
@@ -213753,7 +213753,7 @@ conjunctive
 346583	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 346589	disjunctive
 disjunctive
 conjunctive
@@ -213761,50 +213761,50 @@ disjunctive
 conjunctive
 conjunctive
 346596	disjunctive
-346599	conjunctive/disjunctive
+346599	conjunctive
 disjunctive
 346602	disjunctive
 346605	disjunctive
-346608	conjunctive/disjunctive
+346608	conjunctive
 disjunctive
 disjunctive
 conjunctive
 346615	
-346617	disjunctive
+346617	conjunctive
 conjunctive
 346620	disjunctive
 346622	disjunctive
 
 346625	conjunctive
 disjunctive
-346629	disjunctive
+346629	conjunctive
 conjunctive
 disjunctive
 conjunctive
+disjunctive
+conjunctive
+disjunctive
+disjunctive
 conjunctive
 conjunctive
 disjunctive
-unknown
-conjunctive
-conjunctive
-unknown
 346641	conjunctive
 disjunctive
 conjunctive
-unknown
+disjunctive
 346646	conjunctive
 disjunctive
-346649	unknown
+346649	disjunctive
 346651	conjunctive
 disjunctive
-unknown
+disjunctive
 346655	disjunctive
 346658	conjunctive
 disjunctive
-346661	unknown
+346661	disjunctive
 conjunctive
 disjunctive
-346665	unknown
+346665	disjunctive
 conjunctive
 346668	disjunctive
 346670	conjunctive
@@ -213986,12 +213986,12 @@ disjunctive
 conjunctive
 346942	disjunctive
 346944	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 346948	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 346953	disjunctive
 346955	disjunctive
 346957	conjunctive
@@ -214005,28 +214005,28 @@ disjunctive
 346969	conjunctive
 disjunctive
 346972	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 346976	conjunctive
 disjunctive
 346979	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 346983	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 346990	disjunctive
-conjunctive/disjunctive
+conjunctive
 
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 346999	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -214036,13 +214036,13 @@ conjunctive
 347009	disjunctive
 347011	disjunctive
 disjunctive
-347014	conjunctive/disjunctive
+347014	conjunctive
 disjunctive
 347017	disjunctive
 347019	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 347024	disjunctive
 conjunctive
 347027	conjunctive
@@ -214062,15 +214062,15 @@ disjunctive
 conjunctive
 conjunctive
 347048	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 347053	disjunctive
 disjunctive
 347056	conjunctive
 347058	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347063	disjunctive
 conjunctive
@@ -214083,7 +214083,7 @@ disjunctive
 conjunctive
 347079	disjunctive
 347081	disjunctive
-347083	conjunctive/disjunctive
+347083	conjunctive
 disjunctive
 347086	disjunctive
 347088	conjunctive
@@ -214101,20 +214101,20 @@ disjunctive
 347105	conjunctive
 disjunctive
 347109	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-347113	conjunctive/disjunctive
+347113	conjunctive
 disjunctive
 disjunctive
 347117	conjunctive
-conjunctive/disjunctive
+conjunctive
 347121	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347125	conjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
 347130	disjunctive
 disjunctive
 conjunctive
@@ -214133,11 +214133,11 @@ disjunctive
 conjunctive
 disjunctive
 347151	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347155	conjunctive
 disjunctive
-347158	conjunctive/disjunctive
+347158	conjunctive
 347160	disjunctive
 347162	disjunctive
 conjunctive
@@ -214154,9 +214154,9 @@ disjunctive
 347180	disjunctive
 347182	conjunctive
 disjunctive
-347185	conjunctive/disjunctive
+347185	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 347189	disjunctive
 conjunctive
 disjunctive
@@ -214168,11 +214168,11 @@ disjunctive
 disjunctive
 347201	conjunctive
 disjunctive
-347204	conjunctive/disjunctive
+347204	conjunctive
 disjunctive
 conjunctive
 disjunctive
-347209	conjunctive/disjunctive
+347209	conjunctive
 347211	disjunctive
 disjunctive
 347214	disjunctive
@@ -214192,18 +214192,18 @@ disjunctive
 disjunctive
 347236	disjunctive
 347238	disjunctive
-347240	conjunctive/disjunctive
+347240	conjunctive
 
 disjunctive
 347244	conjunctive
 disjunctive
 347247	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347251	conjunctive
 347254	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347260	disjunctive
 conjunctive
@@ -214211,11 +214211,11 @@ conjunctive
 347265	conjunctive
 disjunctive
 347269	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-347273	conjunctive/disjunctive
+347273	conjunctive
 347276	disjunctive
-347280	conjunctive/disjunctive
+347280	conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -214252,18 +214252,18 @@ conjunctive
 conjunctive
 347330	disjunctive
 347332	disjunctive
-347334	conjunctive/disjunctive
+347334	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347342	conjunctive
 347344	conjunctive
 disjunctive
 347347	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347351	conjunctive
 conjunctive
@@ -214271,10 +214271,10 @@ disjunctive
 347355	disjunctive
 347358	disjunctive
 347360	disjunctive
-347362	conjunctive/disjunctive
+347362	conjunctive
 disjunctive
 disjunctive
-347366	conjunctive/disjunctive
+347366	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -214285,7 +214285,7 @@ disjunctive
 347378	conjunctive
 disjunctive
 347381	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347385	disjunctive
 conjunctive
@@ -214303,7 +214303,7 @@ disjunctive
 conjunctive
 disjunctive
 347408	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -214312,22 +214312,22 @@ disjunctive
 347417	conjunctive
 conjunctive
 disjunctive
-347421	conjunctive/disjunctive
+347421	conjunctive
 347423	disjunctive
 347425	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347429	disjunctive
 347431	conjunctive
 disjunctive
 347434	disjunctive
-conjunctive/disjunctive
+conjunctive
 
 disjunctive
 conjunctive
 347440	disjunctive
 347442	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -214335,15 +214335,15 @@ disjunctive
 347449	conjunctive
 disjunctive
 347452	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 347457	disjunctive
 347459	disjunctive
-conjunctive/disjunctive
+conjunctive
 347462	disjunctive
 disjunctive
-347465	conjunctive/disjunctive
+347465	conjunctive
 disjunctive
 347469	conjunctive
 347472	disjunctive
@@ -214355,15 +214355,15 @@ conjunctive
 347483	disjunctive
 347486	disjunctive
 347488	disjunctive
-347491	conjunctive/disjunctive
+347491	conjunctive
 disjunctive
 347494	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347498	conjunctive
 conjunctive
 347501	disjunctive
-conjunctive/disjunctive
+conjunctive
 347504	disjunctive
 347506	conjunctive
 347508	disjunctive
@@ -214381,7 +214381,7 @@ conjunctive
 conjunctive
 disjunctive
 347532	disjunctive
-conjunctive/disjunctive
+conjunctive
 
 conjunctive
 disjunctive
@@ -214390,20 +214390,20 @@ conjunctive
 347542	disjunctive
 347544	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 conjunctive
 conjunctive
 disjunctive
 347553	disjunctive
-347555	conjunctive/disjunctive
+347555	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 347562	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -214423,7 +214423,7 @@ disjunctive
 347590	disjunctive
 conjunctive
 347593	disjunctive
-conjunctive/disjunctive
+conjunctive
 347596	disjunctive
 347599	conjunctive
 disjunctive
@@ -214431,12 +214431,12 @@ disjunctive
 disjunctive
 347606	conjunctive
 disjunctive
-347609	conjunctive/disjunctive
+347609	conjunctive
 
 disjunctive
-347613	conjunctive/disjunctive
+347613	conjunctive
 347615	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347619	disjunctive
 347621	disjunctive
@@ -214447,7 +214447,7 @@ disjunctive
 disjunctive
 347630	conjunctive
 347632	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 347636	disjunctive
 347638	conjunctive
@@ -214462,15 +214462,15 @@ disjunctive
 347652	disjunctive
 conjunctive
 disjunctive
-347656	conjunctive/disjunctive
+347656	conjunctive
 347658	disjunctive
 347660	disjunctive
-347662	conjunctive/disjunctive
+347662	conjunctive
 disjunctive
 347665	disjunctive
 347667	conjunctive
 disjunctive
-347671	conjunctive/disjunctive
+347671	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -214480,7 +214480,7 @@ conjunctive
 347681	conjunctive
 conjunctive
 347684	disjunctive
-347687	conjunctive/disjunctive
+347687	conjunctive
 347689	disjunctive
 347691	conjunctive
 347693	conjunctive
@@ -214490,7 +214490,7 @@ conjunctive
 347700	
 conjunctive
 347703	disjunctive
-347705	conjunctive/disjunctive
+347705	conjunctive
 disjunctive
 347708	conjunctive
 disjunctive
@@ -214515,7 +214515,7 @@ conjunctive
 conjunctive
 conjunctive
 disjunctive
-347747	conjunctive/disjunctive
+347747	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -214524,7 +214524,7 @@ disjunctive
 347755	conjunctive
 conjunctive
 disjunctive
-347761	conjunctive/disjunctive
+347761	conjunctive
 347763	disjunctive
 347766	
 347768	disjunctive
@@ -214532,14 +214532,14 @@ disjunctive
 conjunctive
 disjunctive
 347773	disjunctive
-conjunctive/disjunctive
+conjunctive
 
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 347781	disjunctive
-347783	conjunctive/disjunctive
+347783	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -214551,14 +214551,14 @@ disjunctive
 347794	disjunctive
 conjunctive
 347797	disjunctive
-conjunctive/disjunctive
+conjunctive
 347800	disjunctive
-347802	conjunctive/disjunctive
+347802	conjunctive
 disjunctive
 347805	disjunctive
-347807	conjunctive/disjunctive
+347807	conjunctive
 disjunctive
-347810	conjunctive/disjunctive
+347810	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -214567,12 +214567,12 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-347821	conjunctive/disjunctive
+347821	conjunctive
 347824	disjunctive
 347827	disjunctive
-347829	conjunctive/disjunctive
+347829	conjunctive
 347831	disjunctive
-conjunctive/disjunctive
+conjunctive
 347834	disjunctive
 conjunctive
 disjunctive
@@ -214581,7 +214581,7 @@ disjunctive
 347842	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 347847	disjunctive
 disjunctive
 conjunctive
@@ -214596,7 +214596,7 @@ conjunctive
 disjunctive
 347862	conjunctive
 disjunctive
-347865	conjunctive/disjunctive
+347865	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -214615,7 +214615,7 @@ conjunctive
 347890	conjunctive
 347892	disjunctive
 disjunctive
-347895	conjunctive/disjunctive
+347895	conjunctive
 disjunctive
 347898	conjunctive
 disjunctive
@@ -214623,7 +214623,7 @@ disjunctive
 347904	disjunctive
 347906	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 347911	disjunctive
 conjunctive
 347914	conjunctive
@@ -214633,9 +214633,9 @@ conjunctive
 disjunctive
 347921	conjunctive
 disjunctive
-347924	conjunctive/disjunctive
+347924	conjunctive
 disjunctive
-347927	conjunctive/disjunctive
+347927	conjunctive
 
 conjunctive
 disjunctive
@@ -214648,23 +214648,23 @@ disjunctive
 disjunctive
 347941	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 347945	disjunctive
-347947	conjunctive/disjunctive
+347947	conjunctive
 347949	disjunctive
 conjunctive
 disjunctive
 347954	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-347958	conjunctive/disjunctive
+347958	conjunctive
 
 disjunctive
 347962	conjunctive
 disjunctive
 347965	disjunctive
 347967	disjunctive
-347969	conjunctive/disjunctive
+347969	conjunctive
 347971	disjunctive
 disjunctive
 347974	conjunctive
@@ -214672,34 +214672,34 @@ disjunctive
 347977	conjunctive
 disjunctive
 347980	disjunctive
-347984	conjunctive/disjunctive
+347984	conjunctive
 disjunctive
 347988	disjunctive
 conjunctive
 disjunctive
 347992	disjunctive
-conjunctive/disjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-348000	conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+348000	conjunctive
+disjunctive
+conjunctive
 disjunctive
 disjunctive
 348006	conjunctive
 disjunctive
 348009	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-348017	conjunctive/disjunctive
+348017	conjunctive
 disjunctive
-348021	conjunctive/disjunctive
+348021	conjunctive
 348023	disjunctive
 conjunctive
 conjunctive
@@ -214709,10 +214709,10 @@ disjunctive
 disjunctive
 348033	disjunctive
 348035	disjunctive
-348037	conjunctive/disjunctive
+348037	conjunctive
 disjunctive
 348040	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -214732,12 +214732,12 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 348072	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 
@@ -214750,7 +214750,7 @@ conjunctive
 348090	conjunctive
 disjunctive
 348094	disjunctive
-348096	conjunctive/disjunctive
+348096	conjunctive
 disjunctive
 348099	conjunctive
 348101	conjunctive
@@ -214763,9 +214763,9 @@ disjunctive
 348112	disjunctive
 348114	conjunctive
 disjunctive
-348117	conjunctive/disjunctive
+348117	conjunctive
 348119	disjunctive
-348121	conjunctive/disjunctive
+348121	conjunctive
 disjunctive
 348124	disjunctive
 348126	disjunctive
@@ -214773,13 +214773,13 @@ disjunctive
 conjunctive
 disjunctive
 348131	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 348136	disjunctive
 348138	conjunctive
 disjunctive
 348142	disjunctive
-348144	conjunctive/disjunctive
+348144	conjunctive
 disjunctive
 348147	disjunctive
 conjunctive
@@ -214787,34 +214787,34 @@ conjunctive
 348153	conjunctive
 conjunctive
 348156	disjunctive
-348158	conjunctive/disjunctive
+348158	conjunctive
 348160	disjunctive
 348162	disjunctive
-348164	conjunctive/disjunctive
+348164	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 348171	disjunctive
 348173	disjunctive
-348175	conjunctive/disjunctive
+348175	conjunctive
 348177	disjunctive
 348179	conjunctive
 348181	conjunctive
 disjunctive
-348184	conjunctive/disjunctive
+348184	conjunctive
 disjunctive
 348187	disjunctive
-348189	conjunctive/disjunctive
+348189	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-348195	conjunctive/disjunctive
+348195	conjunctive
 disjunctive
 conjunctive
 348200	disjunctive
 348202	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 348206	conjunctive
 conjunctive
@@ -214828,12 +214828,12 @@ disjunctive
 conjunctive
 disjunctive
 348220	disjunctive
-348223	conjunctive/disjunctive
+348223	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 348229	disjunctive
-348232	conjunctive/disjunctive
+348232	conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -214849,21 +214849,21 @@ disjunctive
 conjunctive
 348253	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 348258	disjunctive
 disjunctive
 348262	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 348268	disjunctive
 conjunctive
 conjunctive
 348273	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-348277	conjunctive/disjunctive
+348277	conjunctive
 disjunctive
 348280	conjunctive
 conjunctive
@@ -214874,29 +214874,29 @@ disjunctive
 348290	conjunctive
 348292	disjunctive
 348295	disjunctive
-348297	conjunctive/disjunctive
+348297	conjunctive
 
-348301	conjunctive/disjunctive
+348301	conjunctive
 disjunctive
 conjunctive
 conjunctive
 348306	disjunctive
 conjunctive
-348309	conjunctive/disjunctive
+348309	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 348313	disjunctive
 conjunctive
 348317	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 348322	disjunctive
 disjunctive
 348325	conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 348331	disjunctive
 conjunctive
 disjunctive
@@ -214906,7 +214906,7 @@ disjunctive
 conjunctive
 conjunctive
 348340	disjunctive
-348344	conjunctive/disjunctive
+348344	conjunctive
 disjunctive
 348347	disjunctive
 348349	conjunctive
@@ -214916,7 +214916,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 348360	
@@ -214935,7 +214935,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 348385	conjunctive
 
@@ -214950,21 +214950,21 @@ disjunctive
 conjunctive
 disjunctive
 348400	disjunctive
-conjunctive/disjunctive
+conjunctive
 348403	disjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-348411	conjunctive/disjunctive
+348411	conjunctive
 348414	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-348420	conjunctive/disjunctive
+348420	conjunctive
 disjunctive
 conjunctive
 
@@ -214973,7 +214973,7 @@ disjunctive
 conjunctive
 disjunctive
 348430	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 348435	conjunctive
@@ -214994,15 +214994,15 @@ conjunctive
 disjunctive
 348456	conjunctive
 disjunctive
-348459	conjunctive/disjunctive
+348459	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 348464	disjunctive
 348466	conjunctive
 disjunctive
 348469	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 348473	conjunctive
 disjunctive
@@ -215010,11 +215010,11 @@ disjunctive
 348479	disjunctive
 348481	disjunctive
 conjunctive
-348484	conjunctive/disjunctive
+348484	conjunctive
 disjunctive
-348487	disjunctive/conjunctive
-conjunctive/disjunctive
-348490	conjunctive/disjunctive
+348487	disjunctive
+conjunctive
+348490	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -215036,15 +215036,15 @@ disjunctive
 348517	disjunctive
 348519	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-348525	conjunctive/disjunctive
+348525	conjunctive
 disjunctive
 348528	conjunctive
 348531	disjunctive
 conjunctive
 disjunctive
-348535	conjunctive/disjunctive
+348535	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -215057,16 +215057,16 @@ disjunctive
 conjunctive
 conjunctive
 348551	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
-348558	conjunctive/disjunctive
+348558	conjunctive
 disjunctive
 348561	disjunctive
 conjunctive
 disjunctive
-348565	conjunctive/disjunctive
+348565	conjunctive
 348567	disjunctive
 348570	disjunctive
 348572	conjunctive
@@ -215081,31 +215081,31 @@ disjunctive
 conjunctive
 disjunctive
 348589	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 348595	disjunctive
 348597	disjunctive
-348599	conjunctive/disjunctive
+348599	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 348603	disjunctive
 disjunctive
-348606	conjunctive/disjunctive
+348606	conjunctive
 disjunctive
 conjunctive
 348611	disjunctive
 conjunctive
 disjunctive
 348615	disjunctive
-348618	conjunctive/disjunctive
+348618	conjunctive
 disjunctive
 348621	disjunctive
 348623	conjunctive
 disjunctive
 348626	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 348631	conjunctive
@@ -215126,27 +215126,27 @@ disjunctive
 348655	conjunctive
 conjunctive
 disjunctive
-348661	conjunctive/disjunctive
+348661	conjunctive
 disjunctive
-348664	conjunctive/disjunctive
+348664	conjunctive
 disjunctive
 348667	disjunctive
 348669	conjunctive
 disjunctive
 348672	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-348676	conjunctive/disjunctive
+348676	conjunctive
 disjunctive
 conjunctive
 conjunctive
 348681	disjunctive
 348683	disjunctive
-348685	conjunctive/disjunctive
+348685	conjunctive
 disjunctive
 disjunctive
 348690	disjunctive
-conjunctive/disjunctive
+conjunctive
 348694	disjunctive
 348696	conjunctive
 348698	conjunctive
@@ -215154,7 +215154,7 @@ disjunctive
 348701	conjunctive
 conjunctive
 348705	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 348709	conjunctive
 disjunctive
@@ -215162,23 +215162,23 @@ conjunctive
 conjunctive
 disjunctive
 348715	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 348719	disjunctive
 conjunctive
 348722	disjunctive
-348724	conjunctive/disjunctive
+348724	conjunctive
 disjunctive
 348727	disjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 348739	disjunctive
 conjunctive
@@ -215197,14 +215197,14 @@ disjunctive
 348762	disjunctive
 conjunctive
 348765	disjunctive
-348767	conjunctive/disjunctive
+348767	conjunctive
 348769	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 348774	conjunctive
 disjunctive
-348777	conjunctive/disjunctive
+348777	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -215214,7 +215214,7 @@ disjunctive
 348786	conjunctive
 disjunctive
 348790	disjunctive
-348792	conjunctive/disjunctive
+348792	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -215224,7 +215224,7 @@ disjunctive
 conjunctive
 348802	disjunctive
 348805	disjunctive
-348808	conjunctive/disjunctive
+348808	conjunctive
 
 348811	conjunctive
 disjunctive
@@ -215234,7 +215234,7 @@ disjunctive
 348821	conjunctive
 348823	conjunctive
 disjunctive
-348826	unknown
+348826	disjunctive
 348828	disjunctive
 348830	conjunctive
 conjunctive
@@ -215246,17 +215246,17 @@ conjunctive
 disjunctive
 disjunctive
 348843	
-348846	conjunctive/disjunctive
+348846	conjunctive
 disjunctive
 348849	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-348854	conjunctive/disjunctive
+348854	conjunctive
 348856	disjunctive
 conjunctive
 conjunctive
 disjunctive
-348862	conjunctive/disjunctive
+348862	conjunctive
 348865	disjunctive
 conjunctive
 conjunctive
@@ -215265,18 +215265,18 @@ conjunctive
 conjunctive
 disjunctive
 348873	disjunctive
-348875	conjunctive/disjunctive
+348875	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 348881	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 348886	conjunctive
 disjunctive
-348889	conjunctive/disjunctive
+348889	conjunctive
 disjunctive
 disjunctive
 348893	disjunctive
@@ -215285,11 +215285,11 @@ disjunctive
 348897	conjunctive
 conjunctive
 disjunctive
-348901	conjunctive/disjunctive
+348901	conjunctive
 348904	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 348909	disjunctive
 conjunctive
 disjunctive
@@ -215297,10 +215297,10 @@ disjunctive
 348916	disjunctive
 348918	conjunctive
 disjunctive
-348921	conjunctive/disjunctive
+348921	conjunctive
 348924	disjunctive
 348926	disjunctive
-348928	conjunctive/disjunctive
+348928	conjunctive
 disjunctive
 348931	conjunctive
 disjunctive
@@ -215316,8 +215316,8 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
 conjunctive
 348955	disjunctive
 348957	conjunctive
@@ -215327,7 +215327,7 @@ conjunctive
 disjunctive
 348964	disjunctive
 348966	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -215341,16 +215341,16 @@ disjunctive
 conjunctive
 disjunctive
 348982	disjunctive
-348984	conjunctive/disjunctive
+348984	conjunctive
 disjunctive
 disjunctive
 
 disjunctive
 348990	disjunctive
 disjunctive
-348994	conjunctive/disjunctive
+348994	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 348999	disjunctive
 conjunctive
@@ -215358,12 +215358,12 @@ disjunctive
 349003	conjunctive
 349006	disjunctive
 349008	disjunctive
-349010	conjunctive/disjunctive
+349010	conjunctive
 disjunctive
-349014	conjunctive/disjunctive
+349014	conjunctive
 disjunctive
 349017	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 349021	conjunctive
 conjunctive
@@ -215378,12 +215378,12 @@ conjunctive
 conjunctive
 349034	disjunctive
 349036	disjunctive
-conjunctive/disjunctive
+conjunctive
 349039	disjunctive
 349042	disjunctive
-349045	conjunctive/disjunctive
+349045	conjunctive
 disjunctive
-349048	conjunctive/disjunctive
+349048	conjunctive
 disjunctive
 349051	disjunctive
 349053	conjunctive
@@ -215397,21 +215397,21 @@ disjunctive
 conjunctive
 349065	disjunctive
 349067	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 349071	conjunctive
 disjunctive
 conjunctive
 disjunctive
-349076	conjunctive/disjunctive
+349076	conjunctive
 disjunctive
-349079	conjunctive/disjunctive
+349079	conjunctive
 disjunctive
 349082	conjunctive
 conjunctive
 349085	disjunctive
 349087	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 349091	conjunctive
 349094	disjunctive
@@ -215422,7 +215422,7 @@ conjunctive
 349102	disjunctive
 conjunctive
 disjunctive
-349106	conjunctive/disjunctive
+349106	conjunctive
 disjunctive
 disjunctive
 349110	conjunctive
@@ -215436,34 +215436,34 @@ disjunctive
 349122	conjunctive
 disjunctive
 349125	disjunctive
-349127	conjunctive/disjunctive
+349127	conjunctive
 
 349130	conjunctive
 disjunctive
 349133	disjunctive
 349135	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 349141	disjunctive
 349144	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 349150	conjunctive
 349152	disjunctive
 disjunctive
 disjunctive
 349156	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 
 disjunctive
-349164	conjunctive/disjunctive
+349164	conjunctive
 disjunctive
 349167	disjunctive
 349169	disjunctive
@@ -215483,7 +215483,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -215520,13 +215520,13 @@ disjunctive
 349233	conjunctive
 disjunctive
 349236	disjunctive
-conjunctive/disjunctive
+conjunctive
 349239	disjunctive
 349241	disjunctive
 conjunctive
 349244	disjunctive
 349247	disjunctive
-conjunctive/disjunctive
+conjunctive
 349250	disjunctive
 349252	conjunctive
 
@@ -215540,7 +215540,7 @@ disjunctive
 349263	disjunctive
 conjunctive
 disjunctive
-349267	conjunctive/disjunctive
+349267	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -215548,13 +215548,13 @@ disjunctive
 conjunctive
 disjunctive
 349276	disjunctive
-349278	conjunctive/disjunctive
+349278	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 disjunctive
-349286	conjunctive/disjunctive
+349286	conjunctive
 disjunctive
 349289	disjunctive
 349291	conjunctive
@@ -215562,7 +215562,7 @@ disjunctive
 349294	disjunctive
 conjunctive
 disjunctive
-349298	conjunctive/disjunctive
+349298	conjunctive
 349301	disjunctive
 349303	disjunctive
 disjunctive
@@ -215572,7 +215572,7 @@ disjunctive
 349311	disjunctive
 349313	conjunctive
 disjunctive
-349316	conjunctive/disjunctive
+349316	conjunctive
 disjunctive
 349319	conjunctive
 conjunctive
@@ -215588,15 +215588,15 @@ disjunctive
 conjunctive
 disjunctive
 349337	disjunctive
-349339	conjunctive/disjunctive
+349339	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 349344	disjunctive
 conjunctive
 disjunctive
 349348	disjunctive
-conjunctive/disjunctive
+conjunctive
 349351	disjunctive
 349353	conjunctive
 disjunctive
@@ -215606,7 +215606,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 349364	disjunctive
 349366	conjunctive
 conjunctive
@@ -215615,16 +215615,16 @@ conjunctive
 349372	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 349378	disjunctive
 conjunctive
 disjunctive
 disjunctive
 349383	conjunctive
 disjunctive
-349386	conjunctive/disjunctive
+349386	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -215635,37 +215635,37 @@ disjunctive
 349399	disjunctive
 conjunctive
 disjunctive
-349403	conjunctive/disjunctive
+349403	conjunctive
 disjunctive
 disjunctive
 conjunctive
 349409	disjunctive
 conjunctive
 disjunctive
-349413	conjunctive/disjunctive
+349413	conjunctive
 disjunctive
 disjunctive
 unknown
 disjunctive
 conjunctive
 disjunctive
-349421	conjunctive/disjunctive
+349421	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-349429	conjunctive/disjunctive
+349429	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
-349437	conjunctive/disjunctive
+349437	conjunctive
 349439	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 349443	conjunctive
 disjunctive
@@ -215674,10 +215674,10 @@ disjunctive
 349448	disjunctive
 349450	conjunctive
 349452	disjunctive
-conjunctive/disjunctive
+conjunctive
 349455	disjunctive
-349458	unknown
-conjunctive/disjunctive
+349458	disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -215702,7 +215702,7 @@ disjunctive
 conjunctive
 disjunctive
 349488	disjunctive
-349490	conjunctive/disjunctive
+349490	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -215725,7 +215725,7 @@ disjunctive
 conjunctive
 disjunctive
 349517	disjunctive
-349520	conjunctive/disjunctive
+349520	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -215757,9 +215757,9 @@ conjunctive
 disjunctive
 349562	disjunctive
 349565	disjunctive
-349569	conjunctive/disjunctive
+349569	conjunctive
 349572	disjunctive
-conjunctive/disjunctive
+conjunctive
 349575	disjunctive
 349577	disjunctive
 conjunctive
@@ -215791,14 +215791,14 @@ conjunctive
 349615	disjunctive
 conjunctive
 disjunctive
-349619	conjunctive/disjunctive
+349619	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-349627	conjunctive/disjunctive
+349627	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -215811,7 +215811,7 @@ disjunctive
 349639	disjunctive
 349641	conjunctive
 disjunctive
-349645	conjunctive/disjunctive
+349645	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -215824,20 +215824,20 @@ conjunctive
 349658	conjunctive
 disjunctive
 349661	disjunctive
-conjunctive/disjunctive
+conjunctive
 349664	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 349671	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 349679	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 349683	conjunctive
 conjunctive
@@ -215858,7 +215858,7 @@ disjunctive
 conjunctive
 disjunctive
 349707	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 349711	conjunctive
 disjunctive
@@ -215871,10 +215871,10 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-349727	conjunctive/disjunctive
+349727	conjunctive
 disjunctive
 disjunctive
-349732	conjunctive/disjunctive
+349732	conjunctive
 349734	disjunctive
 349736	conjunctive
 conjunctive
@@ -215883,7 +215883,7 @@ conjunctive
 disjunctive
 349742	disjunctive
 349745	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 349749	conjunctive
 disjunctive
@@ -215906,17 +215906,17 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-349780	conjunctive/disjunctive
+349780	conjunctive
 disjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 349786	disjunctive
-349788	conjunctive/disjunctive
+349788	conjunctive
 disjunctive
 conjunctive
 disjunctive
-349793	conjunctive/disjunctive
+349793	conjunctive
 349795	disjunctive
 349797	conjunctive
 conjunctive
@@ -215938,7 +215938,7 @@ conjunctive
 disjunctive
 349822	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 349827	conjunctive
 disjunctive
@@ -215950,15 +215950,15 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-349839	conjunctive/disjunctive
+349839	conjunctive
 disjunctive
-349842	conjunctive/disjunctive
+349842	conjunctive
 349844	disjunctive
 349847	disjunctive
-349849	conjunctive/disjunctive
+349849	conjunctive
 disjunctive
 349852	disjunctive
-349854	conjunctive/disjunctive
+349854	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -215979,12 +215979,12 @@ conjunctive
 conjunctive
 disjunctive
 349881	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 349887	disjunctive
-349889	conjunctive/disjunctive
+349889	conjunctive
 disjunctive
 349893	disjunctive
 349895	disjunctive
@@ -215998,7 +215998,7 @@ disjunctive
 349906	conjunctive
 disjunctive
 disjunctive
-349910	conjunctive/disjunctive
+349910	conjunctive
 349912	disjunctive
 conjunctive
 conjunctive
@@ -216017,7 +216017,7 @@ disjunctive
 349931	conjunctive
 conjunctive
 349934	disjunctive
-349936	conjunctive/disjunctive
+349936	conjunctive
 disjunctive
 349939	disjunctive
 349941	disjunctive
@@ -216035,7 +216035,7 @@ disjunctive
 conjunctive
 conjunctive
 349959	disjunctive
-349961	conjunctive/disjunctive
+349961	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -216047,7 +216047,7 @@ disjunctive
 349974	disjunctive
 349976	disjunctive
 349979	disjunctive
-conjunctive/disjunctive
+conjunctive
 349982	disjunctive
 conjunctive
 disjunctive
@@ -216059,7 +216059,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-349998	conjunctive/disjunctive
+349998	conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -216085,7 +216085,7 @@ disjunctive
 350029	conjunctive
 350031	disjunctive
 350033	disjunctive
-350035	conjunctive/disjunctive
+350035	conjunctive
 350037	disjunctive
 
 disjunctive
@@ -216145,14 +216145,14 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-350121	conjunctive/disjunctive
+350121	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-350126	conjunctive/disjunctive
+350126	conjunctive
 disjunctive
 350129	disjunctive
-conjunctive/disjunctive
+conjunctive
 350132	disjunctive
 conjunctive
 350136	conjunctive
@@ -216172,7 +216172,7 @@ disjunctive
 350155	conjunctive
 conjunctive
 disjunctive
-350160	conjunctive/disjunctive
+350160	conjunctive
 disjunctive
 350163	conjunctive
 conjunctive
@@ -216182,7 +216182,7 @@ disjunctive
 conjunctive
 disjunctive
 350172	disjunctive
-350174	conjunctive/disjunctive
+350174	conjunctive
 disjunctive
 350177	conjunctive
 350179	disjunctive
@@ -216195,7 +216195,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 350193	disjunctive
 conjunctive
@@ -216209,13 +216209,13 @@ disjunctive
 conjunctive
 disjunctive
 350208	disjunctive
-conjunctive/disjunctive
+conjunctive
 350211	disjunctive
 disjunctive
 conjunctive
 350215	disjunctive
 350217	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216228,9 +216228,9 @@ conjunctive
 350231	conjunctive
 disjunctive
 350234	disjunctive
-350236	conjunctive/disjunctive
+350236	conjunctive
 disjunctive
-350239	conjunctive/disjunctive
+350239	conjunctive
 disjunctive
 350242	conjunctive
 conjunctive
@@ -216249,15 +216249,15 @@ disjunctive
 conjunctive
 disjunctive
 350266	disjunctive
-350268	conjunctive/disjunctive
+350268	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 350274	disjunctive
 conjunctive
 disjunctive
-350278	conjunctive/disjunctive
+350278	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216266,7 +216266,7 @@ disjunctive
 conjunctive
 disjunctive
 350287	disjunctive
-350289	conjunctive/disjunctive
+350289	conjunctive
 disjunctive
 350292	disjunctive
 350294	disjunctive
@@ -216277,7 +216277,7 @@ disjunctive
 conjunctive
 350303	disjunctive
 350305	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216297,7 +216297,7 @@ conjunctive
 disjunctive
 conjunctive
 350330	disjunctive
-350332	conjunctive/disjunctive
+350332	conjunctive
 disjunctive
 conjunctive
 350336	disjunctive
@@ -216313,16 +216313,16 @@ disjunctive
 350350	disjunctive
 350352	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 350356	disjunctive
-350358	conjunctive/disjunctive
+350358	conjunctive
 350361	disjunctive
 conjunctive
 disjunctive
 350365	disjunctive
 conjunctive
 disjunctive
-350369	conjunctive/disjunctive
+350369	conjunctive
 disjunctive
 350372	conjunctive
 disjunctive
@@ -216331,7 +216331,7 @@ disjunctive
 conjunctive
 disjunctive
 350379	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
@@ -216345,7 +216345,7 @@ disjunctive
 conjunctive
 disjunctive
 350396	disjunctive
-350398	conjunctive/disjunctive
+350398	conjunctive
 disjunctive
 conjunctive
 350402	disjunctive
@@ -216357,7 +216357,7 @@ disjunctive
 350411	disjunctive
 conjunctive
 disjunctive
-350415	conjunctive/disjunctive
+350415	conjunctive
 disjunctive
 disjunctive
 350419	conjunctive
@@ -216371,7 +216371,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-350434	conjunctive/disjunctive
+350434	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216405,7 +216405,7 @@ disjunctive
 conjunctive
 disjunctive
 350480	disjunctive
-350482	conjunctive/disjunctive
+350482	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216419,7 +216419,7 @@ disjunctive
 350496	disjunctive
 350498	disjunctive
 350500	disjunctive
-350503	conjunctive/disjunctive
+350503	conjunctive
 350505	disjunctive
 350507	unknown
 conjunctive
@@ -216435,33 +216435,33 @@ disjunctive
 conjunctive
 350524	disjunctive
 350526	disjunctive
-conjunctive/disjunctive
+conjunctive
 350529	disjunctive
 conjunctive
 disjunctive
 350533	conjunctive
 350535	disjunctive
 350537	disjunctive
-conjunctive/disjunctive
+conjunctive
 350540	disjunctive
 350542	disjunctive
 conjunctive
 disjunctive
-350546	conjunctive/disjunctive
+350546	conjunctive
 disjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 350553	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 350559	conjunctive
 disjunctive
 350562	disjunctive
-350564	conjunctive/disjunctive
+350564	conjunctive
 disjunctive
 350568	disjunctive
 conjunctive
@@ -216469,7 +216469,7 @@ disjunctive
 350572	conjunctive
 conjunctive
 disjunctive
-350577	conjunctive/disjunctive
+350577	conjunctive
 disjunctive
 350580	conjunctive
 
@@ -216477,7 +216477,7 @@ disjunctive
 350585	disjunctive
 conjunctive
 disjunctive
-350589	conjunctive/disjunctive
+350589	conjunctive
 350591	disjunctive
 conjunctive
 disjunctive
@@ -216503,26 +216503,26 @@ disjunctive
 disjunctive
 350623	disjunctive
 350626	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 350634	disjunctive
-350636	conjunctive/disjunctive
+350636	conjunctive
 disjunctive
-350640	conjunctive/disjunctive
+350640	conjunctive
 350642	disjunctive
-350645	conjunctive/disjunctive
+350645	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 350652	disjunctive
 350655	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216535,7 +216535,7 @@ disjunctive
 conjunctive
 disjunctive
 350671	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 350675	disjunctive
 conjunctive
@@ -216547,10 +216547,10 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-350690	conjunctive/disjunctive
+350690	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 350695	disjunctive
 350697	conjunctive
 conjunctive
@@ -216559,7 +216559,7 @@ disjunctive
 350703	conjunctive
 disjunctive
 350706	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 350710	disjunctive
 conjunctive
@@ -216570,21 +216570,21 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-350723	conjunctive/disjunctive
+350723	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 350729	disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 350735	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-350741	conjunctive/disjunctive
+350741	conjunctive
 disjunctive
 conjunctive
 350745	disjunctive
@@ -216635,7 +216635,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-350803	conjunctive/disjunctive
+350803	conjunctive
 350805	disjunctive
 conjunctive
 350808	disjunctive
@@ -216648,7 +216648,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-350822	unknown
+350822	disjunctive
 conjunctive
 disjunctive
 conjunctive
@@ -216656,35 +216656,35 @@ disjunctive
 350828	disjunctive
 350830	
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 350835	conjunctive
 conjunctive
 disjunctive
 350840	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 350844	disjunctive
 350846	conjunctive
 disjunctive
-350849	conjunctive/disjunctive
+350849	conjunctive
 disjunctive
-350852	conjunctive/disjunctive
+350852	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 350859	disjunctive
-350861	conjunctive/disjunctive
+350861	conjunctive
 disjunctive
 350865	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-350871	conjunctive/disjunctive
+350871	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216696,14 +216696,14 @@ disjunctive
 conjunctive
 disjunctive
 350887	disjunctive
-350889	conjunctive/disjunctive
+350889	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
 350897	disjunctive
-350899	conjunctive/disjunctive
+350899	conjunctive
 disjunctive
 350902	disjunctive
 conjunctive
@@ -216723,9 +216723,9 @@ conjunctive
 disjunctive
 350929	conjunctive
 350931	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-350935	conjunctive/disjunctive
+350935	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216751,9 +216751,9 @@ conjunctive
 disjunctive
 conjunctive
 350965	disjunctive
-350967	conjunctive/disjunctive
+350967	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216763,7 +216763,7 @@ conjunctive
 disjunctive
 350980	disjunctive
 350982	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 350986	disjunctive
 disjunctive
@@ -216777,7 +216777,7 @@ conjunctive
 conjunctive
 conjunctive
 disjunctive
-351000	conjunctive/disjunctive
+351000	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216788,10 +216788,10 @@ disjunctive
 351010	conjunctive
 conjunctive
 disjunctive
-351014	conjunctive/disjunctive
+351014	conjunctive
 351016	disjunctive
 351019	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 351024	disjunctive
 conjunctive
@@ -216814,7 +216814,7 @@ disjunctive
 conjunctive
 disjunctive
 351055	disjunctive
-conjunctive/disjunctive
+conjunctive
 351058	disjunctive
 conjunctive
 disjunctive
@@ -216822,7 +216822,7 @@ disjunctive
 351064	disjunctive
 conjunctive
 disjunctive
-351069	conjunctive/disjunctive
+351069	conjunctive
 disjunctive
 conjunctive
 351073	disjunctive
@@ -216830,11 +216830,11 @@ conjunctive
 disjunctive
 351078	disjunctive
 351080	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 351084	disjunctive
 351086	disjunctive
-351088	conjunctive/disjunctive
+351088	conjunctive
 disjunctive
 351091	conjunctive
 disjunctive
@@ -216843,7 +216843,7 @@ disjunctive
 conjunctive
 disjunctive
 351098	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 351104	disjunctive
@@ -216860,9 +216860,9 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 351126	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216870,41 +216870,41 @@ disjunctive
 351134	conjunctive
 conjunctive
 disjunctive
-351138	conjunctive/disjunctive
+351138	conjunctive
 351140	disjunctive
 351142	conjunctive
 conjunctive
 disjunctive
-351148	conjunctive/disjunctive
+351148	conjunctive
 disjunctive
 351151	disjunctive
 351153	conjunctive
 disjunctive
 351156	disjunctive
-351158	conjunctive/disjunctive
+351158	conjunctive
 351160	disjunctive
-351162	conjunctive/disjunctive
+351162	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 351166	disjunctive
 conjunctive
 disjunctive
 conjunctive
 351171	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-351178	conjunctive/disjunctive
+351178	conjunctive
 disjunctive
-351182	conjunctive/disjunctive
+351182	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 351188	disjunctive
 351190	
-351192	conjunctive/disjunctive
+351192	conjunctive
 disjunctive
 351195	disjunctive
 conjunctive
@@ -216916,9 +216916,9 @@ disjunctive
 351208	disjunctive
 conjunctive
 disjunctive
-351212	conjunctive/disjunctive
+351212	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216932,13 +216932,13 @@ disjunctive
 conjunctive
 disjunctive
 351230	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 351234	disjunctive
 351236	disjunctive
-conjunctive/disjunctive
-351240	unknown
-351242	conjunctive/disjunctive
+conjunctive
+351240	disjunctive
+351242	conjunctive
 351245	disjunctive
 conjunctive
 conjunctive
@@ -216965,7 +216965,7 @@ disjunctive
 conjunctive
 disjunctive
 351279	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -216978,23 +216978,23 @@ conjunctive
 disjunctive
 351295	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-351305	conjunctive/disjunctive
+351305	conjunctive
 disjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 351312	disjunctive
-351314	conjunctive/disjunctive
+351314	conjunctive
 351316	disjunctive
-351318	conjunctive/disjunctive
+351318	conjunctive
 disjunctive
 351322	disjunctive
 conjunctive
@@ -217006,15 +217006,15 @@ conjunctive
 disjunctive
 351337	disjunctive
 351339	disjunctive
-conjunctive/disjunctive
+conjunctive
 351342	disjunctive
 351344	disjunctive
 disjunctive
 351347	conjunctive
 disjunctive
-351351	conjunctive/disjunctive
+351351	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 351358	disjunctive
@@ -217026,15 +217026,15 @@ disjunctive
 disjunctive
 conjunctive
 351372	disjunctive
-conjunctive/disjunctive
-unknown
-351376	conjunctive/disjunctive
+conjunctive
+disjunctive
+351376	conjunctive
 disjunctive
 conjunctive
 351381	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 351386	disjunctive
 conjunctive
 disjunctive
@@ -217049,7 +217049,7 @@ disjunctive
 351400	conjunctive
 351402	disjunctive
 disjunctive
-351406	conjunctive/disjunctive
+351406	conjunctive
 351408	disjunctive
 351410	conjunctive
 351412	disjunctive
@@ -217061,9 +217061,9 @@ disjunctive
 351422	disjunctive
 conjunctive
 disjunctive
-351426	conjunctive/disjunctive
+351426	conjunctive
 351428	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -217071,9 +217071,9 @@ conjunctive
 351436	conjunctive
 conjunctive
 disjunctive
-351440	conjunctive/disjunctive
+351440	conjunctive
 351442	disjunctive
-351444	conjunctive/disjunctive
+351444	conjunctive
 disjunctive
 351447	disjunctive
 conjunctive
@@ -217093,15 +217093,15 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-351473	conjunctive/disjunctive
+351473	conjunctive
 disjunctive
-351476	conjunctive/disjunctive
+351476	conjunctive
 disjunctive
 conjunctive
 disjunctive
 351481	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 351486	disjunctive
 351488	conjunctive
@@ -217113,30 +217113,30 @@ conjunctive
 351501	disjunctive
 conjunctive
 351504	disjunctive
-351506	conjunctive/disjunctive
+351506	conjunctive
 351508	disjunctive
 disjunctive
 conjunctive
 351512	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-351518	conjunctive/disjunctive
+351518	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 351527	disjunctive
 351529	disjunctive
 conjunctive
 351532	disjunctive
-351534	conjunctive/disjunctive
+351534	conjunctive
 351536	disjunctive
-conjunctive/disjunctive
+conjunctive
 351539	disjunctive
 conjunctive
 disjunctive
@@ -217149,7 +217149,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-351555	conjunctive/disjunctive
+351555	conjunctive
 disjunctive
 351558	disjunctive
 conjunctive
@@ -217157,12 +217157,12 @@ conjunctive
 conjunctive
 disjunctive
 351565	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 351569	conjunctive
 conjunctive
 disjunctive
-351573	conjunctive/disjunctive
+351573	conjunctive
 disjunctive
 351577	disjunctive
 conjunctive
@@ -217202,25 +217202,25 @@ disjunctive
 disjunctive
 351627	disjunctive
 disjunctive
-351631	conjunctive/disjunctive
+351631	conjunctive
 disjunctive
 351635	disjunctive
 conjunctive
 351638	disjunctive
-351641	conjunctive/disjunctive
+351641	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 351647	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 351654	conjunctive
 351656	disjunctive
-351658	conjunctive/disjunctive
+351658	conjunctive
 disjunctive
 351662	disjunctive
 conjunctive
@@ -217228,23 +217228,23 @@ disjunctive
 conjunctive
 351667	disjunctive
 351669	disjunctive
-351671	conjunctive/disjunctive
+351671	conjunctive
 disjunctive
 351674	disjunctive
 351676	disjunctive
 351678	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 351684	disjunctive
 351686	disjunctive
-conjunctive/disjunctive
+conjunctive
 351689	disjunctive
 disjunctive
 conjunctive
 351693	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 351697	conjunctive
 disjunctive
@@ -217258,7 +217258,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-351714	conjunctive/disjunctive
+351714	conjunctive
 disjunctive
 351717	disjunctive
 351720	disjunctive
@@ -217271,20 +217271,20 @@ conjunctive
 disjunctive
 351732	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 351736	disjunctive
 351738	disjunctive
 351740	disjunctive
 conjunctive
 disjunctive
-351744	conjunctive/disjunctive
+351744	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 351751	disjunctive
-351753	conjunctive/disjunctive
+351753	conjunctive
 disjunctive
 351756	disjunctive
 conjunctive
@@ -217306,10 +217306,10 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 351788	disjunctive
 351790	
-351792	conjunctive/disjunctive
+351792	conjunctive
 disjunctive
 351795	conjunctive
 351797	disjunctive
@@ -217322,31 +217322,31 @@ conjunctive
 351805	disjunctive
 351808	disjunctive
 351810	disjunctive
-conjunctive/disjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-351818	conjunctive/disjunctive
+conjunctive
+disjunctive
+351818	conjunctive
 disjunctive
 351821	disjunctive
-conjunctive/disjunctive
+conjunctive
 351824	disjunctive
 351826	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 351832	disjunctive
-351834	conjunctive/disjunctive
+351834	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 351838	disjunctive
 351840	disjunctive
 conjunctive
 351843	disjunctive
-351845	conjunctive/disjunctive
+351845	conjunctive
 disjunctive
 351848	conjunctive
 disjunctive
@@ -217362,20 +217362,20 @@ disjunctive
 conjunctive
 disjunctive
 351868	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 351876	disjunctive
-351878	conjunctive/disjunctive
+351878	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-351885	conjunctive/disjunctive
+351885	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -217385,7 +217385,7 @@ conjunctive
 351896	disjunctive
 351898	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 351902	disjunctive
 disjunctive
 conjunctive
@@ -217399,7 +217399,7 @@ conjunctive
 351914	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 351921	disjunctive
 conjunctive
@@ -217434,16 +217434,16 @@ conjunctive
 351965	disjunctive
 conjunctive
 disjunctive
-351969	conjunctive/disjunctive
+351969	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 351975	disjunctive
 conjunctive
 disjunctive
 351980	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -217469,12 +217469,12 @@ disjunctive
 352008	conjunctive
 disjunctive
 352012	disjunctive
-352014	conjunctive/disjunctive
+352014	conjunctive
 disjunctive
 352017	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352022	disjunctive
 352024	conjunctive
 disjunctive
@@ -217483,27 +217483,27 @@ disjunctive
 352029	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352034	disjunctive
 conjunctive
 conjunctive
 352039	disjunctive
-352041	conjunctive/disjunctive
+352041	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-352050	unknown
-352052	conjunctive/disjunctive
+352050	disjunctive
+352052	conjunctive
 disjunctive
 conjunctive
 conjunctive
 352057	disjunctive
-352059	conjunctive/disjunctive
+352059	conjunctive
 disjunctive
-352062	conjunctive/disjunctive
+352062	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -217516,15 +217516,15 @@ conjunctive
 disjunctive
 352078	conjunctive
 disjunctive
-352081	conjunctive/disjunctive
+352081	conjunctive
 352083	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 352087	disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352093	disjunctive
 352095	disjunctive
 352097	conjunctive
@@ -217535,7 +217535,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-352109	conjunctive/disjunctive
+352109	conjunctive
 disjunctive
 352112	disjunctive
 conjunctive
@@ -217548,7 +217548,7 @@ conjunctive
 352125	disjunctive
 conjunctive
 disjunctive
-352130	conjunctive/disjunctive
+352130	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -217557,7 +217557,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 352146	disjunctive
@@ -217582,7 +217582,7 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-352182	conjunctive/disjunctive
+352182	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -217593,7 +217593,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352197	disjunctive
 conjunctive
 352200	conjunctive
@@ -217607,7 +217607,7 @@ conjunctive
 352212	disjunctive
 conjunctive
 352215	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 352219	disjunctive
 conjunctive
@@ -217621,7 +217621,7 @@ conjunctive
 352234	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352239	disjunctive
 352241	conjunctive
 disjunctive
@@ -217633,14 +217633,14 @@ conjunctive
 disjunctive
 conjunctive
 352253	disjunctive
-352255	conjunctive/disjunctive
+352255	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 352263	disjunctive
-352265	conjunctive/disjunctive
+352265	conjunctive
 disjunctive
 352268	disjunctive
 352270	disjunctive
@@ -217654,7 +217654,7 @@ conjunctive
 conjunctive
 disjunctive
 352285	disjunctive
-352287	conjunctive/disjunctive
+352287	conjunctive
 disjunctive
 disjunctive
 352291	conjunctive
@@ -217665,14 +217665,14 @@ disjunctive
 352299	conjunctive
 conjunctive
 disjunctive
-352304	conjunctive/disjunctive
+352304	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 352311	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 352315	
 disjunctive
@@ -217682,9 +217682,9 @@ disjunctive
 352323	disjunctive
 conjunctive
 disjunctive
-352327	conjunctive/disjunctive
+352327	conjunctive
 352329	disjunctive
-conjunctive/disjunctive
+conjunctive
 352332	disjunctive
 352334	conjunctive
 disjunctive
@@ -217695,10 +217695,10 @@ conjunctive
 352342	conjunctive
 conjunctive
 352345	disjunctive
-352347	conjunctive/disjunctive
+352347	conjunctive
 352349	disjunctive
 352351	disjunctive
-352353	conjunctive/disjunctive
+352353	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -217770,28 +217770,28 @@ conjunctive
 disjunctive
 352460	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 352465	disjunctive
-352467	conjunctive/disjunctive
+352467	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-352472	conjunctive/disjunctive
+352472	conjunctive
 disjunctive
 conjunctive
 conjunctive
 conjunctive
 disjunctive
 352479	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-352484	conjunctive/disjunctive
+352484	conjunctive
 352487	disjunctive
-352489	conjunctive/disjunctive
+352489	conjunctive
 disjunctive
-352492	conjunctive/disjunctive
+352492	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -217801,7 +217801,7 @@ disjunctive
 disjunctive
 352505	disjunctive
 352507	disjunctive
-352510	conjunctive/disjunctive
+352510	conjunctive
 352512	disjunctive
 352514	disjunctive
 conjunctive
@@ -217814,16 +217814,16 @@ conjunctive
 conjunctive
 disjunctive
 352529	disjunctive
-352531	conjunctive/disjunctive
+352531	conjunctive
 disjunctive
 352534	conjunctive
 disjunctive
 conjunctive
 352539	disjunctive
 352541	disjunctive
-352543	conjunctive/disjunctive
+352543	conjunctive
 352546	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 352552	disjunctive
@@ -217843,7 +217843,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352576	disjunctive
 conjunctive
 disjunctive
@@ -217854,7 +217854,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352592	disjunctive
 352594	conjunctive
 
@@ -217870,9 +217870,9 @@ disjunctive
 disjunctive
 conjunctive
 352612	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352617	disjunctive
 conjunctive
 disjunctive
@@ -217892,7 +217892,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-352640	conjunctive/disjunctive
+352640	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -217903,7 +217903,7 @@ conjunctive
 352652	disjunctive
 conjunctive
 disjunctive
-352656	conjunctive/disjunctive
+352656	conjunctive
 disjunctive
 352659	conjunctive
 disjunctive
@@ -217911,13 +217911,13 @@ conjunctive
 disjunctive
 disjunctive
 disjunctive
-352667	conjunctive/disjunctive
+352667	conjunctive
 disjunctive
-352670	conjunctive/disjunctive
+352670	conjunctive
 disjunctive
-352673	conjunctive/disjunctive
+352673	conjunctive
 disjunctive
-352676	conjunctive/disjunctive
+352676	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -217931,7 +217931,7 @@ conjunctive
 disjunctive
 352691	conjunctive
 disjunctive
-352694	conjunctive/disjunctive
+352694	conjunctive
 disjunctive
 352697	conjunctive
 
@@ -217945,7 +217945,7 @@ conjunctive
 disjunctive
 352712	conjunctive
 disjunctive
-352715	conjunctive/disjunctive
+352715	conjunctive
 352718	disjunctive
 conjunctive
 disjunctive
@@ -217960,7 +217960,7 @@ conjunctive
 conjunctive
 352732	
 352734	disjunctive
-conjunctive/disjunctive
+conjunctive
 352737	disjunctive
 conjunctive
 disjunctive
@@ -217973,22 +217973,22 @@ conjunctive
 disjunctive
 352750	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 352759	disjunctive
 352761	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352765	disjunctive
-352767	conjunctive/disjunctive
+352767	conjunctive
 disjunctive
 disjunctive
 352771	conjunctive
 disjunctive
-352774	conjunctive/disjunctive
+352774	conjunctive
 disjunctive
 352777	conjunctive
 disjunctive
@@ -218011,59 +218011,59 @@ disjunctive
 352804	disjunctive
 conjunctive
 352807	disjunctive
-conjunctive/disjunctive
+conjunctive
 352810	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 352820	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 352828	disjunctive
-352830	conjunctive/disjunctive
+352830	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 352840	disjunctive
 disjunctive
 conjunctive
 352845	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 352853	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 352857	disjunctive
 352860	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 352864	disjunctive
 conjunctive
 disjunctive
 352868	disjunctive
-conjunctive/disjunctive
+conjunctive
 352871	disjunctive
 352873	disjunctive
 352875	conjunctive
 352877	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 352881	disjunctive
 352883	conjunctive
@@ -218082,8 +218082,8 @@ disjunctive
 conjunctive
 conjunctive
 disjunctive
-352907	conjunctive/disjunctive
-conjunctive/disjunctive
+352907	conjunctive
+conjunctive
 disjunctive
 352911	
 352914	disjunctive
@@ -218101,23 +218101,23 @@ disjunctive
 352935	disjunctive
 352937	conjunctive
 disjunctive
-352941	conjunctive/disjunctive
-unknown
+352941	conjunctive
+disjunctive
 conjunctive
 disjunctive
-352946	conjunctive/disjunctive
+352946	conjunctive
 
 352949	conjunctive
 conjunctive
 352952	disjunctive
-352954	conjunctive/disjunctive
+352954	conjunctive
 352957	disjunctive
 352960	disjunctive
 disjunctive
-352964	conjunctive/disjunctive
+352964	conjunctive
 352966	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
 352971	disjunctive
 352973	disjunctive
@@ -218130,17 +218130,17 @@ disjunctive
 disjunctive
 conjunctive
 352983	disjunctive
-352986	conjunctive/disjunctive
+352986	conjunctive
 disjunctive
-352989	unknown
-352991	conjunctive/disjunctive
+352989	disjunctive
+352991	conjunctive
 
 352994	disjunctive
 352996	conjunctive
 352998	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-353002	conjunctive/disjunctive
+353002	conjunctive
 353004	disjunctive
 353006	conjunctive
 conjunctive
@@ -218153,12 +218153,12 @@ disjunctive
 353019	disjunctive
 conjunctive
 disjunctive
-353023	conjunctive/disjunctive
+353023	conjunctive
 353025	disjunctive
-353027	conjunctive/disjunctive
+353027	conjunctive
 disjunctive
 353030	
-conjunctive/disjunctive
+conjunctive
 disjunctive
 353034	disjunctive
 conjunctive
@@ -218175,19 +218175,19 @@ disjunctive
 353053	
 353055	disjunctive
 disjunctive
-353058	conjunctive/disjunctive
+353058	conjunctive
 353060	disjunctive
-353062	conjunctive/disjunctive
+353062	conjunctive
 conjunctive
 353065	disjunctive
 conjunctive
 disjunctive
 353069	disjunctive
 353071	disjunctive
-353073	conjunctive/disjunctive
+353073	conjunctive
 disjunctive
 353076	disjunctive
-conjunctive/disjunctive
+conjunctive
 353079	disjunctive
 353081	conjunctive
 disjunctive
@@ -218198,10 +218198,10 @@ disjunctive
 353091	disjunctive
 conjunctive
 disjunctive
-353096	conjunctive/disjunctive
+353096	conjunctive
 disjunctive
 353099	disjunctive
-353101	conjunctive/disjunctive
+353101	conjunctive
 disjunctive
 353104	conjunctive
 353106	conjunctive
@@ -218214,7 +218214,7 @@ disjunctive
 353119	conjunctive
 353121	conjunctive
 disjunctive
-353124	conjunctive/disjunctive
+353124	conjunctive
 353127	disjunctive
 conjunctive
 disjunctive
@@ -218222,7 +218222,7 @@ disjunctive
 353133	conjunctive
 disjunctive
 353136	disjunctive
-353138	conjunctive/disjunctive
+353138	conjunctive
 disjunctive
 disjunctive
 353142	conjunctive
@@ -218230,15 +218230,15 @@ disjunctive
 conjunctive
 conjunctive
 353147	disjunctive
-353149	conjunctive/disjunctive
+353149	conjunctive
 disjunctive
-353152	conjunctive/disjunctive
+353152	conjunctive
 disjunctive
 disjunctive
 353156	conjunctive
 disjunctive
 353160	disjunctive
-conjunctive/disjunctive
+conjunctive
 353165	disjunctive
 353168	disjunctive
 disjunctive
@@ -218253,7 +218253,7 @@ conjunctive
 353183	conjunctive
 353186	conjunctive
 disjunctive
-353189	conjunctive/disjunctive
+353189	conjunctive
 353192	disjunctive
 353194	conjunctive
 conjunctive
@@ -218262,14 +218262,14 @@ disjunctive
 353200	disjunctive
 disjunctive
 353203	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 353208	disjunctive
 conjunctive
 disjunctive
 353213	disjunctive
-353215	conjunctive/disjunctive
+353215	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -218284,7 +218284,7 @@ disjunctive
 353232	
 disjunctive
 353235	disjunctive
-353237	conjunctive/disjunctive
+353237	conjunctive
 353239	disjunctive
 353241	disjunctive
 disjunctive
@@ -218292,40 +218292,40 @@ disjunctive
 conjunctive
 disjunctive
 353248	disjunctive
-conjunctive/disjunctive
+conjunctive
 
 353252	conjunctive
 conjunctive
 disjunctive
-353256	conjunctive/disjunctive
+353256	conjunctive
 disjunctive
 disjunctive
 353260	disjunctive
 353262	conjunctive
 disjunctive
 353265	disjunctive
-353267	conjunctive/disjunctive
+353267	conjunctive
 disjunctive
 353270	conjunctive
-conjunctive/disjunctive
+conjunctive
 353273	conjunctive
 disjunctive
 353276	conjunctive
 
-353279	conjunctive/disjunctive
+353279	conjunctive
 disjunctive
 353282	disjunctive
 conjunctive
 disjunctive
 353286	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-353291	conjunctive/disjunctive
+353291	conjunctive
 353294	disjunctive
 353297	disjunctive
-353299	conjunctive/disjunctive
+353299	conjunctive
 disjunctive
-353302	conjunctive/disjunctive
+353302	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -218337,13 +218337,13 @@ disjunctive
 disjunctive
 353317	conjunctive
 disjunctive
-353321	conjunctive/disjunctive
+353321	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 353327	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 353331	disjunctive
 353333	conjunctive
@@ -218351,26 +218351,26 @@ disjunctive
 353339	disjunctive
 353341	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 353345	disjunctive
 disjunctive
 353348	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 353355	disjunctive
 353357	conjunctive
 disjunctive
 353361	
-353363	conjunctive/disjunctive
+353363	conjunctive
 disjunctive
 353366	conjunctive
 conjunctive
 disjunctive
 353370	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 353374	disjunctive
 conjunctive
@@ -218383,7 +218383,7 @@ disjunctive
 353387	conjunctive
 conjunctive
 353390	disjunctive
-353392	conjunctive/disjunctive
+353392	conjunctive
 353395	disjunctive
 353398	disjunctive
 353400	disjunctive
@@ -218400,10 +218400,10 @@ disjunctive
 353418	disjunctive
 conjunctive
 353421	disjunctive
-conjunctive/disjunctive
+conjunctive
 353424	disjunctive
 disjunctive
-353427	conjunctive/disjunctive
+353427	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -218412,20 +218412,20 @@ disjunctive
 353435	conjunctive
 disjunctive
 disjunctive
-353439	conjunctive/disjunctive
+353439	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
 conjunctive
 353447	disjunctive
-353449	conjunctive/disjunctive
+353449	conjunctive
 353452	disjunctive
 353454	disjunctive
 353456	disjunctive
 disjunctive
 353459	conjunctive
-conjunctive/disjunctive
+conjunctive
 353463	conjunctive
 disjunctive
 353466	disjunctive
@@ -218439,11 +218439,11 @@ disjunctive
 353479	conjunctive
 conjunctive
 353482	disjunctive
-353484	conjunctive/disjunctive
+353484	conjunctive
 disjunctive
 353487	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 353492	disjunctive
 353494	disjunctive
@@ -218456,7 +218456,7 @@ conjunctive
 disjunctive
 353506	conjunctive
 disjunctive
-353509	conjunctive/disjunctive
+353509	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -218464,13 +218464,13 @@ conjunctive
 conjunctive
 353516	disjunctive
 353518	disjunctive
-conjunctive/disjunctive
+conjunctive
 353521	disjunctive
 353523	conjunctive
 
 353526	disjunctive
 353529	disjunctive
-353531	conjunctive/disjunctive
+353531	conjunctive
 disjunctive
 353534	conjunctive
 disjunctive
@@ -218479,7 +218479,7 @@ disjunctive
 353541	conjunctive
 353543	conjunctive
 disjunctive
-353546	conjunctive/disjunctive
+353546	conjunctive
 353549	disjunctive
 353551	disjunctive
 353554	disjunctive
@@ -218498,11 +218498,11 @@ conjunctive
 353576	disjunctive
 conjunctive
 disjunctive
-353580	conjunctive/disjunctive
+353580	conjunctive
 disjunctive
 conjunctive
 
-353585	conjunctive/disjunctive
+353585	conjunctive
 353587	disjunctive
 353589	conjunctive
 353591	conjunctive
@@ -218510,20 +218510,20 @@ conjunctive
 disjunctive
 353596	disjunctive
 conjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-353606	conjunctive/disjunctive
+353606	conjunctive
 disjunctive
 353609	disjunctive
-conjunctive/disjunctive
+conjunctive
 353612	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 353621	disjunctive
@@ -218532,7 +218532,7 @@ disjunctive
 353627	conjunctive
 disjunctive
 disjunctive
-353631	conjunctive/disjunctive
+353631	conjunctive
 
 353634	conjunctive
 353636	conjunctive
@@ -218551,7 +218551,7 @@ conjunctive
 353662	conjunctive
 disjunctive
 353666	disjunctive
-conjunctive/disjunctive
+conjunctive
 353669	disjunctive
 353671	conjunctive
 conjunctive
@@ -218568,7 +218568,7 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -218578,7 +218578,7 @@ disjunctive
 conjunctive
 conjunctive
 353698	disjunctive
-353701	conjunctive/disjunctive
+353701	conjunctive
 disjunctive
 353704	disjunctive
 353706	conjunctive
@@ -218586,7 +218586,7 @@ disjunctive
 353709	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -218595,7 +218595,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-353723	conjunctive/disjunctive
+353723	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -218603,7 +218603,7 @@ conjunctive
 353730	disjunctive
 353732	conjunctive
 353735	disjunctive
-353737	conjunctive/disjunctive
+353737	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -218619,23 +218619,23 @@ disjunctive
 353757	conjunctive
 353760	conjunctive
 disjunctive
-353763	conjunctive/disjunctive
+353763	conjunctive
 353766	disjunctive
-353769	conjunctive/disjunctive
+353769	conjunctive
 disjunctive
 353772	disjunctive
 conjunctive
-conjunctive/disjunctive
+conjunctive
 353776	disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
+disjunctive
+conjunctive
 353780	conjunctive
 353782	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-353788	conjunctive/disjunctive
+353788	conjunctive
 353790	disjunctive
 disjunctive
 conjunctive
@@ -218650,24 +218650,24 @@ conjunctive
 353806	conjunctive
 conjunctive
 353809	disjunctive
-353811	conjunctive/disjunctive
+353811	conjunctive
 disjunctive
 353814	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-353820	conjunctive/disjunctive
+353820	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 353825	disjunctive
 conjunctive
 disjunctive
 353830	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-353834	conjunctive/disjunctive
+353834	conjunctive
 disjunctive
 353838	disjunctive
 353840	conjunctive
@@ -218682,14 +218682,14 @@ conjunctive
 353852	disjunctive
 353854	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 353860	disjunctive
 353862	conjunctive
 disjunctive
 conjunctive
 disjunctive
-353867	conjunctive/disjunctive
+353867	conjunctive
 disjunctive
 353870	disjunctive
 conjunctive
@@ -218708,8 +218708,8 @@ conjunctive
 353890	disjunctive
 353892	conjunctive
 disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 353897	disjunctive
 conjunctive
 disjunctive
@@ -218717,17 +218717,17 @@ conjunctive
 disjunctive
 353903	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 353908	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 353913	conjunctive
 disjunctive
 conjunctive
 353917	disjunctive
-353919	conjunctive/disjunctive
+353919	conjunctive
 353922	disjunctive
 conjunctive
 353925	
@@ -218736,7 +218736,7 @@ disjunctive
 conjunctive
 disjunctive
 353933	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -218749,24 +218749,24 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-353951	conjunctive/disjunctive
+353951	conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 353959	disjunctive
-353961	conjunctive/disjunctive
+353961	conjunctive
 
-353964	conjunctive/disjunctive
+353964	conjunctive
 disjunctive
 conjunctive
 disjunctive
 353969	conjunctive
 disjunctive
-353972	conjunctive/disjunctive
+353972	conjunctive
 disjunctive
-353975	conjunctive/disjunctive
+353975	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -218793,7 +218793,7 @@ conjunctive
 354005	disjunctive
 354008	disjunctive
 354011	disjunctive
-354015	conjunctive/disjunctive
+354015	conjunctive
 354018	disjunctive
 conjunctive
 354021	conjunctive
@@ -218803,8 +218803,8 @@ disjunctive
 354029	disjunctive
 354032	conjunctive
 354034	disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
 
 disjunctive
@@ -218818,7 +218818,7 @@ disjunctive
 354054	conjunctive
 disjunctive
 354057	disjunctive
-354060	conjunctive/disjunctive
+354060	conjunctive
 354062	disjunctive
 conjunctive
 disjunctive
@@ -218851,17 +218851,17 @@ conjunctive
 354106	disjunctive
 354108	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354112	disjunctive
-354114	conjunctive/disjunctive
+354114	conjunctive
 disjunctive
-354117	conjunctive/disjunctive
+354117	conjunctive
 disjunctive
 354120	disjunctive
 conjunctive
 354123	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354127	disjunctive
 disjunctive
 disjunctive
@@ -218887,7 +218887,7 @@ conjunctive
 disjunctive
 354161	disjunctive
 disjunctive
-354164	conjunctive/disjunctive
+354164	conjunctive
 354166	disjunctive
 conjunctive
 conjunctive
@@ -218895,42 +218895,42 @@ conjunctive
 354172	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354178	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-354182	conjunctive/disjunctive
+354182	conjunctive
 354184	disjunctive
 354186	disjunctive
-354188	conjunctive/disjunctive
+354188	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354192	disjunctive
 354194	disjunctive
 conjunctive
 354197	disjunctive
 354199	disjunctive
-354202	conjunctive/disjunctive
+354202	conjunctive
 disjunctive
 354205	conjunctive
 disjunctive
 354208	disjunctive
-354211	conjunctive/disjunctive
+354211	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 354217	disjunctive
 354219	conjunctive
 354221	disjunctive
-354223	conjunctive/disjunctive
+354223	conjunctive
 
 354227	
 conjunctive
 disjunctive
 354231	disjunctive
 354233	disjunctive
-conjunctive/disjunctive
+conjunctive
 354236	disjunctive
 conjunctive
 disjunctive
@@ -218943,7 +218943,7 @@ conjunctive
 conjunctive
 disjunctive
 354253	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354257	conjunctive
 conjunctive
@@ -218962,22 +218962,22 @@ conjunctive
 conjunctive
 disjunctive
 354280	conjunctive
-unknown
-conjunctive/disjunctive
+disjunctive
+conjunctive
 disjunctive
 354285	disjunctive
 conjunctive
 disjunctive
-354289	conjunctive/disjunctive
+354289	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354294	disjunctive
 354296	conjunctive
 disjunctive
 conjunctive
 354300	disjunctive
-354302	conjunctive/disjunctive
+354302	conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -218987,62 +218987,62 @@ disjunctive
 354314	disjunctive
 354316	conjunctive
 354318	disjunctive
-354320	conjunctive/disjunctive
+354320	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354324	disjunctive
 conjunctive
 disjunctive
 354328	conjunctive
 disjunctive
-354331	conjunctive/disjunctive
-unknown
-354334	conjunctive/disjunctive
+354331	conjunctive
+disjunctive
+354334	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
-354340	conjunctive/disjunctive
+354340	conjunctive
 disjunctive
 disjunctive
 conjunctive
 disjunctive
 354346	disjunctive
-conjunctive/disjunctive
-disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-354354	conjunctive/disjunctive
+conjunctive
 disjunctive
-354357	conjunctive/disjunctive
+354354	conjunctive
+disjunctive
+354357	conjunctive
 disjunctive
 354360	disjunctive
 conjunctive
 354363	disjunctive
 354365	disjunctive
-conjunctive/disjunctive
+conjunctive
 354368	disjunctive
 conjunctive
 354371	disjunctive
 354373	disjunctive
-354375	conjunctive/disjunctive
+354375	conjunctive
 disjunctive
 354379	disjunctive
 disjunctive
 354382	
 disjunctive
 354385	disjunctive
-354387	conjunctive/disjunctive
+354387	conjunctive
 disjunctive
 354390	disjunctive
 354392	conjunctive
 disjunctive
-conjunctive/disjunctive
-conjunctive/disjunctive
+conjunctive
+conjunctive
 disjunctive
-354398	conjunctive/disjunctive
+354398	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -219056,7 +219056,7 @@ conjunctive
 conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354417	disjunctive
 354419	conjunctive
@@ -219071,16 +219071,16 @@ disjunctive
 354432	conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 354440	conjunctive
 disjunctive
-354443	conjunctive/disjunctive
+354443	conjunctive
 
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354448	disjunctive
 354450	conjunctive
 conjunctive
@@ -219108,7 +219108,7 @@ conjunctive
 354487	
 conjunctive
 disjunctive
-354491	conjunctive/disjunctive
+354491	conjunctive
 354493	disjunctive
 conjunctive
 disjunctive
@@ -219119,20 +219119,20 @@ conjunctive
 354506	disjunctive
 354508	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354514	disjunctive
 354517	disjunctive
 354519	conjunctive
 354521	disjunctive
 354524	disjunctive
-354526	conjunctive/disjunctive
+354526	conjunctive
 354528	disjunctive
 
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354537	disjunctive
 conjunctive
@@ -219146,11 +219146,11 @@ conjunctive
 disjunctive
 354554	disjunctive
 354556	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354561	disjunctive
-354563	conjunctive/disjunctive
+354563	conjunctive
 disjunctive
 disjunctive
 354567	disjunctive
@@ -219165,14 +219165,14 @@ conjunctive
 354582	conjunctive
 disjunctive
 354585	disjunctive
-354587	conjunctive/disjunctive
+354587	conjunctive
 disjunctive
 354590	conjunctive
 disjunctive
 conjunctive
 disjunctive
-354596	conjunctive/disjunctive
-conjunctive/disjunctive
+354596	conjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -219180,7 +219180,7 @@ conjunctive
 disjunctive
 354604	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354609	conjunctive
 disjunctive
@@ -219188,21 +219188,21 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-354616	conjunctive/disjunctive
+354616	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 
 354621	disjunctive
 354623	conjunctive
 disjunctive
-354626	conjunctive/disjunctive
+354626	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354631	disjunctive
 conjunctive
 354634	disjunctive
-354636	conjunctive/disjunctive
+354636	conjunctive
 disjunctive
 354639	conjunctive
 disjunctive
@@ -219212,7 +219212,7 @@ conjunctive
 disjunctive
 354646	
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 conjunctive
@@ -219229,9 +219229,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-354671	conjunctive/disjunctive
+354671	conjunctive
 disjunctive
-354674	conjunctive/disjunctive
+354674	conjunctive
 354676	disjunctive
 354678	disjunctive
 354680	disjunctive
@@ -219246,9 +219246,9 @@ disjunctive
 disjunctive
 conjunctive
 disjunctive
-354697	conjunctive/disjunctive
+354697	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -219261,77 +219261,77 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-354715	conjunctive/disjunctive
+354715	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354719	disjunctive
 354721	disjunctive
 354723	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 354729	disjunctive
 disjunctive
 conjunctive
 disjunctive
-354734	conjunctive/disjunctive
+354734	conjunctive
 disjunctive
 
 disjunctive
-conjunctive/disjunctive
+conjunctive
 
 disjunctive
 conjunctive
 354744	disjunctive
-354746	conjunctive/disjunctive
+354746	conjunctive
 disjunctive
 354750	disjunctive
 conjunctive
 disjunctive
 disjunctive
-354755	conjunctive/disjunctive
+354755	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354759	disjunctive
 conjunctive
 disjunctive
 354763	disjunctive
-354765	conjunctive/disjunctive
+354765	conjunctive
 disjunctive
 354768	disjunctive
 conjunctive
 disjunctive
 354772	disjunctive
-354774	conjunctive/disjunctive
+354774	conjunctive
 354776	disjunctive
 conjunctive
 disjunctive
-354780	conjunctive/disjunctive
+354780	conjunctive
 354782	disjunctive
 354786	disjunctive
 354788	disjunctive
-conjunctive/disjunctive
+conjunctive
 354792	disjunctive
 disjunctive
 conjunctive
 disjunctive
-354798	unknown
-354800	conjunctive/disjunctive
+354798	disjunctive
+354800	conjunctive
 disjunctive
 conjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-354808	conjunctive/disjunctive
+354808	conjunctive
 disjunctive
 disjunctive
 conjunctive
 354813	disjunctive
-354815	conjunctive/disjunctive
+354815	conjunctive
 354817	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354821	conjunctive
 disjunctive
@@ -219345,7 +219345,7 @@ conjunctive
 354834	disjunctive
 conjunctive
 disjunctive
-354838	conjunctive/disjunctive
+354838	conjunctive
 354840	disjunctive
 conjunctive
 disjunctive
@@ -219353,7 +219353,7 @@ conjunctive
 354846	disjunctive
 conjunctive
 disjunctive
-354850	conjunctive/disjunctive
+354850	conjunctive
 disjunctive
 354853	disjunctive
 354855	conjunctive
@@ -219361,12 +219361,12 @@ disjunctive
 conjunctive
 disjunctive
 354861	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 disjunctive
 354867	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354871	conjunctive
 disjunctive
@@ -219374,15 +219374,15 @@ disjunctive
 disjunctive
 conjunctive
 354878	disjunctive
-354881	conjunctive/disjunctive
+354881	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354886	conjunctive
 disjunctive
 conjunctive
 disjunctive
-354891	conjunctive/disjunctive
+354891	conjunctive
 disjunctive
 354894	disjunctive
 disjunctive
@@ -219396,34 +219396,34 @@ disjunctive
 conjunctive
 354907	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 354911	disjunctive
 354913	conjunctive
 conjunctive
 conjunctive
 disjunctive
 354918	disjunctive
-conjunctive/disjunctive
+conjunctive
 354921	disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-354928	conjunctive/disjunctive
+354928	conjunctive
 disjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 354935	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354939	disjunctive
 disjunctive
 354942	conjunctive
 disjunctive
-354945	conjunctive/disjunctive
+354945	conjunctive
 354947	disjunctive
 354949	conjunctive
 disjunctive
@@ -219431,18 +219431,18 @@ conjunctive
 disjunctive
 354954	disjunctive
 354956	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 354960	disjunctive
 conjunctive
 disjunctive
 354964	disjunctive
-354966	conjunctive/disjunctive
+354966	conjunctive
 disjunctive
 disjunctive
 conjunctive
 354972	disjunctive
-354974	conjunctive/disjunctive
+354974	conjunctive
 disjunctive
 conjunctive
 354978	conjunctive
@@ -219456,21 +219456,21 @@ conjunctive
 354988	conjunctive
 disjunctive
 disjunctive
-354992	conjunctive/disjunctive
+354992	conjunctive
 disjunctive
 conjunctive
 354996	disjunctive
 conjunctive
 disjunctive
-355000	conjunctive/disjunctive
+355000	conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 355005	conjunctive
 disjunctive
 355008	disjunctive
 355010	disjunctive
-355012	conjunctive/disjunctive
+355012	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -219502,7 +219502,7 @@ conjunctive
 355053	conjunctive
 disjunctive
 355056	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 355060	disjunctive
 conjunctive
@@ -219514,13 +219514,13 @@ conjunctive
 disjunctive
 disjunctive
 355073	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 conjunctive
 355078	disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 355084	conjunctive
 disjunctive
@@ -219544,7 +219544,7 @@ disjunctive
 conjunctive
 355112	
 disjunctive
-conjunctive/disjunctive
+conjunctive
 355116	disjunctive
 355118	disjunctive
 conjunctive
@@ -219559,7 +219559,7 @@ conjunctive
 355135	conjunctive
 conjunctive
 disjunctive
-355140	conjunctive/disjunctive
+355140	conjunctive
 disjunctive
 355143	conjunctive
 conjunctive
@@ -219576,18 +219576,18 @@ conjunctive
 disjunctive
 conjunctive
 355166	disjunctive
-355168	conjunctive/disjunctive
+355168	conjunctive
 355172	disjunctive
 conjunctive
 disjunctive
 355176	conjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-355183	conjunctive/disjunctive
+355183	conjunctive
 disjunctive
-355186	conjunctive/disjunctive
+355186	conjunctive
 355188	disjunctive
 355190	conjunctive
 conjunctive
@@ -219595,7 +219595,7 @@ conjunctive
 disjunctive
 conjunctive
 355197	disjunctive
-355199	conjunctive/disjunctive
+355199	conjunctive
 disjunctive
 355202	conjunctive
 disjunctive
@@ -219609,13 +219609,13 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 355222	disjunctive
 355224	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-355229	conjunctive/disjunctive
+355229	conjunctive
 355231	disjunctive
 355233	disjunctive
 conjunctive
@@ -219623,7 +219623,7 @@ conjunctive
 355237	conjunctive
 disjunctive
 355240	
-355242	conjunctive/disjunctive
+355242	conjunctive
 355244	disjunctive
 disjunctive
 conjunctive
@@ -219653,34 +219653,34 @@ conjunctive
 355281	disjunctive
 355283	
 355285	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 conjunctive
 disjunctive
 conjunctive
 disjunctive
 disjunctive
-355296	conjunctive/disjunctive
+355296	conjunctive
 disjunctive
 disjunctive
 355300	conjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 355304	conjunctive
 disjunctive
 355307	disjunctive
-355309	conjunctive/disjunctive
+355309	conjunctive
 disjunctive
 disjunctive
 conjunctive
 355314	disjunctive
 355316	conjunctive
-355319	conjunctive/disjunctive
-conjunctive/disjunctive
+355319	conjunctive
+conjunctive
 355322	disjunctive
-355324	conjunctive/disjunctive
+355324	conjunctive
 355326	
 conjunctive
 disjunctive
@@ -219692,32 +219692,32 @@ disjunctive
 conjunctive
 355337	disjunctive
 355340	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-disjunctive/conjunctive
-conjunctive/disjunctive
-355346	conjunctive/disjunctive
+disjunctive
+conjunctive
+355346	conjunctive
 355349	disjunctive
 355351	conjunctive
 conjunctive
 355354	disjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 disjunctive
 355361	conjunctive
 disjunctive
 355364	disjunctive
-355366	conjunctive/disjunctive
+355366	conjunctive
 
 conjunctive
 disjunctive
 conjunctive
 disjunctive
-355373	conjunctive/disjunctive
+355373	conjunctive
 disjunctive
-355376	conjunctive/disjunctive
+355376	conjunctive
 disjunctive
 355379	disjunctive
 conjunctive
@@ -219730,13 +219730,13 @@ disjunctive
 conjunctive
 disjunctive
 355392	disjunctive
-355394	conjunctive/disjunctive
+355394	conjunctive
 
 conjunctive
 disjunctive
 355399	disjunctive
 355401	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 355405	disjunctive
 conjunctive
@@ -219767,7 +219767,7 @@ disjunctive
 conjunctive
 disjunctive
 355448	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 disjunctive
 conjunctive
@@ -219778,9 +219778,9 @@ conjunctive
 conjunctive
 355465	disjunctive
 355467	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-355471	conjunctive/disjunctive
+355471	conjunctive
 355473	disjunctive
 355476	disjunctive
 conjunctive
@@ -219793,7 +219793,7 @@ disjunctive
 355487	disjunctive
 conjunctive
 disjunctive
-355491	conjunctive/disjunctive
+355491	conjunctive
 disjunctive
 conjunctive
 
@@ -219801,17 +219801,17 @@ disjunctive
 conjunctive
 disjunctive
 disjunctive
-355500	conjunctive/disjunctive
+355500	conjunctive
 disjunctive
 355503	disjunctive
 355507	disjunctive
-355509	unknown
+355509	disjunctive
 355511	disjunctive
 355513	conjunctive
 355516	conjunctive
 disjunctive
 355519	disjunctive
-355521	conjunctive/disjunctive
+355521	conjunctive
 disjunctive
 conjunctive
 355526	disjunctive
@@ -219825,12 +219825,12 @@ disjunctive
 355540	disjunctive
 355542	conjunctive
 disjunctive
-355545	unknown
+355545	disjunctive
 conjunctive
 355549	disjunctive
 355551	conjunctive
 355553	disjunctive
-355555	unknown
+355555	disjunctive
 355557	conjunctive
 disjunctive
 disjunctive
@@ -219839,15 +219839,15 @@ disjunctive
 355564	disjunctive
 conjunctive
 355567	disjunctive
-355569	conjunctive/disjunctive
+355569	conjunctive
 355571	disjunctive
 355573	disjunctive
-355575	conjunctive/disjunctive
+355575	conjunctive
 disjunctive
-355578	conjunctive/disjunctive
+355578	conjunctive
 355580	disjunctive
 355582	disjunctive
-conjunctive/disjunctive
+conjunctive
 355585	
 355587	disjunctive
 conjunctive
@@ -219878,7 +219878,7 @@ disjunctive
 355622	conjunctive
 disjunctive
 355625	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
 355629	disjunctive
 355631	conjunctive
@@ -219891,7 +219891,7 @@ conjunctive
 conjunctive
 disjunctive
 355645	disjunctive
-355647	conjunctive/disjunctive
+355647	conjunctive
 disjunctive
 
 disjunctive
@@ -219916,16 +219916,16 @@ disjunctive
 conjunctive
 355681	disjunctive
 355683	disjunctive
-conjunctive/disjunctive
+conjunctive
 355687	disjunctive
 355689	conjunctive
 355691	conjunctive
 355693	disjunctive
-conjunctive/disjunctive
+conjunctive
 355696	disjunctive
-conjunctive/disjunctive
+conjunctive
 disjunctive
-conjunctive/disjunctive
+conjunctive
 355701	disjunctive
 conjunctive
 355704	conjunctive
@@ -219939,9 +219939,9 @@ conjunctive
 disjunctive
 355719	disjunctive
 355721	disjunctive
-conjunctive/disjunctive
+conjunctive
 355725	disjunctive
-355728	conjunctive/disjunctive
+355728	conjunctive
 disjunctive
 355731	disjunctive
 355733	conjunctive
@@ -219954,7 +219954,7 @@ conjunctive
 disjunctive
 conjunctive
 disjunctive
-355748	conjunctive/disjunctive
+355748	conjunctive
 disjunctive
 conjunctive
 disjunctive
@@ -219968,13 +219968,13 @@ disjunctive
 conjunctive
 disjunctive
 355764	disjunctive
-conjunctive/disjunctive
+conjunctive
 355767	disjunctive
 conjunctive
 355770	disjunctive
 355772	conjunctive
 355774	disjunctive
-conjunctive/disjunctive
+conjunctive
 355777	disjunctive
 conjunctive
 disjunctive
@@ -227777,7 +227777,7 @@ disjunctive
 disjunctive
 368281	conjunctive
 disjunctive
-368284	unknown
+368284	conjunctive
 conjunctive
 disjunctive
 368288	conjunctive
@@ -256338,7 +256338,7 @@ conjunctive
 415707	conjunctive
 415709	disjunctive
 conjunctive
-415712	unknown
+415712	disjunctive
 415714	disjunctive
 415716	disjunctive
 415719	conjunctive

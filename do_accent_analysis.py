@@ -22,6 +22,7 @@ accent_coverage_counter = {
 	"missed": 0,
 	"decalogue": 0,
 	"gen3522": 0,
+	"2kings1713": 0,
 	"hit": 0,
 }
 failures = []
@@ -38,6 +39,9 @@ def whichMatch(word, ref_tuple):
 			accent_repr = "double tradition: " + ", ".join(list(map(lambda x: normalisedUnicodeNameFromCharacter(x), accent_matches)))
 		elif (ref_tuple[0] == "Exodus" and ref_tuple[1] == 20) or (ref_tuple[0] == "Deuteronomy" and ref_tuple[1] == 5):
 			accent_coverage_counter["decalogue"] += 1
+			accent_repr = "double tradition: " + ", ".join(list(map(lambda x: normalisedUnicodeNameFromCharacter(x), accent_matches)))
+		elif ref_tuple == ("2_Kings", 17, 13):
+			accent_coverage_counter["2kings1713"] += 1
 			accent_repr = "double tradition: " + ", ".join(list(map(lambda x: normalisedUnicodeNameFromCharacter(x), accent_matches)))
 		else:
 			failures.append(str(ref_tuple) + " " + accent_repr)
@@ -124,6 +128,8 @@ print(accent_coverage_counter, "\n")
 #{'missed': 224, 'decalogue': 104, 'gen3522': 3, 'hit': 268579}
 #{'missed': 179, 'decalogue': 100, 'gen3522': 3, 'hit': 265469}
 #{'missed': 108, 'decalogue': 100, 'gen3522': 3, 'hit': 257868}
+# after Troidl's update
+#{'missed':   9, 'decalogue': 100, 'gen3522': 3, 'hit': 257967}
 
 feature_metadata = {
 	"accent":         {"valueType": "str", "author": "James Cuénod"},
